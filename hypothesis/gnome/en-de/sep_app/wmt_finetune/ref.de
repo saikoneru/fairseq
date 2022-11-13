@@ -1,0 +1,4283 @@
+ Fotomodus
+ Video
+ Serienaufnahmemodus
+ Zur vorherigen Seite der Effekte wechseln
+ Effekte
+ Zur nächsten Seite der Effekte wechseln
+ Einstellungen
+ Hilfe
+ Fotoauflösung
+ Helligkeit
+ Sättigung
+ Bild
+ Verschluss
+ Verzögerung zwischen den Fotos (Sekunden)
+ Vollbild
+ Info zu Cheese
+ Speichern unter …
+ In den Papierkorb verschieben
+ Cheese
+ Ein Programm, um Bilder und Videos mit einer Webcam aufzunehmen und lustige graphische Effekte hinzuzufügen
+ Webcam-Automat
+ Foto;Video;Webcam;Kamera;Selfie;
+ Die Dauer des Countdowns vor der Aufnahme eines Fotos in Sekunden
+ Blitz vor der Aufnahme auslösen
+ Auf »wahr« setzen, um bei der Aufnahme eines Bildes einen Blitz auszulösen
+ Zeichenkette zur Bezeichnung des Kameragerätes
+ Zuletzt ausgewählter Effekt
+ Foto-Breite
+ Foto-Höhe
+ Die Höhe des von der Kamera aufgenommenen Bildes in Pixel
+ Die Breite des von der Kamera aufgenommenen Videos in Pixel
+ Video-Höhe
+ Passt den Kontrast des von der Kamera kommenden Bildes an
+ Passt den Farbton des von der Kamera kommenden Bildes an
+ Video-Pfad
+ Verzögerung zwischen den Fotos im Serienaufnahmemodus
+ Übersicht
+ In den Papierkorb verschieben
+ Verschlussgeräusch
+ Funktionen des Geräts werden nicht unterstützt
+ Im breiten Modus starten
+ Gerät welches als Kamera benutzt werden soll
+ Im Vollbildmodus starten
+[0] Wenn Sie ein Element löschen, geht es unwiderruflich verloren.msgstr[1] Wenn Sie Elemente löschen, gehen sie unwiderruflich verloren.
+ Alle überspringen
+ Speichern
+ Mehrere Fotos aufnehmen
+ Kein Effekt gefunden
+ Ein Fehler ist beim Abspielen des Webcam-Videosignals aufgetreten
+ Mehrere Fotos mit der Webcam aufnehmen
+ Ein Video aufnehmen
+ Mehrere Fotos aufnehmen
+ X-Koordinate
+ Y-Koordinate
+ Y-Koordinate des Akteurs
+ Breite
+ Größe
+ Die Größe des Akteurs
+ Fixiertes X
+ Fixiertes Y
+ Fixierte Position gesetzt
+ Anfrage nach erzwungener minimale Breite des Akteurs
+ Natürliche Breite
+ Anfrage nach natürlicher Breite des Akteurs
+ Minimale Breite gesetzt
+ Legt fest, ob die Eigenschaft »min-width« verwendet werden soll
+ Legt fest, ob die Eigenschaft »min-height« verwendet werden soll
+ Natürliche Breite gesetzt
+ Legt fest, ob die Eigenschaft »natural-height« verwendet werden soll
+ Zuordnung
+ Die Anforderung des Akteurs
+ Anforderungsmodus
+ Der Anforderungsmodus des Akteurs
+ Die Position des Akteurs auf der Z-Achse
+ Legt fest, wann der Akteur in ein einziges Bild abgeflacht werden soll
+ Sichtbar
+ Legt fest, ob der Akteur dargestellt wird
+ Realisiert
+ Der sichtbare Bereich dieses Akteurs
+ Name
+ Name des Akteurs
+ Drehpunkt
+ Z-Drehpunkt
+ Z-Komponente des Drehpunktes
+ Skalierungsfaktor für die X-Achse
+ Y-Skalierung
+ Z-Skalierung
+ Skalierungsanziehungskraft
+ Skalierungszentrum
+ Rotationswinkel X
+ Der Rotationswinkel auf der Y-Achse
+ Rotationswinkel Z
+ Der Rotationswinkel auf der Z-Achse
+ Das Rotationszentrum auf der X-Achse
+ Rotationszentrum Y
+ Das Rotationszentrum auf der Z-Achse
+ Rotationsmittelpunkt um die Z-Achse
+ Anker X
+ Der Ankerpunkt als ClutterGravity
+ Transformieren
+ Transformierungsmatrix
+ Transformation gesetzt
+ Gibt an, ob die transform-Eigenschaft gesetzt ist
+ Unterelement-Transformationsmatrix
+ Unterelement-Transformation gesetzt
+ Anzeige bei Überordnung
+ Legt fest, ob der Akteur bei Überordnung angezeigt wird
+ Besitzt Zeiger
+ Aktionen
+ Fügt dem Akteur eine Aktion hinzu
+ Effekt
+ Einen Effekt hinzufügen, der auf den Akteur angewendet werden soll
+ Y-Ausdehnung
+ Ausrichtung des Akteurs auf der X-Achse innerhalb dessen Zuordnung
+ Ausrichtung des Akteurs auf der Y-Achse innerhalb dessen Zuordnung
+ Zusätzlicher Abstand oben
+ Abstand Links
+ Abstand Rechts
+ Hintergrund-Farbpalette
+ Hintergrundfarbe
+ Das letzte Unterelement des Akteurs
+ Inhalt
+ Das Vertreter-Objekt zum Darstellen des Inhalts des Akteurs
+ Ausrichtung des Inhalts der Akteurs
+ Die Begrenzung des Inhalts des Akteurs
+ Das für das Verringern der Inhaltsgröße zu verwendende Filter
+ Vergrößerungsfilter
+ Das für das Vergrößern der Inhaltsgröße zu verwendende Filter
+ Akteur
+ Der an den Meta angehängte Akteur
+ Legt fest, ob der Meta aktiviert wird
+ Quelle
+ Ausrichtungsachse
+ Die Achse, an der die Position ausgerichtet werden soll
+ Der Ausrichtungsfaktor (zwischen 0.0 und 1.0)
+ Initialisierung des Clutter-Backends nicht möglich: Keine Treiber verfügbar.
+ Die Quelle der Bindung
+ Die zu bindende Koordinate
+ Versatz
+ Der eindeutige Name des Bindungs-Pools
+ Horizontale Ausrichtung
+ Horizontal Ausrichtung des Akteurs innerhalb des Layout-Managers
+ Vertikale Ausrichtung des Akteurs innerhalb des Layout-Managers
+ Voreingestellte vertikale Ausrichtung des Akteurs innerhalb des Layout-Managers
+ Horizontale Füllung
+ Vertikale Füllung
+ Legt fest, ob das Unterelement bevorzugt behandelt werden soll, wenn der Container freien Platz auf der vertikalen Achse zuweist
+ Horizontal Ausrichtung des Akteurs innerhalb der Zelle
+ Vertikale Ausrichtung des Akteurs innerhalb der Zelle
+ Vertikal
+ Die Ausrichtung des Layouts
+ Packen am Beginn
+ Gibt an, ob Objekte am Beginn der Box gepackt werden sollen
+ Abstand
+ Legt fest, ob Layout-Änderungen animiert werden sollen
+ Easing-Modus
+ Die anzuwendende Helligkeitsänderung
+ Skalierungsfaktor festgelegt
+ Skalierungsfaktor
+ Der Skalierungsfaktor für die Zeichenfläche
+ Der durch diese Daten eingefasste Akteur
+ Gedrückt
+ Anfasspunkt
+ Legt fest, ob das klickbare Objekt einen Anfasser haben soll
+ Dauer des langen Drucks
+ Die minimale Dauer eines langen Drucks zur Erkennung der Geste
+ Schwellwert für langen Druck
+ Der maximale Schwellwert, bevor ein langer Druck abgebrochen wird
+ Vertikale Kacheln
+ Hintergrundmaterial
+ Der Entsättigungsfaktor
+ Backend
+ Schwelle für vertikales Ziehen
+ Ziehachse
+ Ziehbereich festgelegt
+ Gibt an, ob der Ziehbereich festgelegt worden ist
+ Legt fest, ob jedes Objekt die gleiche Zuweisung erhalten soll
+ Spaltenabstand
+ Zeilenabstand
+ Minimale Breite der Spalte
+ Maximale Breite der Spalte
+ Die maximale Breite jeder Spalte
+ Minimale Zeilenhöhe jeder Reihe
+ Maximale Zeilenhöhe
+ Anzahl der Berührungspunkte
+ Kante des Schwellwert-Auslösers
+ Vertikaler Abstand des Schwellwert-Auslösers
+ Der von der Aktion verwendete vertikale Abstand des Auslösers
+ Oberer Anhang
+ Die Zeilennummer, an welche die obere Seite eines Unterelement-Widgets angehängt wird
+ Spaltenabstand
+ Falls dies WAHR ist, haben die Reihen alle dieselbe Höhe
+ Gleichmäßige Spalte
+ Falls dies WAHR ist, haben alle Spalten dieselbe Höhe
+ Kennung
+ Gerätetyp
+ Der Gerätetyp
+ Gerätemodus
+ Der Modus des Geräts
+ Legt fest, ob das Gerät aktiviert ist
+ Anzahl der Achsen
+ Die Anzahl der Achsen des Geräts
+ Hersteller-ID
+ Produkt-ID
+ Initialer Wert
+ Initialer Wert des Intervalls
+ Finaler Wert
+ Finaler Wert des Intervalls
+ Manager
+ Der Manager, der diese Daten erzeugt hat
+ default:LTR
+ Vorgabebildfrequenz
+ Alle Warnungen fatal machen
+ Richtung des Textes
+ »Unscharfes« Herausgreifen benutzen
+ Clutter-Optionen anzeigen
+ Legt fest, ob die Ausgabe interpolierter Ereignisse aktiviert ist.
+ Abbremsung
+ Der Versatz entlang des Pfades, zwischen -1.0 und 2.0
+ Dateiname gesetzt
+ Gibt an, ob die :filename-Eigenschaft gesetzt ist
+ Der Pfad zur aktuell eingelesenen Datei
+ Übersetzung
+ Die zur Übersetzung verwendete Domäne
+ Bildlaufmodus
+ Die zur Erkennung eines Mehrfachklicks nötige Zeit zwischen zwei Klicks
+ Doppelklick-Intervall
+ Ziehschwellwert
+ Schriftname
+ Gibt an, ob Hinting verwendet werden soll (1 aktiviert, 0 deaktiviert und -1 verwendet die Vorgabe)
+ Hinting-Stil der Schrift
+ Der Stil des Hintings (hintnone, hintslight, hintmedium, hintfull)
+ Subpixel-Anordnung der Schrift
+ Die minimale Dauer zur Erkennung eines langen Drucks für eine Geste
+ Der Skalierungsfaktor, der auf das Fenster angewendet werden soll
+ Fontconfig-Zeitstempel
+ Zeitstempel der aktuellen Fontconfig-Konfiguration
+ Passwort-Hinweis-Zeit
+ So lange soll das letzte eingegebene Zeichen in versteckten Einträgen angezeigt werden
+ Shader-Typ
+ Der verwendete Shader-Typ
+ Die Quelle der Beschränkung
+ Von Kante
+ Zu Kante
+ Der Versatz in Pixel, auf den die Einschränkung angewendet werden soll
+ Legt fest, ob die Hauptszene ein Vollbild ist
+ Legt fest, ob der Mauszeiger in der Hauptszene sichtbar sein soll
+ Farbe
+ Projektionsparameter der Perspektive
+ Titel
+ Nebel verwenden
+ Legt fest, ob Tiefenanordnung aktiviert werden soll
+ Alpha verwenden
+ Gibt an, ob die Szene ihren Inhalt leeren soll
+ Fokus annehmen
+ Legt fest, ob die Szene bei Anzeige Fokus annehmen soll
+ Text
+ Der Inhalt des Puffers
+ Textlänge
+ Maximale Länge
+ Maximale Zeichen-Anzahl für diesen Eintrag. Null, wenn es kein Maximum gibt
+ Puffer
+ Der Text-Puffer
+ Die Schriftart des Texts
+ Die Farbe des Texts
+ Bearbeitbar
+ Legt fest, ob der Text bearbeitet werden kann
+ Markierbar
+ Aktivierbar
+ Legt fest, ob die Eingabetaste ein Senden des aktiven Signals auslöst
+ Zeigerfarbe
+ Legt fest, ob die Zeigerfarbe festgelegt ist
+ Zeigerposition
+ Die Zeigerposition
+ Auswahlgrenze
+ Auswahlfarbe
+ Auswahlfarbe festgelegt
+ Legt fest, ob die Auswahlfarbe festgelegt ist
+ Syntax-Hervorhebung verwenden
+ Legt fest, ob der Text Pango-Markup enthält
+ Zeilenumbruch
+ Falls gesetzt, Zeilen umbrechen, wenn der Text zu lang wird
+ Legt fest, wie Zeilen umgebrochen werden
+ Auslassungen
+ Der bevorzugte Ort für Auslassungspunkte in der Zeichenkette
+ Zeilenausrichtung
+ Gibt an, ob der Text ausgerichtet werden soll
+ Password-Zeichen
+ Maximale Länge
+ Maximale Textlänge innerhalb des Akteurs
+ Einzeilen-Modus
+ Legt fest, ob der Text in einer Zeile dargestellt werden soll
+ Auswahltextfarbe festgelegt
+ Legt fest, ob die Auswahltextfarbe festgelegt ist
+ Verzögerung vor dem Start
+ Dauer
+ Dauer der Zeitlinie in Millisekunden
+ Richtung
+ Legt fest, ob die Richtung beim Erreichen des Endes automatisch umgekehrt werden soll
+ Fortschrittsmodus
+ Legt fest, wie die Zeitlinie den Fortschritt berechnen soll
+ Intervall
+ Die Überblendung bei Abschluss abkoppeln
+ Beschränkt den Zoom in Richtung einer Achse
+ Zeitleiste
+ Alpha-Wert, wie vom Alpha berechnet
+ Fortschrittsmodus
+ Objekt
+ Objekt, für welches die Animation gilt
+ Dauer der Animation in Millisekunden
+ Legt fest, ob die Animation endlos wiederholt wird
+ Die von der Animation benutzte Zeitleiste
+ Alpha
+ Der von der Animation verwendete Alpha-Wert
+ Die Dauer der Animation
+ Die Zeitleiste der Animation
+ Alpha-Objekt zum Umsetzen des Verhaltens
+ Starttiefe
+ Anzuwendende finale Tiefe
+ Startwinkel
+ Finaler Winkel
+ Neigungswinkel der x-Achse
+ Neigungswinkel der y-Achse
+ Neigungswinkel der z-Achse
+ Neigung der Ellipse an der z-Achse
+ Mittelpunkt der Ellipse
+ Rotationsrichtung
+ Start-Deckungskraft
+ Finaler Deckungskraftgrad
+ Das ClutterPath-Objekt, das den Pfad darstellt, entlang dessen animiert werden soll
+ Achse
+ Mittelpunkt-Y
+ Initiale Skalierung auf der X-Achse
+ Finale Skalierung auf der X-Achse
+ Startskalierung in Y-Richtung
+ Die Hintergrundfarbe der Box
+ Die Breite der Cairo-Zeichenfläche
+ Zeichenflächenhöhe
+ Die Höhe der Cairo-Zeichenfläche
+ ADRESSE
+ Legt fest, ob der Akteur abspielt
+ Aktueller Fortschritt der Wiedergabe
+ Schriftname für Untertitel
+ Lautstärke
+ Gibt an, ob der aktuelle Datenstrom durchsuchbar ist
+ Die Dauer des Datenstroms in Sekunden
+ Die Farbe des Rechtecks
+ Rahmenfarbe
+ Rahmenbreite
+ Hat Rand
+ Fragment-Quelle
+ Quelle des Fragment-Shaders
+ Compiliert
+ Legt fest, ob der Shader kompiliert und gelinkt ist
+ Legt fest, ob der Shader aktiviert ist
+ Vertex-Shader
+ Fragment-Shader
+ Voreingestellte Überblenddauer
+ Spaltennummer
+ Die Zeile, in der sich das Widget befindet
+ Die Anzahl der Spalten, die das Widget belegen soll
+ Zeilenbelegung
+ Horizontal ausdehnen
+ Zusätzlichen Platz in der horizontalen Achse für das Unterelement zuweisen
+ Zusätzlichen Platz in der vertikalen Achse für das Unterelement zuweisen
+ Abstand zwischen Spalten
+ Abstand zwischen Zeilen
+ Horizontal wiederholen
+ Inhalt wird horizontal wiederholt, anstatt zu skalieren
+ Vertikal wiederholen
+ Inhalt wird vertikal wiederholt, anstatt zu skalieren
+ Das zu verwendende Cogl-Pixelformat
+ Cogl-Textur
+ Das unterliegende Handle der Cogl-Textur, das zum Zeichnen dieses Akteurs verwendet wird
+ Cogl-Material
+ Daten asynchron laden
+ Akteur mit Alphakanal bei der Auswahl formen
+ Bilddaten konnten nicht geladen werden
+ Die zugrunde liegende Wayland-Fläche
+ Oberflächenhöhe
+ Zu benutzende X-Anzeige
+ X-Aufrufe synchronisieren
+ XInput-Unterstützung ausschalten
+ Breite der Pixmap
+ Die Breite der an diese Textur gebundenen Pixmap
+ Höhe der Pixmap
+ Die Höhe der an diese Textur gebundenen Pixmap
+ Tiefe der Pixmap
+ Das X11-Fenster zur Bindung
+ Automatische Fensterumleitung
+ Fenster abgebildet
+ Legt fest, ob das Fenster abgebildet wird
+ Zerstört
+ X des Fensters
+ X-Position des Fensters auf dem Bildschirm laut X11
+ Y des Fensters
+ Sonderzeichen in Dokumente einfügen
+ Schrift;Schriftart;Unicode;Zeichen;Zeichentabelle;
+ accessories-character-map
+ GPL-3.0+
+ BenutzerDokumentation
+ Hanja in der Schulausbildung
+ Hanja für Personennamen
+ Schriftvariante von
+ Darstellungsform am Wortanfang von
+ Darstellungsform in der Wortmitte von
+ Isolierte Darstellungsform von
+ Hochgestellte Form von
+ Tiefgestellte Form von
+ Schmales Kompatibilitätszeichen zu
+ Quadratische CJK-Variante von
+ Darstellungsform für gemeine Brüche von
+ Nicht spezifiziertes Kompatibilitätszeichen zu
+ Kompatibilitätszerlegung:
+ Klassische Zerlegung:
+ In Unicode enthalten seit:
+ Unicode-Kategorie:
+ UTF-16:
+ Dezimale XML-Entität:
+ Anmerkungen und Verweise
+ Aliasnamen:
+ Siehe auch:
+ Kantonesische Aussprache:
+ Japanische On-Aussprache:
+ Japanische Kun-Aussprache:
+ Tang-Aussprache:
+ Zeichentabelle
+ Zeichendetails
+ Zeichen gefunden.
+ Nach Schriftsystem
+ Nach Unicode-Block
+ Nur Glyphen aus dieser Schrift zeigen
+ Suchen
+ Hilfe
+ Fenster schließen
+ Datei
+ Ansicht
+ Vorwärts suchen
+ Rückwärts suchen
+ Gehe zu
+ Vorheriges Zeichen
+ Unbekannt
+ Vorwärts
+ Suchbegriff:
+ Nur vollständige Wörter berücksichtigen
+ In Zeichendetails suchen
+ <Höherer Ersatzkode, keine private Nutzung>
+ <Ebene 16, private Nutzung>
+ Sonstige, Formatierung
+ Sonstige, private Nutzung
+ Buchstabe, Sonstige
+ Großbuchstabe am Wortanfang
+ Großbuchstabe
+ Zusatzzeichen, umschließend
+ Zusatzzeichen, kombinierend
+ Zahl, Dezimalziffer
+ Interpunktion, verbindend
+ Interpunktion, Bindestrich
+ Interpunktion, öffnendes Anführungszeichen
+ Symbol, Währung
+ Trennzeichen, Absatz
+ Trennzeichen, Leerzeichen
+ Weiterhin sollen Sie zusammen mit Gucharmap eine Kopie des Unicode-Copyrights erhalten haben. Sie können es stets auf der Unicode-Website einsehen: https://www.unicode.org/copyright.html
+ auf der Grundlage der Unicode-Zeichendatenbank 14.0.0
+ Vorheriges Schriftsystem
+ Nächster Block
+ Vorheriger Block
+ Zu kopierender Text:
+ Seiteneinstellungen
+ Drucken
+ [ZEICHENFOLGE …]
+ Gruppierungsart der Zeichentabelle
+ Dies ist die Gruppierungsart der Zeichen in der Zeichentabelle. Die Zeichen können entweder nach »script« oder »block« gruppiert werden.
+ Spaltenanzahl auf Vielfaches von 2 setzen
+ Zuletzt ausgewähltes Zeichen
+ 0x41
+ Lateinisch, Ergänzung (Latin-1)
+ Lateinisch, Erweiterung A
+ Lateinisch, Erweiterung B
+ IPA-Erweiterungen
+ Kyrillisch
+ Thaana
+ Mandäisch
+ Arabisch, Erweiterung A
+ Gurmukhi
+ Malayalam
+ Laotisch
+ Georgisch
+ Cherokee
+ Ogam
+ Khmer
+ Tai Le
+ Khmer-Symbole
+ Lanna (Tai Tham)
+ Balinesisch
+ Sundanesisch
+ Georgisch, Erweiterung
+ Vedisch-Erweiterungen
+ Hoch- und tiefgestellte Zeichen
+ Währungssymbole
+ Buchstabenähnliche Symbole
+ Pfeile
+ Mathematische Operatoren
+ Verschiedene technische Zeichen
+ Optische Zeichenerkennung
+ Umschlossene alphanumerische Zeichen
+ Rahmenzeichnung
+ Geometrische Formen
+ Verschiedene Symbole
+ Dingbats
+ Pfeile, Ergänzung A
+ Verschiedene mathematische Symbole B
+ Lateinisch, Erweiterung C
+ Tifinagh
+ Äthiopisch, Erweiterung
+ Kyrillisch, Erweiterung A
+ CJK-Radikale, Ergänzung
+ Ideographische Beschreibungszeichen
+ CJK-Symbole und -Interpunktion
+ Hangeul-Jamo, Kompatibilität
+ Kanbun
+ Bopomofo, Erweiterung
+ CJK-Striche
+ Yi-Silbenzeichen
+ Lisu
+ Modifizierende Tonzeichen
+ Lateinisch, Erweiterung D
+ Saurashtra
+ Devanagari, Erweiterung
+ Rejang
+ Hangeul-Jamo, Erweiterung A
+ Birmanisch, Erweiterung B
+ Cham
+ Cherokee, Ergänzung
+ Meitei-Mayek
+ Hangeul-Jamo, Erweiterung B
+ Höhere Ersatzkodes
+ Niedere Ersatzkodes
+ Bereich zur privaten Nutzung
+ Arabische Präsentationsformen A
+ Vertikale Formen
+ Kombinierende halbe diakritische Zeichen
+ Halbbreite und vollbreite Formen
+ Spezielle Zeichen
+ Antike Symbole
+ Karisch
+ Koptische Zahlzeichen
+ Gotisch
+ Ugaritisch
+ Albanisch
+ Linearschrift A
+ Kyprische Silbenschrift
+ Aramäisch
+ Nabatäisch
+ Hatran
+ Phönizisch
+ Kharoshthi
+ Manichäisch
+ Inschriften-Pahlavi
+ Psalter-Pahlavi
+ Alttürkisch
+ Altungarisch
+ Rumi-Ziffern
+ Altsogdisch
+ Altuyghurisch
+ Choresmisch
+ Elymaisch
+ Kaithi
+ Sorang-Sompeng
+ Singhalesische alte Zahlzeichen
+ Khojki
+ Multanisch
+ Siddham
+ Modi
+ Mongolisch, Ergänzung
+ Takri
+ Ahom
+ Varang Kshiti
+ Nandinagari
+ Dsanabadsar-Quadratschrift
+ Sojombo
+ Pau Cin Hau
+ Bhaiksuki
+ Marchen
+ Masaram Gondi
+ Makassar
+ Keilschrift
+ Frühdynastische Keilschrift
+ Kypro-Minoisch
+ Ägyptische Hieroglyphen-Steuerzeichen
+ Anatolische Hieroglyphen
+ Pahawh Hmong
+ Medefaidrin
+ Kleine Kitan-Schrift
+ Kana, Erweiterung B
+ Kana, Ergänzung
+ Kleine Kana, Erweiterung
+ Frauenschrift (Nushu)
+ Duployé-Kurzschrift
+ Kurzschrift-Steuerzeichen
+ Byzantinische Notenschriftzeichen
+ Maya-Zahlzeichen
+ Tai-Xuan-Jing-Symbole
+ Zählstabziffern
+ Mathematische alphanumerische Symbole
+ Wancho
+ Adlam
+ Spielkarten
+ Umschlossene alphanumerische Zeichen, Ergänzung
+ Emojis
+ Verkehrs- und Kartensymbole
+ Ergänzende Symbole und Piktogramme
+ Vereinheitlichte CJK-Ideogramme, Erweiterung B
+ Vereinheitlichte CJK-Ideogramme, Erweiterung C
+ Vereinheitlichte CJK-Ideogramme, Erweiterung E
+ Vereinheitlichte CJK-Ideogramme, Erweiterung G
+ Kennzeichnungen
+ Bereich zur privaten Nutzung, Ergänzung A
+ Bereich zur privaten Nutzung, Ergänzung B
+ Braille
+ Kanadisch-indigene Silbenschrift
+ Allgemein
+ Kyprisch
+ Griechisch
+ Hangeul
+ Linearschrift B
+ Phagspa
+ Yi
+ Web wird häufig auch mit seinem Codenamen »Epiphany« bezeichnet.
+ Das GNOME-Projekt
+ Im Internet surfen
+ Netz;Browser;Internet;Web;
+ Neues Inkognito-Fenster öffnen
+ Im Internet mit Caret Browsing surfen
+ Startseite
+ Name der standardmäßig verwendeten Suchmaschine.
+ Google-Suchvorschläge aktivieren
+ Legt fest, ob Google-Suchvorschläge in der Auswahlliste unterhalb der Adressleiste angezeigt werden sollen.
+ Neue Fenster als neue Reiter öffnen
+ Wenn diese Option aktiviert ist, werden Reiter bei der Sitzungswiederherstellung nicht sofort geladen, sondern erst, wenn der Benutzer in einen dieser Reiter wechselt.
+ Liste von Werbeblockfiltern »adblock«
+ Liste von Adressen mit Inhaltsfilter-Regeln im JSON-Format für den Werbeblocker.
+ Standard-Festlegung anfragen
+ Wenn diese Option aktiviert ist, fragt der Browser immer nach, ob er als Standard festgelegt werden soll, wenn das nicht bereits der Fall ist.
+ Inkognito-Modus starten
+ Voreinstellung der zu löschenden Daten.
+ Breite der Reiter ausdehnen und den gesamten verfügbaren Platz einnehmen.
+ Wenn aktiviert, werden die Reiter den gesamten verfügbaren Platz in der Reiterleiste einnehmen. Diese Einstellung wird in der Pantheon-Arbeitsumgebung ignoriert.
+ Fenster geöffnet lassen, wenn der letzte Reiter geschlossen wird
+ Artikel-Schriftstil im Lesemodus.
+ Farbschema im Lesemodus.
+ Kleinste Schriftgröße
+ Die Standardschriftart von GNOME benutzen
+ Benutzerdefinierte serifenlose Schriftart
+ Benutzerdefinierte Serifen-Schriftart
+ Ein Wert, der genutzt wird, um die Serifen-Arbeitsflächenschriftart zu überschreiben, wenn use-gnome-fonts eingestellt ist.
+ Benutzerdefinierte Monospace Schriftart
+ Ein Wert, der genutzt wird, um die Arbeitsflächenschriftart Monospace zu überschreiben, wenn use-gnome-fonts eingestellt ist.
+ Benutzerdefiniertes JS verwenden
+ Jeden in editierbare Flächen eingegeben Text prüfen.
+ Standardzeichenkodierung. Akzeptierte Werte sind die, die von WebKitGTK verstanden werden.
+ Bevorzugte Sprachen. Array aus Locale-Codes oder »system«, um die aktuelle Spracheinstellung zu verwenden.
+ User Agent
+ Werbeblocker aktivieren
+ Legt fest, ob eingebettete Werbung innerhalb von Webseiten geblockt werden soll.
+ Seitenspezifische Quirks aktivieren
+ Das Aktivieren von Quirks lässt bestimmte Webseiten besser funktionieren. Für Fehlerdiagnosezwecke kann es notwendig sein, diese Einstellung zu deaktivieren.
+ Sicheres Browsen aktivieren
+ Legt fest, ob sicheres Browsen aktiviert werden soll. Dafür wird die Google Safe Browsing API v4 genutzt.
+ Legt fest, ob intelligente Nachverfolgungsunterbindung aktiviert werden soll.
+ Automatische Suche aktivieren
+ Legt fest, ob Mausgesten aktiviert sind. Mausgesten basieren auf dem Verhalten in Opera und werden über die mittlere Maustaste + Geste aktiviert.
+ Letzter Upload-Ordner
+ Den letzten Upload-Ordner merken
+ Gibt an, ob automatisch zu einem neuen geöffneten Reiter gewechselt werden soll.
+ Legt fest, ob WebExtensions aktiviert sein sollen. WebExtensions sind ein Browser-übergreifendes System für Erweiterungen.
+ Zeigt an, welche WebExtensions auf »aktiv« gesetzt sind.
+ Zusätzliche Adressen für die Webanwendung
+ Liste der Adressen, die durch die Web-Anwendung geöffnet werden sollen
+ Die für ein neues Fenster zu verwendende Position, sofern dieses nicht aus einer vorherigen Sitzung wiederhergestellt wird.
+ Die für ein neues Fenster zu verwendende Größe, sofern dieses nicht aus einer vorherigen Sitzung wiederhergestellt wird.
+ Ist maximiert
+ Adresse des Firefox Sync-Tokenservers
+ Adresse zu einem benutzerdefinierten Firefox Sync-Tokenserver.
+ Die mit dem Firefox-Konto verknüpfte E-Mail-Adresse, die zum Datenabgleich mit den Mozilla-Servern genutzt wird.
+ Letzter Sync-Zeitstempel
+ Sync-Gerätekennung
+ Die Sync-Gerätekennung des aktuellen Geräts.
+ Sync-Gerätename
+ Daten mit Firefox abgleichen
+ Legt fest, ob Ephy-Sammlungen mit den Firefox-Sammlungen abgeglichen werden sollen.
+ Lesezeichenabgleich aktivieren
+ Der Zeitstempel des zuletzt ausgeführten Abgleichs der Lesezeichen.
+ Legt fest, ob die Lesezeichensammlung erstmalig abgeglichen werden muss.
+ Passwortabgleich aktivieren
+ Legt fest, ob die Passwortsammlung abgeglichen werden soll.
+ Chronikabgleich aktivieren
+ Legt fest, ob die Chronik erstmalig abgeglichen werden muss.
+ Legt fest, ob die geöffneten Reiter abgeglichen werden sollen.
+ Sync-Zeitstempel für geöffnete Reiter
+ Der Zeitstempel des zuletzt ausgeführten Abgleichs der zuletzt geöffneten Reiter.
+ Anzuwendende Entscheidung, wenn für diesen Rechner Zugriff auf das Benachrichtigungssystem angefordert wird
+ Anzuwendende Entscheidung, wenn für diesen Rechner Zugriff auf die Speicherung von Passwörtern angefordert wird
+ Anzuwendende Entscheidung, wenn für diesen Rechner Kamerazugriff angefordert wird
+ Speicherverbrauch
+ Epiphany-Technologievorschau
+ Ein einfacher, klarer, wunderschöner Blick auf das Web
+ Anwendungen
+ Der Inkognito-Modus verbirgt Ihre Aktivitäten nur vor Personen, die diesen Rechner benützen.
+ Download angefordert
+ Wo wollen Sie diese Datei speichern?
+ ESC
+ F11
+ Web wird von Automation kontrolliert.
+ Neuer Reiter
+ Arabisch (ISO-8859-6)
+ Arabisch (Windows-1256)
+ Baltisch (Windows-1257)
+ Armenisch (ARMSCII-8)
+ Mitteleuropäisch (IBM-852)
+ Mitteleuropäisch (MacCE)
+ Mitteleuropäisch (Windows-1250)
+ Chinesisch, vereinfacht (GB18030)
+ Chinesisch, vereinfacht (ISO-2022-CN)
+ Chinesisch, traditionell (Big5)
+ Chinesisch, traditionell (Big5-HKSCS)
+ Kyrillisch (ISO-IR-111)
+ Kyrillisch (MacCyrillic)
+ Kyrillisch/Russisch (IBM-866)
+ Griechisch (MacGreek)
+ Gurmukhi (MacGurmukhi)
+ Hebräisch (ISO-8859-8-I)
+ Japanisch (EUC-JP)
+ Japanisch (Shift-JIS)
+ Koreanisch (ISO-2022-KR)
+ Koreanisch (UHC)
+ Keltisch (ISO-8859-14)
+ Isländisch (MacIcelandic)
+ Nordisch (ISO-8859-10)
+ Persisch (MacFarsi)
+ Kroatisch (MacCroatian)
+ Südeuropäisch (ISO-8859-3)
+ Thai (TIS-620)
+ Türkisch (IBM-857)
+ Türkisch (MacTurkish)
+ Türkisch (Windows-1254)
+ Vietnamesisch (TCVN)
+ Vietnamesisch (VISCII)
+ Vietnamesisch (Windows-1258)
+ Westlich (Windows-1252)
+ Unicode (UTF-16 LE)
+ Tippen Sie, um zu suchen …
+ Vorhergehenden Treffer für diese Zeichenkette suchen
+ Nie speichern
+ Achtung: Dieses Formular ist nicht sicher. Wenn Sie Ihr Passwort hier eingeben, wird es nicht geheim gehalten.
+ Der Web-Prozess ist abgestürzt
+ Der Web-Prozess wurde wegen Überschreitung der Speicherbegrenzung beendet
+ Der Web-Prozess wurde auf API-Anfrage beendet
+ Warten
+ Abwürgen
+ Erlauben
+ Die Identifikation dieser Webseite ist zu alt. Überprüfen Sie das Datum auf Ihrem Rechner.
+ Die Identifikation dieser Webseite konnte nicht verarbeitet werden. Sie könnte beschädigt sein.
+ Die Identifikation dieser Webseite wurde durch die ausstellende, vertrauenswürdige Organisation zurückgezogen.
+ Der Identifikation dieser Webseite kann nicht vertraut werden, da sie eine nicht ausreichende Verschlüsselung verwendet.
+ Die Identifikation dieser Webseite ist nur für Daten in der Zukunft gültig. Überprüfen Sie das Datum auf Ihrem Rechner.
+ Anzeige dieser Webseite ist nicht möglich
+ Neu laden
+ R
+ Zurück
+ B
+ P
+ Unsichere Webseite erkannt!
+ OK
+ Nicht angegeben
+ Heute %I∶%M %p
+ Gestern %I∶%M %p
+ %a %H:%M
+ %-d. %b %I:%M %p
+ Das Passwort Ihres Firefox-Kontos scheint geändert worden zu sein.
+ Bitte öffnen Sie Firefox Sync und melden Sie sich mit dem neuen Passwort an, um den Abgleichvorgang fortzusetzen.
+ Die Sync-Anmeldedaten für den aktuellen Sync-Benutzer sind ungültig.
+ Client-Datensatz konnte nicht übertragen werden.
+ Meta/global-Datensatz konnte nicht übertragen werden.
+ Speicherversion konnte nicht überprüft werden.
+ Der Zertifikatsaussteller ist nicht bekannt
+ Das Zertifikat beinhaltet Fehler
+ Das Zertifikat nutzt einen schwachen Signaturalgorithmus
+ Die Aktivierungszeit des Zertifikats liegt in der Zukunft
+ Die Identität dieser Webseite wurde bestätigt.
+ Die Identität dieser Webseite wurde nicht bestätigt.
+ Alle leeren
+ Verschoben oder gelöscht
+ Wird gestartet …
+ Öffnen
+ Alle Dateien
+ Leeren
+ Einfügen und weiter
+ Lesezeichen für diese Seite erstellen
+ Diese Webseite hat Ihre Verbindung nicht ordentlich gesichert.
+ Berechtigungen
+ Passwortspeicherung
+ Standortzugriff
+ Mikrofonzugriff
+ Kamerazugriff
+ Automatische Medien-Wiedergabe
+ Ohne Ton
+ Mobil
+ Aktuelle Seite neu laden
+ Soll die Browser-Chronik geleert werden?
+ Das Leeren der Browser-Chronik sorgt dafür, dass alle Verweise in der Chronik dauerhaft gelöscht werden.
+ Ein neues Fenster statt eines neuen Reiters öffnen
+ Die angegebene Sitzungs-Statusdatei laden
+ DATEI
+ Private Sitzung im Webanwendung-Modus starten
+ Private Sitzung für WebDriver-Kontrolle starten
+ Ordner für benutzerdefinierte Profile für private Sitzungen
+ Adresse …
+ Einen neuen Reiter öffnen
+ Wollen Sie diese Erweiterung wirklich entfernen?
+ Autor
+ Ausgewählte WebExtension entfernen
+ Wiederholen
+ Alles markieren
+ Aktualisieren
+ Vor
+ Verweis in neuem Fenster öffnen
+ Verweis in neuem Reiter öffnen
+ Verweisadresse kopieren
+ E-Mail-Adresse kopieren
+ Bild speichern unter …
+ Video speichern unter …
+ Audio in neuem Reiter öffnen
+ Quelltext der Seite
+ Verweis öffnen
+ Verweis in neuem Reiter öffnen
+ Verweis in Inkognito-Fenster öffnen
+ Download-Operation
+ Geöffnete Reiter anzeigen
+ Nein
+ Medien speichern unter
+ Offline-Speicher für Web-Anwendungen
+ WebSQL-Datenbanken
+ Daten von Erweiterungen
+ Adresse sollte den Suchbegriff nicht mehrmals enthalten
+ Kürzel für Suchmaschinen dürfen keine Leerzeichen enthalten.
+ Ein Name ist erforderlich
+ Alle Passwörter löschen?
+ Löschen
+ Passwort kopieren
+ Benutzernamen kopieren
+ Passwort
+ Passwort entfernen
+ Dunkel
+ Sprache hinzufügen
+ Web-Anwendungssymbol
+ Nur den n-ten Migrationsschritt ausführen
+ Bestimmt die benötigte Version des Migrators
+ Web-Profilmigrator
+ Lesezeichen für diese Seite erstellen
+ Zur Startseite wechseln
+ Geöffnete Seiten anzeigen
+ Lesezeichen
+ Stichwörter
+ Stichwort hinzufügen …
+ Hinzufügen
+ Legen Sie Lesezeichen einiger Webseiten an, um diese hier zu sehen.
+ Alle ausgewählten persönlichen Daten löschen
+ Nach persönlichen Daten suchen
+ Hier werden persönliche Daten aufgelistet
+ Sie können diesen Schritt nicht rückgängig machen. Daten, die Sie zum Löschen auswählen, werden unwiderruflich gelöscht.
+ Suchen
+ Keine Ergebnisse gefunden
+ Eine andere Suche ausprobieren
+ Zeichenkodierung
+ Die vom Dokument angegebene Zeichenkodierung verwenden
+ Zuletzt verwendete Zeichenkodierungen
+ Firefox Sync
+ Melden Sie sich mit Ihrem Firefox-Konto an, um Daten mit GNOME Web und Firefox auf anderen Rechnern abzugleichen. GNOME Web ist nicht Firefox und wird nicht von Mozilla entwickelt oder unterstützt.
+ Angemeldet
+ Abmelden
+ Sync-Optionen
+ Passwörter abgleichen
+ Jetzt abgleichen
+ Ändern
+ Chronik
+ Die Chronik ist leer
+ Hier werden besuchte Seiten aufgelistet
+ Neu laden
+ Alle Reiter neu laden
+ Reiter anheften
+ Linke Reiter schließen
+ Schließen
+ Verkleinern
+ Vergrößerungsstufe wiederherstellen
+ Suchen …
+ Neues Fenster
+ Neues Inkognito-Fenster öffnen
+ Geschlossenen Reiter erneut öffnen
+ Import und Export
+ Seite als Web-Anwendung installieren …
+ Anwendungsverwaltung öffnen
+ Zeichenkodierung überschreiben …
+ Einstellungen
+ Tastenkombinationen
+ Hilfe
+ Reiter
+ Es sind keine Passwörter vorhanden
+ Benutzername kopieren
+ Erscheinungsbild
+ Schriften
+ Serifenlose Schrift
+ Serifen-Schrift
+ Monospace-Schrift
+ Lesemodus
+ Farbschema
+ Stil
+ Benutzerdefiniertes JavaScript verwenden
+ Allgemein
+ Web-Anwendung
+ Zusätzliche Adressen verwalten
+ Web-Inhalt
+ Aufspringende Fenster blockieren
+ Benutzerdefiniert
+ Bei Download fragen
+ Download-Ordner
+ Suchmaschinen
+ Sitzung
+ Reiter beim Start wiederherstellen
+ Browsen
+ Rechtschreibprüfung
+ Wählen Sie eine Sprache:
+ Datenschutz
+ Web-Tracking
+ Datenspeicher für Webseiten
+ Suchvorschläge in der Adressleiste aktivieren.
+ Google-Suchvorschläge
+ Sie können gespeicherte persönliche Daten löschen.
+ Name
+ Adresse
+ Tastenkombination
+ Suchmaschine entfernen
+ Allgemein
+ Neues Fenster
+ Datei öffnen
+ Seite speichern unter
+ Seite drucken
+ Beenden
+ Hilfe
+ Menü öffnen
+ Downloads-Liste anzeigen
+ Navigation
+ Zur Startseite wechseln
+ Aktuelle Seite neu laden
+ Zurück zur vorherigen Seite
+ Aktuellen Reiter schließen
+ Aktuellen Reiter nach links verschieben
+ Chronik
+ Lesezeichen für diese Seite erstellen
+ Lesezeichen importieren
+ Lesezeichen exportieren
+ Caret-Modus aktivieren/deaktivieren
+ Seite als Web-Anwendung installieren
+ Web-Anwendungsverwaltung öffnen
+ Ansicht
+ Vergrößern
+ Quelltext der Seite ansehen
+ Bearbeiten
+ Ausschneiden
+ Einfügen
+ Rückgängig
+ Alles markieren
+ Eine Adresse, die mit einer der zusätzlichen Adressen beginnt, wird von dieser Web-Anwendung geöffnet. Falls Sie das Adressschema weglassen, wird das aus der aktuell geladenen Adresse verwendet.
+ Adresse
+ Erweiterungen
+ Hinzufügen …
+ Chrome
+ Datei wählen
+ Importieren
+ Lesezeichen erfolgreich importiert!
+ Lesezeichen erfolgreich exportiert!
+ Webseite
+ Starten
+ Abbrechen
+ Ersetzen
+ Eine Anwendung mit diesem Namen ist bereits vorhanden. Beim Überschreiben geht ihr Inhalt verloren.
+ Speichern
+ MHTML
+ Aktivieren
+ Rygel
+ UPnP/DLNA-Dienste
+ Rygel-Einstellungen
+ Einen Ordner zur Liste der freigegebenen Ordner hinzufügen
+ Freigegebenen Ordner hinzufügen
+ Freigegebenen Ordner entfernen
+ Eine Netzwerkschnittstelle hinzufügen
+ Eine Netzwerkschnittstelle entfernen
+ Ordner wählen
+ Falscher Test-Typ
+ Umwandeln nicht erlauben
+ Löschen nicht erlauben
+ Durch Kommata getrennte Liste von »Domänen:Level« (domain:level)-Paarungen. Weitere Informationen in rygel(1).
+ Erweiterung deaktivieren
+ Erweiterungs-Optionen festlegen
+ Konfigurationsdatei anstelle Benutzerkonfiguration verwenden
+ Entfernte Rygel-Referenz beenden
+ Die aktuell ausgeführte Instanz von Rygel wird ersetzt
+ Entfernte Rygel-Instanz wird beendet\n
+ Wiedergabegeschwindigkeit wird nicht unterstützt
+ Übergang nicht verfügbar
+ Suchmodus wird nicht unterstützt
+ Ungültiger Kanal
+ Unterobjekte können nicht durchsucht werden
+ Nicht anwendbar
+ Keine solche Dateiübertragung
+ Falscher Wert des neuen Tags.
+ Es wird versucht, eine schreibgeschützte Eigenschaft zu ändern.
+ Anzahl der Parameter stimmt nicht überein.
+ Unbekannter Fehler.
+ Suchmodus wird nicht unterstützt
+ Geschwindigkeit wird nicht unterstützt
+ Wiedergabeliste konnte nicht erstellt werden
+ MediaEngine.init wurde nicht aufgerufen. Fortsetzen ist nicht möglich.
+ Argument »ObjectID« fehlt
+ Fehlender Filter
+ Argument »Elements« fehlt.
+ »@id« muss in einem »CreateObject«-Aufruf leer sein
+ Bit-Flags, die nicht gesetzt werden dürfen, wurden in »dlnaManaged« gefunden
+ Ungültige »upnp:class« in »CreateObject« angegeben
+ Dem Objekt fehlt das Attribut @restricted
+ Eingeschränktes Objekt kann nicht erstellt werden
+ Argument »ObjectID« fehlt.
+ Keine Untertitel verfügbar
+ Vorschaubilder werden nicht unterstützt
+ Keine Vorschau verfügbar
+ Wiedergabegeschwindigkeit wird nicht unterstützt
+ Weiterleitung konnte nicht erstellt werden
+ Nur Datei-basierte Medienobjekte (MediaFileItems) können gelesen werden
+ Freigegebene Medien
+ Ungültiger Befehl empfangen, wird ignoriert
+ Künstler
+ Dateien und Ordner
+ Medien von @REALNAME@
+ System-Erscheinungsbild
+ Einstellungen für diese Anwendung überschreiben. Sie werden zurückgesetzt, wenn der Inspektor geschlossen wird.
+ Hoher Kontrast
+ Unbenannte Seite
+ Einstellungen
+ Suchen
+ Christian Hergert, et al.
+ Ein Texteditor für GNOME
+ Verzögerung für automatisches Speichern
+ Die helle oder dunkle Variante des GTK-Themas und/oder des GTKSourceView-Stil-Schemas nutzen.
+ Einrückungsstil
+ Automatisch einrücken
+ Neue Zeilen automatisch an die vorhergehende Einrückung anpassen.
+ Die Anzahl der Leerzeichen eines Tabulators.
+ Einrückbreite
+ Legt fest, um wie viele Leerzeichen eingerückt werden soll. Eine »-1« repräsentiert eine Tabulatorbreite.
+ Zeilennummern anzeigen
+ Legt fest, ob auf der rechten Seite des Editors ein Rand angezeigt werden soll.
+ Legt fest, ob eine Übersicht der Datei neben dem Editor anzeigt werden soll.
+ Aktuelle Zeile hervorheben
+ Textumbruch
+ Legt fest, ob Text umgebrochen werden soll.
+ Benutzerdefinierte Schriftart
+ Eine angepasste Schrift zur Verwendung im Editor.
+ Stilvorlage
+ Automatische Rechtschreibprüfung
+ Sitzung wiederherstellen
+ Vorherige Sitzung wiederherstellen, wenn Texteditor gestartet wird.
+ Fenster einfärben
+ Der zuletzt verwendete Speicherort in einem »Speichern« oder »Speichern unter«-Dialog.
+ Die verschiedenen Typen von Leerzeichen, die im Editor gekennzeichnet werden sollen.
+ Die Nutzung von Schnipseln aktivieren, die im Editor mit GtkSourceView registriert wurden.
+ Zeilenhöhe
+ Die Zeilenhöhe für die ausgewählte Schriftart.
+ Angegebene Dateien in einem neuen Fenster öffnen
+ ILCreateFromPath() fehlgeschlagen
+ Änderungen verwerfen und neu laden
+ Datei wurde auf dem Datenträger geändert
+ Die Datei wurde durch ein anderes Programm geändert.
+ Speichern unter …
+ Ungespeichertes Dokument wurde wiederhergestellt.
+ Speichern …
+ Verwerfen …
+ Änderungen am Entwurf wiederhergestellt
+ Ungespeicherte Änderungen am Dokument wurden wiederhergestellt.
+ Dokumententyp
+ Keine zuletzt geöffneten Dokumente
+ Entwurf
+ Dokumentenportal
+ Speichern des Dokuments ist fehlgeschlagen
+ Speichern unter
+ Abbrechen
+ Gehe zu Zeile
+ Navigieren
+ Einrückung
+ Automatische Einrückung
+ Tabulatoren
+ Leerzeichen
+ 8
+ Z
+ Aktuelle Zeile hervorheben
+ Verhalten
+ Vorherige Sitzung wiederherstellen, wenn Texteditor gestartet wird
+ Schriftart wählen
+ Seite %N von %Q
+ Eigenschaften
+ Datei
+ Ort
+ Zeilen
+ Zeichen, keine Leerzeichen
+ Änderungen speichern?
+ Offene Dokumente enthalten ungesicherte Änderungen. Diese werden unwiederbringlich verloren gehen.
+ Speichern
+ Ersetzen
+ Zum vorherigen Treffer springen (Strg+Umschalt+G)
+ Zum nächsten Treffer springen (Strg+G)
+ Ersetzen
+ Sprachen
+ Rechtschreibung prüfen
+ Systemstil folgen
+ Dunkler Stil
+ Gestern
+ Etwa vor einem Jahr
+ Unix/Linux (LF)
+ Windows (CR+LF)
+ Automatisch erkannt
+ Zeichenkodierung:
+ Das Speichern von Änderungen wird die vorher gespeicherte Version ersetzen.
+ Verwerfen
+ Datei öffnen
+ Alle Dateien
+ Öffnen
+ Zuletzt geöffnetes Dokument öffnen (Strg+K)
+ Ein Dokument beginnen oder öffnen
+ Dokumenteneinstellungen
+ Tastenkürzel
+ Hilfe
+ Info zu Texteditor
+ 2
+ 4
+ 6
+ Textumbruch
+ Nach links bewegen
+ In neues Fenster springen
+ Schließen
+ Editor-Tastenkombinationen
+ Fenster
+ Dokument in ein neues Fenster verschieben
+ Zum nächsten Reiter verschieben
+ Zum vorherigen Reiter verschieben
+ Vor den vorherigen Reiter schieben
+ Zuvor geschlossenen Reiter wiederherstellen
+ Größe
+ Verkleinern
+ Dokumente
+ Neues Dokument
+ Ein Dokument suchen
+ Ein Dokument anhand des Namens suchen
+ Kopieren und Einfügen
+ Ausgewählten Text in die Zwischenablage kopieren
+ Ausgewählten Text in die Zwischenablage ausschneiden
+ Text aus der Zwischenablage einfügen
+ Rückgängig und Wiederholen
+ Letzten Befehl wiederholen
+ Emoji in das Dokument einfügen
+ Innerhalb des Dokuments suchen und ersetzen
+ Zahl unter der Eingabemarke verringern
+ Überschreiben ein-/ausschalten
+ Sichtbarkeit der Eingabemarke ein-/ausschalten
+ Auswahl
+ An das Ende des Dokuments springen
+ Gehe zu Zeile
+ Von der Eingabemarke bis zum Anfang des Wortes löschen
+ Von der Eingabemarke bis zum Ende des Wortes löschen
+ Aktuelle Zeile löschen
+ OK
+ Abbrechen
+ Sie müssen einen Dialogtypen angeben. Siehe »zenity --help« für weitere Details.\n
+ Nein
+ Nachricht konnte nicht interpretiert werden\n
+ Unbekannter Hinweis. Wird übersprungen.\n
+ Unbekannter Hinweisname. Wird übersprungen.\n
+ Befehl von Standardeingabe konnte nicht interpretiert werden\n
+ TITEL
+ Das Fenstersymbol festlegen
+ SYMBOLPFAD
+ Die Breite festlegen
+ BREITE
+ Die Höhe festlegen
+ WARTEZEIT
+ Legt die Beschriftung des OK-Knopfes fest
+ Die Beschriftung des Abbrechen-Knopfes festlegen
+ Den modalen Hinweis festlegen
+ Das übergeordnete Fenster zum Anhängen festlegen
+ Kalenderdialog anzeigen
+ Den Kalendertag festlegen
+ TAG
+ MONAT
+ Das Kalenderjahr festlegen
+ JAHR
+ Das Format für das zurückgegebene Datum festlegen
+ Den Eingabetext verbergen
+ Fehlerdialog anzeigen
+ Das Dialogsymbol festlegen
+ Pango-Markup nicht aktivieren
+ Aktiviert Auslassungen im Dialogtext. Dadurch wird die Fenstergröße bei langen Texten korrigiert.
+ Info-Dialog anzeigen
+ Dateiwähler-Dialog anzeigen
+ Den Dateinamen festlegen
+ Speichermodus aktivieren
+ Das Trennzeichen für die Ausgabe festlegen
+ TRENNZEICHEN
+ Dateiauswahl bestätigen, falls ein Dateiname bereits existiert
+ SPALTE
+ Drucke eine bestimmte Spalte (Standard ist 1. »ALL« kann benutzt werden, um alle Spalten zu drucken)
+ Eine bestimmte Spalte verbergen.
+ Ändern der Standardsuchfunktion für Listen auf Suche nach Text in der Mitte, nicht am Anfang
+ Auf der Standardeingabe nach Befehlen horchen
+ Den Benachrichtigungshinweis festlegen
+ PROZENT
+ Elternprozess beenden, wenn der Abbrechen-Knopf angeklickt wird
+ Abbrechen-Knopf verbergen
+ Vorgabe fokussiert den Abbrechen-Knopf
+ Text-Informationsdialog anzeigen
+ Schriftart für Text festlegen
+ HTML-Unterstützung aktivieren
+ Legt eine Adresse anstelle einer Datei fest. Funktioniert nur zusammen mit der Option --html.
+ Adresse
+ Automatisch an das Textende springen. Nur wenn Text von Standardeingabe aufgenommen wird
+ Warndialog anzeigen
+ Schieberegler-Dialog anzeigen
+ Den minimalen Wert festlegen
+ Zwischenwerte anzeigen
+ Den Wert ausblenden
+ Formulardialog anzeigen
+ Einen neuen Eintrag im Formulardialog hinzufügen
+ Feldname
+ Neues Passworteingabefeld im Formulardialog hinzufügen
+ Kalenderfeldname
+ Eine neue Liste im Formulardialog hinzufügen
+ Liste der Werte für Spalten
+ Feldname des Auswahlfelds
+ Den Spaltentitel anzeigen
+ Druckversion
+ Allgemeine Einstellungen
+ Allgemeine Einstellungen anzeigen
+ Kalendereinstellungen
+ Einstellungen der Texteingabe
+ Einstellungen des Dateiwählers
+ Listeneinstellungen
+ Listeneinstellungen anzeigen
+ Benachrichtigungssymbol-Einstellungen
+ Fortschrittseinstellungen
+ Fortschrittseinstellungen anzeigen
+ Frageeinstellungen
+ Frageeinstellungen anzeigen
+ Warneinstellungen
+ Schiebereglereinstellungen anzeigen
+ Textinformationseinstellungen
+ Textinformationseinstellungen anzeigen
+ Einstellungen des Farbwählers
+ Einstellungen des Farbwählers anzeigen
+ Optionen für Formulardialog anzeigen
+ Diese Option steht nicht zur Verfügung. Bitte verwenden Sie »--help« für alle Anwendungsmöglichkeiten.\n
+ Geben Sie Ihr Passwort ein
+ Benutzername:
+ Wert außerhalb des gültigen Bereichs.\n
+ Keine Spaltentitel für Listendialog angegeben\n
+ Wert des Schiebereglers anpassen
+ Textansicht
+ Wählen Sie ein Datum
+ Einen neuen Eintrag hinzufügen
+ Fehler
+ Ein Fehler ist aufgetreten.
+ Formulardialog
+ Informationen
+ Alle Aktualisierungen wurden fertiggestellt.
+ Wollen Sie fortfahren?
+ Wählen Sie Objekte aus der Liste
+ Favorisierte Anwendung 4 aktivieren
+ Favorisierte Anwendung 7 aktivieren
+ Favorisierte Anwendung 9 aktivieren
+ Bildschirmfotos
+ Ein Bildschirmfoto aufnehmen
+ Ein Bildschirmfoto eines Fensters aufnehmen
+ System
+ Auf aktive Benachrichtigungen ausrichten
+ GNOME-Shell
+ Fenster verwalten und Anwendungen starten
+ Interne Werkzeuge für Entwickler und Tester mit Alt+F2 einschalten
+ Erlaubt Zugriff auf interne Fehlerdiagnose- und Überwachungswerkzeuge.
+ UUIDs der sofort zu deaktivierenden Erweiterungen
+ Legt fest, ob die Überprüfung der Versionskompatibilität der Erweiterung deaktiviert werden soll
+ Liste von Desktop-Dateikennungen und deren bevorzugte Anwendungen
+ Legt fest, ob der Standard-Bluetooth-Adapter zugeordnete Geräte hat
+ Tastenkombination zum Öffnen der »Anwendungen anzeigen«-Ansicht
+ Tastenkombination zum Umschalten der Sichtbarkeit der Benachrichtigungsliste
+ Tastenkombination zum Umschalten der Sichtbarkeit der Benachrichtigungsliste.
+ Tastenkombination zur Ausrichtung auf die aktiven Benachrichtigungen
+ Tastenkombination zur Ausrichtung auf die aktiven Benachrichtigungen.
+ Zu Anwendung 1 wechseln
+ Zu Anwendung 3 wechseln
+ Zu Anwendung 5 wechseln
+ Zu Anwendung 7 wechseln
+ Der Modus der Anwendungssymbole.
+ Legt fest, ob Fenster der aktuellen Arbeitsfläche im Fensterwechsler aufgeführt werden. Andernfalls sind alle Fenster enthalten.
+ Die von den Weltuhren anzuzeigenden Orte
+ Automatischer Ort
+ Modalen Dialog an übergeordnetes Fenster binden
+ Dieser Schlüssel überschreibt den Schlüssel in org.gnome.mutter, wenn die GNOME-Shell läuft.
+ Größenanpassung einschalten, wenn ein Fenster an die Bildschirmkante verschoben wird
+ Arbeitsflächen dynamisch verwalten
+ Arbeitsflächen nur auf dem primären Bildschirm
+ Fokuswechsel im Mausmodus verzögern, bis sich der Zeiger nicht mehr bewegt
+ Netzwerkanmeldung
+ Es tut uns leid, aber es gibt ein Problem: Die Einstellungen für diese Erweiterung können nicht angezeigt werden. Wir empfehlen, dass Sie diesen Fehler den Autoren der Erweiterung melden.
+ Internetseite der Erweiterung besuchen
+ Sitzung wählen
+ Benutzername
+ Anmeldung fehlgeschlagen
+ (oder wischen Sie mit dem Finger über den Leser)
+ Neu starten
+ Bildschirm sperren
+ Abmelden
+ abmelden;verlassen
+ Bereitschaft;Schlafen
+ Bildschirmdrehung entsperren
+ Bildschirmdrehung sperren
+ Gerade eben
+ %H∶%M
+ %l∶%M %p
+ Hotspot-Anmeldung
+ Zugriff gewähren
+ Neues Fenster
+ Details anzeigen
+ Audio-Gerät wählen
+ Klangeinstellungen
+ Hintergrund ändern …
+ Anzeigeeinstellungen
+ Einstellungen
+ 06
+ D
+ %OB
+ %OB %Y
+ Vorheriger Monat
+ Nächster Monat
+ Woche %V
+ Keine Benachrichtigungen
+ Warten
+ Externes Laufwerk getrennt
+ Verbinden
+ Schlüssel
+ Dienst
+ Anmeldung erforderlich
+ Kabelgebundene 802.1X-Anmeldung
+ DSL-Anmeldung
+ PIN-Code ist erforderlich
+ Für das mobile Breitbandgerät wird ein PIN-Code benötigt
+ VPN-Passwort
+ Anwendungen anzeigen
+ Dash
+ %e. %B
+ Heute
+ Morgen
+ Keine Termine
+ Weltuhren hinzufügen …
+ Weltuhren
+ Wird geladen …
+ Gehen Sie Online, um Wetterinformationen beziehen zu können
+ Wetter
+ Wetterstandort auswählen …
+ Ausschalten
+ Neu starten
+ Neu starten und installieren
+ Erweiterung installieren
+ Aktualisierungen für Erweiterungen verfügbar
+ Eine Anwendung möchte Tastenkombinationen sperren
+ Ablehnen
+ Zulassen
+ Tastenverzögerung eingeschaltet
+ Tastenverzögerung ausgeschaltet
+ Eingeschaltet lassen
+ Einschalten
+ Regions- und Spracheinstellungen
+ Fehler anzeigen
+ Ausgeschaltet
+ Fehler
+ Quelle zeigen
+ Rückgängig
+ Als privilegierter Benutzer angemeldet
+ Der Betrieb einer Sitzung als privilegierter Benutzer sollte aus Sicherheitsgründen unterlassen werden. Falls möglich, melden Sie sich bitte als normaler Benutzer an.
+ Bildschirmsperre deaktiviert
+ Systeminformationen
+ Unbekannter Künstler
+ Anwendungen
+ Neue Tastenkombination …
+ Anwendung festgelegt
+ Bildschirmhilfe anzeigen
+ Bildschirm wechseln
+ Tastenkombination zuweisen
+ Erledigt
+ Bearbeiten …
+ Keine
+ Drücken Sie Esc zum Abbrechen
+ Drücken Sie eine beliebige Taste zum Beenden
+ System
+ Obere Leiste
+ Drücken Sie Esc zum Schließen
+ Neu Starten ist unter Wayland nicht verfügbar
+ Neustart …
+ GNOME muss den Bildschirm sperren
+ Bildschirm aufnehmen
+ Fenster
+ Bildschirmfoto / Bildschirmaufzeichnung
+ Bildschirmfoto
+ Bildschirminhalt aufgezeichnet
+ Klicken Sie hier, um das Video anzusehen.
+ Bildschirmfoto aufgenommen
+ Sie können das Bild aus der Zwischenablage einfügen.
+ Bildschirmfoto aufgenommen
+ Suchen
+ Text verbergen
+ Windows-Systemdatenträger
+ PIM-Nummer
+ An Passwort erinnern
+ Entsperren
+ Die PIM muss eine Nummer oder leer sein.
+ Barrierefreiheit
+ Bildschirmtastatur
+ Visuelle Warnungen
+ Tastaturmaus
+ Große Schrift
+ Helligkeit
+ Einfacher Klick
+ Kontextklick
+ Verweilender Klick
+ Tastatur
+ Tastaturbelegung anzeigen
+ Ausschalten
+ Einstellungen zur Privatsphäre
+ Standort wird verwendet
+ Standort ausgeschaltet
+ Standortzugriff erlauben
+ Standortzugriff kann in den Einstellungen zur Privatsphäre jederzeit geändert werden.
+ <Unbekannt>
+ Einstellungen der mobilen Breitbandverbindung
+ Flugmodus ist eingeschaltet
+ Drahtlosnetzwerk ist ausgeschaltet, wenn sich Ihr Gerät im Flugmodus befindet.
+ Drahtlosnetzwerk ist ausgeschaltet
+ Drahtlosnetzwerk muss eingeschaltet werden, um eine Netzwerkverbindung herzustellen.
+ Drahtlosnetzwerke
+ Wählen Sie ein Netzwerk
+ Keine Netzwerke
+ Benutzen Sie zum Ausschalten den Gehäuseschalter
+ Drahtlosnetzwerk-Einstellungen
+ Anmeldung erforderlich
+ VPN
+ Verbindung gescheitert
+ Aktivierung der Netzwerkverbindung ist gescheitert
+ Nachtmodus deaktiviert
+ Fortsetzen
+ Bis morgen deaktivieren
+ Energieeinstellungen
+ Lädt nicht
+ Schätzung …
+ Bildschirmaufzeichnung beenden
+ Flugmodus ist eingeschaltet
+ Sperren
+ Ausschalten / Abmelden
+ Bereitschaft
+ Ausschalten …
+ Abmelden
+ Unbekanntes Thunderbolt-Gerät
+ Ein neues Gerät ist in der Zwischenzeit erkannt worden. Bitte trennen Sie die Verbindung des Gerätes und schließen es wieder an, um es zu verwenden.
+ Thunderbolt-Legitimierungsfehler
+ Lautstärke
+ Spiegeln
+ Bildschirme verketten
+ %A, %d. %B
+ Durch Mausklick oder Tastendruck entsperren
+ Nein danke
+ Diese Anzeigeeinstellungen beibehalten?
+ Zurücksetzen
+ Beibehalten
+ Verbergen
+ Verschieben
+ Größe verändern
+ Immer im Vordergrund
+ Eine Arbeitsfläche nach links bewegen
+ Eine Arbeitsfläche nach rechts bewegen
+ Auf den Bildschirm nach oben verschieben
+ Auf den Bildschirm nach rechts verschieben
+ Der durch GDM im Anmeldefenster verwendete Modus
+ Unbekannt
+ Passwörter stimmen nicht überein.
+ Es muss ein Passwort angegeben werden
+ Das GNOME-Projekt
+ GNOME-Erweiterungen dient der Aktualisierung von Erweiterungen, dem Konfigurieren der Voreinstellungen von Erweiterungen und dem Entfernen oder Deaktivieren nicht gewünschter Erweiterungen.
+ GNOME-Shell-Erweiterungen einrichten
+ Keine Treffer
+ Die Erweiterung kann aktualisiert werden
+ Webseite
+ Entfernen …
+ Manuell installiert
+ Keine installierten Erweiterungen
+ Abmelden …
+ Beschreibung
+ Die UUID ist eine eindeutige Kennung Ihrer Erweiterung.\nSie sollte das Format einer E-Mail-Adresse besitzen (klickfokus@maxmustermann.beispiel.de)\n
+ Vorlage
+ Die eindeutige Kennung der neuen Erweiterung
+ NAME
+ Der sichtbare Name der neuen Erweiterung
+ BESCHREIBUNG
+ VORLAGE
+ Informationen zur Erweiterung interaktiv eingeben
+ Eine Erweiterung deaktivieren
+ Eine Erweiterung aktivieren
+ Eine bestehende Erweiterung überschreiben
+ ERWEITERUNGSPAKET
+ Ein Erweiterungspaket installieren
+ Kein Erweiterungspaket angegeben
+ Mehr als ein Erweiterungspaket angegeben
+ Vom Benutzer installierte Erweiterungen anzeigen
+ Aktivierte Erweiterungen anzeigen
+ Erweiterungen mit Einstellungen anzeigen
+ Erweiterungen mit Aktualisierungen anzeigen
+ Erweiterungsdetails ausgeben
+ Der Ordner, in dem die Übersetzungen enthalten sind
+ DOMÄNE
+ Der Ordner, in dem das Pack erstellt werden soll
+ QUELLORDNER
+ Ein Erweiterungspaket erstellen
+ Mehr als ein Quellordner angegeben
+ Öffnet die Erweiterungseinstellungen
+ Eine Erweiterung deinstallieren
+ Pfad
+ Adresse
+ Version
+ Status
+ »version« akzeptiert keine Argumente
+ Erweiterung aktivieren
+ Erweiterung deaktivieren
+ Erweiterung deinstallieren
+ Erweiterungen auflisten
+ Erweiterungsinformationen anzeigen
+ Erweiterungseinstellungen öffnen
+ Erweiterung erstellen
+ Paket-Erweiterung
+ Systemklänge
+ Kompatibel mit Libreswan- und Cisco IPsec-VPN-Servern.
+ Gruppenpasswort:
+ IPsec-basiertes VPN
+ Nicht verarbeitete, ausstehende Legitimierung.
+ Nicht bei Abbruch der VPN-Verbindung beenden
+ Ausführliches Diagnoseprotokoll aktivieren (kann Passwörter enthalten)
+ Für diese Instanz zu verwendender D-Bus-Name
+ Dieser Dienst bietet ein integriertes IPsec-VPN für NetworkManager.
+ IKEv1 (XAUTH)
+ Legitimierung
+ Geheimnis:
+ Zertifikatname:
+ Erweitert …
+ Identifikation
+ Domäne:
+ (NT-)Domänenname für Legitimierung\nconfig: Domain <domain>
+ Phase1-Algorithmen:
+ Phase2-Algorithmen:
+ Legt den Algorithmus fest, der für eine Phase2-Verhandlung angeboten bzw. akzeptiert wird. Das Format ist »cipher-hash;modpgroup, cipher-hash;modpgroup, …«.\nconfig: esp <Vorschläge>
+ Phase1-Lebensdauer:
+ Phase2-Lebensdauer:
+ Legt fest, ob eine Verbindung nicht neu ausgehandelt werden soll, wenn diese abläuft.\nconfig: rekey <no/yes>
+ Konnektivität
+ Privates Subnetz hinter der Gegenstelle, ausgedrückt in der Form Netzwerk/Netzmaske.\nconfig: rightsubnet <Netz>
+ IKEv2-Aushandlung darf den Aufbau einer IPsec-Verbindung mit bandbreitenbeschränkten Traffic-Selektoren erlauben. Diese Option wird für IKEv1 ignoriert.\nconfig: narrowing <yes/no>
+ MOBIKE aktivieren
+ GNOME Systemüberwachung
+ Überwachung;System;Prozess;CPU;Speicher;Netzwerk;Chronik;Last;
+ Die Systemüberwachung ist ein Prozessbetrachter mit einer attraktiven und einfach zu verwendenden Benutzeroberfläche.
+ Prozesslistenansicht
+ Ressourcenübersicht
+ Dateisystemansicht
+ Das GNOME-Projekt
+ Prozess abwürgen
+ Berechtigung zur Steuerung der Prozesse anderer Benutzer wird benötigt
+ Berechtigung zum Ändern der Priorität der Prozesse wird benötigt
+ Hilfe anzeigen
+ Menü öffnen
+ Tastenkombinationen
+ Prozesse anzeigen
+ Dateisysteme anzeigen
+ Aktualisieren
+ Prozesse
+ Offene Dateien
+ Anhalten-Signal senden
+ Beenden-Signal senden
+ Prozesseigenschaften anzeigen
+ CPU
+ Auslagerungsspeicher
+ Speicher und Auslagerungsspeicher
+ Dateien nach Name filtern
+ Nach geöffneten Dateien suchen
+ Einstellungen
+ Tastenkombinationen
+ Aktualisieren
+ Aktive Prozesse
+ Eigene Prozesse
+ Eigenschaften
+ Speicherabbild
+ Offene Dateien
+ Normal
+ Sehr niedrig
+ Benutzerdefiniert
+ Affinität festlegen
+ Offene Dateien
+ Sanfte Auffrischung aktivieren
+ Vor dem Beenden oder Abwürgen von Prozessen warnen
+ Speicher in IEC anzeigen
+ In der Liste angezeigte Prozessinformationen:
+ Graphen
+ Diagrammpunkte
+ Diagramme als geglättete Graphen anzeigen
+ Einheit des Netzwerk-Gesamtverkehrs separat festlegen
+ Netzwerk-Gesamtverkehr in Bits anzeigen
+ Alle Dateisysteme anzeigen
+ Abbrechen
+ Priorität ändern
+ Nice-Wert:
+ Den Reiter »Dateisysteme« anzeigen
+ Die Version der Anwendung zeigen
+ Heute %H:%M
+ Gestern %H:%M
+ %d. %b %Y
+ Anteil
+ Farbe wählen
+ Die gewählte Farbe
+ Ungültige Farbdaten empfangen\n
+ Klicken, um die Farben der Graphen einzustellen
+ VM-Beginn
+ VM-Versatz
+ Privat - verändert
+ Gemeinsam - unverändert
+ Gemeinsam - verändert
+ Speicherabbild
+ Datei
+ IPv6-Netzwerkverbindung
+ Unbekannter Typ
+ FD
+ Solaris-Modus für die CPU-Prozentanzeige
+ Zeit in Millisekunden zwischen den Aktualisierungen der Prozessliste
+ Zeit in Millisekunden zwischen den Aktualisierungen der Graphen
+ Legt fest, ob Informationen über alle Dateisysteme angezeigt werden sollen
+ Zeit in Millisekunden zwischen den Aktualisierungen der Geräteliste
+ Bestimmt welche Prozesse angezeigt werden sollen.
+ Speichert den momentan angezeigten Reiter
+ CPU-Farben
+ Farbvorgabe für den Graph des Auslagerungsspeichers
+ Einheit des gesamten Netzwerkverkehrs separat festlegen
+ Speicher und Auslagerungsspeicher in IEC anzeigen
+ Sortierungsspalte der Prozessliste
+ Spaltensortierung der Prozessliste
+ Spalte »Prozessname« beim Start anzeigen
+ Breite der Spalte »Benutzer«
+ Spalte »Benutzer« beim Start anzeigen
+ Breite der Spalte »Status«
+ Spalte »Status« beim Start anzeigen
+ Breite der Spalte »Nicht auslagerbarer Speicher«
+ Spalte »Nicht auslagerbarer Speicher« beim Start anzeigen
+ Spalte »Schreibbarer Speicher« beim Start anzeigen
+ Breite der Spalte »Geteilter Speicher«
+ Spalte »Geteilter Speicher« beim Start anzeigen
+ Breite der Spalte »X-Server-Speicher«
+ Spalte »X-Server-Speicher« beim Start anzeigen
+ Breite der Spalte »CPU-Zeit«
+ Spalte »Gestartet« beim Start anzeigen
+ Breite der Spalte »Nice-Wert«
+ Spalte »Nice-Wert« beim Start anzeigen
+ Breite der Spalte »Kennung«
+ Spalte »Kennung« beim Start anzeigen
+ Breite der Spalte »Befehlszeile«
+ Spalte »Befehlszeile« des Prozesses beim Start anzeigen
+ Breite der Spalte »Benutzer«
+ Spalte »Speicher« beim Start anzeigen
+ Breite der Prozessspalte »Kontrollgruppe«
+ Prozessspalte »Kontrollgruppe« beim Start anzeigen
+ Spalte »Einheit« beim Start anzeigen
+ Breite der Spalte »Sitzung«
+ Breite der Prozessspalte »Sitz«
+ Prozessspalte »Sitz« beim Start anzeigen
+ Spalte »Gerätelesevorgänge gesamt« des Prozesses beim Start anzeigen
+ Spalte »Geräteschreibvorgänge gesamt« des Prozesses beim Start anzeigen
+ Spalte »Gerätelesevorgänge« des Prozesses beim Start anzeigen
+ Breite der Spalte »Geräteschreibvorgänge« des Prozesses
+ Breite der Spalte »Priorität« des Prozesses
+ Spalte »Priorität« des Prozesses beim Start anzeigen
+ Sortierungsspalte der Geräteansicht
+ Sortierungsreihenfolge der Geräteansicht
+ Spalte »Ordner« in der Geräteansicht beim Start anzeigen
+ Spalte »Typ« in der Geräteansicht beim Start anzeigen
+ Spalte »Gesamt« in der Geräteansicht beim Start anzeigen
+ Breite der Spalte »Frei« in der Geräteansicht
+ Spalte »Frei« in der Geräteansicht beim Start anzeigen
+ Breite der Spalte »Verfügbar« in der Geräteansicht
+ Spalte »Benutzt« in der Geräteansicht beim Start anzeigen
+ Sortierungsspalte des Speicherabbilds
+ Sortierungsreihenfolge des Speicherabbilds
+ Sortierungsspalte der geöffneten Dateien
+ Sortierungsreihenfolge der geöffneten Dateien
+ Symbol
+ Durch Beenden eines Prozesses können Daten zerstört, die laufende Sitzung unterbrochen oder ein Sicherheitsrisiko erzeugt werden. Es sollten nur Prozesse beendet werden, die nicht mehr reagieren.
+[0] Prozess anhaltenmsgstr[1] Prozesse anhalten
+ Hinweis:
+ Der Nice-Wert eines Prozesses legt dessen Priorität fest, wobei ein kleiner Nice-Wert einer hohen Priorität entspricht.
+ N/V
+ Prozessname
+ Status
+ X-Server-Speicher
+ CPU-Zeit
+ Gestartet
+ Priorität
+ Kennung
+ Sicherheitskontext
+ Waiting Channel
+ Einheit
+ Sitzung
+ Benutzer
+ Gerätelesevorgänge gesamt
+ Gerätelesevorgänge
+ Geräteschreibvorgänge
+ Anwenden
+ Läuft
+ Schläft
+ Sehr hohe Priorität
+ Hohe Priorität
+ Adwaita dunkel
+ Hoher Kontrast
+ Virtualisierung einfach gemacht
+ Wählen Sie ein Betriebssystem. Boxen wird es herunterladen und in einer virtuellen Maschine installieren.
+ Ein frei verfügbares Betriebssystem herunterladen.
+ Schränken Sie die Ressourcen (Arbeitsspeicher und Speicher) ein, die virtuelle Maschinen auf Ihrem Rechner belegen.
+ 3D-Beschleunigung für einige der unterstützten Betriebssysteme.
+ Die Zwischenablage mit Ihrem System und der virtuellen Maschine gemeinsam verwenden.
+ Teilen Sie Dateien mit virtuellen Maschinen, indem Sie diese von der Dateiverwaltung in das »Boxen«-Fenster ziehen.
+ Das GNOME-Projekt
+ Ausführen und Verwalten von virtuellen Maschinen
+ Intervall für Bildschirmfotos
+ Fensterposition
+ Fensterposition (x und y)
+ Fenster maximiert
+ Maximierungszustand des Fensters
+ Erste Ausführung
+ Freigegebene Ordner
+ Variablenfeld aus den Namen freigegebener Ordner und deren Pfaden
+ Willkommen bei Boxen
+ Klicken Sie auf den <b>+</b>-Knopf, um Ihre erste virtuelle Maschine zu erstellen.
+ Unbekanntes Medium
+ Nach einem Betriebssystem suchen oder einen Download-Link eingeben …
+ Boxen konnte das Betriebssystem in der Abbilddatei nicht identifizieren.
+ Eine neue virtuelle Maschine wird erstellt und ein Betriebssystem darauf installiert. Wählen Sie zunächst die Quelle für das Betriebssystem aus.
+ Eine virtuelle Maschine aus einer Datei erstellen
+ Ein Betriebssystem herunterladen
+ Vorbereitung läuft …
+ Überprüfen und Erstellen
+ Die Virtualisierungs-Erweiterungen sind auf Ihrem System nicht verfügbar. Prüfen Sie bitte Ihre BIOS-Einstellungen und aktivieren Sie diese.
+ Benutzername
+ Passwort
+ Express-Installation
+ Neu
+ Tabellenansicht
+ Bereit zum Dateiempfang
+ Sie werden Ihre Datei im Download-Ordner finden.
+ Aktionen
+ Tastenkombinationen
+ Vollbild
+ Hauptmenü öffnen
+ Tastenkombinationen
+ Fenster schließen/Boxen beenden
+ Box-Erstellung und Eigenschaften
+ Box-Anzeige
+ Tastatur ankoppeln/loslösen
+ Zurück zur Übersicht
+ Vollbildmodus ein- oder ausschalten
+ Tastenkombinationen
+ Hilfe
+ Info zu Boxen
+ Kein CD-ROM/DVD-Abbild
+ Entfernen
+ USB-Geräte
+ Ressourcen
+ Name
+ IP-Adresse
+ CPUs
+ 3D-Beschleunigung
+ Den Betrieb im Hintergrund erlauben
+ Einrichtung
+ Fehlerdiagnose-Protokolle
+ Einstellungen bearbeiten
+ Lokaler Ordner
+ Auf Schnappschuss zurückfallen
+ Schnappschuss löschen
+ Schnappschüsse
+ Wählen Sie die Express-Installation, um die Box mit optimalen Einstellungen vorab zu konfigurieren.
+ Produktschlüssel
+ Boxen ermöglicht einfaches Installieren und Ausführen virtueller Maschinen.
+ Bei der Express-Installation legt Boxen die Einstellungen bei der Erstellung einer neuen virtuellen Maschine für Sie fest. Starten Sie einfach die Installation - alles weitere wird Ihnen abgenommen.
+ Ziehen und ablegen
+ Box-Aktionen
+ Bildschirmfoto aufnehmen
+ Herunterfahren erzwingen
+ Neu starten
+ Eine einfache Anwendung für GNOME 3 zum Zugriff auf virtuelle Maschinen
+ Versionsnummer anzeigen
+ Im Vollbildmodus öffnen
+ Box mit UUID öffnen
+ Suchtext
+ Anzuzeigende Adresse, System-Vermittler oder Installationsmedium
+ Zu viele Befehlszeilen-Argumente angegeben.\n
+ Abbrechen
+ Öffnen
+ Ein Gerät oder eine ISO-Datei wählen
+ Öffnen
+ Vorherige
+ Live
+ x86-System (32 Bit)
+ x86-System (64 Bit)
+ Medien werden heruntergeladen
+ Installation
+ System
+ Strg + Alt + Löschtaste
+ Strg + Alt + Entf
+ Strg + Alt + F1
+ Strg + Alt + F2
+ Strg + Alt + F7
+ Tastenkombinationen weiterleiten
+ Angehalten
+ Ausgeschaltet
+ Maschine wird derzeit erstellt
+ Speichern …
+ Fehlerdiagnose-Protokoll
+ Boxen möchte eine VM im Hintergrund ausführen
+ Die Flatpak-Version von GNOME Boxen unterstützt keine USB-Umleitung.
+ Möchten Sie die Einstellungen öffnen, um Anwendungsberechtigungen zu verwalten?
+ Die Konfiguration Ihrer Box zu ändern, könnte zu Fehlern in deren Betriebssystem führen. Möchten Sie einen Schnappschuss erstellen, um die Änderungen rückgängig machen zu können?
+ Verwenden Sie den Knopf unten, um Ihren ersten Schnappschuss anzulegen.
+ Es ist nicht genug Speicherplatz auf Ihrem System, um die maximale Laufwerksgröße zu erhöhen.
+ Datenspeicher-Laufwerk
+ Unbekannt
+ Ein Fehler trat während der Installationsvorbereitung auf. Die Express-Installation wird deaktiviert.
+ Gerätetreiber werden heruntergeladen …
+ Ist SELinux installiert?
+ Die »gnome-boxes«-Speicherpool-Informationen konnten nicht von libvirt geholt werden. Stellen Sie sicher, dass »virsh -c qemu:///session pool-dumpxml gnome-boxes« läuft.
+ Unzulängliches Wirtssystem
+ Energiestatistiken können Verlaufsdaten und aktuelle Akkuinformationen anzeigen sowie Programme, die Energie benötigen und den Rechner aufwecken.
+ Legt fest, ob Datenpunkte in der Verlaufsgrafik angezeigt werden sollen
+ Der vorgegebene Typ des Graphen zur Anzeige des Verlaufs
+ Die maximale Zeitspanne zur Darstellung der Chronik
+ Legt fest, ob Datenpunkte für die Statistik im Statistikfenster angezeigt werden sollen.
+ Der vorgegebene Typ des Graphen zur Anzeige im Statistikfenster.
+ Der Index der Seitennummer, die als Vorgabe angezeigt werden soll
+ Der Bezeichner des letzten Gerätes, der zum Zurücksetzen des Fokus auf das korrekte Gerät verwendet wird.
+ Akku;Verbrauch;Ladung;
+ Ladung
+ Zeit bis vollständig geladen
+ 3 Stunden
+ 8 Stunden
+ 1 Woche
+ Ladeprofil
+ Entladeprofil
+ Ladegenauigkeit
+[0] Laptop-Akkumsgstr[1] Laptop-Akkus
+[0] Monitormsgstr[1] Monitore
+[0] Mausmsgstr[1] Mäuse
+[0] Tastaturmsgstr[1] Tastaturen
+[0] PDAmsgstr[1] PDAs
+[0] Mobiltelefonmsgstr[1] Mobiltelefone
+ Lithium-Ionen (Li-Ion)
+ Lithium-Polymer (LiPo)
+ Bleiakku (Pb)
+ Leer
+ Geladen
+ Wartet auf Aufladung
+ Attribut
+ Wert
+ Ja
+ Nein
+ Gerät
+ Typ
+ Hersteller
+ Modell
+ Versorgung
+ Wiederaufgefrischt
+ Zustand
+ Energie
+ Energie wenn entladen
+ Energie (Design)
+ Spannung
+ Prozentanteil
+ Kapazität
+ Technik
+ Online
+ Gerätechronik
+ Vorausberechnete Zeit
+ Vorhersagegenauigkeit
+ Details
+ Graph:
+ Datenlänge:
+ Keine Daten zum Anzeigen vorhanden.
+ Geglättete Linie verwenden
+ Datenpunkte anzeigen
+ Statistiken
+ Aus einer leeren Zwischenablage kann nicht gelesen werden.
+ Es ist keine EGL-Konfiguration verfügbar
+ Keine EGL-Konfiguration mit den benötigten Eigenschaften gefunden
+ Keine perfekte EGL-Konfiguration gefunden
+ EGL-Display konnte nicht erzeugt werden
+ Keine kompatiblen Formate zum Übertragen des Inhalts.
+ Die EGL-Implementierung unterstützt keine der erlaubten APIs
+ Eingabe
+ Pause
+ Rollen
+ S-Abf
+ Esc
+ Pos1
+ Links
+ Runter
+ Bild ab
+ Pos1
+ Pos1 (Nmblck)
+ Bild auf (Nmblck)
+ Entf (Nmblck)
+ Entf
+ Monitorhelligkeit erhöhen
+ Monitorhelligkeit senken
+ Tastaturhelligkeit erhöhen
+ Stumm schalten
+ Nächster Titel
+ Vorheriger Titel
+ Aufnahme starten
+ AudioMedia
+ Auswerfen
+ Dateiverwaltung
+ Taschenrechner
+ Search
+ Werkzeuge
+ Batterie
+ Zurück
+ Bereitschaft
+ Ruhezustand
+ WebCam
+ Anzeige
+ Touchpad umschalten
+ Aufwecken
+ In Bereitschaft versetzen
+ ein geschlossener Datenstrom wird geschrieben
+ GlobalReAlloc() ist fehlgeschlagen: 
+ Ein einzelner Handle kann nicht umgewandelt werden
+ GlobalAlloc() ist fehlgeschlagen: 
+ Die Zwischenablagenverwaltung konnte die Auswahl nicht speichern.
+ GLX wird nicht unterstützt
+ Nicht genug Platz am Zielort
+ Ungültige Bytefolge in Konvertierungseingabe
+ Unzulässige Formate in verbundener Textumwandlung.
+ Schaltet den Schalter um
+ Aktiviert die Farbe
+ Passt die Farbe an
+ Aktiviert den Ausklapper
+ Aktiviert den Eintrag
+ Primäres Symbol aktivieren
+ Aktiviert das primäre Symbol des Eintrags
+ Sekundäres Symbol aktivieren
+ Zeigt den Inhalt des Passworteintrags
+ Löschen
+ Anwendung
+ Lizenz
+ GNU General Public License, Version 2 oder neuer
+ GNU General Public License, Version 3 oder neuer
+ GNU Lesser General Public License, Version 2.1 oder neuer
+ GNU Lesser General Public License, Version 3 oder neuer
+ BSD 2-Clause Lizenz
+ Artistic License 2.0
+ GNU Affero General Public License, nur Version 3
+ BSD 3-Klausel-Lizenz
+ Apache Lizenz Version 2.0
+ Mozilla Public License 2.0
+ Webseite
+ Erstellt von
+ Dokumentation von
+ Übersetzung von
+ Design von
+ Umschalt
+ Strg
+ Alt
+ Super
+ Hyper
+ NB
+ Leertaste
+ Warnung
+ Warnungsdialog
+ Banner
+ Knopf
+ Ankreuzfeld
+ Auswahlfeld
+ Befehl
+ Zusammengesetzt
+ Formular
+ Gruppe
+ Überschrift
+ Beschriftung
+ Legende
+ Verknüpfung
+ Primär
+ Mathematik
+ Menüleiste
+ Menüeintrag
+ Menüeintrag Ankreuzfeld
+ Navigation
+ kein
+ Option
+ Auswahlknopf
+ Auswahlknopf-Gruppe
+ Bereich
+ Bereich
+ Zeile
+ Zeilenüberschrift
+ Bildlaufleiste
+ Suchfeld
+ Abschnitt
+ Abschnittsüberschrift
+ Auswählen
+ Trenner
+ Schalter
+ Reiter
+ Tabelle
+ Textfeld
+ Werkzeugleiste
+ Minihilfe
+ Baum-Tabelle
+ Andere Anwendung …
+ Anwendung auswählen
+ Starten von GNOME Software schlug fehl
+ Standard-Anwendung
+ Zugehörige Anwendungen
+ Weitere Anwendungen
+ Kein Grund angegeben
+ calendar:MY
+ %Y
+ Ausgeschaltet
+ Ungültig
+ Neue Tastenkombination …
+ Sehr dunkles Blau
+ Helles Grün
+ Sehr helles Gelb
+ Dunkles Orange
+ Helles Rot
+ Rot
+ Sehr dunkles Rot
+ Helles Violett
+ Dunkles Braun
+ Sehr dunkles Braun
+ Weiß
+ Dunkelgrau 1
+ Dunkelgrau 2
+ Dunkelgrau 3
+ Dunkelgrau 4
+ Benutzerdefiniert
+ Anpassen
+ Schließen
+ Benutzerdefinierte Größen verwalten
+ Zoll
+ Breite:
+ Oben:
+ Links:
+ Rechts:
+ Papierränder
+ Emoticon einfügen
+ Eine Datei darf nicht ».« genannt werden
+ Ein Ordner darf nicht »..« benannt werden
+ Dateinamen dürfen »/« nicht enthalten
+ Dateinamen sollten nicht mit einem Leerzeichen enden
+ Ordnernamen, die mit ».« beginnen, sind verborgen
+ Ein Ordner gleichen Namens ist bereits vorhanden
+ Eine Datei gleichen Namens ist bereits vorhanden
+ Öffnen
+ Versuchen Sie, einen kürzeren Namen zu verwenden.
+ Ungültiger Dateiname
+ Die Datei kann nicht in den Papierkorb verschoben werden
+ Löschen
+ Datei konnte nicht ausgewählt werden
+ Mit Dateiverwaltung öffnen
+ Verborgene Dateien anzeigen
+ Spalte »Typ« anzeigen
+ Ordner vor Dateien anzeigen
+ Suchen
+ Letzte Änderung
+ %H:%M
+ %-e. %b
+ %-e. %b %Y
+ Schrift
+ Grafik
+ Dokument
+ Präsentation
+ Tabellendokument
+ Unbekannt
+ Sie haben keinen Zugriff auf den angegebenen Ordner.
+ Wählen Sie eine Schrift
+ Keine
+ Breite
+ Optische Größe
+ Standard
+ Ligaturen
+ Groß-/Kleinschreibung
+ Zahlenschreibweise
+ Zahlenabstand
+ Zahlenformatierung
+ Zeichenvarianten
+ Erstellen des OpenGL-Kontexts ist gescheitert
+ Ausschneiden
+ Kopieren
+ Einfügen
+ Verknüpfung öffnen
+ Ungültige Adresse
+ Dialog ist entsperrt.\nKlicken Sie, um Ände-\nrungen zu verhindern
+ Dialog ist gesperrt.\nKlicken Sie für\nÄnderungen
+ default:LTR
+ Verbinden
+ Anonym verbinden
+ Versteckt
+ Passwort sofort vergessen
+ Terminal-Pager
+ Oberster Befehl
+ Bourne-Again-Shell
+ Reiter-Liste
+ Reiter
+ Keine gültige Seiteneinstellungs-Datei
+ Benutzerdefinierte Größen verwalten …
+ Beliebiger Drucker
+ Für portable Dokumente
+ Text anzeigen
+ Feststelltaste ist aktiviert
+ Text anzeigen
+ Zuletzt verwendet
+ Zuletzt verwendete Dateien
+ Andere Orte
+ In neuem Fenster öffnen
+ Lesezeichen hinzufügen
+ Einhängen
+ Auswerfen
+ Starten
+ Laufwerk verbinden
+ Laufwerk trennen
+ Multimedienlaufwerk stoppen
+ Rechner
+ Keine Netzwerkorte gefunden
+ Zugriff auf den Ort ist nicht möglich
+ Verbinden
+ AppleTalk
+ Network File System
+ SSH File Transfer Protocol
+ sftp:// oder ssh://
+ dav:// oder davs://
+ Verbinden
+ Entfernter Server-Ort kann nicht ermittelt werden
+ Netzwerke
+ Trennen
+ Passwort behalten
+ Dateiname auswählen
+ Nicht verfügbar
+ Drucken wird vorbereitet
+ Daten werden gesendet
+ Warten
+ Blockiert wegen Problem
+ Drucken
+ Abgeschlossen mit Fehler
+ Anwendung
+ Kein Papier mehr
+ Pausiert
+ Benutzerdefinierte Größe
+ Ungültiges Argument für CreateDC
+ Fehler von StartDoc
+ Unbekannter Fehler
+ Drucken
+ Links nach rechts, unten nach oben
+ Oben nach unten, links nach rechts
+ Oben nach unten, rechts nach links
+ L
+ Zweifinger-Stauchen
+ Im Uhrzeigersinn drehen
+ Nach links wischen
+ Nach rechts wischen
+ Suchergebnisse
+ Wiederholen
+ Stumm
+ Diese Meldung nicht mehr anzeigen
+ Fenster minimieren
+ Fenster maximieren
+ Schließen
+ Wiederherstellen
+ Objektpfad
+ Aktivieren
+ Parametertyp
+ Zum Laden die Maus hier positionieren
+ lokal
+ Primär
+ Keine
+ Blase
+ Ziel
+ Sie können hier beliebige von GTK erkannte CSS-Regeln eingeben.
+ Dieses eigene CSS deaktivieren
+ Stilklassen
+ Deaktiviert
+ GTK-Version
+ Pango-Schriftzuweisung
+ Medien-Backend
+ Eingabemethode
+ Ressourcenpfad
+ GL-Hersteller
+ Vulkan API-Version
+ Vulkan Treiber-Version
+ Unbenannter Abschnitt
+ Ziel
+ Buildable ID
+ Anfragemodus
+ Grundlinie
+ Bilderuhr
+ Markier-Rückmeldung
+ Abgebildet
+ Oberste Ebene
+ Sichtbares Unterelement
+ Attribut:
+ Spalte:
+ Standard
+ Thema
+ XSettings
+ Unbekannt
+ Definiert bei
+ Einzelbilder aufnehmen
+ Gewählten Knoten speichern
+ In die Zwischenablage kopieren
+ Eigenschaft
+ Größe
+ Name:
+ Typ:
+ Keiner
+ Horizontal
+ Vertikal
+ Modus
+ GLib muss mit --Dbuildtype=debug konfiguriert werden
+ Kumulativ 1
+ Kumulativ 2
+ Selbst
+ Implementiert
+ GL-Darstellung ist deaktiviert
+ Dunkle Variante
+ Zeiger-Thema
+ Symbol-Thema
+ Textrichtung
+ Rechts nach links
+ Animationen
+ Grafikaktualisierungen zeigen
+ Grundlinie zeigen
+ Layout-Ränder anzeigen
+ CSS-Auffüllung
+ CSS-Rand
+ Widget-Überstand
+ Fokus anzeigen
+ Wählen Sie ein Objekt
+ Details anzeigen
+ Alle Objekte zeigen
+ Alle Ressourcen anzeigen
+ Statistiken sammeln
+ Aktionsstatus aktualisieren
+ Nächstes Geschwister
+ CSS-Knoten
+ Gruppengröße anpassen
+ Aktionen
+ Barrierefreiheit
+ Global
+ Ressourcen
+ Auf alle Alternativen zugreifen
+ Ersetzungen über der Grundlinie
+ Alternative Brüche
+ Akhands
+ Diakritika-Positionierung unter der Grundlinie
+ Ersetzungen unter der Grundlinie
+ Groß-/Kleinschreibungsabhängige Formen
+ Zusammensetzung / Zerlegung von Glyphen
+ Verbundene Formen
+ Kontextbedingte Ligaturen
+ Spationierung von Großbuchstaben
+ Kontextbedingter Zierbuchstabe
+ Kursive Positionierung
+ Kapitälchen von Großbuchstaben
+ Nenner
+ Experten-Formen
+ Brüche
+ Vollbreiten
+ Halant-Formen
+ Historische Ligaturen
+ Hangul
+ Initiale Formen
+ Isolierte Formen
+ Kursiv
+ JIS78-Formen
+ JIS83-Formen
+ Standard-Ligaturen
+ Führende Jamo-Formen
+ Lokalisierte Formen
+ Mediale Formen
+ Diakritikum-zu-Diakritikum-Positionierung
+ Diakritika-Positionierung durch Ersetzung
+ Alternative Formen für Anmerkungen
+ Nukta-Formen
+ Zähler
+ Mediävalziffern
+ Ordinalzeichen
+ Kleine Kapitälchen
+ Proportionalziffern
+ Ersetzungen vor der Grundlinie
+ Formen nach der Grundlinie
+ Ersetzungen nach der Grundlinie
+ Viertelbreiten
+ Erforderliche kontextbedingte Alternativen
+ Reph-Formen
+ Rechte Grenzen
+ Gespiegelte Rechts-nach-links-Alternativen
+ Formen in der Ruby-Notation
+ Optische Größe
+ Kapitälchen
+ Stilistisches Set 3
+ Stilistisches Set 4
+ Stilistisches Set 5
+ Stilistisches Set 6
+ Stilistisches Set 7
+ Stilistisches Set 9
+ Stilistisches Set 13
+ Stilistisches Set 18
+ Stilistisches Set 19
+ Stilistisches Set 20
+ Alternativen für mathematische Skripte
+ Gestreckte Zerlegung von Glyphen
+ Tiefstellung
+ Zierbuchstabe
+ Abschließende Jamo-Formen
+ Traditionelle Namens-Formen
+ Vattu-Varianten
+ Alternative vertikale Halbmetriken
+ Vertikale Kana-Alternativen
+ Vertikales Kerning
+ Proportionale alternative vertikale Metriken
+ Vertikale Alternativen mit Rotation
+ Vertikale Alternativen für Rotation
+ A0
+ A2
+ A2×3
+ A3
+ A3×6
+ A3×7
+ A4
+ A4 Tab
+ A4×3
+ A4×4
+ A4×5
+ A4×7
+ A4×8
+ A8
+ B1
+ B3
+ B4
+ B5 Extra
+ B6/C4
+ B7
+ B8
+ C2
+ C4
+ C5
+ C6/C5
+ C9
+ RA2
+ RA4
+ SRA0
+ SRA2
+ SRA3
+ SRA4
+ JB1
+ JB3
+ JB7
+ JB8
+ Choukei 2-Umschlag
+ Choukei 3-Umschlag
+ Choukei 4-Umschlag
+ Choukei 40-Umschlag
+ kahu-Umschlag
+ kaku7-Umschlag
+ kaku8-Umschlag
+ oufuku (Antwortpostkarte)
+ you4-Umschlag
+ 10×11
+ 10×13
+ 10×15
+ 11×12
+ 5×7
+ 6x9-Umschlag
+ 9x11-Umschlag
+ 9x12-Umschlag
+ Arch C
+ b-plus
+ c5-Umschlag
+ Europäisches edp
+ f
+ Endlospapier Europäisch
+ Endlospapier Amerikanisch
+ Endlospapier Deutsch-Legal
+ Government-Legal
+ Government-Letter
+ Index 3x5
+ Index 4x6 (Postkarte)
+ Rechnung
+ Tabloid
+ US-Letter Extra
+ Oficio
+ Quarto
+ Super B
+ Weites Format
+ Invite-Umschlag
+ Italien-Umschlag
+ Großes Foto
+ Mittelgroßes Fotos
+ pa-kai
+ Postfix-Umschlag
+ Breites Foto
+ prc1-Umschlag
+ prc2-Umschlag
+ prc4-Umschlag
+ prc6-Umschlag
+ prc7-Umschlag
+ prc8-Umschlag
+ ROC 16k
+ Einstellungen
+ Dienste
+ Alle anzeigen
+ Ungerade Seiten
+ Querformat
+ Kopfstehendes Hochformat
+ Kopfstehendes Querformat
+ Nicht unterstützter Video-Codec
+ Benutzername:
+ Aufträge werden abgewiesen
+ ; 
+ Papierart
+ Papiereinzug
+ Ausgabeschacht
+ Auflösung
+ GhostScript-Vorfilterung
+ Einseitig
+ Kurzer Rand (Umdrehen)
+ Erweitert
+ Einseitig
+ Langer Rand (Vorgabe)
+ Oberer Bin
+ Mittlerer Bin
+ Seiten-Bin
+ Mittlerer Bin
+ Bin nach unten
+ Hoch
+ Mittel
+ Priorität
+ Abrechnungsinfo
+ Vertraulich
+ Geheim
+ Standard
+ Unklassifiziert
+ Seiten pro Blatt
+ Drucken um
+ Drucken zu Uhrzeit
+ PDF
+ Seiten pro Blatt:
+ In diesen Ordner anstatt »cwd« ausgeben
+ Fehlerdiagnose-Ausgabe erzeugen
+ ANWENDUNG [URI …] – eine ANWENDUNG starten
+ Eine durch deren desktop-Datei angegebene Anwendung starten\nund optional eine oder mehrere URIs als Argumente übergeben.
+ Nicht auf Existenz von index.theme überprüfen
+ Bilddaten nicht in Cache einbinden
+ Bilddaten in Zwischenspeicher einbinden
+ C-Header-Datei ausgeben
+ Client für Cisco-IPsec virtuelle private Netze
+ Kompatibel mit Cisco-VPN-Konzentratoren, die für den Einsatz von IPsec konfiguriert sind.
+ Die Entwickler von NetworkManager
+ Gruppenpasswort:
+ VPN legitimieren
+ Gruppenpasswort:
+ Cisco-kompatibler VPN-Client (vpnc)
+ Sicher (Vorgabe)
+ Schwach (mit Vorsicht zu verwenden)
+ Keine (komplett unsicher)
+ Cisco (Vorgabe)
+ Netscreen
+ NAT-T wenn verfügbar (Vorgabe)
+ Immer NAT-T
+ Cisco-UDP
+ DH-Gruppe 2 (Voreinstellung)
+ DH-Gruppe 5
+ vpnc unterstützt keine interaktiven Anfragen
+ Die neuen Sicherheitsschlüssel konnten nicht verwendet werden, da der interaktive Modus deaktiviert ist.
+ Aufgrund ungültiger VPN-Verbindungseinstellungen konnte die Anfrage nicht verarbeitet werden.
+ nm-vpnc-service integriert Cisco Legacy IPsec-VPN-Funktionalität in NetworkManager.
+ Allgemein
+ Passwörter anzeigen
+ Gruppenpasswort\nconfig: IPSec secret <Gruppenpasswort>
+ Gruppenname\nconfig: IPSec ID <Gruppenname>
+ Benutzerpasswort
+ Benutzername
+ Hybrid-Authentifizierung verwenden
+ Hybrid-Authentifizierung zulassen, Zertifikat zusätzlich zum Passwort benutzen.\nconfig: IKE Authmode hybrid
+ Erweitert …
+ Identifikation
+ (NT-)Domainname für Authentifizierung\nconfig: Domain <domain>
+ Hersteller
+ Version
+ Lokaler Port
+ IKE DH-Gruppe
+ NAT-Traversal
+ Zu verwendender lokaler ISAKMP-Port (0 bedeutet zufälliger Port; 500 ist der Standardport von vpnc)\nconfig: Local Port <0-65535>
+ Für PFS zu verwendende Diffie-Hellman-Gruppe\nconfig: Perfect Forward Secrecy <nopfs/dh1/dh2/dh5/server>
+ Name der IKE-DH-Gruppe\nconfig: IKE DH Group <dh1/dh2/dh5>
+ Zu benutzende NAT-Traversalmethode\nconfig: NAT Traversal Mode <natt/none/force-natt/cisco-udp>
+ Verschlüsselungsmethode\nconfig: nichts für Sicher, »Enable Single DES« für Weich, »Enable no encryption« für Keine
+ Verschlüsselungsmethode
+ Videos
+ Videos wiedergeben
+ Videos enthält zusätzliche Funktionen wie das Herunterladen von Untertiteln, Änderung der Wiedergabegeschwindigkeit, Erstellung von Bildschirmfoto-Galerien und Unterstützung zur Aufnahme von DVDs.
+ Video;Film;Clip;Serien;Player;Wiedergabe;DVD;TV;CD;Totem;Fernsehen;
+ Der Kontrast des Videos
+ Die Sättigung des Videos
+ Legt fest, ob das Deinterlacing für aus Halbbildern bestehende Videos deaktiviert werden soll
+ Zu verwendender Audio-Ausgabetyp
+ Größe des anzulegenden Zwischenspeichers für Netzwerk-Streams, bevor der Stream wiedergegeben wird (in Sekunden)
+ Zeichenkodierung für Untertitel.
+ Voreingestellter Ort des »Öffnen …«-Dialogs
+ Voreingestellter Ort des »Öffnen …«-Dialogs, Vorgabe ist der momentane Ordner.
+ Voreingestellter Ort des »Bildschirmfoto aufnehmen …«-Dialogs
+ Legt fest, ob Untertitel beim Laden eines Filmes automatisch geladen werden sollen
+ Liste aktiver Erweiterungen
+ Eine Liste der Namen von Erweiterungen, die derzeit aktiv sind (geladen und in Ausführung).
+ Anzuzeigende Ordner
+ Stereo
+ 4-Kanal
+ Untertitel laden, sobald ein Video geladen wird
+ Untertitelschrift auswählen
+ Erweiterungen
+ Erweiterungen …
+ Allgemein
+ Farbabgleich
+ Kontrast:
+ Sättigung:
+ Farbton:
+ Audio-Ausgabetyp:
+ Eigenschaften
+ Beenden
+ Lautstärke erhöhen
+ Stumm schalten/Stummschaltung aufheben
+ Ansicht
+ Vollbild ausschalten
+ Drehen ↷
+ Wiedergabe/Pause
+ Springen
+ 60 Sekunden vorwärts gehen
+ Schritt zurück zum vorherigen Einzelbild
+ Schritt vor zum nächsten Einzelbild
+ 5 Sekunden zurück gehen
+ 3 Minuten zurück gehen
+ Springen zu …
+ Nach oben
+ Nach unten
+ Nach links
+ Nach rechts
+ Tastenkürzel
+ Hilfe
+ Lokales Video hinzufügen …
+ Ansichtsverhältnis
+ Automatisch
+ 16:9 (Breitbild)
+ 2.11:1 (DVB)
+ Blickwinkel wechseln
+ Auswerfen
+ Untertitel
+ Text-Untertitel auswählen …
+ Titelmenü
+ Kameramenü
+ Abspielgeschwindigkeit
+ Bitte geben Sie die Adresse der zu öffnenden Datei ein:
+ Für den RTSP-Server wird ein Passwort angefordert
+ Die Quelle scheint verschlüsselt zu sein und kann nicht gelesen werden. Versuchen Sie, eine verschlüsselte DVD ohne libdvdcss wiederzugeben?
+ Der angegebene Film konnte nicht gefunden werden.
+ Unterstützung für SSL/TLS fehlt. Bitte überprüfen Sie Ihre Installation.
+ Der Film konnte nicht gelesen werden.
+ Die Datei, die Sie wiedergeben wollten, ist leer.
+ Dieser Datenstrom kann nicht abgespielt werden. Möglicherweise wird er von einer Firewall blockiert.
+ Einige benötigte Erweiterungen fehlen. Stellen Sie sicher, dass das Programm korrekt installiert ist.
+ --:--
+ Video-Vorschau
+ Dateiname
+ Dauer
+ Fehler beim Durchsuchen
+ Fehler beim Suchen
+ Bitte stellen Sie sicher, dass Totem korrekt installiert ist.
+ Klicken Sie auf Objekte, um diese auszuwählen
+ Zurück
+ Suche
+ Tonspur
+ Untertitel
+ Auto
+ Keine
+ Wiedergabe
+ Nächstes Kapitel/Film
+ Totem konnte nicht gestartet werden.
+ Wiedergabe/Pause
+ Vorheriger
+ Stummschalten
+ Vollbild ein- oder ausschalten
+ Beenden
+ In die Warteschleife
+ In die Warteschlange stellen und Ersetzen ist nicht gleichzeitig möglich
+ Schließen
+ Löschen
+ Arabisch
+ Baltisch
+ Chinesisch (vereinfacht)
+ Chinesisch (traditionell)
+ Kroatisch
+ Kyrillisch / Russisch
+ Griechisch
+ Hindi
+ Isländisch
+ Japanisch
+ Persisch
+ Südeuropäisch
+ Thai
+ Türkisch
+ Vietnamesisch
+ Untertitel-Dateien
+ Untertitel auswählen
+ Setzt den Sofortnachrichten-Status auf »Abwesend«, wenn ein Video abgespielt wird
+ MPRIS D-Bus-Schnittstelle
+ Benachrichtigungen über derzeit abgespielte Videos senden und entferntes Steuern mit MPRIS ermöglichen.
+ Ordner öffnen
+ Untertitel-Downloader
+ Nach Untertiteln für den gegenwärtig abgespielten Film suchen
+ Untertitel werden gesucht …
+ Untertitel werden heruntergeladen …
+ Es konnte keine Verbindung zur OpenSubtitles-Website aufgebaut werden
+ Es konnte keine Verbindung zur OpenSubtitles-Website aufgebaut werden.
+ Keine Suchergebnisse.
+ Format
+ Untertitel-Sprache:
+ Film-Eigenschaften
+ Menüeintrag für Filmeigenschaften hinzufügen
+ Titel:
+ Album:
+ Kommentar:
+ Container:
+ Abmessungen:
+ Bitrate:
+ Kanäle:
+ Unbekannt
+ Unbekannt
+ Unbekannt
+ Unbekannt
+ k.A.
+ k.A.
+ k.A.
+ k.A.
+ 0 Hz
+ rpdb2-Passwort
+ Python-Konsole
+ Totem Python-Konsole
+ Zuletzt verwendete Dateien
+ Drehungs-Erweiterung
+ Ermöglicht das Drehen von Videos, falls diese falsch ausgerichtet sind
+ Eine Kopie des gegenwärtig abgespielten Films speichern
+ »Dateien« ist nicht verfügbar.
+ Film
+ Deaktiviert den Bildschirmschoner bei Filmwiedergabe
+ Ein Video wird wiedergegeben
+ Breite des Bildschirmfotos (in Pixel):
+ Anzahl der Bildschirmfotos berechnen
+ Anzahl der Bildschirmfotos:
+ Stellt den »Springen zu«-Dialog bereit
+[0] Sekundemsgstr[1] Sekunden
+ Springen zu
+ Springen zu …
+ Normal
+ 1.25-fach
+ 1.5-fach
+ 1.75-fach
+ Variable Abspielgeschwindigkeit
+ Stellt ein Menü zur variablen Abspielgeschwindigkeit bereit
+ Richtet den Benutzeragenten für die Vimeo-Seite ein
+ Farbraum
+ Mit Alpha
+ Anzahl der Bit pro Farbanteil
+ Breite
+ Rowstride
+ Zeiger auf die Pixel-Daten eines Pixbuf
+ Pixel-Byte
+ Nicht genug Speicher, um Bild in Callback zu speichern
+ Fehler beim Schreiben in Bilddatenstrom
+ Gibt an, ob die Animation nach Beenden wiederholt werden soll
+ Bildvorspann unbrauchbar
+ Nicht genug Speicher, um Animation zu laden
+ Fehlerhafter Chunk in Animation
+ Vorspannlänge des BMP-Bildes wird nicht unterstützt
+ Topdown-BMP-Bilder können nicht komprimiert werden
+ Dateiende ist zu früh aufgetreten
+ Das Bild ist zu breit für das BMP-Format.
+ JPEG
+ TIFF
+ Metadatei konnte nicht geladen werden
+ Nicht unterstütztes Bildformat für GDI+
+ Es konnte nicht gespeichert werden
+ WMF
+ Nicht genug Speicher, um GIF-Bild zu laden
+ Datei scheint keine GIF-Datei zu sein
+ Daten in der GIF-Datei unvollständig (vielleicht wurden sie irgendwie verstümmelt?)
+ Das GIF-Bild wurde verstümmelt oder ist unvollständig.
+ MacOS X-Symbol
+ Komprimierte Symbole werden nicht unterstützt
+ Nicht unterstützter Symboltyp
+ Das ICO-Bild wurde verstümmelt oder ist unvollständig.
+ Zeiger-Hotspot außerhalb des Bilds
+ Höhe oder Breite des transformierten JPEGs beträgt null.
+ Die Bitanzahl pro Kanal des PNG-Bildes ist ungültig.
+ Bits pro Kanal des transformierten PNGs sind nicht 8.
+ Das transformierte PNG ist weder RGB noch RGBA.
+ Schwerer Fehler beim Lesen einer PNG-Bilddatei
+ PNM-Datei hat eine ungültige Breite
+ PNM-Datei hat eine ungültige Höhe
+ Bildhöhe der PNM-Datei beträgt 0
+ Roher PNM-Bildtyp ist ungültig
+ PNM-Bildlader unterstützt dieses PNM-Unterformat nicht
+ Rohe PNM-Formate verlangen genau einen Leerraum vor den Farbanteil-Daten
+ Deskriptor der Eingabedatei ist NULL.
+ QTIF-Header konnte nicht gelesen werden
+ GdkPixbufLoader-Objekt konnte nicht erstellt werden.
+ Farbtabelle konnte nicht bereitgestellt werden
+ Neuer Pixbuf konnte nicht angelegt werden
+ Das Falschfarben-Bild enthält keine Farbzuweisung
+ TGA-Vorspannspeicher konnte nicht bereitgestellt werden
+ Speicher für TGA-Kontextstruktur konnte nicht bereitgestellt werden
+ Targa
+ Bildbreite konnte nicht ermittelt werden (ungültige TIFF-Datei)
+ Bildhöhe konnte nicht ermittelt werden (ungültige TIFF-Datei)
+ Breite oder Höhe des TIFF-Bildes beträgt null
+ Abmessungen des TIFF-Bilds zu groß
+ Nicht genug Speicher, um TIFF-Datei zu öffnen
+ TIFF-Bild konnte nicht geöffnet werden
+ TIFF-Bild konnte nicht geladen werden
+ TIFF-Bild konnte nicht gespeichert werden
+ TIFF-Kompression bezieht sich nicht auf einen gültigen Codec.
+ TIFF-Daten konnten nicht gespeichert werden
+ XBM
+ Keine XPM-Vorspannzeilen gefunden
+ Ungültige XBM-Dateikopf
+ Breite der XPM-Bilddatei <= 0
+ Höhe der XPM-Bilddatei <= 0
+ Der zum Laden eines XPM-Bildes verwendete Speicher konnte nicht zugewiesen werden
+ XPM-Farbtabelle konnte nicht gelesen werden
+ Minen
+ Minesweeper;Mine;Spiel;Puzzle;
+ Kleines Spielfeld
+ Großes Spielfeld
+ Der Titel des zu verwendenden Spielsteinthemas.
+ Falls dieser Schlüssel wahr ist, ist es Ihnen gestattet, Quadrate als unbekannt zu markieren.
+ Legt fest, ob Kästchen automatisch als vermint markiert werden sollen, wenn genügend Kästchen aufgedeckt wurden
+ Legt fest, ob themenbasierte Übergangsanimationen abgeschaltet werden
+ Anzahl der Reihen des benutzerdefinierten Spielfeldes
+ Die Anzahl der Minen in einem benutzerdefinierten Spiel
+ Fenster und Spiel
+ Ein neues Spiel starten
+ Das Spiel mit den aktuellen Einstellungen neu starten
+ Hilfe anzeigen
+ Menü öffnen
+ Tastenkürzel anzeigen
+ Beenden
+ Auswahl der Spielgröße
+ Spielgröße: mittel
+ Im Spiel
+ Feld aufdecken
+ Fahnenstatus des Feldes umschalten
+ Breite
+ Abbrechen
+ Pause
+ Schwierigkeit verändern
+ Pausiert
+ Versionsnummer ausgeben und beenden
+ Mittelgroßes Spiel
+ Großes Spiel
+ Erscheinungsbild
+ Hilfe
+ Info zu Minen
+ Minenfeld:
+ Das aktuelle Spiel behalten
+ Von neuem beginnen
+ Fortsetzen
+ Noch einmal spielen
+ Explosive Minen vom Feld räumen
+ Thema auswählen
+ Nur das aktuelle Fenster statt der ganzen Arbeitsfläche aufnehmen. Dieser Schlüssel ist veraltet und wird nicht mehr verwendet.
+ Ordner, in dem Bildschirmfotos standardmäßig abgelegt werden.
+ Letzter Ordner für Bildschirmfotos
+ Ordner, in dem zuletzt Bildschirmfotos abgelegt wurden.
+ ICC-Profil einbeziehen
+ ICC-Profil mit in das Bildschirmfoto aufnehmen
+ Vorgabedateierweiterung
+ Vorgabedateierweiterung für Bildschirmfotos.
+ Bildschirmfoto des aktuellen Fensters aufnehmen
+ GNOME Bildschirmfoto
+ Abbrechen
+ Speichern
+ Ordner:
+ Bildschirmfoto aufnehmen
+ Aufnahmebereich
+ Bildschirm
+ Auswahl
+ 0
+ Info zu Bildschirmfoto
+ Bildschirmfoto konnte nicht aufgenommen werden
+ Es ist ein Fehler beim Erstellen der Datei aufgetreten. Bitte wählen Sie einen anderen Ordner und versuchen Sie es erneut.
+ Fehler beim Erstellen der Datei
+ Aufgenommenes Bildschirmfoto
+ Nur einen Bereich anstatt des gesamten Bildschirms aufnehmen
+ Die Fenstergrenzen aus dem Bildschirmfoto entfernen. Diese Option gilt als veraltet und Fenstergrenzen sind immer einbezogen
+ Bildschirmfoto erst nach der angegebenen Zeit aufnehmen [in Sekunden]
+ Optionen interaktiv festlegen
+ Dateiname
+ Versionsinformationen anzeigen und beenden
+ Bildschirmfoto.png
+ Fehler beim Laden der Hilfe
+ Verbunden
+ Verbindung trennen
+ Verbindung getrennt
+ UNBEKANNT
+ mehr …
+ Eigenschaft
+ Eigenschaften
+ Name
+ Name der Eigenschaft
+ Eigenschaftswert
+ Info
+ Ereignisse
+ Zeitstempel des Ereignisses
+ Anfragen
+ Anfragetyp
+ Anfrage des Typs: 
+ Position
+ Datengröße
+ Objektpfad
+ Puffer der Größe 
+ Daten senden
+ Nachrichtentyp
+ Nachrichten-Zeitstempel
+ Objekt
+ Stufe
+ Funktion
+ Nachricht
+ Protokollierstufe: 
+ Schwellenwert festlegen
+ Kategorie
+ (Auf »Aktualisieren«-Knopf drücken)
+ Nicht unterstützter Typ: 
+ Bearbeiten
+ Einstellungen …
+ Server
+ Info …
+ Protokollmeldungen
+ Bus-Meldungen
+ Löschen
+ Copyright (C) 2015 Marcin Kolny <marcin.kolny@gmail.com>
+ Spalten in Zeile: 
+ IP-Adresse:
+ GNOME Remote Desktop
+ status [--show-credentials] - Aktuellen Status anzeigen\n\nOptionen:\n --help - Diesen Hilfetext anzeigen\n
+ Wenn »wahr«, wird das RDP-Backend initialisiert.
+ Art der Bildschirmfreigabe bei RDP-Verbindungen
+ Pfad zur Zertifikatsdatei
+ Um RDP mit TLS-Sicherheit nutzen zu können, müssen sowohl die private Schlüsseldatei als auch die Zertifikatsdatei dem RDP-Server bereitgestellt werden.
+ Pfad zur privaten Schlüsseldatei
+ Entfernten Verbindungen lediglich das Ansehen des Bildschirminhalts erlauben
+ Legt fest, ob das VNC-Backend aktiviert ist oder nicht
+ Zur Authentifizierung von VNC-Verbindungen genutzte Methode
+ Uhrzeigerdrehung
+ Es sind insgesamt [people] Personen. [brothers] davon haben Brüder, [sisters] haben Schwestern und [both] haben beides. Wie viele Personen haben weder Brüder noch Schwestern?
+ Passwort
+ Jede Stelle hat 10 Möglichkeiten. Die Gesamtanzahl an Möglichkeiten ist 10 hoch [digits].
+ Tennis-Spiel
+ Zinseszinsen werden auf das Grundkapital plus sämtliche angesammelten Zinsen bezahlt.
+ Welche Zahl plus [numa] ist gleich [numb]?
+ Es ist das Ergebnis der Operation [numb] - [numa].
+ Welche Zahl minus [numa] ist gleich [numb]?
+ Welche Zahl multipliziert mit [numa] ist gleich [numb]?
+ Es ist das Ergebnis der Operation [numb] / [numa].
+ Welche Zahl dividiert durch [numa] ist gleich [numb]?
+ Es ist das Ergebnis der Operation [numa] * [numb].
+ Behälter
+ Schachtel
+ Palindromische Jahre
+ Dartscheibe
+ Nur drei der vier Zahlen in der Dartscheibe werden verwendet, um 120 Punkte hinzuzufügen.
+ Hebel
+ Berücksichtigen Sie den Archimedes zugeschriebenen Satz: »Gib mir einen Punkt, auf dem ich stehen kann, und ich werde die Welt aus den Angeln heben«.
+ Ein Hebel ist im Gleichgewicht, wenn sich darauf platzierte Objekte in Entfernungen umgekehrt proportional zu deren Gewichten befinden.
+ Vielfache Zahl
+ [optionprefix] [optiona] und [optionc]
+ [optionprefix] [optiona] und [optionb]
+ [optionprefix] [optionb] und [optionc]
+ [optionprefix] [optionc] und [optiond]
+ [optiona] und [optionb]
+ [optionprefix] s > p
+ [optionprefix] p < r
+ [optionprefix] p > r
+ [optionprefix] q = s
+ [optionprefix] r < q
+ [optionprefix] x * y
+ [optionprefix] x * y * 2
+ [optionprefix] (x - y) * 2
+ Der schwerere Lastwagen wiegt [heavier] und der leichtere [lighter].
+ Familien-Verwandtschaften
+ [optionprefix] Seine Mutter
+ Seine Mutter
+ Der Schwager von Johanns Mutters Bruder ist auch? Nehmen Sie nicht an, dass Johann Verwandte hat, die nicht erwähnt worden sind. [optionanswers]
+ Sein Vater
+ Der Durchschnitt dreier Zahlen ist [three]. Der Durchschnitt von zwei dieser Zahlen ist [two]. Wie lautet die dritte Zahl? [optionanswers]
+ Es ist das Ergebnis der Operation: [three] * 3) - ([two] * 2).
+ Geburtstag
+ [optionprefix] Nein
+ Sie wurde am 31. Dezember geboren und sagte das am 1. Januar.
+ Richtung
+ Ich gehe abends bei Sonnenschein nach Süden. An welcher Seite von mir fällt der Schatten? [optionanswers]
+ [optionprefix] Hinter mir
+ Wenn ich nach Süden gehe, dann befindet sich Osten links von mir und der Schatten fällt nach Osten.
+ Zwei Männer
+ Gemäß dem Satz des Pythagoras ist die Lösung 2 mal die Quadratwurzel von ([dista]^2 + [distb]^2).
+ Spiele, die Ihre logischen, verbalen und Kopfrechenfähigkeiten sowie Ihr Gedächtnis herausfordern
+ Klassisch
+ Notizbuch
+ Denken Sie daran, was in den jeweiligen Spielen verwendet wird.
+ Tennis
+ Radfahren
+ Es ist das einzige Spiel ohne Ball.
+ Huhn / Papagei
+ Pony / Pferd
+ Hund / Katze
+ Hunde und Pferde sind Arten, während Terrier und Ponys Rassen sind.
+ Das Wort »Taxidermist« wird verwendet, um eine Person zu beschreiben, die …
+ mit toten Tieren arbeitet
+ an einer Hautkrankheit leidet
+ simpel
+ Welches der folgenden Wörter kommt dem Wort »verurteilen« am nächsten?
+ Missbilligen
+ Verbergen
+ Ignorieren
+ Bohème
+ Missverstanden
+ Welcher der folgenden Sätze definiert am besten »Ostrakismos«?
+ Von der Gesellschaft verbannte Person
+ Verschwörer
+ Welches der folgenden Wörter bedeutet Angst vor Menschen?
+ Violine
+ Oboe
+ Sport
+ Säule
+ Es ist das einzige, das nichts mit Architektur zu tun hat.
+ Kilometer
+ Hektogramm
+ Gallone
+ Weintraube
+ Es ist das einzige, das keine Frucht ist.
+ Schildkröte
+ Krokodil
+ Es ist das einzige, das kein Reptil ist und auch keinen Schwanz besitzt.
+ Tiger
+ Wolf
+ Es ist das einzige Tier, das kein Fleischfresser ist.
+ Welches der folgenden Wörter kommt dem Wort »Hedonismus« am nächsten?
+ Schmerz
+ Abstinenz
+ Welches der folgenden Wörter kommt dem Wort »Askese« am nächsten?
+ Welches der folgenden Wörter kommt dem Wort »Oxymoron« am nächsten?
+ Synonym
+ Zugehörig
+ Linsen
+ Zwiebel
+ Litschi
+ Olive
+ Kohlenstoff
+ Natrium
+ Zink
+ Kardiologie
+ Hämatologie
+ Psychiatrie
+ Sorglos
+ Höflich
+ Die Nachlässigkeit besteht darin, dass man sich nicht ausreichend um etwas kümmert, wie man es eigentlich erwarten würde.
+ Regelmäßig
+ Gelegentlich
+ Ausnahmsweise
+ Selten
+ Die anderen Wörter haben die Bedeutung, dass etwas selten vorkommt.
+ Interessant
+ Welches der folgenden Wörter kommt dem Wort »unglücklich« am nächsten?
+ Unangenehm
+ Tränen
+ Unglaublich
+ Berühmt
+ Gefeiert
+ Die anderen Wörter haben eine Bedeutung im Sinne von berühmt.
+ Speziell
+ Teller
+ Flasche
+ Amphore
+ Walnuss
+ Kastanie
+ Belobigung
+ Beschwörung
+ Welches der folgenden Wörter kommt dem Wort »Kummer« am nächsten?
+ Jammer
+ ruhig
+ schlau
+ Sprichwort
+ Epigramm
+ Es ist das einzige, das nichts mit Literatur zu tun hat.
+ Kurve
+ Hypotenuse
+ Laterne
+ Lampe
+ Schild
+ Rüstung
+ Es ist das einzige, das nicht zum Schutz verwendet wird.
+ Monolith
+ Karotte
+ Radieschen
+ Orgel
+ Klavier
+ Ziehharmonika
+ Es ist das einzige Musikinstrument, das keine Tasten hat.
+ Kuh
+ Leopard
+ Hund
+ Dreieck
+ Fünfeck
+ Welches der folgenden Wörter kommt dem Wort »intrinsisch« am nächsten?
+ Inhärent
+ Extern
+ Vorausgehend
+ Mehrdeutig
+ Rechteck
+ Quadrat
+ Rhombus
+ Auto / Garage | Flugzeug
+ Flugzeug
+ Bunker
+ Kreis / Halbkreis | Durchmesser
+ Tangente
+ Winkel
+ Der Radius eines Kreises entspricht dem halben Durchmesser.
+ reden / schreien | nicht mögen
+ Abneigung
+ Offensive
+ Prahlerei
+ schreiben / Stift | essen
+ Gabel
+ Restaurant
+ Weinkellerei
+ Ein Stift wird zum Schreiben und eine Gabel zum Essen verwendet.
+ Insel
+ Küste
+ Eine Oase ist ein Vegetationsfleck in der Wüste und eine Insel ist eine hinausragende Landmasse, die vollständig von Wasser umgeben ist.
+ Umschlag
+ Drucker
+ Eine Schildkröte ist in einem Panzer und ein Brief ist in einem Umschlag.
+ Wein / Weintraube | Rum
+ Korn
+ Gartenbau / Pflanzen | Vogelkunde
+ Insekten
+ dankbar / Undankbarkeit | Despotismus
+ Oligarchie
+ Obdachlos
+ Geld
+ Dekagon
+ Enneagramm
+ Dezimal
+ Sonnenwende
+ Azimut
+ Konzerthalle
+ Sporthalle
+ Jäger / Gewehr | Fotograf
+ Fotografie
+ Geschirr / zerbrechen | Luftballon
+ Zerplatzen
+ Rollen
+ Entwurf / Idee | Besessenheit
+ Der Zusammenhang zwischen den beiden Wörtern ist, dass es sich um Synonyme handelt.
+ Schiff
+ Käfig
+ Turm / Schach | Soldat
+ Schlacht
+ Gewehr
+ Frieden
+ Feind
+ behutsam
+ pessimistisch / optimistisch | misstrauisch
+ bedenklich
+ Thermometer / Temperatur | Kompass
+ Gebiet
+ Das erste Wort ist das Gerät und das zweite Wort, was es misst.
+ Metall
+ hungrig / essen | müde
+ Kiste / öffnen | Banane
+ Schaufel / graben | Axt
+ hacken
+ reißen
+ Füße / zwei | Zehen
+ zehn | 10
+ Fisch / Aquarium | Affe
+ Flügel
+ Fisch / U-Boot | Vogel
+ Tränen / Augen | Schweiß
+ Spielzeug / spielen | Werkzeug
+ arbeiten | werken
+ Fehler / korrigieren | Schaden
+ Gemüse
+ Hände / greifen | Zähne
+ beißen
+ Augenbraue / Auge | Schnurrbart
+ Lippe | Oberlippe | Mund
+ Eis / rutschig | Klebstoff
+ klebrig
+ Whirlpool / Wasser | Tornado
+ Wind | Luft
+ Nest
+ wild | bissig
+ Tanz
+ schlürfen / Zunge | schnauben
+ Nase
+ Ellbogen / Knie | Handgelenk
+ Komponist | Musiker | Lyriker
+ Gleis | Gleise | Geleise | Bahn | Schiene | Schienen
+ Münzen | Währung | Geld
+ Thermometer / Temperatur | Uhr
+ Zeit
+ Buchstabe / Wort | Seite
+ Sekunde
+ Tiger / Karnivoren | Kuh
+ Konstellation / Sterne | Archipel
+ --help\t\t\tDiese Hilfe anzeigen und beenden.
+ --gamelist\t\t\tListe verfügbarer Spiele anzeigen.
+ --customgame [spiel1, spielN]\tLegt eine Liste an Spielen für ein eigenes Spiel fest.
+ MENSA-Arbeiten
+ Zusammen mit diesem Programm sollten Sie außerdem eine Kopie der »GNU General Public License« erhalten haben. Wenn dem nicht so ist, siehe <http://www.gnu.org/licenses/>.
+ Ein Spiel, um Spaß zu haben und das Gehirn zu trainieren
+ Ausgewählt
+ Alle Dateien
+ Beim Erstellen der PDF-Datei trat ein Problem auf. Die Datei wurde nicht erstellt.
+ Das untere Diagramm zeigt den Verlauf der Ergebnisse des Spielers.
+ Löschen
+ Start
+ Nichts auswählen
+ Speichern
+ <b>Allgemeine Einstellungen</b>
+ Spiele überspringen, bei denen Farben verwendet werden
+ <b>Spielarten</b>
+ Logik
+ Verbal
+ Mittel
+ Schwer
+ <b>Anzahl an Spielen</b>
+ Seiten pro Blatt:
+ Anzeige:
+ Einstellungen
+ Spiele überspringen, bei denen Farben verwendet werden (vorgesehen für farbenblinde Benutzer)
+ Zeit in Sekunden, um sich die Aufgabe zu merken:
+ Eine Countdown-Nachricht anzeigen
+ Minimale Anzahl an absolvierten Aufgaben, um die Spielsitzung zu speichern:
+ Spielchronik des Spielers löschen
+ Schreiben Sie die gefundene Antwort in das Eingabefeld und drücken Sie danach den »OK«-Knopf.
+ Pause
+ Spiel
+ Neues Spiel
+ Alle Spiele und Übungen (Logik, Kopfrechnen, Gedächtnis und verbale Analogien)
+ Eigenes Spiel erstellen …
+ Spiel pausieren / fortsetzen
+ Ansicht
+ Anzeigen
+ Horizontal
+ Antwort:
+ Die folgenden Erweiterungen werden installiert:
+ <big><b>Erweiterungsverwaltung</b></big>
+ Die folgenden Erweiterungen sind zur Zeit installiert:
+ Deaktivieren
+ Version
+ Autor:
+ <b>Wählen Sie die Erweiterungen zur Installation aus und klicken Sie auf »Vor«</b>
+ Nur Aktualisierungen anzeigen
+ Erweiterungsinstallation
+ Name
+ Alle registrierten Quellen
+ Online-Quelle registrieren
+ Wählen Sie den Ort der Quelle, die Sie registrieren möchten:
+ Lokale Quelle registrieren
+ Auswählen …
+ Pfad:
+ Installiert
+ Aktualisierungen
+ Quelle:
+ Von Datei installieren …
+ Keine Auswahl
+ Es wurden keine Erweiterungen gefunden
+ Aktualisieren
+ Erweiterungspakete
+ Erweiterungspaket installieren
+ Alle Quellen
+ Quellen verwalten …
+ Erweiterungs-Quellenverwaltung
+ Ort öffnen
+ Angehalten
+ Alle Spiele spielen
+ Alle
+ Spiele, die Ihr Schlussfolgerungs- und Denkvermögen herausfordern
+ Übungen, die Ihr Kurzzeitgedächtnis fordern
+ Spiele, die Ihr verbales Geschick herausfordern
+ Spiel anhalten oder fortsetzen
+ Beenden
+ gelb
+ weiß
+ A
+ C
+ D
+ E
+ F
+ Schlechte Ergebnisse
+ Befassen Sie sich mit allen Problemen, auch den schwierigen. Übung macht den Meister.
+ Spielen Sie täglich und Sie werden schon bald einen Fortschritt bemerken.
+ Sie können den Schwierigkeitsgrad des Spiels in den Einstellungen festlegen.
+ Elemente in Kategorien einzuteilen ist eine verbreitete Technik, um sich Dinge zu merken.
+ Erstellen Sie Akronyme unter Verwendung des ersten Buchstabens jeder Tatsache, die man sich merken soll.
+ Das Vergnügen an einem Rätsel ist proportional zur Zeit, die man damit verbringt.
+ Versuchen Sie, jedes Problem in einfachere Teilprobleme zu zerlegen.
+ Achten Sie auf die Zeitform des Verbs, wenn Sie verbale Analogien beantworten.
+ Wenn Sie einkaufen gehen, können Sie versuchen, die Beträge ohne einen Taschenrechner zu berechnen.
+ Merken Sie sich die unterhalb gezeigten Objekte in der vorgegebenen Zeit
+ Verbleibende Zeit
+ Details, wie gbrainy Ergebnisse berechnet, finden Sie in der Hilfe.
+ Hinweise für die nächsten Spiele
+ Zeit
+ Verbale Analogien. Fordern Sie Ihr verbales Geschick.
+ Arithmetische Operationen
+ Durchschnitt
+ Der Durchschnitt einer Liste an Zahlen ist deren Summe dividiert durch die Anzahl an Zahlen in der Liste.
+ Summe aufeinanderfolgender Zahlen
+ Brüche
+ Wie lautet das Ergebnis der angegebenen Operation? Sie können als Antwort entweder einen Bruch oder eine Zahl angeben.
+ Größter Teiler
+ Mögliche Teiler
+ Operatoren
+ Größenverhältnisse
+ Zahlenverhältnis
+ Ein Verhältnis gibt die Proportion zwischen zwei Zahlen an. Ein Verhältnis von a:b bedeutet, dass man für jeweils »a« Teile »b« Teile hat.
+ Zwei Zahlen
+ Ein Würfel ist ein reguläres, festes Objekt mit sechs kongruenten quadratischen Flächen.
+ Wie viele Dreiecke werden im rechten Teil des letzten Bildes benötigt, wenn nur Dreiecke verwendet werden, um das Gleichgewicht zu halten?
+ Jeder Kreis ist äquivalent zu zwei Dreiecken und jedes Quadrat zu drei Dreiecken.
+ Jeder Kreis ist äquivalent zu zwei Dreiecken.
+ Kreise in einem Quadrat
+ Uhren
+ Die Uhren folgen keiner zeitlichen Logik.
+ Wie viele Kreise können Sie zählen?
+ Die Übung ist leicht, wenn Sie die Kreise systematisch zählen.
+ Zählen
+ Wie viele zweistellige Zahlen kommen vor, wo die erste Ziffer kleiner ist als die zweite (z. B.: 12 und 13)?
+ Beachten Sie, dass 99 zweimal die Ziffer »9« enthält.
+ Wie viel Prozent des Bildes gehören zur gefärbten Fläche?
+ Es gibt 2 von insgesamt 6 Möglichkeiten.
+ Es gibt 5 von insgesamt 6 Möglichkeiten.
+ Zwei gewöhnliche sechsseitige Würfel werden gleichzeitig geworfen. Wie groß ist die Wahrscheinlichkeit, zwei gerade Zahlen zu erhalten? Antworten Sie mit einem Bruch (z.B. 1/2).
+ In wie viele Bereiche wird der letzte Kreis unterteilt, wenn alle Punkte verbunden werden?
+ Gleichung
+ Alle Kreise bis auf einen teilen sich eine gemeinsame Eigenschaft.
+ Bilder und Text
+ Bildmuster
+ Überlagern Sie das erste und das zweite Bild, entfernen Sie die gemeinsamen Linien und drehen Sie das entstandene Bild um 45 Grad.
+ Bilder
+ Vierseitig
+ Wie viele vierseitige Figuren können Sie im Bild unten zählen?
+ Eine der Zahlen im Raster muss eingekreist werden. Welche?
+ Alle eingekreisten Zahlen haben eine arithmetische Eigenschaft gemeinsam.
+ Von der Figur oben links ausgehend, wird die Figur 90 Grad gegen den Uhrzeigersinn gedreht.
+ Die vierte Spalte wird durch Multiplikation der ersten beiden Spalten und Addition der dritten berechnet.
+ Versuchen Sie sich eine Situation vorzustellen, in der Sie eine geringe Anzahl an Personen treffen.
+ Je weniger der Bogen gekrümmt ist, desto größer ist der Kreis.
+ Wie viele Liniensegmente findet man insgesamt in den unteren Bildern? Als Liniensegment zählt eine Linie zwischen zwei Punkten ohne kreuzende Linien.
+ Die Übung ist leicht, wenn Sie die Linien systematisch zählen.
+ Bild bewegen
+ Bewegen Sie den Kreis von der ersten Zeile zur zweiten und je einen Kreis von der vierten Zeile zur zweiten sowie von der vierten zur neuen fünften Zeile.
+ Nächstes Bild
+ Welche Zahl soll das Fragezeichen ersetzen?
+ Zwischen den Zahlen besteht ein arithmetischer Zusammenhang.
+ Numerische Folge
+ Hinter der nächsten Folge steckt eine Logik. Welche Zahl soll das Fragezeichen ersetzen?
+ Jede Zahl der Folge ist das Ergebnis aus Addition von 1 zur vorherigen Zahl und Multiplikation mit 3.
+ Jede Zahl der Folge ist das Ergebnis aus Subtraktion von 2 von der vorherigen Zahl und Multiplikation mit -2.
+ Das Kriterium zur Entscheidung, ob die Gleichung zur Gruppe gehört, ist nicht arithmetisch.
+ Leute an einem Tisch
+ 5.
+ 19.
+ 4.
+ 12.
+ Einige Einwohner von Barcelona sind Maler
+ Alle Einwohner von Barcelona sind Maler
+ Kein Einwohner von Barcelona ist ein Maler
+ Keine der anderen Optionen
+ Einige Maler sind keine Künstler
+ Alle Künstler sind glücklich
+ Sie besitzen überhaupt keine Karte
+ Alle Leute haben eine Karte
+ Sie lächeln, wenn Sie glücklich sind
+ Sie sind nur dann glücklich, wenn Sie pfeifen
+ Ehrlichkeit ist manchmal der beste Grundsatz
+ Ehrlichkeit ist nicht immer der beste Grundsatz
+ Einige der besten Grundsätze sind unehrlich
+ Alle anderen Optionen
+ Einige schlechte Bilder sind keine ersten Versuche
+ Alle schlechten Bilder sind erste Versuche
+ Niemand fühlt sich besser, der nicht einen Spaziergang macht
+ Prädikatenlogik
+ Vierecke
+ Es ist die einzige Figur, deren Linien alle gleich lang sind.
+ Die Zahl in der Mitte jeder Zeile entspricht der Hälfte der Summe der anderen Zahlen in dieser Zeile.
+ Die Buchstaben an den Quadraten folgen einem Muster. Welcher Buchstabe soll das Fragezeichen am letzten Quadrat ersetzen?
+ Es gibt 9 einzelne Quadrate, 4 Quadrate aus 4 einzelnen und 1 Quadrat, das aus 9 einzelnen besteht.
+ Wie lautet die minimale Anzahl an quadratischen Papierblättern beliebiger Größe, um das Bild zu erstellen? Linien zeigen Grenzen zwischen unterschiedlichen Blättern.
+ Die Blätter überlappen sich.
+ Wie spät ist es
+ Uhr
+ Die Formel für die Entfernung lautet »Entfernung = Geschwindigkeit x Zeit«.
+ Sie können die Antwort durch Multiplikation der Geschwindigkeit des ersten Zuges mit der angegebenen Zeit und Division des Ergebnisses durch die Differenz der Geschwindigkeiten berechnen.
+ Dreiecke
+ Wie viele Dreiecke beliebiger Größe zählen Sie im unteren Bild?
+ Dreiecke mit Zahlen
+ Welche Zahl soll das Fragezeichen unten ersetzen?
+ Alle Dreiecke teilen sich eine Eigenschaft und sind unabhängig von den anderen.
+ Farbige Bilder
+ Farbiger Text
+ Punkte zählen
+ Gesichter merken
+ In welcher Zelle befindet sich das andere Gesicht wie das unten gezeigte? Geben Sie die Zellnummer ein.
+ Fakten merken
+ In welchem Jahr stellten »Shiny Cars« das letzte Mal die Produktion ein?
+ Welcher Prozentsatz aller von »Shiny Cars« weltweit hergestellten Autos wird in Europa verkauft?
+ Wie viel Prozent der Autos von »Shiny Cars« fahren mit Diesel?
+ Liste der zuvor gezeigten Bilder
+ Nach unten gehen
+ Angaben merken
+ Wie viele gerade Zahlen waren im vorherigen Bild? Antworten Sie mit Zahlen.
+ Wörter einprägen
+ Ellbogen
+ Brust
+ Kabeljau
+ Lachs
+ Kartoffel
+ Pfeffer
+ Essig
+ Kürbis
+ Bremse
+ Lenkrad
+ Schlagzeug
+ Lautsprecher
+ Takt
+ Wolke
+ Hase
+ Maus
+ Wolf
+[0] Um wie viel Grad dreht sich der Minutenzeiger einer Uhr in zwei Stunden und [num] Minute?msgstr[1] Um wie viel Grad dreht sich der Minutenzeiger einer Uhr in zwei Stunden und [num] Minuten?
+ Orca-Bildschirmleser
+ ???
+ alrt
+ anim
+ arw
+ cnv
+ cptn
+ dat
+ icn
+ rmn
+ dlg
+ dip
+ html
+ draw
+ flr
+ font
+ gpn
+ hdng
+ lbl
+ mnu
+ mnuitm
+ optnpn
+ pgt
+ tblst
+ pwd
+ popmnu
+ knpf
+ rdmnuitm
+ scbr
+ scpn
+ sctn
+ sldr
+ spin
+ statbr
+ tbl
+ cll
+ tomnuitm
+ term
+ tglbtn
+ tip
+ vwprt
+ kopf
+ app
+ edtbr
+ emb
+ Kanada-Französisch Grad 2
+ Frankreich-Französisch Grad 2
+ Norwegisch Grad 2
+ Arabisch Grad 1
+ Walisisch Grad 2
+ Deutsche Basisschrift
+ Deutsche Kurzschrift
+ Ungarisch 8-Punkt-Rechner
+ Ungarisch Grad 1
+ Belgien-Niederländisch Grad 1
+ neue Zeile
+ Ausrufezeichen
+ Nummer
+ Dollar
+ Apostroph
+ Stern
+ Plus
+ Komma
+ Punkt
+ kleiner als
+ gleich
+ Fragezeichen
+ at
+ umgekehrter Schrägstrich
+ eckige Klammer zu
+ Einleitendes Ausrufezeichen
+ Copyright
+ einleitendes französisches Anführungszeichen
+ Logische Negation
+ Macron
+ Grad
+ hoch zwei
+ hoch drei
+ Akut
+ Absatzzeichen
+ Mittelpunkt
+ hoch 1
+ schließendes französisches Anführungszeichen
+ Drei Viertel
+ Einleitendes Fragezeichen
+ A Gravis
+ A Akut
+ A Zirkumflex
+ A Tilde
+ A Umlaut
+ A Kreisakzent
+ C Zedilla
+ E Gravis
+ E Zirkumflex
+ E Umlaut
+ I Gravis
+ I Akut
+ I Zircumflex
+ ETH
+ O Zirkumflex
+ O Tilde
+ O Umlaut
+ O Schrägstrich
+ U Akut
+ U Zirkumflex
+ U Umlaut
+ THORN
+ Eszett
+ a Gravis
+ a Zirkumflex
+ a Umlaut
+ i Akut
+ i Zirkumflex
+ eth
+ n Tilde
+ o Akut
+ o Zirkumflex
+ durch
+ thorn
+ y Akut
+ Y UMLAUT
+ Rechtes einfaches Anführungszeichen
+ Kreuz
+ Aufzählungspfeil
+ Promille
+ Sekunde
+ Dreistrich
+ Aufzählungstrennstich
+ Trademark
+ fett gedruckter Haken
+ X-Aufzählungszeichen
+ hoch 0
+ hoch 4
+ hoch 9
+ hoch Minuszeichen
+ hoch Gleichheitszeichen
+ hoch runde Klammer auf
+ hoch runde Klammer zu
+ hoch n
+ tief 1
+ tief 3
+ tief 7
+ tief 8
+ tief Minuszeichen
+ tief runde Klammer auf
+ tief runde Klammer zu
+ Objektersetzungszeichen
+ Das gesamte Fenster in der Übersicht vorlesen
+ Führt die einfache Lesezeichen Funktion aus
+ Führt die detaillierte Lesezeichen Funktion aus
+ Statuszeile vorlesen
+ Suchdialog öffnen
+ Nach dem nächsten Auftreten einer Zeichenkette suchen
+ Nach dem vorherigen Auftreten einer Zeichenkette suchen
+ Die Übersicht betreten und verlassen
+ Die Übersicht zur letzten Position bewegen
+ Die Übersicht zum Anfang der nächsten Zeile bewegen
+ Den aktuellen Eintrag oder das aktuelle Wort in der Übersicht vorlesen
+ Den aktuellen Eintrag oder das aktuelle Wort in der Übersicht buchstabieren
+ Den aktuellen Eintrag oder das aktuelle Wort in der Übersicht phonetisch buchstabieren
+ Die Übersicht zum nächsten Eintrag oder Wort bewegen
+ Die Übersicht zum Wort, das über dem aktuellen liegt, bewegen
+ Das aktuelle Objekt in der Übersicht vorlesen
+ Die Übersicht zum Wort, das unter dem aktuellen liegt, bewegen
+ Die Übersicht zum vorherigen Zeichen bewegen
+ Das aktuelle Zeichen in der Übersicht vorlesen
+ Den Unicode-Wert des aktuellen Zeichens in der Übersicht vorlesen
+ Den Inhalt der Übersicht in die Zwischenablage kopieren
+ Den Inhalt der Übersicht an die Zwischenablage anhängen
+ Die Attribute des aktuellen Textzeichens lesen
+ Die Braille-Anzeige nach rechts setzen
+ Zum Objekt das den Fokus der Tastatur hat zurückkehren
+ Cursor-Routing ausführen
+ Den Beginn der Markierung bestimmen
+ Startet den Lernmodus. Drücken Sie zum Verlassen des Lernmodus die Escape-Taste
+ Die Stimmhöhe verringern
+ Die Sprachlautstärke verringern
+ Sprachausgabe ein-/ausschalten
+ Den Bildschirmleser beenden
+ Zum nächsten Einstellungsprofil wechseln
+ Zum nächsten Großschreibungsstil wechseln
+ Zur nächsten Stufe des Tastaturechos wechseln
+ Die aktuelle Position als Lesezeichen speichern
+ Zum vorherigen Lesezeichenort bewegen
+ Zum nächsten Lesezeichenort bewegen
+ Lesezeichen hinzufügen
+ Lesezeichen speichern
+ Maus-Sprachauswertung ein-/ausschalten
+ Aktuelle Uhrzeit ausgeben
+ Aktuelles Datum ausgeben
+ Nächsten Befehl an das momentane Programm weiterleiten
+ Eine vorhergehende Chat-Nachricht vorlesen und auf Braille ausgeben
+ Linie Rechts
+ Linie Oben
+ Unten Links
+ Cursorposition
+ 6 Punkt Braille
+ Cursor-Routing
+ Letzte Benachrichtigung vorlesen
+ Zeigt die Liste der Benachrichtigungen
+ Zum nächsten Wort bewegen
+ Zum vorherigen Wort bewegen
+ Zur nächsten Zeile bewegen
+ Zur vorherigen Zeile bewegen
+ Zum Anfang der Datei bewegen
+ Zum Ende der Datei bewegen
+ Zum Anfang der Zeile bewegen
+ Zum Ende der Zeile bewegen
+ Zum vorherigen Objekt bewegen
+ Erweiterte Höflichkeitseinstellungen für dynamische Bereiche
+ Standardmäßige Höflichkeitseinstellungen für dynamische Bereiche ausschalten
+ Dynamische Bereiche überwachen
+ Die zugewiesene Zeilenüberschriften löschen
+ Den Inhalt der Eingabezeile vorlesen
+ Navigationstasten ein- oder ausschalten
+ Zum nächsten Zitat bewegen
+ Zum nächsten Knopf bewegen
+ Zum nächsten Ankreuzfeld bewegen
+ Eine Liste von Ankreuzfeldern anzeigen
+ Zum vorherigen Klickelement bewegen
+ Zum nächsten Klickelement bewegen
+ Zum vorherigen kombinierten Auswahlfeld bewegen
+ Zum Ende des Containers bewegen
+ Zum nächsten Eingabefeld bewegen
+ Eine Liste von Einträgen anzeigen
+ Zur nächsten Überschrift bewegen
+ Zum vorherigen Orientierungspunkt bewegen
+ Eine Liste von Orientierungspunkten anzeigen
+ Zum vorherigen größeren Objekt bewegen
+ Zum vorherigen Link bewegen
+ Zur vorherigen Liste bewegen
+ Zur nächsten Liste bewegen
+ Zum vorherigen Listeneintrag bewegen
+ Zum nächsten Listeneintrag bewegen
+ Zum nächsten dynamischen Bereich bewegen
+ Zum vorherigen Absatz bewegen
+ Zum nächsten Absatz bewegen
+ Zum vorherigen Auswahlknopf bewegen
+ Zum nächsten Auswahlknopf bewegen
+ Zum vorherigen Trenner bewegen
+ Zur nächsten Tabelle bewegen
+ Zur ersten Zelle in einer Tabelle bewegen
+ Eine Zelle nach links bewegen
+ Eine Zelle nach rechts bewegen
+ Layout-Modus ein-/ausschalten
+ Zwischen Stöbern-Modus und Fokus-Modus wechseln
+ Zum nächsten besuchten Link bewegen
+ Eine Liste besuchter Links anzeigen
+ eisfarben
+ Aquamarinblau
+ Mandelweiß
+ Blau
+ Blauviolett
+ Braun
+ Gelbbraun
+ Kadettenblau
+ Hellgrün
+ Schokolade
+ Koralle
+ Dunkles Blau
+ dunkle Goldrutenfarbe
+ Dunkelkhaki
+ Dunkelmagenta
+ dunkle Lachsfarbe
+ Dunkles Schieferblau
+ Dunkelviolett
+ Tiefrosa
+ Persenningblau
+ Backstein
+ Blütenweiß
+ Waldgrün
+ Fuchsie
+ Gold
+ Goldrute
+ Grün
+ Indischrot
+ staubfarben
+ Rasengrün
+ Helles Blau
+ helles Korallenrot
+ Helles Zyan
+ helles Goldrutengelb
+ Helles Rosa
+ Helles Meeresgrün
+ helles Schieferblau
+ Helles Gelb
+ Leinen
+ Kastanie
+ mittleres Blau
+ mittlere Orchidee
+ mittleres Seegrün
+ mittleres Frühlingsgrün
+ mittleres Violettrot
+ Mitternachtsblau
+ Altrosa
+ Mokassin
+ Navajoweiß
+ Marinenblau
+ Orange
+ Blasstürkis
+ Peru
+ Pflaume
+ Violett
+ rosiges Braun
+ gesättigtes blau
+ Sattelbraun
+ lachsfarben
+ Muschel
+ Silber
+ Schneeweiß
+ Distel
+ Tomate
+ Türkis
+ Veilchen
+ Weizen
+ Weiß
+ rauchfarben
+ Gelb
+ Punkt 7
+ Punkte 7 und 8
+ Springen zu
+ OK
+ Ton
+ Keine
+ Buchstabieren
+ Nachrichten vorlesen aus
+ Chat Room-Name vorlesen
+ Doppelklick
+ Standardsynthesizer
+ Ersatzausdruck
+ Suchoptionen
+ Treffer während der Suche vorlesen
+ Nicht zugeordnet
+ Geändert
+ Desktop
+ Vorlesen
+ Profil als Konflikt speichern
+ Benutzerprofil laden
+ Benutzerprofil löschen
+ Alle
+ Einige
+ Die meisten
+ Knopf
+ Beschriftung
+ Ankreuzfeld
+ Kombiniertes Auswahlfeld
+ Beschreibung
+ Bezeichnung
+ Ebene
+ Link
+ Liste
+ Listeneintrag
+ Adresse
+ Anführungszeichen
+ Knöpfe
+ Einträge
+ Formularfelder
+ Bilder
+ Nicht besuchte Links
+ Besuchte Links
+ Seitennavigation
+ Standard
+ System
+ Speech Dispatcher
+ Rechtschreibprüfung
+ Fehlerkontex darstellen
+ Leere Zellen überspringen
+ Zelle vorlesen
+ Zellenkoordinaten vorlesen
+ Attributname
+ Strukturierte Navigation verwenden
+ Kurz
+ Umschalt
+ Strg
+ Umschalt links
+ Alt links
+ Steuerung links
+ Alt rechts
+ Metataste rechts
+ Nummernblock
+ Feststelltaste
+ Feststelltaste
+ Bildlauf
+ Bild auf
+ Bild ab
+ Tab links
+ Enter
+ hoch
+ runter
+ rechte Metataste
+ Alt Gr
+ Hilfe
+ Mode Switch-Taste
+ Einfügen
+ Pos1
+ Ende
+ minus
+ Einfügen
+ AltL
+ Strg
+ Umschalt
+ Pfeil nach unten
+ Pfeil nach Nordosten
+ Pfeil nach Südosten
+ Dicker Pfeil nach oben
+ Dicker Pfeil nach rechts
+ Dicker Pfeil nach links und rechts
+ Dicker Pfeil nach Südosten
+ Minus
+ Zirkumflex
+ Hatschek
+ Punkt
+ Doppelte vertikale Linie
+ für alle
+ Komplement
+ partielles Differential
+ existiert ein
+ leere Menge
+ Nabla
+ Element aus
+ kein Element aus
+ kleines Element aus
+ Minus oder Plus
+ Plus mit Punkt
+ mal
+ Quadratwurzel
+ Kubikwurzel
+ Unendlich
+ Winkel
+ gemessener Winkel
+ Raumwinkel
+ teilt
+ teilt nicht
+ parallel zu
+ logisches Oder
+ Umrissintegral
+ Oberflächenintegral
+ Volumenintegral
+ folglich
+ weil
+ Exzess
+ geometrische Proportion
+ umgekehrte Tilde
+ asymptotisch gleich zu
+ nicht asymptotisch gleich zu
+ ungefähr gleich zu
+ fast aber nicht wirklich gleich zu
+ nicht beinahe gleich zu
+ beinahe gleich oder gleich zu
+ Dreifachtilde
+ Grenzwertannäherung
+ geometrisch gleich zu
+ ungefähr gleich oder Bild von
+ Gleichheitszeichen mit nachfolgendem Doppelpunkt
+ Kreis im Gleichheitszeichen
+ Kreis über Gleichheitszeichen
+ entspricht
+ gleichwinklig
+ gemessen nach
+ identisch zu
+ streng äquivalent zu
+ kleiner oder gleich
+ kleiner oder gleich
+ größer oder gleich
+ größer als, aber nicht gleich
+ viel kleiner als
+ viel größer als
+ nicht äquivalent
+ größer oder gleich
+ weder größer noch gleich
+ weniger oder größer als
+ größer oder kleiner als
+ weder weniger noch größer als
+ weder größer noch kleiner als
+ vorangehend
+ vorangehend oder gleich
+ nachfolgend oder gleich
+ vorangehend oder äquivalent
+ nicht vorangehend
+ Teilmenge von
+ ist Obermenge von
+ keine Obermenge von
+ Teilmenge von oder gleich
+ Obermenge oder gleich
+ weder Teilmenge von noch gleich
+ Obermenge mit ungleich
+ viereckiges Bild
+ viereckiges Original
+ viereckiges Bild oder gleich
+ viereckiges Original oder gleich
+ nach oben geöffnetes Viereck
+ eingekreistes Pluszeichen
+ eingekreister Divisionsstrich
+ eingekreister Sternoperator
+ eingekreister Gedankenstrich
+ eingerahmter Punktoperator
+ senkrecht von
+ Modelle
+ erzwingen
+ dreifache vertikale Leiste mit rechtem Drehkreuz
+ doppelte vertikale Leiste mit doppeltem rechtem Drehkreuz
+ nicht wahr
+ nicht erzwingen
+ negierte doppelte vertikale Leiste mit doppeltem rechten Drehkreuz
+ vorangehend in Relation
+ nachfolgend in Relation
+ normale Untergruppe
+ Bild
+ Mehrfachzuordnung
+ hermitesch konjugierte Matrix
+ einschalten
+ ausschließliches oder
+ nicht-und
+ Rautenoperator
+ Punkt Operator
+ linkes Normalfaktor halbdirektes Produkt
+ linkes halbdirektes Produkt
+ umgekehrte Tilde gleich
+ geschweiftes logisches Oder
+ doppelte Teilmenge
+ doppelter Durchschnitt
+ echter Durchschnitt
+ gleich und parallel
+ kleiner als mit Punkt
+ größer als mit Punkt
+ größer als, gleich oder kleiner als
+ kleiner oder gleich
+ gleich oder vorangehend
+ weder vorangehend oder gleich
+ weder nachfolgend oder gleich
+ kein viereckiges Bild oder gleich
+ kleiner aber nicht gleich
+ nachfolgend, aber nicht äquivalent
+ nicht als normale Untergruppe enthalten
+ keine normale Untergruppe oder gleich
+ vertikale Ellipse
+ Zentrierte horizontale Ellipse
+ Diagonale Ellipse, unten links nach oben rechts
+ Element mit langem horizontalen Strich
+ Element mit vertikalem Strich am Ende des horizontalen Strichs
+ kleines Element mit Überstrich
+ Element mit 2 horizontalen Strichen
+ umgekehrtes Elementzeichen mit langem horizontalen Strich
+ umgekehrtes Elementzeichen mit vertikalem Strich am Ende des horizontalen Strichs
+ umgekehrtes Elementzeichen mit Überstrich
+ kleines umgekehrtes Elementzeichen mit Überstrich
+ z notation bag membership
+ linke Aufrundungsklammer
+ rechte Aufrundungsklammer
+ linke Abrundungsklammer
+ rechte Skalarproduktklammer
+ Weißer Kreis
+ Schwarzer Kreis
+ leer
+ Lesezeichen betreten
+ Lesezeichen können nicht gespeichert werden
+ Klangsymbol
+ kein
+ Navigationssteuerung erfolgt durch den Bildschirmleser.
+ Verwendung der Option erzwingen
+ OPTION
+ Optionale Argumente
+ Die folgenden sind nicht zulässig: 
+ Bekannte Programme ausgeben
+ Profil laden
+ NAME
+ Eine bereits laufende Instanz des Bildschirmlesers ersetzen
+ Diese Nachricht anzeigen und beenden
+ Fehlerdiagnose speichern unter debug-JJJJ-MM-TT-HH:MM:SS.out
+ Informationen zur Fehlerdiagnose in der angegebenen Datei speichern
+ DATEI
+ Benutzereinstellungen einrichten (Textversion)
+ Benutzereinstellungen einrichten (Graphische Version)
+ Programmfehler an orca-list@gnome.org melden.
+ Auswahl wurde in Zwischenablage ausgeschnitten.
+ ausschneiden
+ Auswahl wurde in Zwischenablage kopiert.
+ kopiert
+ eingefügt
+ Ankündigen, wenn unsere Kontakte etwas eingeben.
+ Chatraum-Namen nicht vorlesen.
+ Chatraum-Namen vorlesen.
+ Chatraum-bezogene Nachrichtenverläufe nicht bereitstellen.
+ Beginn Löschung
+ Beginn Einfügen
+ Einfügen Ende
+ Beginn Hervorhebung
+ Hervorhebung Ende
+ Vorschlag Ende
+ Ende des Containers.
+ Nicht in einem Container.
+ alle Elemente ausgewählt
+ das gesamte Dokument ist ausgewählt
+ Dokument bis zur Cursorposition ausgewählt
+ Dokument bis zur Cursorposition nicht ausgewählt
+ Zugewiesene Spaltenüberschrift gelöscht.
+ Zugewiesene Spaltenüberschrift gelöscht.
+ leer
+ Keine Dateien gefunden.
+ Inhalt wurde an Zwischenablage angehängt.
+ Inhalt wurde in Zwischenablage kopiert.
+ Die Übersicht wird nicht verwendet.
+ Die Übersicht wird verlassen.
+ öffnet Listenfeld
+ öffnet Baum
+ Image Map Link
+ Neue Tastenkombination eingeben
+ Taste
+ Echo auf Taste gesetzt.
+ Echo deaktiviert.
+ Taste und Wort
+ Echo auf Taste und Wort gesetzt.
+ Satz
+ Echo gesetzt auf Satz.
+ Wort
+ Echo gesetzt auf Wort.
+ Echo auf Wort und Satz gesetzt.
+ ein actuarial Symbol
+ ein langes Divisionszeichen
+ ein vertikaler Durchstrich
+ ein Diagonaldurchstrich nach oben
+ ein nordost Pfeil
+ eine Linie links
+ durch
+ Kubikwurzel aus
+ Wurzel aus
+ Wurzelbeginn
+ tief
+ voran tiefgestellt
+ voran hochgestellt
+ darüber geschrieben
+ verschachteltes Tabellenende
+ Aktiviert
+ Lernmodus. Drücken Sie zum Verlassen die Escape-Taste.
+ Ergänzender Inhalt wird verlassen.
+ Information wird verlassen.
+ Hauptinhalt wird verlassen.
+ Navigation wird verlassen.
+ Bereich wird verlassen.
+ Tabelle wird verlassen.
+ Kapitel wird verlassen.
+ Schlussschrift wird verlassen.
+ Danksagung wird verlassen.
+ Danksagung wird verlassen.
+ Endnoten werden verlassen.
+ Epigraph wird verlassen.
+ Beispiel wird verlassen.
+ Index wird verlassen.
+ Seitenliste wird verlassen.
+ Teil wird verlassen.
+ Prolog wird verlassen.
+ Vorschlag wird verlassen.
+ Zeile bis herauf zur Cursorposition markiert
+ Zeile bis herunter zur Cursorposition nicht markiert
+ Lernmodus wird verlassen.
+ Zeile vom Anfang bis zur vorherigen Cursorposition markiert
+ Zeile von der vorherigen Cursorposition bis zum Ende markiert
+ Link
+ Die selbe Seite
+ Die selbe Website
+ Verwenden Sie Pfeil hoch und runter, um in der Liste zu navigieren. Drücken Sie Escape zum Verlassen.
+ Alle dynamischen Bereiche ausgeschaltet
+ Dynamischer Bereich auf bestimmend eingestellt
+ Dynamischer Bereich auf höflich eingestellt
+ Dynamischer Bereich auf unhöflich eingestellt
+ Überwachung der dynamischen Bereiche ist ausgeschaltet
+ Keine dynamischen Meldungen gespeichert
+ Unterstützung für dynamische Bereiche ist ausgeschaltet
+ aus
+ an
+ falsch geschrieben
+ Dauerhafter Stöber-Modus.
+ Layout-Modus.
+ Objekt-Modus.
+ Kein Mouse-Over Objekt gefunden.
+ Maus-Sprachauswertung ist aktiviert.
+ Kein Fokus
+ Keine weiteren Knöpfe.
+ Keine weiteren Ankreuzfelder.
+ Keine weiteren kombinierten Auswahlfelder.
+ Keine weiteren Eingabefelder.
+ Keine weiteren Bilder.
+ Keine weiteren Links.
+ Keine weiteren Absätze.
+ Keine weiteren Auswahlknöpfe.
+ Keine weiteren Tabellen.
+ Keine weiteren nicht besuchten Links.
+ Nicht in einem Link.
+ Unterste
+ Modus der Nachrichtenauflistung wird verlassen.
+ Oberste
+ Drücken Sie h für Hilfe.\n
+ Keine Benachrichtigungen
+ Ziffern
+ an
+ Es wird geladen. Bitte warten.
+ Laden abgeschlossen.
+ Seite ab der Cursorposition markiert
+ Seite bis zur Cursorposition markiert
+ Abschnitt oberhalb der Cursorposition markiert
+ Abschnitt ab der Cursorposition nicht mehr markiert
+ Eine Instanz des Orca-Eigenschaften-Dialoges ist bereits geöffnet.\nSchließen Sie bitte diesen Dialog, bevor Sie einen neuen öffnen.
+ Alle
+ Ansage der Sonderzeichen eingestellt auf alle.
+ Ansage der Sonderzeichen auf keine gesetzt.
+ Ansage der Sonderzeichen eingestellt auf einige.
+ Suche abgeschlossen.
+ Auswahl wiederhergestellt.
+ schneller.
+ langsamer.
+ höher.
+ tiefer.
+ lauter.
+ Ausführlichkeit: gesprächig
+ Bildschirmleser an.
+ Sprachausgabe steht nicht zur Verfügung.
+ Nicht gefunden
+ Navigationstasten eingeschaltet.
+ Zelle vorlesen
+ Zeile vorlesen
+ Nicht einheitlich
+ Spalten wurden neu geordnet
+ Oberer Rand der Spalte.
+ Zeile gelöscht.
+ Letzte Zeile gelöscht.
+ ausgewählt
+ nicht ausgewählt
+ %H Stunden, %M Minuten und %S Sekunden
+ rückgängig
+ 0 Objekte
+ Abbildung
+ Danksagungen
+ Anhang
+ Schlussschrift
+ Schlussfolgerung
+ Titelseite
+ Danksagung
+ Danksagungen
+ Epigraph
+ Errata
+ Beispiel
+ Vorwort
+ Glossar
+ Einführung
+ Teil
+ Fragen und Antworten
+ Inhaltsverzeichnis
+ Vertikale Bildlaufleiste
+ Wechseln
+ Symbolleiste
+ Navigation
+ Bereich
+ Menüknopf
+ absteigend sortiert
+ vertikal
+ ausgewählt
+ nicht ausgewählt
+ an
+ teilweise ausgewählt
+ nicht ausgewählt
+ ausgewählt
+ nicht ausgewählt
+ nicht ausgewählt
+ besucht
+ nicht besucht
+ ausgegraut
+ nur lesbar
+ Mehrfachauswahl
+ ungültig
+ fehlerhafte Rechtschreibung
+ Rechtschreibung
+ fehlerhafte Grammatik
+ Suchen
+ Schließen
+ Suchen
+ Suchen nach:
+ Beginnen bei:
+ Rückwärts suchen
+ Suchrichtung:
+ Groß- und Kleinschreibung berücksichtigen
+ Optionen:
+ System
+ Fenster
+ Bildschirmleser-Einstellungen
+ Anwenden
+ Profil beim Start:
+ Laden
+ Minihilfe anzeigen
+ Objekt unter Maus vorlesen
+ Maus
+ Uhrzeitformat:
+ Braille-Aktualisierungen
+ Frequenz (Sekunden):
+ Gilt für:
+ Schnelles Zurück- und Vorspulen in »Alles vorlesen« aktivieren
+ Zitate in »Alles vorlesen« ankündigen
+ Listen in »Alles vorlesen« ankündigen
+ Tabellen in »Alles vorlesen« ankündigen
+ Formulare in »Alles vorlesen« ankündigen
+ Alles vorlesen
+ Allgemein
+ Lautstärke:
+ Geschwindigkeit:
+ Person:
+ Sprache:
+ Sprachsystem:
+ Stimmtyp:
+ Großschreibungsstil:
+ Typ der Sprachausgabe
+ Zusammengesetzte Wörter einzeln vorlesen
+ Sprache aktivieren
+ Ausführlichkeit
+ Zitate während der Navigation ankündigen
+ Tabellen während der Navigation ankündigen
+ Orientierungspunkte während der Navigation ankündigen
+ Beschreibung vorlesen
+ Ganze Zeile in Tabellenblättern vorlesen
+ Kurzschrifttabelle:
+ Anzeigeeinstellungen
+ Meldungseinblendung aktivieren
+ Meldungen sind detailliert
+ Einstellungen für Meldungseinblendung
+ Braille
+ Tastaturecho aktivieren
+ Alphabetische Tasten aktivieren
+ Interpunktionstasten aktivieren
+ Leertaste aktivieren
+ Navigationstasten aktivieren
+ Echo
+ Tastenkombinationen
+ Aussprachewörterbuch
+ Aussprache
+ Alles vorlesen
+ Nichts vorlesen
+ Zurücksetzen
+ Textattribute
+ Nach unten verschieben
+ Ausgewähltes Attribut anpassen
+ Hintergrundfarbe
+ Hintergrund für die ganze Höhe
+ Gepunkteter Hintergrund
+ Textrichtung
+ editierbar
+ Gepunkteter Vordergrund
+ Fehler
+ unsichtbar
+ Ausrichtung
+ Sprache
+ Pixel über Zeilen
+ Pixel innerhalb Umbruch
+ Rechter Rand
+ Durchgestrichen
+ Stil
+ Textverzierung
+ Textschattierung
+ Unterstrichen
+ Großbuchstabenstil
+ Umbruchmodus
+ Schreibmodus
+ falsch
+ keiner
+ eingraviert
+ hochgeprägt
+ Linie oberhalb
+ blinkend
+ schwarz
+ Zeichen
+ Wort
+ Wort Zeichen
+ links
+ Keine Ausrichtung
+ Blocksatz
+ sehr stark verdichtet
+ stark verdichtet
+ normal
+ halb gedehnt
+ kleine Großbuchstaben
+ abgeschrägt
+ kursiv
+ Vorgabe
+ Textkörper
+ Überschrift
+ Grundlinie
+ hochgestellt
+ oben
+ Mitte
+ unten
+ Text unten
+ links-rechts oben-unten
+ rechts-links oben-unten
+ unten-oben links-rechts
+ links-rechts
+ rechts-links
+ oben-unten
+ Massiv
+ Um Objekte anzusteuern, können entweder die Pfeiltasten genutzt oder ein Suchbegriff eingegeben werden.
+ Zum Einklappen die Umschalttaste zusammen mit Links-Taste betätigen.
+ Zum Aktivieren die Leertaste betätigen.
+ Hoch- und Runter-Pfeiltasten zum Auswählen des Wertes wählen oder den gewünschten numerischen Wert eingeben.
+ Links- und Rechts-Pfeiltasten zum Navigieren benutzen. Um sich durch die Menüpunkte zu bewegen, Hoch- und Runter-Taste verwenden.

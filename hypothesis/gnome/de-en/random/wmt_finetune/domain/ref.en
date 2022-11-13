@@ -1,0 +1,4309 @@
+ Message
+ Exact
+ The GNOME Project
+ Save logs
+ Single Click
+ Initial Key Repeat Delay
+ Select the touchpad scroll method
+ Wacom touch feature
+ Binding to pause playback.
+ Binding to copy a screenshot of a window to clipboard.
+ Binding to increase the text size
+ Binding to mute/unmute the volume without emitting a sound effect.
+ Binding to toggle airplane mode.
+ Bluetooth RF kill
+ Static binding to launch the web browser.
+ The amount of time in seconds the computer on AC power needs to be inactive before it goes to sleep. A value of 0 means never.
+ Recalibration required
+ Wireless mouse is low on power
+ Wireless keyboard is very low on power. This device will soon stop functioning if not charged.
+ PDA battery low
+ Tablet battery low
+ Camera battery low
+ Camera is low on power
+ Modify the lit LED for a Wacom tablet
+ Density duplicating frames...
+ Bluebox
+ Source Alpha:
+ Grow selection in pixels (use negative values for shrink)
+ Threshold for red channel
+ Threshold for saturation
+ Base Options
+ Lower Opacity:
+ Search:
+ Searching by menupath - please wait
+ Input Video:
+ Extracting starts at the specified time offset HH:MM:SS in the video
+ Settings :
+ Blur radius 2 Y direction
+ Edge Detect (DoSoG) ...
+ Create Result Layer:
+ Make backup of the image after each step
+ <Image>/Filters/
+ FlameWidth:
+ Top:
+ Select Filtercalls of Current GIMP Session
+ Close window
+ MPEG1...
+ Set layer(s) invisible
+ Add layermask from bw copy
+ Select all layers where layer name starts with pattern
+ Invert Layer Selection
+ ShapePoints:
+ Pointset A:
+ Create Layers
+ Morph Workpoint file:
+ Subdirectory:
+ Scale Preview:
+ Move Path Bluebox Keycolor
+ Merge to new Black Mask at Layer below
+ Last handled destination frame
+ x1:
+ How to handle selections in the source image
+ Use antialias
+ Pattern is equal to layername
+ Wavefile:
+ Reset offset and volume
+ Click: Set current framenr as selection range end 'To Frame',\nSHIFT-Click: load this frame into the calling image
+ Print range to stdout
+ Add inverse range to cliplist
+ Play
+ New Width:
+ Scale Video Frames (all)
+ Use Custom Palette
+ Crop Frames
+ Current width:
+ Insert Point
+ FitSize:
+ Thumbnail size in the cliplist
+ Create Clip
+ Encode
+ Row:
+ Name of the Cliplistfile
+ Unsupported line was ignored
+ ON:
+ Pingpong:
+ Transform:
+ Flip Horizontally
+ Mask Section
+ Delete storyboard section
+ VideoRange
+ Basename for extracted frames (framenr and extension is added)
+ On: bluebox shall generate transparency as layermask\nOff: bluebox shall generate transparency as alpha channel
+ deinterlace (even lines only)
+ Magenta/Green:
+ Red
+ Blue
+ High Input:
+ Vectors (SVG) file:
+ Encoding
+ Name of output videofile
+ 720x480 NTSC
+ MAC
+ Select video encoder plugin
+ Compression:
+ avi video encoding for anim frames. Menu: @AVI@
+ 7 zero
+ 256 chroma
+ Audio Bitrate:
+ FFMpeg Expert Encoder Algorithms
+ 5 epzs (recommended)
+ IDCT algorithm:
+ 18 simplevis
+ 21 ea
+ 1 plane
+ Normalize adaptive quantization
+ Truncated
+ qblur:
+ rc-init-cplx:
+ Start Over
+ Huarong Trail
+ Width of the window in pixels
+ Shark
+ Puzzle
+ Shutter
+ The height of the video captured from the camera, in pixels
+ Take Multiple Photos
+ Play Back…
+ Search…
+ <b>Alternate Versions</b>
+ Add Column
+ Properties height
+ The most recent text in the search entry.
+ Sort column and sort order
+ If true, games are started without sound.
+ Up to six players
+ Up to six players alternating
+ Up to seven players simultaneously
+ Delete selected game recordings?
+ Visit the Website
+ Recording a fullscreen game
+ Copy Character
+ Flags
+ Keyboard shortcuts
+ Maximum recent characters
+ Position on the Z axis
+ Opacity
+ Horizontal scale center
+ Sets the clip region to track the actor’s allocation
+ Whether the actor contains the pointer of an input device
+ The object controlling the layout of an actor’s children
+ The alignment of the actor on the Y axis within its allocation
+ The unique name of the binding pool
+ Default horizontal alignment for the actors inside the layout manager
+ Whether the clickable has a grab
+ Minimum width for each column
+ The trigger edge used by the action
+ Device Manager
+ Show frames per second
+ Pan Axis
+ Color
+ Perspective
+ Use Fog
+ The font description to be used
+ Ellipsize
+ X coordinate of the center of rotation
+ The background color of the box
+ The duration of the stream, in seconds
+ Source of fragment shader
+ Auto sync size of actor to underlying pixbuf dimensions
+ Disable Slicing
+ Maximum waste area of a sliced texture
+ Keep Aspect Ratio
+ Pick With Alpha
+ The underlying wayland surface
+ Surface width
+ If the texture should be kept in sync with any pixmap changes.
+ Window Redirect Automatic
+ Destroyed
+ Window X
+ Fast blanking
+ Burning image to DVD
+ Simulation of image to CD burning
+ An image of the disc has been created on your hard drive.\nBurning will begin as soon as a writable disc is inserted.
+ A data integrity test will begin as soon as the disc is inserted.
+ If you import them you will be able to see and use them once the current selection of files is burned.
+ Image of CD successfully created
+ Make More Copies
+ VCD image
+ Maximum speed
+ Disable Full Windows Compatibility
+ Brasero media burning library
+ Rewritable Blu-ray disc
+ Image
+ Bold
+ Blank Disc…
+ Blank this CD or DVD
+ Some files have invalid filenames
+ Burns, blanks and formats CDs, DVDs and BDs
+ Split the selected track
+ Add File
+ Copy a disc
+ PATH TO COVER
+ Space
+ Plugin
+ Do you really want to create a new project and discard the current one?
+ Save project as a plain text list
+ Create a new project
+ Please select another image.
+ Error while loading the project.
+ Create 1:1 copy of a CD/DVD
+ Create a new project:
+ {number}
+ Title:
+ Do you really want to carry on with automatic splitting?
+ Merge
+ :
+ Properties
+ Fullscreen
+ Scaling
+ Accepts any file formats supported by the GStreamer multimedia framework
+ Auto-Alignment Starting
+ Clip Properties
+ Green
+ B
+ width
+ tilt
+ Reset all
+ About Pitivi
+ Revert all settings to the previous values (before you opened the preferences dialog)
+ Close
+ Year:
+ Proxy
+ File name:
+ Codec:
+ Always render from proxy files
+ Could not create audio output sink. Make sure you have a valid one (pulsesink, alsasink or osssink).
+ enables sound notifications when rendering is complete
+ Remove effect
+ Quick intros to Pitivi
+ Noise & blur
+ Select a Project
+ About
+ Open containing folder
+ Do not use Proxy for selected assetmsgidplural Do not use Proxies for selected assets
+ project
+ Copy selected clips
+ Split the clip at the position
+ Extra information:
+ Max CPU usage dedicated to transcoding
+ You can use the following shortcuts:
+ Follow Playing Track
+ Music files are placed in:
+ Browse...
+ Shuffle Playlist
+ By extension
+ Playlist
+ Details
+ Sorting
+ %b %d %I:%M %p
+ Submit Album
+ Which Audioscrobbler services do you wish to use?
+ View your profile
+ Could not pair with this Remote
+ Could not connect to shared music
+ Device node:
+ Name:
+ November (11)
+ Password:
+ Access key:
+ Failed
+ Delete the podcast episode and downloaded file?
+ Delete Episode And File
+ Search podcast episodes
+ Don't present an existing Rhythmbox window
+ Enable shuffle playback order
+ n - Next track
+ Could not load the music database:
+ Sample Plugin
+ Do not update the library with file changes
+ Couldn't save playlist
+ Stores
+ Additional software is required to play some of these files.
+ Quality
+ Now Playing
+ Year
+ days
+ Forward
+ Be verbose
+ column header
+ scroll pane
+ split pane
+ grouping
+ New Game
+ Cannot delete
+ Host:
+ :
+ The port to access the server on.
+ GNOME Web password
+ Telepathy password
+ Created on
+ Key Data
+ Name must be at least 5 characters long.
+ Optional description of revocation
+ Export secret key
+ User IDs
+ Fully
+ Sign key
+ Revoke key signature
+ Owner trust
+ Certify
+ Subkey is disabled
+ Only trusted
+ PEM encoded request
+ Import
+ Back
+ Your email address, or a reminder of what this key is for.
+ SSH Key Properties
+ Algorithm
+ Archive Manager (also known as File Roller) is the default GNOME application for opening, creating, and modifying archive and compressed archive files.
+ Whether to encrypt the archive header. If the header is encrypted the password will be required to list the archive content as well.
+ Save Options
+ Save Options
+ Add files asking the name of the archive and quit the program
+ New name is the same as old one, please type other name.
+ An error occurred.
+ New Archive
+ Skip
+ Deselect All
+ View All Files
+ Keep directory structure
+ Display the tree view of the folders in the side pane
+ Cut
+ Search
+ Empty Trash
+ Select all
+ Print selected photo
+ Best fit
+ Bottom:
+ Vertical
+ Source
+ Dimensions
+ Exposure
+ Devices
+ Select None
+ Shadows
+ 1×1 (Square)
+ Sharpen
+ Calistoga
+ Bad argument to system call
+ Key Importedmsgidplural Keys Imported
+ Unknown
+ Multiple Keys
+ The file-roller process did not complete successfully
+ Selected Recipients
+ Displayed minute
+ Minute part of the lower time limit
+ Narrow compatibility character of
+ UTF-16:
+ Annotations and Cross References
+ Unknown character, unable to identify.
+ Match whole word
+ Next Block
+ Previous Block
+ Cyrillic
+ Arabic Extended-A
+ Tibetan
+ Runic
+ Georgian Extended
+ Latin Extended-C
+ Coptic
+ Supplemental Punctuation
+ Modifier Tone Letters
+ Cham
+ Tai Viet
+ Carian
+ Sharada
+ Tamil Supplement
+ Medefaidrin
+ Khitan Small Script
+ Cypro Minoan
+ Han
+ OUTPUT
+ Select the export filter/format
+ Description
+ Locate
+ Scaling
+ Hex grid
+ Hex grid size
+ Grid Lines
+ Selection
+ The object you dropped cannot fit into its parent. \nEither expand the parent object, or drop the object elsewhere.
+ Select None
+ none
+ Layer name:
+ 85
+ Couldn't get GTK+ settings
+ Plugins
+ Page breaks:
+ Visual Spacing Y:
+ a user
+ Please remove old Dia installations completely or install Dia to a different location.
+ This will completely delete $PROFILE\\.dia and all subdirectories. Continue?
+ None
+ Double Hollow Triangle
+ Notice
+ General
+ Delete Port
+ Custom XML lines loader
+ Right Cardinality:
+ Wish function
+ Eject
+ Transmit
+ Straighten
+ Collect
+ Perceive
+ Calculate
+ Gas
+ Rotation
+ Electrical
+ Pressure
+ Volumetric Flow
+ Human Motion
+ This action is a call to a macro-step
+ The condition's font
+ GRAFCET diagram objects
+ OR
+ Machine Domain
+ KAOS diagram
+ Tridecagon
+ Dotted arrow
+ Delete Segment
+ Public
+ Abstract Class Name
+ Wrap after this length: 
+ Query
+ Constraint:
+ This diagram uses the State object for initial/final states.\nThis option will go away in future versions.\nPlease use the Initial/Final State object instead.\n
+ Failed algorithm.
+ Image height:
+ PDF import filter
+ Scalable Vector Graphics import and export filters
+ Error reading resolution.
+ Horizontal parallelogram
+ End Event — Terminate
+ Ad-Hoc Collapsed Sub-Process
+ Simple Heat Exchanger, vertical
+ Water Cooler
+ Simple Furnace
+ Ejector or Injector
+ Vertically aligned capacitor
+ Horizontally aligned fuse
+ Scanner
+ PDA
+ Router with Silicon Switch
+ 100BaseT Hub
+ Content Service Module
+ CiscoWorks Man
+ NAT
+ PIX Firewall
+ Security appliance
+ VPN Concentrator
+ LongReach CPE
+ TokenRing
+ Fax
+ ATA
+ Reference line
+ Aerator with bubbles
+ Components for LADDER circuits
+ Sum, subtracting left input
+ Integrator — input right
+ Function
+ Corner 2
+ Car 2, Rear View
+ An i* positive contribution
+ Jigsaw — partioio
+ Jigsaw — partiooi
+ Miscellaneous
+ Bigtower PC
+ Plotter
+ Air exhaust orifice
+ Flow label
+ Send message
+ Large package
+ It is also the only Unix newsreader to get a perfect score on the Good Net-Keeping Seal of Approval evaluations.
+ Layout
+ Mark Selected Groups Read
+ Task Manager
+ Select Article Body
+ Next Unread Thread
+ Previous Article
+ Mark Article as Read
+ Mark Article as Unread
+ Followup to Newsgroup
+ Match Scores of 9999 (Watched)
+ Followup-To
+ Reply-To
+ Chinese
+ Unicode
+ Visual
+ Local Folders
+ Save Event List
+ Thank you for trying Pan!\n \nTo start newsreading, first Add a Server.
+ Rot13
+ Move to Top
+ Wrap Text
+ Always Run Editor
+ There were problems with this post.
+ Save Draft Article
+ Mail To
+ The current filename
+ The email account where mail replies to your posted message should go. This is only needed if it differs from the “From” header.
+ Use GNOME Preferences
+ 5000 to 9998
+ Always ask before deleting an article
+ Clear article cache on shutdown
+ File extension for cached articles: 
+ Use custom font in Body Pane:
+ Upload
+ Signature Type: 
+ Pan: Save Articles
+ for the next month
+ starts with
+ Header Compression:
+ Security
+ Always trust this server’s certificate
+ Error initializing uulib
+ Color Temperature
+ Display correction
+ A video card gamma table shows the curves loaded into the display
+ This shows what an image would look like if saved with the profile
+ Getting default parameters
+ Reading the patches
+ Please wait a few minutes for the ink to dry. Profiling damp ink will produce a poor profile and may damage your color measuring instrument.
+ Any existing screen correction will be temporarily turned off and the brightness set to maximum.
+ All done!
+ Disable dynamic contrast if your display has this feature.
+ Choose Display Whitepoint
+ Quick
+ Default: 
+ Color profile is already imported
+ Root window protocol version:
+ There are no ICC profiles for this window
+ Import
+ One or more of the primaries are invalid
+ The white is not D50 white
+ Unknown warning type
+ Display on screen
+ Output in a file
+ Horizontal
+ Linear-premultiplied-if-alpha
+ Compression algorithm used for data stored in the swap
+ Module error
+ The GeglBuffer to load into the pipeline
+ Number of samples to do per iteration looking for the range of colors
+ Paint a color overlay over the input, preserving its transparency.
+ Estimated temperature of the light source in Kelvin the image was taken with.
+ To 2
+ LAB B
+ Sample points
+ (1,4)
+ Exposure values
+ Weight sigma
+ Should the output extent be clipped to the input extent
+ 1D Gaussian-blur
+ Average difference between all pixels.
+ Node
+ Lowest luminance level in output
+ The color at (x1, y1)
+ Tilt
+ The value represents the contribution of the past to the new frame.
+ Mean Curvature Blur
+ Median Blur
+ Blur resulting from computing the median color in the neighborhood of each pixel.
+ Green Channel Multiplier
+ Enable preflashing
+ Y Component
+ Weights the opacity of the input both the value of the aux input and the global value property.
+ a GeglBuffer on disk to open
+ Apply a transformation recursively.
+ Clip low pixel values
+ Superpixels based on k-means clustering
+ Amount
+ When enabled also enhances shadow regions - when disabled a more natural result is yielded
+ The fill opacity to use.
+ Vector
+ Superpixels based on the watershed transformation
+ Normalize output to range 0.0 to 1.0.
+ Aspect ratio
+ Depth
+ Red in Red channel
+ Green for Green channel
+ Channel Mixer
+ Remix colors; by defining relative contributions from source components.
+ Replacement color.
+ Exchange one color with another, optionally setting a threshold to convert from one shade to another.
+ Deinterlace horizontally or vertically
+ Red sharp edges
+ Green sharp edges
+ Diffraction Patterns
+ Displacement multiplier for the radial direction
+ Sobel
+ Engrave
+ Blue application mode
+ Tile color based on average of subsumed pixels
+ Tile spacing
+ Histogram size
+ Creates an image filled with a plasma effect.
+ Origin point for the polar coordinates
+ Spiral radius
+ Propagate to left
+ Staggered
+ 3x3
+ Cache
+ No Operation
+ frames
+ me-subpel-quality
+ FFmpeg Frame Saver
+ JPEG File Loader
+ Active levels
+ GdkPixbuf Source
+ PNG image saver, using libpng
+ Wrap height
+ Porter Duff operation src-out (d = cA * (1.0f - aB))
+ Rotate the buffer around its center, taking care of possible offsets.
+ Smoothness
+ Radius of row pixel region, (size will be radius*2+1)
+ BoxBlur
+ Ditto
+ Lens center X
+ Start x coordinate
+ X coordinate of pattern center
+ Stop 2
+ Year view
+ Click to select the calendar
+ Yesterday
+ Ends
+ Quit GNOME Calendar
+ General
+ Albums of the week
+ A source providing locally available metadata
+ Culture
+ History
+ Retrieve patch from a commit
+ The GNOME Project
+ Setting that indicates whether to show items for the stash in the history.
+ The column at which the right margin is shown if the show-right-margin preference is set to TRUE.
+ Maximum number of previous commit messages to store for commit message history.
+ Number of Before/After Context Lines
+ No staged files
+ Failed to set Git user config.
+ Cherry pick finished with conflicts in working directory
+ Your email is not configured yet. Please go to the user configuration and provide your email.
+ Select all tags by default in the history activity
+ Local branch name:
+ Display right margin at column:
+ Enable syntax highlighting of source code in diff views
+ Open the help
+ Edit selection
+ Export
+ Developer mode not available
+ Table Exists Already
+ Relationship Exists Already
+ All
+ Your find criteria did not match any records in the table.
+ The document could not be opened.
+ <Picture>
+ South European
+ Zip Code
+ Untitled
+ The name for the created .glom file, such as something.glom .
+ The hostname of the PostgreSQL server, such as localhost. If this is not specified then a self-hosted database will be created.
+ The username for the PostgreSQL server.
+ Glom: The output path is not a directory.
+ Main Glom options
+ Remove this record.
+ There are no fields on the layout, so there is no way to enter data in a new record.
+ The primary key is auto-incremented.\n You may not enter your own primary key value.
+ From Field
+ Passwords Do Not Match
+ You may not unset the primary key because the table must have a primary key. You may set another field as the primary key instead.
+ Calculation Error
+ Fields
+ The relationship may not be used to show related records because the relationship does not specify a field in the related table.
+ <b>Rename Print Layout</b>
+ Enter search criteria to identify records in the other table, to choose an ID for this field.
+ User
+ Revert
+ <span weight=\bold\ size=\larger\>Open or Create a Document</span>
+ label
+ Drag and Drop Layout
+ Export Backup
+ Show Related Relationships
+ Use custom title:
+ Copy Translation
+ <span weight=\bold\ size=\larger\>Identify Original</span>\n\nThe language of the original text is currently identified as:
+ Decimal Places:
+ Foreground Color:
+ Select All
+ Insert Related Records
+ The color to use for the canvas background, specified as a GdkRGBA
+ If the image is scaled to fit the width and height settings
+ Specifies when the item receives pointer events
+ The line join style to use
+ Stroke Color GdkRGBA
+ The pixbuf to use to draw the item's perimeter. To disable painting set the 'stroke-pattern' property to NULL
+ Path Data
+ The height of the rectangle
+ Top Padding
+ Y Expand
+ If the item can shrink smaller than its requested size vertically
+ Text
+ Edit view
+ Select view
+ Note path of the notes opened when Notes quits last time.
+ Notebooks
+ Large
+ Move to Trash
+ Outdent
+ Quit
+ Open in a new window
+ It also optionally integrates with the GNOME Shell, allowing you to see the current conditions of the most recently searched cities by just typing the name in the Activities Overview.
+ The locations shown in the world view of gnome-weather. Each value is a GVariant returned by gweatherlocationserialize().
+ Diamond Mine
+ Easthaven
+ Maze
+ Deal
+ 7
+ three of clubs
+ three of diamonds
+ four of diamonds
+ ace of spades
+ face-down card
+ Keyboard Shortcuts
+ Pick up and drop cards by clicking
+ the nine of hearts
+ the ten of hearts
+ Remove the red joker.
+ Remove the four of spades.
+ Remove the nine of spades.
+ Remove the five of diamonds.
+ Move a card to the Foundation
+ Move something into the empty Tableau slot
+ Consider moving something into an empty slot
+ Try moving a card to the reserve
+ ace
+ seven
+ Choices left:
+ Move waste on to a reserve slot
+ Redheads
+ GNU Image Manipulation Program
+ Create images and edit photographs
+ GIMP 2.10.18 fixes some critical bugs, introduces naive support for CMYK PSD files, and adds a higher-contrast variation of the symbolic icon theme.
+ Foreground Select tool: color/opacity selector for \Color\ preview
+ Free Select tool: improved copy-paste interaction
+ Free Select tool creates preliminary selection
+ Bucket Fill tool: new \Fill by line art detection\ for not perfectly closed line art zones
+ New generic canvas modifier 'Alt + middle click' to pick layers
+ XCF compatibility information in the Save dialog more understandable and discoverable
+ GIMP 2.10.6 comes with a lot of bug fixes, optimizations and features. Most notable changes are:
+ Fast startup: fonts loading is not blocking startup anymore
+ Show version information and exit
+ [FILE|URI...]
+ View
+ Brush Editor Menu
+ Show brush file location in the file manager
+ Lock Position of Channel
+ Add to Selection
+ Subtract all pixels with this color from the current selection
+ Colors
+ Foreground: Use First Palette Color
+ Foreground: Use Next Palette Color
+ Background: Set Color From Palette
+ Background: Use First Color From Colormap
+ Background: Skip Color Forward From Swatch
+ Foreground Green: Decrease by 10%
+ Background Green: Increase by 10%
+ Background Blue: Decrease by 1%
+ Foreground Hue: Set
+ Foreground Saturation: Decrease by 1%
+ Foreground Saturation: Decrease by 10%
+ Tool Opacity: Make 10% More Transparent
+ Tool Paint Mode: Select First
+ Palette Selection: Switch to Previous
+ Font Selection: Select by Index
+ Brush Angle (Editor): Make Vertical
+ Brush Angle (Editor): Rotate Left by 1°
+ Add an empty event marker to the performance log
+ Open the selection editor
+ Palette Editor
+ Keyboard Shortcuts
+ Modules
+ Move to Screen
+ Icon
+ File Open Dialog
+ Equalize
+ Paste as
+ Copy
+ Copy what is visible in the selected region
+ Copy Named...
+ Paste the content of a named buffer
+ Clear
+ Create a new layer from the content of the clipboard
+ Fill with FG Color
+ Fill the selection using the background color
+ Cut Named
+ Save Error Log to File
+ Save
+ (Unnamed Template)
+ Combine
+ Decor
+ Stretch Contrast HSV
+ Erode
+ Bump Map...
+ Cartoon...
+ Convolution Matrix...
+ Exposure...
+ Gaussian Blur...
+ Lens Blur...
+ Maze...
+ Circular Motion Blur...
+ Zoom Motion Blur...
+ Cell Noise...
+ CIE lch Noise...
+ Recursive Transform...
+ Tile Seamless...
+ Waves...
+ Wind...
+ Split Gradient Segment Uniformly
+ Split
+ Save gradient as POV-Ray
+ Refresh gradients
+ Info
+ Fit Canvas to Selection
+ Convert the image to 32 bit floating point
+ Create a new layer group and add it to the image
+ Lower Layer
+ Layer Blend Space: RGB (perceptual)
+ Brown
+ Subtract the layer's alpha channel from the current selection
+ Edit Layer Attributes
+ Show MyPaint brush file location in the file manager
+ Import Palette...
+ Merge Palettes
+ There must be at least two palettes selected to merge.
+ New Pattern
+ Refresh Patterns
+ Refresh patterns
+ Edit pattern
+ Float
+ Sharpen
+ When feathering, act as if selected areas continued outside the image.
+ Border style
+ Open text file...
+ Edit Tool Preset
+ Show tool preset file location in the file manager
+ Edit Tool Preset...
+ Arbitrary Rotation...
+ Tool's Aspect Ratio: Minimize
+ Tool's Aspect Ratio: Maximize
+ Tool's Aspect Ratio: Increase Relative
+ Tool's Spacing: Increase Relative
+ Fill Path...
+ Paint along the path with last values
+ Color Management
+ Create another view on this image
+ Configure filters applied to this view
+ Use black point compensation for soft-proofing
+ Snap to Guides
+ Zoom in
+ Rotate 15° clockwise
+ Rotate the view 15 degrees to the right
+ Reset padding color to what's configured in preferences
+ Scroll right
+ Tabs Position
+ Left
+ How to handle embedded color profiles when opening a file.
+ Sets the type of mouse pointers to use.
+ Context-dependent mouse pointers are helpful. They are enabled by default. However, they require overhead that you may want to do without.
+ When enabled, the selected dynamics will be used for all tools.
+ When enabled, the selected gradient will be used for all tools.
+ Export XMP metadata by default.
+ Sets the default blend space for the 'New Layer' dialog.
+ Sets the default shrink radius for the 'Shrink Selection' dialog.
+ The thumbnail in the Open dialog will be automatically updated if the file being previewed is smaller than the size set here.
+ FG color fill
+ Pixel
+ Red
+ Ask what to do
+ Perceptual
+ Lock/Unlock alpha channels
+ Cut
+ Suspend group layer resize
+ Text layer
+ Very large
+ Enormous
+ Pasted Layer
+ FG to BG (RGB)
+ Select by Color
+ Tool Preset
+ Radius of feathering
+ Move Layer Group
+ Scale Layer Group
+ Flip Layer Group
+ Remove Channel
+ ICC profile validation failed: Parasite's flags are not (PERSISTENT | UNDOABLE)
+ Set Colormap
+ Change Colormap entry
+ Add Color to Colormap
+ Remote File
+ Rename Layer
+ Maximum number of pixels grown under the line art
+ Line width
+ Dash offset
+ Apply stored dynamics
+ Lock pixels
+ None
+ Histogram
+ Extensions
+ Take me to the Export dialog
+ Layers Merge Options
+ Is this what you want to do?
+ Module Manager
+ Show rulers
+ Maximum undo memory:
+ Color Management
+ Reset Color Management
+ Reset Saved Tool Options to Default Values
+ Keep recent settings:
+ Check size:
+ Window Management
+ Hint for docks and toolbox:
+ Activate the focused image
+ Select Pattern Folders
+ Height:
+ Discard Changes
+ Import Paths from SVG
+ Horizontal
+ Sample Merged
+ Drop layers
+ Click-Drag away to remove the slider
+ Add Stroke
+ Insert Anchor
+ Delete Segment
+ Opening remote file
+ RGB (linear)
+ Fill the original position of the cage with a plain color
+ Choose shade of gray based on
+ Shift the pixels, optionally wrapping them at the borders
+ No patterns available for use with this tool.
+ Exposure
+ Distance of scattering
+ Brightness-Contrast
+ Levels
+ Sample criterion
+ Stretch Contrast HSV
+ Maze
+ Red Eye Removal
+ Semi-Flatten
+ Shift
+ Querying new Plug-ins
+ Linear Motion Blur: 
+ Recursive Transform: 
+ Scale Text Layer
+ Flip Text Layer
+ Click to pick this path as first item
+ Fill the original position\nof the cage with a color
+ Computing Cage Coefficients
+ Use info window
+ Highlight opacity
+ The active layer's position is locked.
+ Stroke width
+ Select foreground pixels
+ press Enter to preview.
+ Select an operation from the list above
+ Center midpoint
+ Clamp input
+ Adjust levels for all channels automatically
+ By height/2
+ Color Options
+ Ctrl-Click to set a clone source
+ Radius of rounding in pixels
+ Seamless Clone
+ Font size
+ Line spacing
+ Box
+ Whether text flows into rectangular shape or moves into a new line when you press Enter
+ Apply Threshold
+ Synchronous preview
+ Constrain transformation to a single axis
+ The active path has no strokes.
+ The current transform is invalid
+ Number of animation frames
+ Fixed aspect ratio
+ Path
+ Scale Path
+ Fill Path
+ B:
+ Smaller Previews
+ Dump events from this controller
+ DDE transaction busy
+ A sharing violation occurred.
+ Tile cache compression ratio
+ Swap file size
+ Size of data queued for writing to the swap
+ Swap compression ratio
+ Number of active worker threads
+ All export images
+ Fill Color
+ File Size:
+ Plug-In
+ Manage presets
+ Line width:
+ Change size of selected text
+ The active background color.\nClick to open the color selection dialog.
+ Drag to an XDS enabled file-manager to save the image.
+ Add to palette
+ Status & text
+ Save Anyway
+ If you reload it, all unsaved changes could be lost. Reload it anyway?
+ Project switcher
+ BTW, did you know you can double click on any placeholder to create widgets?
+ Output version information and exit
+ © 2018-2020 Juan Pablo Ugarte, et al.\n© 2004-2018 Tristan Van Berkom, Juan Pablo Ugarte, et al.\n© 2001-2006 Joaquin Cuenca Abela, Paolo Borelli, et al.\n© 2001-2006 Ximian, Inc.
+ Prompt the user at save time if the project\ncontains any unrecognized types
+ Thank you for taking the time to complete the survey, we appreciate it!
+ Information will be sent to https://survey.gnome.org
+ Company
+ Which version do you normally use?
+ Debian
+ Raspbian
+ Solus
+ SulinOS
+ Leopard
+ The container object this editor is currently editing
+ Reset Widget Properties
+ Class Name:
+ Run Last
+ Name of the file to preview
+ Unable to cut unrecognized widget type
+ Precision
+ Custom text to override the property name
+ Title
+ Translated title for the class used in the glade UI
+ The internal name of the widget
+ Parent
+ The height of the widget when toplevel in the GladeDesignLayout
+ Click on a placeholder to create this class\n(use middle button to create more than one)
+ Accelerator Key
+ Variant
+ Background Color
+ Select a color
+ Expander
+ A list of style class names to apply to this widget
+ Proximity Out
+ Animation
+ Color Chooser
+ Option Pane
+ Radio Button
+ Split Pane
+ Table Cell
+ Marquee
+ Embeds
+ South
+ Center on Parent
+ Stock Item
+ Icons only
+ Password
+ Help
+ The stock item for this button
+ Release
+ Items
+ Resource Name
+ Keep the headerbar height the same as the subtitle changes dynamically.
+ Custom Title
+ Move Over Up-Down
+ Placeholder
+ Whether this listbox should have a placeholder widget that is shown in the list when it doesn't display any visible children
+ Lock Button
+ External
+ If overlay scrolling is enabled, scrollbars are only added as traditional widgets when a mouse is present
+ Application Chooser Dialog
+ Initially Complete
+ Action Group
+ Descending
+ Semi Condensed
+ Wrap Mode column
+ Keycode column
+ Digits column
+ Themed Icon
+ Add center child
+ Button Attributes
+ Icon View Attributes
+ Single Click Activate
+ Item Width:
+ Formatting
+ Scrolled Window Attributes
+ Stack Switcher Attributes
+ Text Formatting
+ Below Lines:
+ Widget Flags
+ Title:
+ 1/2
+ 1/2T
+ 1\\/4
+ 5 Tone Equal Temperament
+ 8 Value FFT Window
+ Aftertouch Out
+ Auto Output
+ BEAST About
+ Base amplification (the control signal adds up to this)
+ Cancel
+ Control Automation
+ DavChorus adds more depth to sounds
+ Default value for 'Author' fields
+ Default value for 'License' fields
+ Delete Part
+ EVENTS:
+ Eighths note
+ Enable Error Bell
+ Events
+ Every third and sixth row
+ Exponential FM
+ HWrap
+ Horizontal Bar Color
+ Insert thirty-second note
+ Link or move parts (mouse button 1 and 2)
+ Load synthesizer mesh from instruments folder
+ Max Voices
+ Multiply Controls
+ Name of the WAVE file used for recording BSE sound output
+ No data available
+ No space left on device
+ Number of ticks per quarter note
+ Output Signal Monitor
+ PCM Input module
+ Please press the keyboard shortcut to be installed...
+ Q: 1\\/1
+ Right Audio In
+ Right to Left
+ Save synthesizer mesh to instruments folder
+ Spin Button
+ Sync
+ The last program version that displayed this message type
+ The project has been modified.
+ This setting can be changed in the \Messages\ section of the preferences dialog
+ Triplet quarter note
+ Undo
+ Unfiltered Input
+ Version
+ Vertical Grid Color
+ Vertical Scale (Logarithmic)
+ Waves
+ Forward
+ Quit
+ control-25
+ control-54
+ Cannot find address in address book
+ Unknown error
+ Displayed Name:
+ Last Autocrypt message
+ Flagged
+ Accept Once
+ Subkeys
+ invalid timestamp
+ Timeout exceeded while attempting fcntl lock!
+ secondmsgidplural seconds
+ accepted
+ Sunday
+ Tuesday
+ August
+ Sentbox:
+ Type of mail server:
+ Default Identity
+ Welcome to Balsa!
+ New mail notification
+ alternative addresses for the same person
+ No path found. Do you want to give one?
+ Password needed
+ Copy to folder…
+ message headers
+ Match when date is in the interval:
+ Low date is incorrect
+ One Matches/None Matches
+ Update
+ Host:
+ Browse…
+ \nthe server does not support ACLs
+ This folder is not stored in configuration. I do not yet know how to remove it from remote server.
+ Empty trash
+ Balsa is sending a mail now.\nAbort sending?
+ Mailboxes
+ Message number
+ Wide message layout
+ Outgoing mail servers
+ Quoted text regular expression:
+ Miscellaneous
+ Bottom
+ Kazakh
+ Open…
+ Message saved.
+ Message postponed.
+ Ignore
+ Address could not be written to this address book.
+ Reply\nto all
+ Send
+ Restore toolbar to standard buttons
+ Toolbar style…
+ Show Toolbar
+ Selected Headers
+ Undeleted
+ Message
+ Quote Message(s)
+ Failed to empty Trash
+ Only check for Junk messages in the Inbox folder
+ Subscribe to folder of other MAPI user…
+ Subscribe to folder of other user…
+ Cannot create MAPI memo list in offline mode
+ Contributor
+ Own
+ User cancelled operation
+ Enable dwell click
+ Header too big
+ Could not import existing socket: 
+ Message is already in session queue
+ The server did not accept the WebSocket handshake.
+ Monitor;System;Process;CPU;Memory;Network;History;Usage;Performance;Task;Manager;
+ Swap
+ Websites
+ Web browser for GNOME
+ New Window
+ Whether to automatically restore the last session
+ Custom serif font
+ Custom monospace font
+ Firefox Sync Token Server URL
+ Currently signed in sync user
+ Sync device name
+ TRUE if Ephy collections should be synced with Firefox collections, FALSE otherwise.
+ Decision to apply when microphone permission is requested for this host
+ Web is being controlled by automation.
+ Central European (IBM-852)
+ Gujarati (MacGujarati)
+ Japanese (Shift-JIS)
+ Turkish (Windows-1254)
+ Unicode (UTF-8)
+ Failed to verify storage version.
+ The certificate has been revoked
+ Ask
+ Web options
+ Cut
+ Open Link
+ Open Link In New Window
+ Cookies
+ Delete All Passwords?
+ Delete
+ Address
+ Bookmark some webpages to view them here.
+ Search personal data
+ Sign out
+ Pin Tab
+ Font Style
+ Style
+ Mouse Gestures
+ Go to homepage
+ Install site as web application
+ Save
+ Enable
+ Index optical discs
+ Directories to index recursively
+ Index applications installed on the system
+ Add feed
+ Miner to use with --resume or --pause (you can use suffixes, e.g. Files or Applications)
+ Erase indexed information about a file, works recursively for directories
+ Limit the number of results shown
+ Offset the results
+ Disable Full Text Search (FTS). Implies --disable-snippets
+ No statistics available
+ No files have been tagged
+ HTTP proxy password:
+ Don’t verify certificate identification
+ Verify whole subject exactly
+ Enable verbose debug logging (may expose passwords)
+ Renegotiate data channel key after the specified number of seconds.\nconfig: reneg-sec
+ Specify ping interval
+ Connect timeout
+ Specify the ontology name used in this endpoint
+ --list can only be used with --session or --system
+ Could not own DBus name
+ CLASS
+ Could not list named graphs
+ SQL query
+ Launch an application
+ Signal and interface name
+ Containing mount does not exist
+ Target file exists
+ Never follow symbolic links
+ Monitors a file directly, but doesn’t report changes
+ Mount a TCRYPT system volume
+ Include phony targets in the generated dependency file
+ Do not enforce key name restrictions
+ Cannot set permissions on symlinks
+ The file was externally modified
+ Set the value of KEY to VALUE
+ Monitor KEY for changes.\nIf no KEY is specified, monitor all keys in SCHEMA.\nUse ^C to stop monitoring.\n
+ SCHEMA The name of the schema\n PATH The path, for relocatable schemas\n
+ Connection in progress
+ Thu
+ Jul
+ Valid key file could not be found in search dirs
+ Empty entity “&;” seen; valid entities are: &amp; &quot; &lt; &gt; &apos;
+ Help Options:
+ short utf8
+ code overflow
+ recursive call could loop indefinitely
+ previously-checked referenced subpattern not found
+ digit expected after (?+
+ Play
+ Scale images down
+ Synopsis
+ Send email to ‘<string/>’.
+ Theme
+ Layout: 
+ New Game
+ GNU Image Manipulation Program
+ Discovery of user-installed fonts in Windows
+ Clipboard brushes and pattern can now be duplicated
+ New debug dialog to produce back traces and other debug data, encouraging to report bugs
+ Improvements for the Wavelet Decompose filter
+ GIMP
+ PDB compatibility mode (off|on|warn)
+ Dialogs
+ Drawable
+ MyPaint Brushes
+ Paste Buffer as New Image
+ Color Tag
+ Orange
+ Channel Color Tag: Set to Red
+ Replace the selection with this channel
+ Subtract this channel from the current selection
+ Subtract from Selection
+ Foreground: Use Previous Palette Color
+ Background: Set Color From Palette
+ Foreground Green: Set
+ Foreground Blue: Decrease by 10%
+ Brush Radius (Editor): Increase by 0.1
+ Brush Hardness (Editor): Set
+ Brush Aspect Ratio (Editor): Set to Maximum
+ Include backtraces in log
+ Paint Dynamics
+ Open paint dynamics dialog
+ Keyboard Shortcuts
+ Show Image Selection
+ Clearing the document history will permanently remove all images from the recent documents list.
+ Flip Horizontally
+ Flip drawable vertically
+ Create a new dynamics
+ Copy Dynamics Location
+ Paint Dynamics Editor Menu
+ Paste as
+ Paste Named...
+ Paste the content of a named buffer
+ Fill with FG Color
+ There is no image data in the clipboard to paste.
+ Errors
+ Create a new template from this image
+ Checkerboard...
+ Edge...
+ Mosaic...
+ Cell Noise...
+ Recursive Transform...
+ Semi-Flatten...
+ Spiral...
+ Stretch Contrast...
+ Left Endpoint's Color...
+ RGB
+ Select the number of uniform parts\nin which to split the segments in the selection.
+ Save gradient as POV-Ray
+ Open the GIMP user manual
+ Info
+ Merge all layers into one and remove transparency
+ Convert the image to 64 bit floating point
+ RGB...
+ Images Menu
+ None
+ Layer Color Tag: Set to Green
+ Layer Color Tag: Set to Yellow
+ Delete Layer Mask
+ Layer Opacity: Make More Opaque
+ Edit Active Palette
+ New Color from FG
+ Zoom Out
+ Duplicate this palette
+ Delete Palette
+ Reset all plug-ins to their default settings
+ Replace the selection by its border
+ New Template...
+ Open Text File (UTF-8)
+ Cut
+ From left to right
+ Tool's Opacity: Decrease Relative
+ Tool's Size: Increase by 1
+ Path Color Tag: Set to Violet
+ Adjust the zoom ratio so that the image becomes fully visible
+ Dot for Dot
+ Color-Manage this View
+ Zoom Out
+ Saturation
+ Light Check Color
+ Scroll to right border
+ Position the tabs on the bottom
+ Switch to Move tool
+ Keep above
+ Snap to the grid by default in new image windows.
+ When enabled, the image window will automatically resize itself whenever the physical image size changes. This setting only takes effect in multi-window mode.
+ Let GIMP try to restore your last saved session on each startup.
+ When enabled, the sample points are visible by default. This can also be toggled with the \View->Show Sample Points\ command.
+ Hide docks and other windows, leaving only image windows.
+ Sets the default blend space for the 'New Layer' dialog.
+ fatal parse error
+ Active channel
+ Ask what to do
+ Short dashes
+ Matting Global
+ Attach parasite
+ Plug-In
+ Change metadata
+ Item color tag
+ End transforming group layer
+ Color History
+ FG to BG (RGB)
+ FG to Transparent
+ Rectangle Select
+ Background
+ Antialiasing
+ Resize Layer Group
+ Arrange Objects
+ Resize Image
+ Add Horizontal Guide
+ Rotate Items
+ Resize Layer
+ Cannot add layer mask of different dimensions than specified layer.
+ Line art detection threshold
+ History Color
+ Emulate brush dynamics
+ Activate symmetry painting
+ Disable brush rotation
+ Profile details
+ Convert to Grayscale Working Space?
+ Linear light
+ Open layers
+ Template:
+ Scaling the image to the chosen size will shrink some layers completely away.
+ Add Layer Maskmsgidplural Add Layer Masks
+ Lock alpha
+ Only in memory
+ Select Palette File
+ The user manual is not installed locally.
+ Reset Color Management
+ Image display mode:
+ Image Import & Export
+ Default interpolation:
+ Color Profile Import Dialog
+ Color profile policy:
+ Remove unused and duplicate colors from colormap
+ Select Default Folder for Exporting Paths
+ Select Default Folder for Importing Paths
+ Help System
+ Use the online version
+ Save Window Positions Now
+ Image Title & Statusbar Format
+ Dynamics Folders
+ Select Gradient Folders
+ Reset Script-Fu Folders
+ Interpolation:
+ Stroke
+ GIMP Tip of the Day
+ Export all paths from this image
+ Auto
+ Number of lines
+ Aspect ratio
+ H
+ Select Rotation Angle
+ Click-Drag to resize the limit
+ Click-Drag to move the focus
+ Edit Mode
+ Add Stroke
+ Click-Drag to move the anchor around
+ Click-Drag to move the path around
+ Clicking here does nothing, try clicking on path elements.
+ Lighten only (legacy)
+ LCh Color
+ Exclusion
+ Luma/Luminance lighten only
+ The affected channel
+ Low Output
+ Adjust color curves
+ Value
+ Convolve
+ Rate
+ Size
+ Force
+ Scatter brush as you paint
+ Repeat
+ Alignment
+ Registered
+ Invalid empty brush name
+ Noise HSV
+ Illusion
+ Solid Noise
+ Blue channel
+ Reset Range
+ G
+ Highlights
+ Your text cannot be rendered. It is likely too big. Please make it shorter or use a smaller font.
+ Fixed
+ Alignment Tool: Align or arrange layers and other objects
+ Align
+ Maximum gap (in pixels) in line art which can be closed
+ Bucket Fill Tool: Fill selected area with a color or pattern
+ Color Picker Tool: Set colors from image pixels
+ Input:
+ Type:
+ Flip Tool: Reverse the layer, selection or path horizontally or vertically
+ Size of the brush used for refinements
+ Fuzzy Select
+ Ink Tool: Calligraphy-style painting
+ Pick black point for all channels
+ Zoom Tool: Adjust the zoom level
+ Pick a path
+ Amount of control points' influence
+ Offset...
+ Offset Layer Mask
+ Reset spacing to brush's native spacing
+ Click to draw the line
+ Round corners of selection
+ Allow completely transparent regions to be selected
+ Shear Tool: Shear the layer, selection or path
+ Shear magnitude X
+ Text
+ Image opacity
+ Keep the original aspect ratio
+ Transform along the Z axis
+ Direction of transformation
+ Unified transform
+ Effect Hardness
+ Apply effect periodically
+ Shape:
+ Y:
+ There can only be one active mouse controller.\n\nYou already have a mouse controller in your list of active controllers.
+ Mouse Buttons
+ Copy Bug Information
+ See bug details
+ On-disk tile swap
+ Lock position and size
+ Number of paths:
+ Change Background Color
+ Open the MyPaint brush selection dialog
+ Undo move
+ Display the computer’s thoughts
+ NUMBER
+ Chance [total]
+ mediaserver;mediarenderer;share;audio;video;pictures;
+ Cannot run “Ping” action: Host is empty
+ Cannot run “NSLookup” action: HostName is empty
+ Play mode not supported
+ ObjectID argument missing
+ Classic.Gimp.Org
+ Work on copy
+ Left
+ Radius
+ Basic I...
+ Bevel width
+ Intermediate frames
+ Chalk...
+ Chrome balance
+ Keep selection
+ Azimuth
+ Elevation
+ Images Directory
+ Blur radius
+ Create an image filled with a Land Pattern
+ Random seed
+ Scale Y
+ Fuzzy Border...
+ Shadow weight (%)
+ Effect size (pixels * 3)
+ Remove all Guides
+ Fill a layer with rays emanating outward from its center using the FG color
+ Create a logo in the style of a neon sign
+ Angle
+ Render Map...
+ To Pattern...
+ Spyrograph
+ Frame
+ Start angle
+ Airbrush
+ Create a logo using a starburst gradient
+ Hexagons
+ Create, Open and Save Files
+ Bookmark to the GIMP web site
+ Add a subtle translucent 3D effect to the selected region (or alpha)
+ Drop shadow opacity
+ Show Grilo Options
+ Caribou Preferences
+ General
+ Three
+ Unmaximize
+ Make the window not have a fixed position in the viewport
+ stick
+ change workspace
+ maximize
+ change fullscreen mode
+ make above
+ make below
+ Close Tab
+ Execute the argument to this option inside the terminal
+ Wait until the child exits (TODO)
+ Use Light Colors
+ Find in Terminal
+ No valid data source info was created
+ Quit
+ About
+ optional
+ Shared object file
+ The first row is an empty row artificially prepended and cannot be altered
+ Incorrect SQL expression
+ Unique row condition has already been specified
+ Features to compute
+ Non handled GdaServerOperationType, please report error to http://gitlab.gnome.org/GNOME/libgda/issues
+ Database provider does not support savepoints
+ Malformed table name
+ Unable to get column name
+ Cannot unregister connection not registered with GdaXaTransaction object
+ Sqlite boolean representation
+ SQLite does not support specifying fields to apply DISTINCT clause on
+ SELECT can't have a HAVING without GROUP BY
+ TRUE if expanding the form vertically makes sense
+ Values to be defined
+ Find:
+ any valid SQL expression
+ Info cell visible
+ No title
+ You may now choose to correct it, or to discard the modifications.\n\nWhat do you want to do?
+ The DBNAME parameter is not defined in the connection string.
+ With foreign keys
+ Instance
+ Truncated result because LDAP server limit encountered
+ Never: certificate not requested or checked
+ No field specified in foreign key constraint
+ After column
+ HP West European
+ GBK Simplified Chinese
+ ARMSCII-8 Armenian
+ DOS Central European
+ Checksum
+ Don't pack keys
+ Comma Separated Value (CSV)
+ Federated
+ Clustered, fault-tolerant, memory-based
+ Dynamic
+ Japanese EUC
+ Can create roles
+ Can be used to choose the PostgreSQL user ID of the new user
+ User
+ Replace it already exists
+ Maximum wait for connection, in seconds. Zero or not specified means wait indefinitely. It is not recommended to use a timeout of less than 2 seconds
+ <b>Zoom</b>
+ Virtual connection's properties
+ Variables' values:
+ Link to other data
+ Error parsing XML specifications
+ Foreign key name:
+ Tab
+ Space
+ Optional attribute:msgidplural Optional attributes:
+ Modify a favorite
+ Table not found. If you think this is an error,\nplease refresh the meta data from the database\n(menu Connection/Fetch meta data).
+ Toggle between grid and form presentations
+ Separator character for CSV format
+ Show a piece of information, or all information about the connection
+ Rename a dataset, useful to rename the '' dataset to keep it
+ stop with error
+ Gda server operations list
+ Whether gedit should highlight matching brackets.
+ Print Header
+ Specifies the font to use for line numbers when printing. This will only take effect if the “Print Line Numbers” option is non-zero.
+ Changes made to the document in the last hour will be permanently lost.
+ Open Files
+ Find and Replace
+ Mac OS Classic
+ Preferences
+ Find…
+ Find Previous
+ Close All
+ Description
+ Display right margin at column:
+ Uninstall Scheme
+ Print syntax highlighting
+ Page header
+ Find 
+ Match case
+ Switch to the previous document
+ Windows and Panels
+ Cut selected text to clipboard
+ Go to line
+ Go to next tab group
+ Run command
+ You must be inside a word to run this command
+ File Browser
+ The new directory is currently filtered out. You need to adjust your filter settings to make the directory visible
+ Show Hidden
+ Type to search…
+ Delete selected snippet
+ Import Snippets
+ Activation
+ Drop targets:
+ EasyTAG
+ Genre
+ Rename Directory
+ Rename
+ Folk
+ Unselect all lines
+ Insert a blank line before the selected line
+ Run Audio Player
+ Redo for File
+ Descending by artist
+ Ascending by album
+ Ascending by comment
+ Display changed files in list using:
+ Whether to split artist fields at a “ - ” separator in Ogg comments
+ Whether to use a non-standard character encoding when reading ID3 tags
+ Choose the character set to be used when writing ID3v1 tag
+ Whether to use the CRC-32 of the audio file data as the default comment, for files with ID3 tags only
+ Whether to ask for confirmation from the user before deleting a file
+ Process composer field
+ Whether to upper-case all characters of the tag when processing tag fields
+ Insert a space before uppercase letters
+ Case sensitive
+ Album artist:
+ Tag selected files with this comment
+ Tag selected files with this composer
+ The length of the disc number field
+ The tag fields to process when using the scanner
+ Use relative paths when creating playlists
+ Show the scanner legend
+ Do you want to save them before quitting?
+ Sending request…
+ The number of CDDB results does not match the number of selected files
+ Ready to search
+ Chinese Simplified (GB18030)
+ Cyrillic (ISO-IR-111)
+ Invalid UTF-8
+ Newmask
+ Loading default ‘Rename File’ masks…
+ First letter uppercase of each word
+ Cannot display the image
+ The group has already been inserted.
+ You must be authenticated to insert a group.
+ Shadow
+ Move Up
+ Contents
+ Remote Locations
+ File
+ Add a new entry
+ Cite key(s)
+ your search text must contain\nlatin-1 characters only
+ This program is copyrighted under the GNU GPL
+ Long Text
+ Medline Query
+ From:
+ To:
+ Expert Search
+ usage: pybliocheck <file | directory>…
+ Client for Cisco AnyConnect SSL VPN virtual private networks
+ Connect anyway
+ Server is neither a GlobalProtect portal nor a gateway.\n
+ Failed to send GET request for new config\n
+ Downloaded config file did not match intended SHA1\n
+ Error: Running the 'Cisco Secure Desktop' trojan on this platform is not yet implemented.\n
+ No MTU received. Aborting\n
+ No DTLS address\n
+ Too long time in MTU detect loop; assuming negotiated MTU.\n
+ Keepalive not implemented for ESP\n
+ Failed to generate DTLS priority string\n
+ Client certificate has expired at
+ Failed to allocate memory for certificate\n
+ signer not a CA certificate
+ This is the final try before locking!
+ Gateway says no HIP report submission is needed.\n
+ SSL certificate authentication failed\n
+ Error fetching HTTP response body\n
+ Choose authentication login selection
+ Tunnel control
+ Server is rejecting the soft token; switching to manual entry\n
+ Loading private key failed (see above errors)\n
+ Undefined action
+ Bind UDP socket
+ TAP device aborted connectivity. Disconnecting.\n
+ Proxy
+ Compatible with Cisco AnyConnect SSL VPN.
+ More samples are necessary to display a callgraph.
+ Writes
+ Save
+ Warning
+ Memory
+ Launch Application
+ Disable recording of battery statistics
+ Destination D-Bus name to invoke method on
+ Southwest
+ little sleet
+ showers of sleet
+ freezing fog
+ Drizzle
+ Light rain
+ Snow
+ Hail
+ Calm
+ Temperature unit
+ Enjoy listening to Free Internet Radio stations in GNOME Internet Radio Locator for GNOME 3.
+ http://uri-to-website/
+ Books disabled
+ Font for text with fixed width, such as code examples.
+ New Window
+ Open a new tab
+ Database encryption key ID
+ Manage your diary. Only one instance of the program may be open at any time.
+ Calendar Task
+ About Almanah Diary
+ Paste
+ Delete
+ Error opening Seahorse
+ End date:
+ Write the tag and press enter to save it
+ Whether we should start the program listening for reverse connections
+ Folder
+ Parent Folder
+ Error creating the SSH tunnel
+ Requests an update of the screen
+ Send Ctrl-Alt-Del
+ Remove Item?
+ Authentication failed
+ Open Vinagre in fullscreen mode
+ filename
+ Log In Anyway
+ No route to host
+ Select
+ Login
+ Songs
+ Playing music
+ Albums Results
+ Toolbar
+ Publication days:
+ Increase the comic size
+ Install <string/>
+ No href attribute found on yelp:document\n
+ Install Packages
+ Computer
+ Cycle Screenshot Sizes Backward
+ Workspace Names
+ Brazilian Real
+ British Pound Sterling
+ Overflow error
+ Arctangent function is undefined for values i and -i
+ Duration
+ Yards
+ foot,feet,ft
+ inch,inches,in
+ Micrometers
+ Miles per hour
+ mm³,μL,uL
+ Kibibits
+ Pebibits
+ exabit,exabits,Eb
+ Exabytes
+ exbibit,exbibits,Eib
+ Zettabits
+ Multiply [*]
+ Decimal
+ Keyboard entry
+ Keyboard
+ IPython Console
+ Highlight last event entry
+ Alpha
+ Image
+ Refresh all
+ Bottom panel
+ Plugins
+ An interactive Python accessibility explorer
+ View
+ no layout
+ Load extra configuration items
+ The identifier of the saver.
+ You can turn this safety feature off by editing appropriate plugin.xml file.
+ Objects
+ Cropped right
+ Cropped top
+ Use spline
+ Use a Bezier cubic spline as line
+ Style
+ Wrap width
+ Theta:
+ Categories between labels
+ Major ticks
+ The user assigned format to use for non-discrete axis labels (XL format)
+ Axis start position
+ Define
+ Size of the major tick marks, in points
+ degrees
+ New
+ Saves the color map to the local disk.
+ Plot area
+ Y-Axis
+ Pseudo-3D-Axis
+ Color-Axis
+ Color-Scale
+ Direction:
+ Insert
+ Whether the background should be rotated with the text
+ Alignment flag
+ page 3
+ Object size:
+ Regression Curve Type
+ Low bound:
+ View
+ Regression curve
+ Centered
+ Series name
+ Values as percent
+ Arabic
+ Greek
+ Baltic (ISO-8859-13)
+ Chinese Simplified (GB18030)
+ Farsi (MacFarsi)
+ Korean (JOHAB)
+ Turkish (Windows-1254)
+ dark green
+ purple
+ Bold Italic
+ Demi-Condensed
+ Light
+ Medium
+ Regular Italic
+ Semi-Expanded Bold Italic
+ Whether color is part of the font being selected
+ Whether subscript/superscript is part of the font being selected
+ Select the font family
+ Select the font face
+ Style:
+ Accounting
+ Fraction
+ mol (mole)
+ Categories:
+ Select an appropriate format automatically.
+ Caribbean
+ Tunisia (arTN)
+ Spain/Asturian (astES)
+ Dominican Republic (esDO)
+ Guatemala (esGT)
+ Nepal/Nepali (neNP)
+ India/Sindhi (sdIN)
+ Thailand (thTH)
+ Eritrea/Tigrinya (tiER)
+ Pakistan (urPK)
+ Bangladesh, Taka
+ Belarus, Rubles
+ Cuba, Pesos
+ Ghana, Cedis
+ Guatemala, Quetzales
+ Honduras, Lempiras
+ Latvia, Lati
+ Morocco, Dirhams
+ Mauritania, Ouguiyas
+ Seychelles, Rupees
+ Syria, Pounds
+ Turkmenistan, Manats
+ Red
+ Long dash
+ Very long dash
+ Long dash dash dash
+ Thin Horizontal Stripe
+ Thin Diagonal Stripe
+ Thin Diagonal Crosshatch
+ Shape:
+ Bicolor gradient
+ Equation editor
+ Itex markup string
+ Horizontal or vertical lines
+ Min
+ Bar
+ Unmarked Lines
+ Percentage area plot.
+ Adjacent horizontal bars grouped by major and minor categories.
+ Minor categories stacked in vertical columns grouped by major category.
+ Percentage Columns
+ Skip
+ Separation:
+ Percentage of each contributor in a half circle.
+ Charting : Pie/Ring
+ hide-outliers
+ Hide data outside of the color axis bounds
+ Transposed
+ Whether the columns limits should be evaluated
+ XY matrix plotting engine
+ XYColor
+ Positions
+ Stepped curve using the first y value.
+ Logarithmic regression
+ Logarithmic fitting curves
+ Default period is 10 * (xmax - xmin)/(nvalues - 1)\nIf no value or a negative (or null) value is provided, the default will be used
+ Preferred Color Scheme
+ Christian Hergert, et al.
+ Style Scheme
+ The various types of spaces to draw in the editor.
+ Document Restored
+ Draft Changes Restored
+ Clear History
+ Discard
+ Character Encoding:
+ Move Right
+ Reorder before previous tab
+ Find/Replace
+ Edit
+ RI
+ Select Folder for Received Files
+ Echo received data
+ Read the manual
+ Write Only
+ O
+ Your micro break has ended
+ Overdue break
+ Ready to go
+ The GNOME Project
+ New Window
+ Sidebar
+ Preferences
+ Dictionary Preferences
+ Dictionary sources
+ Available strategies
+ Next definition
+ Save as copy
+ Add Dictionary Source
+ Print font:
+ Set the font used for printing the definitions
+ Add
+ Port
+ Similar words
+ user token, if remembered
+ display photo comments
+ RAW developer default
+ True if the Flickr publishing plugin is enabled, false otherwise
+ True if the Slide slideshow transition plugin is enabled, false otherwise
+ Photo
+ Map Overview
+ All Photos
+ Use dark theme:
+ Library
+ Shotwell Preferences
+ Rename…
+ How long each photo is shown on the desktop background
+ Verifying authorization…
+ API Key:
+ Invalid User Email or Password
+ Visit the Yandex.Fotki web site
+ Blogs
+ 1280 × 853 pixels
+ Clock
+ Hide photos already imported
+ Removing photos/videos from camera
+ Decreasing ratings
+ Flagging selected photos
+ Export Video
+ Duplicate Photos/Videos Not Imported:
+ duplicates existing media item
+ 4 × 6 in.
+ Skip
+ Export
+ Photos cannot be imported from this directory.
+ Current Development:
+ Normal Size
+ Revert External Edits
+ Rate Rejected
+ Publish…
+ Date
+ ★★★★★+ Rating
+ Completed spell checking
+ (correct spelling)
+ Change
+ MSCHAPv2
+ Gateway:
+ Optional
+ Create links for URLs in notes
+ Custom Font Face
+ SSHFS Remote Synchronization Folder
+ Path to the synchronization server when using the filesystem synchronization service addin.
+ Backlinks
+ See which notes link to the one you're currently viewing.
+ Bugzilla Links
+ Add
+ Could not save the file \%1\
+ Example: google-drive://name.surname@gmail.com/notes
+ Please, register your account in Online Accounts
+ Tasks
+ Show special notes, that are otherwise hidden
+ Show Statistics
+ Import from Sticky Notes
+ Heading 1
+ No D-Bus connection available, shell search and remote control will not work.
+ Name already taken
+ Small
+ Automatic background sync interval (minutes)
+ %1 Preferences
+ All Notes
+ Parent of embed box is not a Gtk::Grid, please report a bug!
+ Failed to download %1 note updatemsgidplural Failed to download %1 note updates
+ Note Conflict
+ Number of AI players.
+ 4
+ Worm 4
+ Disable fake bonuses
+ Game Over!
+ 5
+ The key you selected is already assigned!
+ Other
+ Start
+ Skip this person (will perform tests at the end)
+ Jump angle
+ Edit exercise type
+ Animation lights
+ Limited by
+ Mark
+ Graph
+ Graph and report
+ stats
+ Impulse
+ to
+ Calculations
+ Save repetitions
+ Play
+ Phase
+ Max values
+ Show impulse
+ Show position
+ Show more columns
+ Place
+ Different specialties
+ Shortcuts
+ Catalan
+ New jumper weight
+ Logout automatically
+ Zoom change
+ Edit selected test
+ Description /\ncomments
+ Sit to stand
+ 3
+ Rotary axis
+ Average diameter (cm) of the cone or axis where the rope is wrapped on each anchorage.
+ Number of weights
+ Save this sequence to be used in the future
+ Select exercises
+ Help:
+ Feet
+ time
+ Add entries from CSV (spreadsheet)
+ Mark if CSV file has header row or not.
+ Person's height
+ View
+ Background color:
+ Race time starts on arrival at first device or pressing push button
+ Recording time
+ Font size at capture
+ Cut sets into repetitions using triggers
+ Units
+ Smoothing
+ Detection
+ Show advanced controls
+ Force language
+ Non-Latin
+ Allow to change devices
+ Notes
+ Show secondary variable
+ Rhythm by phases
+ Test \Bad\ bell
+ Create new race type
+ intervallic
+ (m)
+ none
+ Please, update to new version.
+ Engineering
+ (Watts)
+ If you use Chronopic3, you will have an USB-serial port.
+ Calculate the potential energies on fall and after the jump.
+ Rotary axis encoder on inertial machine when person is moving horizontally.
+ Synchronization done.
+ Go!
+ with laps
+ Initial Speed
+ interval times
+ Manually add
+ Saved repetitions related to this set will also be deleted.
+ If one of the metrics is under developed (weak) compared with the other two, prescribe exercises that emphasize its development.
+ General guidelines to improve the neuromuscular profile:
+ Starting process
+ Capture option
+ Stiffness calculation is correct but stiffness configuration window will not be able to match elastic bands and total stiffness.
+ Inertial encoder
+ Person's leg parameters are incorrect.
+ V0 is not > 0.
+ Error
+ Device not found
+ Default value: 50 ms.
+ Series
+ Mass is included
+ Go to <i>Advanced options</i>.
+ Man
+ Encoder sets
+ but pressing trigger button while capturing will plot vertical lines during analyze instant graphs.
+ Running
+ Chronojump race reaction time device allows to record reaction time and race time.
+ On RSA tests, rest time counts as a \lap\.
+ 2 different laps: ('Run' and 'rest') x 8 times
+ This data does not seem a sprint.
+ Could not upload encoder data.
+ Short description
+ INSTRUCTIONS AND DEMONSTRATION: 
+ You have to walk on this bar as fast as possible 'like this', if you touch the ground just continue.
+ Modifications
+ Abstract:
+ Turn left three times and turn right three times
+ Kenya
+ Lesotho
+ Malawi
+ Mayotte
+ South Georgia and the South Sandwich Islands
+ Brunei Darussalam
+ Andorra
+ Czech Republic
+ Slalom
+ Dressage
+ Equestrian
+ F reactive
+ Runner
+ Set the width
+ Set the text font
+ Do not enable user interaction with the WebView. Only works if you use --html option
+ Auto scroll the text to the end. Only when text is captured from stdin
+ Add a new List in forms dialog
+ Show general options
+ Show error options
+ Show notification icon options
+ Show scale options
+ Color selection options
+ Show password dialog options
+ Value out of range.\n
+ Gold Trophy!
+ Office Runner is running
+ Show maps
+ Whether to show mailing addresses Other in the editor
+ Whether to show Miscellaneous information in the editor
+ Number of units for determining a birthday or anniversary reminder
+ Birthday and anniversary reminder units
+ Whether to ask for confirmation when deleting an appointment or task
+ Time the workday ends on, in twenty four hour format HHMM, 0000 to 2359, or -1 to use day-start-hour and day-start-minute
+ Workday start time for Saturday
+ Workday end time for Sunday
+ Show RSVP field in the event/task/meeting editor
+ Whether to show timezone field in the event/meeting editor
+ Number of units for determining when to hide tasks
+ Time the last reminder ran, in timet
+ Time divisions
+ Birthday and anniversary reminder
+ Monday is a work day
+ Allow direct edit of event Summary when clicking on it in the Day, Work Week, Week or Month view.
+ Comma-separated names of the editor to prefer in the message composer
+ What mode open the composer with
+ A list of localized “Re” separators, used to skip in a subject text when replying to a message, as an addition to the standard “:” and the Unicode “︰” separators.
+ Set to “false” to block automatic display of attachments with Content-Disposition: inline.
+ Enable to use a similar message list view settings for all folders
+ Show Attachment Bar below the message preview pane when the message has attachments.
+ Prompt on send when using key accelerator (Ctrl+Enter)
+ It disables/enables the repeated prompts to warn that you are trying to send a message to recipients not entered as mail addresses
+ Asks whether to move a folder by drag &amp; drop in the folder tree
+ Check for new messages in all active accounts
+ This determines whether the cursor is placed at the top of the message or the bottom when using Alternative Reply.
+ Auto sync Pidgin contacts
+ Pidgin last sync time
+ List of paths for the folders to be synchronized to disk for offline usage.
+ With Due Date
+ LDAP server did not respond with valid schema information.
+ Would you like to save your changes?
+ Add with duplicates
+ Cannot add new contact
+ Cannot save a contact, address book is still opening
+ Show Web Addresses
+ Show Miscellaneous
+ Show Home Mailing Address
+ File under:
+ Company:
+ Home
+ Add X.509
+ Redo
+ I
+ Contact List Members
+ Video Chat
+ Cancelled
+ Copy selected contacts to the clipboard
+ Are you sure you want to delete these contact lists?
+ Zoom Out
+ Work Email
+ ICQ
+ Phone
+ Are you sure you want to delete this appointment?
+ Would you like to save your changes to this meeting?
+ Failed to modify a task in the task list “{0}”
+ Classification
+ September
+ Modifying a task
+ Purging memos
+ End time:
+ Icon View
+ Override color of the memo. If not set, then color of the memo list is used.
+ Other Date
+ Tuesday
+ Recurrence
+ Custom
+ day(s)
+ days
+ Saving changes…
+ Show the second time zone
+ Required Participants
+ Start time:
+ Copy selected tasks to the clipboard
+ Delete This Instance…
+ Tentatively Accepted
+ Declined
+ You must be an attendee of the event.
+ Current State
+ Previous Days
+ Classification
+ Attendees
+ Africa/Accra
+ America/Iqaluit
+ America/Mazatlan
+ America/Phoenix
+ America/RankinInlet
+ Antarctica/Mawson
+ Antarctica/McMurdo
+ Asia/Baghdad
+ Asia/Dubai
+ Asia/Kathmandu
+ Asia/KualaLumpur
+ Asia/Muscat
+ Atlantic/Faeroe
+ Australia/Darwin
+ Europe/Simferopol
+ Pacific/Efate
+ Pacific/Norfolk
+ Pacific/Saipan
+ Pacific/Yap
+ Encrypt this message with PGP
+ Do you want to recover unfinished messages?
+ Do you want to recover last saved version of the message?
+ Audio Player
+ This message is not encrypted. Its content may be viewed in transit across the Internet.
+ evolution calendar item
+ Save extracted files and the original archive
+ Unicode
+ Memo List
+ black
+ lime
+ None
+ Invalid Date Value
+ Invalid Time Value
+ Yesterday
+ Insert Image
+ Insert Link
+ <b>Size</b>
+ Paper
+ Draft
+ Replace All
+ Padding:
+ Search:
+ Edit Rule
+ Use a secure connection
+ Add a Column
+ Group By Box
+ Deleting collection…
+ Missing date.
+ years
+ Replace existing view
+ Scanning messages for duplicates
+ Forwarded message
+ Go Back
+ Choose a folder for saving draft messages.
+ Use a Real Folder for Trash:
+ Check for new messages every
+ Signing certificate:
+ Account Editor
+ false
+ Note: Underscore in the label name is used\nas mnemonic identifier in menu.
+ Search for text in the body of the displayed message
+ Forward As Attached
+ Open a window for composing a mail message
+ Next Message
+ Previous Thread
+ Create a search folder for this subject
+ Mark for Follow Up…
+ Mark as Unread
+ Forward the selected message to someone
+ Reply
+ On ${AbbrevWeekdayName}, ${Year}-${Month}-${Day} at ${24Hour}:${Minute} ${TimeZone}, ${Sender} wrote:
+ Default
+ If any of the following conditions are met
+ Label
+ Collapse all folders
+ Search Folders
+ CC
+ BCC
+ has words
+ is greater than or equal to
+ does not contain Sender
+ Beep
+ Evolution Elm importer
+ Import mail from Elm.
+ Importing mailbox
+ Allowing a mailing list to redirect a private reply to the list
+ Allow for sites:
+ Search libravatar.org for the photograph of sender
+ Junk Test Options
+ Do not mark messages as junk if sender is in my address book
+ Due By:
+ The following recipient was not recognized as a valid mail address:\n{0}
+ If you quit, these messages will not be sent until Evolution is started again.
+ Cannot save changes to account.
+ Cannot edit Search Folder “{0}” as it does not exist.
+ Migrate Now
+ Do you want to locally synchronize the folders that are marked for offline usage?
+ Never move
+ You do not have sufficient permissions to delete this mail.
+ Failed to mark subthread to be ignored in folder “{0}”
+ Failed to empty Junk folder “{0}”
+ %a %l:%M %p
+ UID
+ Any header
+ Address Book
+ Address Book Map
+ Forward Contact
+ Backing Evolution accounts and settings
+ Default User Address Book
+ Anonymous
+ One Level
+ Enable Calendars to synchronize
+ Default User Calendar
+ File:
+ File extension for new notes:
+ Select a Task List
+ Meeting
+ Copy…
+ Find previous occurrence of the current search string
+ Delegate Meeting…
+ Delete This Occurrence
+ Edit as New…
+ Summary contains
+ memo
+ Delete the selected memo list
+ Delete Task
+ Rename the selected task list
+ Preview the list of tasks to be printed
+ Look up in SRV records
+ End time:
+ Show time as free
+ Attendee status updated
+ Choose a Maildir mail directory
+ Yahoo! Features
+ Marking messages as read…
+ Empty Junk
+ Edit properties of this account
+ Opens a dialog to select a folder to go to
+ Manage Subscriptions
+ New Folder…
+ Show deleted messages with a line through them
+ All Accounts
+ Current Folder and Subfolders
+ Current Folder and Subfolders Search
+ Folder
+ Immediately, on folder leave
+ Do you want to make Evolution your default email client?
+ Evolution is currently offline due to a network outage.
+ Show plain text if present, or HTML source
+ Welcome to Evolution.\n\nThe next few screens will allow Evolution to connect to your email accounts, and to import files from other applications.
+ Reminds you when you forgot to add an attachment to a mail message.
+ Security:
+ Personal
+ Add custom headers to outgoing mail messages.
+ Command to be executed to launch the editor: 
+ Automatically launch when a new mail is edited
+ Mailing List
+ Perform common mailing list actions (subscribe, unsubscribe, etc.).
+ Malformed header
+ Selected task list is read only, thus cannot create task there. Select other task list, please.
+ Create a Memo
+ Publish calendars to the web.
+ URL
+ Recipient Contains
+ Preparing to go offline…
+ Manage available categories
+ Find Now
+ Keyboard Shortcuts
+ Ignore network availability
+ Failed to prompt for credentials for “{0}”
+ No file name provided
+ Trust the authenticity of this certificate
+ When to ask for passwords. Possible values are \never\, \onwrite\, and \always\.
+ Displaying RSS feed articles
+ Evolution will show article’s summary instead of article’s web page. Summary can also be HTML.
+ Minimum font size
+ How many simultaneous downloads.
+ Blink Status Icon
+ Check for new articles every time Evolution is started.
+ Setup RSS
+ Select All
+ Error while fetching feed.
+ Invalid Feed
+ Importing
+ Select import file
+ Show feed full text
+ List of desktop file IDs for favorite applications
+ Workspaces only on primary monitor
+ Something’s gone wrong
+ reboot;restart;
+ Lock Screen
+ Your connection to this hotspot login is not secure. Passwords or other information you enter on this page can be viewed by people nearby.
+ No Events
+ World Clocks
+ You just held down the Shift key for 8 seconds. This is the shortcut for the Slow Keys feature, which affects the way your keyboard works.
+ You just pressed two keys at once, or pressed the Shift key 5 times in a row. This turns off the Sticky Keys feature, which affects the way your keyboard works.
+ Leave Off
+ Web Page
+ Applications now have unrestricted access
+ Application defined
+ Press Esc to exit
+ Drag
+ Location In Use
+ Location Disabled
+ Allow location access
+ Fully Charged
+ Mirror
+ External Only
+ Extensions can cause performance and stability issues. Disable extensions if you encounter problems with your system.
+ Extension Updates Ready
+ The gettext domain to use for translations
+ Indicator
+ System Sounds
+ EteSync secret not found
+ EteSync account authentication request
+ Libreswan based client for IKEv1 based IPsec virtual private networks
+ IPsec based VPN
+ IKE encryption/authentication algorithm to be used for the connection (phase 1 aka ISAKMP SA). The format is “cipher-hash;modpgroup, cipher-hash;modpgroup, …”.\nconfig: ike <proposals>
+ Gtranslator
+ Interval in minutes at which to automatically save files.
+ If true, check the spelling of translated messages.
+ Language
+ Module
+ OK
+ Enter message number:
+ Find (<Ctrl><f>)
+ Undo
+ Mark/Unmark as fuzzy
+ Configuration:
+ Remove
+ SSTP VPN client
+ MSCHAP
+ TLS 1.2 (Default)
+ Allow/disable BSD-Compress compression.\nconfig: nobsdcomp (when unchecked)
+ <b>Compatibility</b>
+ Show Processes
+ Send End signal
+ Show process properties
+ My Processes
+ Open Files
+ %a %l∶%M %p
+ Shared dirty
+ Saves the currently viewed tab
+ Default graph outgoing network traffic color
+ If TRUE, system-monitor shows the CPU, Memory, and Network charts as smoothed graphs, otherwise as line charts.
+ Show process “Resident Memory” column on startup
+ Show process “Started” column on startup
+ Show disk view “Directory” column on startup
+ Show disk view “Used” column on startup
+ X Server Memory
+ Waiting Channel
+ Cancel
+ Rotate counterclockwise
+ Two finger swipe right
+ Shortcuts
+ A Flickr Remote Organizer for GNOME\n
+ Add
+ Elements
+ Error:\nContent not allowed for this group
+ Title:
+ Set Geolocation Information
+ An error happened trying to load the picture
+ Enable HTTP Proxy
+ Open in External Viewer
+ Number of previous lines to include:
+ Disconnect from current MUD
+ Select A Folder
+ Keybindings
+ List of available profiles
+ Default color of the background, as a color specification (can be HTML-style hex digits, or a color name such as “red”).
+ Whether to use a proxy server to connect to the MUD.
+ The GNOME MUD Client
+ Warning
+ Close
+ Contacts will also integrate with online address books and automatically link contacts from different online sources.
+ friends;address book;
+ Remove
+ Menu
+ © 2011 Red Hat, Inc.\n© 2011-2020 The Contacts Developers
+ Gadu-Gadu
+ Unlinking contacts
+ Web service
+ Couldn’t verify signature.
+ Enter passphrase
+ Import keys from the file
+ File Encryption Tool
+ Lha (.lzh)
+ Tar compressed with bzip (.tar.bz)
+ All files
+ Window width
+ Accept
+ Search for room members
+ Room Settings
+ Check your network connection.
+ Send Message
+ View Source
+ Done
+ Unable to connect to Camera
+ Failed to load the list of connected devices.
+ Last seen at %H:%M
+ Avatar removed successfully
+ Normal user
+ Mark as Favorite
+ Clang based auto-completion, semantic highlighting, and diagnostics
+ The source code editor
+ Path to ctags executable
+ The path to the ctags executable on the system.
+ If enabled, the editor will highlight the line containing the cursor.
+ If enabled, the editor will show relative line numbers.
+ Show grid lines
+ If enabled, Builder will display an overview map of the source file next to the editor.
+ Enable or disable autosave feature.
+ The number of pixels to include above and below lines in the editor.
+ This setting is deprecated and no longer in use.
+ Selected configuration for building
+ S
+ a*
+ HEX3
+ Highlight Mode
+ Panels
+ Toggle utilities panel
+ Fallback
+ Ready
+ Downloading…
+ Bootstrapping…
+ Committing…
+ Clone Project
+ Open a Project
+ Learn more about GNOME Builder
+ Line Information
+ Spacing
+ Prefer a space before semicolons
+ Debugger
+ Editing
+ Beautifier Plugin: the buffer is not writable
+ Duplicating the configuration allows making changes without modifying this configuration.
+ Build System
+ Missing
+ There is a problem with the current build configuration.
+ Last build
+ Rebuild
+ Clean
+ The unit used by RGB component and strings.
+ Color components
+ Hue Saturation Value
+ Update Copyright
+ Create Project
+ Library
+ Reveal search bar with Ctrl+F
+ Connect
+ Building dependencies
+ Updating SDK Runtime
+ Unnamed Glade Project
+ UI Designer
+ UI Designer
+ Quit
+ Add Tool
+ A simple GNOME 3 application to access remote or virtual systems
+ Games
+ Containers/Toolbox
+ Copying files…
+ Shell command
+ Change Shortcut
+ Enable the use of stylelint to find additional diagnostics in stylesheet files. This may result in the execution of code in your project.
+ terminal font monospace
+ Clear test output
+ Loading TODOs…
+ File is corrupted
+ TIFF Documents
+ Select page size using document page size
+ Print
+ Subject:
+ Contains Javascript:
+ Add highlight annotation
+ Rotate ⤵
+ Zoom out
+ Zoom 1∶1
+ Go to page number
+ Toggle primary menu
+ Setup Shared Folders between your system and virtual machines.
+ Application Menu
+ Keyboard shortcuts
+ Configuration
+ Save
+ A simple GNOME 3 application to access virtual systems
+ — A simple application to access virtual machines
+ Running
+ The Flatpak version of GNOME Boxes does not support USB redirection.
+ Editing your box configuration can cause issues to the operating system of your box. Would you like to create a snapshot to recover from your changes?
+ An error occurred during installation preparation. Express Install disabled.
+ no password
+ Switch to last workspace
+ Place new windows in the center
+ Switch to VT 4
+ Switch to VT 8
+ Privacy Screen Enabled
+ Application is not responding.
+ Disable connection to session manager
+ Run as a nested compositor
+ Credits
+ Bookmark this Location
+ The GNOME Project
+ A flag to follow system night light
+ The width of the main window in pixels.
+ Use “Back” and “Forward” mouse button events
+ A list of bookmarked paths
+ A bytestring, type ‘ay’
+ A 64-bit unsigned integer. See also the “integer-64-signed” key.
+ An enumeration could contain only one item, but that’s probably an error. Dconf Editor warns you in that case.
+ There’s an empty tuple type (called sometimes “triv”) that is a tuple with no content, and can only take “()” as value.
+ An usual boolean value, defined by a relocatable schema.
+ Cannot understand: space character in argument.\n
+ A graphical viewer and editor of applications’ internal settings.
+ Apply all
+ Startup mappings are disabled.
+ Default value
+ Toggle local search
+ Dismiss modification
+ Erase key
+ D-Bus handle type
+ Summary
+ Minimum
+ Use a dot as decimal mark and no thousands separator. You can use the X.Ye+Z notation.
+ No schema found
+ No keys in this path
+ Predicted time
+ Use smoothed line
+ Try a different search
+ You can see your starred articles after marking them
+ You are already subscribed to that feed!
+ Menu
+ Invalid attempt to initialize a collection using an unsupported type. Only GXmlGXml.Element is supported
+ Removing attribute Error: 
+ Invalid attempt to parse an element node, when current found node is not
+ Internal Error: No TextWriter initialized
+ The GNOME Project
+ COMMAND
+ Photo library management
+ Color temperature
+ Label 9
+ ...
+ Rating 4
+ Set Flag
+ A digital photo application.\n\nBuild options: 
+ SNILS
+ RSA
+ SHA1 with RSA
+ Elliptic Curve
+ GnuPG Keyring
+ Cancel
+ Couldn’t build public key
+ Issued Certificate
+ Expired
+ Algorithm
+ Cannot import because there are no compatible importers
+ Lock this keyring when I log out
+ Updates panel
+ Filter applications based on the default branch set for the remote
+ The last update check timestamp
+ Allow access to the Software Repositories dialog
+ Chat Between Users
+ Does not include sex or nudity
+ Social
+ File system
+ Search for applications
+ Cache and data usage unknown
+ Can read/write all your data
+ Requires a keyboard
+ 3D Graphics
+ Vector Graphics
+ Audio Creation & Editing
+ Featured
+ Artificial Intelligence
+ Math
+ Localization
+ Socialize
+ Localization
+ This software doesn’t provide any links to a website, code repository or issue tracker.
+ Mouse Support
+ Supports mice and pointing devices
+ Touchscreen Support
+ In Progress
+ There are no reviews to moderate
+ system
+ Turn on new repositories when they are added.
+ What do you think of the app? Try to give reasons for your views.
+ Cannot access the internet
+ Uses Session Services
+ Can request data from session services
+ Cannot access devices such as webcams or gaming controllers
+ Search for Apps
+ No updates have been installed on this system.
+ Learn about the new version
+ A major upgrade, with new features and added polish.
+ Use the command line
+ console
+ If true, use the highlight colors from the profile.
+ If true, setting bold on the first 8 colors also switches to their bright variants.
+ Number of rows in newly created terminal windows. Has no effect if usecustomdefaultsize is not enabled.
+ Controls when opening a new terminal from a previous one carries over the working directory of the opening terminal to the new one.
+ Whether to rewrap the terminal contents on window resize
+ Keyboard shortcut to print the current tab contents to printer or file
+ Keyboard shortcut to find the next occurrence of the search term
+ Enabled
+ Replace initial title
+ Background
+ Highlight color:
+ Colors
+ Ambiguous-width characters:
+ Delete…
+ Central European
+ Unicode
+ Find
+ Match case
+ Copy as HTML
+ Show Primary Menu
+ Reset
+ 2. 80×43
+ Export…
+ Paste as Filenames
+ Show Menubar
+ Terminal
+ Open a terminal
+ Execute the argument to this option inside the terminal
+ Create
+ Profiles
+ Open File
+ Printer
+ Remove Device
+ Preferences
+ Color for Transparent Areas
+ Rotate the image 90 degrees to the right
+ Fullscreen
+ Move to Trash
+ Automatic orientation
+ Show/Hide the image gallery pane scroll buttons.
+ Close main window without asking to save changes.
+ Properties
+ Select the images you want to save:
+ start a buildbot slave server
+ For more information run \jhbuild <command> --help\
+ Uninstall all modules
+ Server Error, aborting
+ ERROR: Wrong credentials, please check username/password
+ Terminal
+ exit shell to continue with build
+ Need at least git-1.5.6 from June/08 to operate
+ Subtitles;Video;
+ The width of the Main Window.
+ Save As
+ Cut
+ Italic
+ Sets the subtitle Start to the current video position
+ Central
+ Selected subtitles
+ Synchronize Timings
+ Info
+ The specified file is invalid.
+ Could not play the file
+ Duration
+ DN Qualifier
+ Use safe moves
+ The key used to move west.
+ The key used to move east.
+ Robots2 easy
+ Robots with safe teleport with super-safe moves
+ Teleport Safely
+ Game Type:
+ Image theme:
+ Transform video input into a mauve color
+ Traditional black-white optical animation
+ Radioactive
+ Sobel
+ Kung-Fu
+ Window position
+ Window maximized
+ Number of recently visited routes to store.
+ Add intermediate destination
+ Search
+ The verification code didn’t match, please try again.
+ Verify
+ Sign Out
+ Zoom In
+ Phone
+ Caodaism
+ Unitarian Universalism
+ Yazidism
+ Toilets
+ Note
+ Coordinates
+ %b %e
+ Reset to Defaults
+ GNOME Shell is not running
+ Select a theme
+ Image
+ None
+ Additional Layout Options
+ Fingers
+ Increases the choice of input sources in the Settings application.
+ Left
+ Date
+ Wacom
+ Restart
+ The width of the main window in pixels.
+ The height of the main window in pixels.
+ Proxy resolver internal error.
+ Ethanol
+ Water
+ The name of the plugin to use as a call provider
+ Can't place calls: No modem or VoIP account available
+ Help
+ Install
+ Dependent
+ Install selected packages on the system
+ Enable or disable package repositories
+ Package Updater
+ There are no packages queued to be installed or removed.
+ Licensed under the GNU General Public License Version 2
+ Local file conflict between packages
+ Local install failed
+ Invalid package file
+ Virtual provide type is not supported
+ Install root is invalid
+ Source packages are not normally installed this way.\nCheck the extension of the file you are trying to install.
+ There is insufficient space on the device.\nFree some space on the system disk to perform this operation.
+ A restart will be required.
+ Starting
+ Getting information
+ Repackaging files
+ Running hooks
+ Publishing
+ Update Packages
+ libEGL not available in this sandbox
+ Pause
+ KPSpace
+ Delete
+ AudioMute
+ AudioStop
+ AudioRewind
+ Eject
+ Suspend
+ No GLX configuration with required features found
+ GNU General Public License, version 3 only
+ banner
+ link
+ list
+ row header
+ Invalid
+ Very Dark Green
+ Light Gray 4
+ Customize
+ mm
+ The folder contents could not be displayed
+ Number Case
+ default:LTR
+ Starred files
+ Manually enter a location
+ Show
+ None
+ Address
+ Frame Rate
+ Refresh action state
+ Akhands
+ Contextual Swash
+ Denominators
+ Expert Forms
+ Left-to-right alternates
+ Required Ligatures
+ Stylistic Set 7
+ Stylistic Set 10
+ Math script style alternates
+ Traditional Name Forms
+ Unicase
+ B4
+ RA3
+ JB1
+ Arch A
+ Fan-Fold German Legal
+ Government Letter
+ US Legal
+ Personal Envelope
+ ROC 16k
+ Convert to PS level 2
+ Printer Profile
+ Don’t include image data in the cache
+ Client for Cisco IPsec virtual private networks
+ Could not use new secrets as interactive mode is disabled.
+ D-Bus name to use for this instance
+ nm-vpnc-service provides integrated Cisco Legacy IPsec VPN capability to NetworkManager.
+ Vendor of your IPsec gateway\nconfig: Vendor <cisco/netscreen>
+ No OCR engines available
+ Keep Current Configuration
+ Pages
+ Export…
+ Move Page Down
+ Select next page
+ Process image with unpaper
+ Automatically detect and recognize all pages
+ Set text to be left aligned
+ OCR engine to recognize this area:
+ Open File
+ None
+ Window size
+ Recognized Text
+ Adjust content areas' bounds
+ Name:
+ High Scores
+ Appearance
+ Copyright © 2009 Tim Horton
+ Copy all events
+ error starting mount daemon
+ Connection unexpectedly went down
+ Invalid Apple File Control data received
+ The user has not trusted this computer
+ Apple Filing Protocol Service
+ Cannot create gudev client
+ Can’t mount file
+ WebDAV share
+ Can’t monitor file or directory.
+ Error getting device information
+ Error creating directory
+ Mount point does not exist
+ Cancel Login
+ Login dialog cancelled
+ Unknown reason
+ The FTP server is busy. Try again later
+ Error seeking in stream
+ GVFS Daemon
+ Upright (small) battery
+ Number of characters to display
+ Show notifications for critical weather conditions
+ List of entries containing strings for the macro commands.
+ Applet refresh rate in milliseconds
+ For horizontal panels, the width of the graphs in pixels. For vertical panels, this is the height of the graphs.
+ Graph color for loopback network usage
+ Date format of note's title
+ Enable click effect.
+ When enabled, the window title will always display the upper-most maximized window's name.
+ When enabled, the applet will use up all available space in the panel.
+ (two images: one for status, one for charge)
+ Show time remaining
+ To avoid losing your work:\n • plug your laptop into external power, or\n • save open documents and shut your laptop down.
+ Battery Charge Monitor
+ Edit
+ CPU Frequency Monitor Preferences
+ Adjusts Laptop panel brightness
+ Fahrenheit
+ Use custom address for radar map
+ Colors
+ Add New Macro
+ Start system-monitor
+ Load Average
+ has no ip
+ Hide Notes
+ Delete Notes
+ Start timer
+ Timer finished!
+ Tags
+ No Items in Trash
+ Empty all of the items from the trash?
+ From:
+ Maximize
+ Enable click effect
+ <b>Internal</b>
+ LaTeX Plugin
+ Pages
+ Note
+ Miscellaneous
+ Optional Fields
+ Type:
+ Insert Graphics
+ Author:
+ Font Family
+ 2x
+ Show Detailed Output
+ Show/Hide Tasks
+ XDMCP: Unable to parse address
+ Sorry, smart card authentication didn’t work. Please try again.
+ Disable showing the restart buttons
+ Ignored — retained for compatibility
+ Screenshot taken
+ Version
+ License
+ Above-base Forms
+ Above-base Substitutions
+ Denominators
+ Flattened accent forms
+ Horizontal Kana Alternates
+ Initial Forms
+ Mark Positioning
+ Required Ligatures
+ Alternate Vertical Metrics
+ Whether to strip special characters from filenames
+ General
+ Shortcuts help
+ Tracks
+ Re-read
+ Europe
+ Name too long
+ Skip All
+ Funk
+ Opera
+ No CD-ROM drives found
+ Unknown widget calling onpersoneditchanged.
+ Start extracting immediately
+ Tolerance of the GaussDistribution function
+ Return the residue of a mod n with the least absolute value (in the interval -n/2 to n/2)
+ Vector with the known Mersenne prime exponents
+ Get the dot product of two vectors (no conjugates)
+ Make column vector out of matrix by putting rows after each other
+ Is a matrix normal
+ Get the nullity of a matrix
+ Get the rank of a matrix
+ Smith Normal Form for square integer matrices
+ Try to calculate an infinite sum for a double parameter function with func(arg,n)
+ Return a function which is the Fourier sine series of f on [0,L] with coefficients up to N computed numerically
+ Attempt to calculate the limit of f(stepfun(i)) as i goes from 1 to N
+ Dirichlet kernel of order n
+ Moebius mapping using the cross ratio taking infinity to 1 and z3,z4 to 0 and infinity respectively
+ Find root of a function using the secant method to within TOL tolerance in up to N iterations. f(a) and f(b) must have opposite signs.
+ Attempt to symbolically differentiate a function n times
+ Cannot currently print polynomials of more than 3 vars
+ Record out of place
+ Extra dictionary for NULL function
+ Functions
+ Calculates the tan function
+ The Gamma function (only real values implemented)
+ Least common multiplier
+ Is a matrix upper triangular
+ Get the reduced row echelon form of a matrix
+ Check if argument is a null
+ Subtract two polynomials (as vectors)
+ Divide polynomial p by q, return the remainder in r
+ Make function out of a polynomial (as vector)
+ Set flags for a function, currently \PropagateMod\ and \NoModuloArguments\
+ Script
+ Load and Run...
+ Maximum digits to output (0=unlimited)
+ Limits
+ Output from 
+ Mathematics;Matrix;Vector;Linear Algebra;Calculus;Plot;Plotting;Graph;Graphing;Function;Number Theory;
+ Parameter t from:
+ X from:
+ Draw a point at x,y. x,y can be replaced by a n by 2 matrix for more points.
+ Surface plotting window (limits) as a 6-vector of the form [x1,x2,y1,y2,z1,z2]
+ Number too large to compute factorial!
+ Can't make factorials of complex numbers
+ Copy All
+ Normal
+ Alphabet Default
+ Copy All on stop
+ Percentage by which to decrease speed upon reverse
+ Slow startup time
+ Quit without saving
+ Pause
+ Highlight row, column and square that contain the selected cell
+ Back
+ Reset the board to its original state?
+ Window height
+ OGG files quality
+ In order to read CDs you have to install the GStreamer base plugins
+ Pause
+ Found images:
+ Selected tracks
+ Eject
+ If set to “after-current-tab”, then new tabs are inserted after the current tab. If set to “end”, then new tabs are appended to the end of the tab list.
+ Whether to show context menu items to create links from copied or selected files
+ Column order in list view
+ Whether the navigation window should be maximized by default.
+ Title:
+ Year:
+ Focal Length
+ Copyright
+ 001, 002, 003
+ The detailed type of the file.
+ Owner
+ Shows if file is starred.
+ Binary
+ Skip
+ Delete All
+ rd copy)
+ The destination is not a folder.
+ Redo Move
+ Undo Extract
+ Redo Compress
+ Original file
+ Replace with
+ Namemsgidplural Names
+ Settings
+ Access and organize your files
+ Searching locations only
+ Remote location — only searching the current folder
+ Open with default application
+ Go to previous tab
+ View
+ Automatic Numbering Order
+ Smaller archives but must be installed on Windows and Mac.
+ Select a new name for the destination
+ New Document
+ Paste
+ Compress…
+ Try a different search
+ Open in New Window
+ Unmount
+ Details
+ ['UTF-8', 'CURRENT', 'ISO-8859-15', 'UTF-16']
+ Fortinet SSLVPN client
+ Default
+ network;monitor;remote;
+ Edit
+ Interface Statistics
+ Devices
+ Netstat
+ Traceroute output
+ Enter the network address to scan for open ports. For example: www.domain.com or 192.168.2.1
+ Domain address:
+ COMMAND
+ IP Address
+ Mailbox Exchange
+ Current clock panel.
+ Reset
+ 15 m
+ Sunrise
+ Add
+ Print version information and exit
+ Videos comes with added functionality such as a subtitle downloader, the ability to speed up or down playback, create screenshot galleries, and support for recording DVDs.
+ Default location for the “Take Screenshot” dialogs
+ Color Balance
+ Go forward 60 seconds
+ Navigate up
+ Add
+ The file you tried to play is an empty file.
+ Previous
+ Central European
+ Greek
+ MPRIS D-Bus Interface
+ Searching subtitles…
+ Unknown
+ rpdb2 password
+ Python Console
+ Recent files
+ This is not supposed to happen; please file a bug report.
+ Limit to
+ selected by
+ Filename:
+ On startup:
+ Horizontal:
+ Vertical:
+ The following date:
+ File modified date
+ Comments and tags
+ Rating
+ Style:
+ Thumbnails
+ Album:
+ Account:
+ Could not create the album
+ Export to Facebook
+ Duplicate
+ Color Levels
+ Maximize
+ Original size
+ Draw a line on the image \nto set the alignment.
+ Square
+ Add to presets
+ Color Curves
+ Special Effects
+ Rotate
+ Save
+ Find Duplicates…
+ Find
+ Find duplicated files.
+ Getting the file list
+ Moderate content
+ Go back 5 minutes
+ Images
+ Scroll down
+ Apply the embedded color profile
+ custom format
+ Execute command once for every file
+ The file basename
+ %N
+ Command:
+ Commands
+ digits
+ The original extension
+ pixel
+ Remove the selected files
+ Viewers
+ Could not deactivate the extension
+ Getting file information
+ Thumbnails list
+ Change sorting order
+ All
+ Execute
+ Open in New Window
+ Set this to true to disable warnings about CA certificates in phase 2 of EAP authentication.
+ Set up a Mobile Broadband Connection
+ Your Provider:
+ Issued By
+ Automatic
+ Identity
+ MSCHAP
+ Tunneled TLS
+ Unknown
+ missing leap-password
+ invalid wep-key: passphrase must be non-empty
+ Use underline
+ If set, an underline in the text indicates the next character should be used for the mnemonic accelerator key
+ Number of pages
+ Show decorations
+ Symbols visible
+ The entry widget connected to the keypad
+ Orientation
+ Whether to allow swiping for more than one snap point at a time
+ Default page icon
+ It’s a draw!
+ Anatol Drlicek
+ Connect four in a row to win
+ You:
+ Red wins!
+ Help
+ The height of the window
+ A flag to alternate who starts
+ A flag to highlight playable tiles
+ Appearance
+ Vary start position
+ Default
+ Color: Light
+ More options
+ The number of bytes between the start of a row and the start of the next row
+ Topdown BMP images cannot be compressed
+ Premature end-of-file encountered
+ ICO image was truncated or incomplete.
+ Transformed JPEG has zero width or height.
+ Failed to find an image data atom.
+ Failed to load TIFF image
+ XBM
+ %a %R
+ Spreadsheet;
+ Data Interchange Format (*.dif)
+ Tebet
+ Nisan
+ Ab
+ Unimplemented
+ Math Functions
+ Writing glpk file...
+ Gnome Glossary PO file format
+ Non-Linear Program Solver
+ pages
+ PLN : Spreadsheet is password encrypted
+ Gnumeric Python console
+ Execute in:
+ Autocorrect first letter
+ System Directory for Autoformats
+ This value determines the default setting in the Print Setup dialog whether to print in only black and white. Please use the Print Setup dialog to edit this value.
+ Number of Undo Items
+ Default Number of Sheets
+ Screen resolution in the horizontal direction.
+ This variable determines whether cells with truncated content are marked.
+ Show Function Name Tooltips
+ List of file savers with disabled extension check.
+ Unable to paste
+ all
+ Those columns are not grouped, you can't ungroup them
+ Sheet names must be non-empty.
+ Change Scope of Name
+ Set Frame Label
+ Add Filter
+ OLE2 support.
+ Plugin system, localization.
+ Tom Dyas
+ Special functions
+ HTML, troff, LaTeX exporters
+ Thomas Canty
+ We aim to please!
+ The requested period is invalid.
+ Could not create the Sampling Tool dialog.
+ Y variables:
+ Mar
+ None
+ Criteria
+ Cell value is ≧ x.
+ Cell value does not begin with the string x.
+ If the cell content does not contain this string, a special style is used.
+ If the cell content does not begin with this string, a special style is used.
+ Date & Time
+ Microsoft Excel: 
+ The cell named in 'By changing cell' must not contain a formula.
+ The value given in 'To Value:' is not valid.
+ Active
+ Custom date format
+ Default time format
+ Discrete
+ F
+ alpha:
+ Pareto
+ Set standard/default row height
+ Results entry did not contain valid cell names.
+ Distributed
+ Single
+ Right-to-left
+ Old
+ New Name
+ If this checkbox is selected, the width of the column will be adjusted to the longest entry.
+ ends with
+ Edges
+ Shrink to fit
+ None
+ Diagonal Crosshatch
+ Action:
+ STDEVP
+ Comma (,)
+ Quoting:
+ To line: 
+ See two successive text indicators as one that does not terminate the cell.
+ Type: 
+ Maximum change:
+ page 6
+ Enter as array function
+ Columns:
+ Population variances are:
+ Unknown
+ Populations
+ Flip the source vertically during the paste so the first row becomes the last and vice versa
+ Existing only
+ Ignore case
+ Save the current settings as default settings
+ Find text within the calculated values of expressions
+ Column major
+ Search text is
+ Number
+ y-Offset in pixels:
+ This name is used by some plugins that provide programmability to address this object. Most users will not need to set this name. 
+ Summary
+ Set Target Cell: 
+ Algorithm:
+ Problem Status:
+ Page:
+ Coordinate
+ SUM computes the sum of all the values and cells referenced in the argument list.
+ values:a list of values to multiply
+ Any
+ 125%
+ File type:
+ Move
+ Preparing to preview
+ Also print hidden sheets
+ Edit DataSlicer
+ Refresh DataSlicer
+ DataSlicer Field Order 
+ Up
+ Use first series as shared abscissa
+ Released Button
+ Output via the clipboard
+ Print filenames with matches
+ Match only whole words
+ result
+ Some data did not fit on the sheet and was dropped.
+ Holt's trend corrected exponential\nsmoothing requires at least 2\noutput columns for each data set.
+ /At Risk/Deaths/Censures/Probability
+ For the Lilliefors (Kolmogorov-Smirnov) Test\nthe sample size must be at least 5.
+ Possibly normal
+ /Mean/Standard Error/Median/Mode/Standard Deviation/Sample Variance/Kurtosis/Skewness/Range/Minimum/Maximum/Sum/Count
+ /Mean/Variance/Observations/Hypothesized Mean Difference/Observed Mean Difference/df/t Stat/P (T<=t) one-tail/t Critical one-tail/P (T<=t) two-tail/t Critical two-tail
+ Uncorrelated Random Variables
+ Insert a defined name
+ Depends
+ Go to the last data cell
+ Sort (Descending)
+ Toggle sheet direction, left-to-right vs right-to-left
+ Ensure rows are just tall enough to display content of selection
+ Change height of the selected rows
+ Standard Height
+ Goal Seek...
+ Various frequency tables for numeric data
+ Ranks And Percentiles...
+ Test of Independence...
+ Parse the text in the selection into data
+ Consolidate regions using a function
+ Series...
+ Add an outline group
+ Add Data Slicer
+ Refresh
+ Create a checkbox
+ Format the selection as General
+ Format the selection as date
+ Set the format of the selected cells to include a thousands separator
+ Toggle whether or not to display gridlines
+ Single Low Underline
+ Align top
+ Align bottom
+ Top and Thick Bottom
+ Append
+ Enter in current cell
+ Accept change in multiple cells
+ (Non Blanks...)
+ Whether the label is drawn in the selected font
+ Ultrabold
+ Graph
+ Gnumeric XML (*.gnumeric)
+ Trendy
+ Orange template
+ Template with vanilla colour
+ Basic
+ Next check
+ Native host connector is not supported for your platform.
+ Remaining
+ The input's current position
+ The ODF version this object is targeting as an integer like 100
+ Deflate Level
+ The output's current position
+ Move the keyboard cursor
+ Change Difficulty
+ Giggle
+ Personal Details
+ Project
+ Display revision details
+ Short Log
+ Browse a revision's changes
+ Summary
+ Contributors:
+ The default file type extension for screenshots.
+ Name:
+ Selection
+ GNOME Taquin
+ The object of Taquin is to move tiles so that they reach their places, either indicated with numbers, or with parts of a great image.
+ The GNOME Project
+ Use GNOME night light setting to activate night-mode.
+ Actions
+ Undo last move
+ Push on selected tile
+ Generic
+ Game history menu
+ Sound
+ Bravo! You finished the game!
+ 4 × 4\t5 minutes
+ A classic 15-puzzle game
+ Toyah (Wikimedia)
+ Move left
+ Move down
+ Paused
+ Number of pre-filled rows:
+ Screen magnifier
+ The color of the the vertical and horizontal lines that make up the crosshairs.
+ Represents a change to the default brightness for the blue component. Zero indicates no change, values less than zero indicate a decrease, and values greater than zero indicate an increase.
+ Time in seconds before a click is triggered.
+ Translate the name
+ Left or Top color when drawing gradients, or the solid color.
+ List of XKB options
+ Enable Toolkit Accessibility
+ Menubar Detachable
+ Keyboard shortcut to open the menu bars.
+ Disable user switching
+ List of x-content/* types set to “Open Folder”
+ Swap left and right mouse buttons for left-handed mice.
+ Drawing tablet mapping
+ Set this to x1, y1 and x2, y2 of the pressure curve applied to the stylus.
+ Pad button action type
+ The type of action triggered by the button being pressed.
+ EDID information of the output the touchscreen is mapped to. Must be in the format [vendor, product, serial]. [\\,\\,\\] relies on automatic mapping.
+ Send statistics when applications are removed or installed
+ List of desktop file IDs for which the associated default-disabled search provider should be enabled
+ The XDG sound theme to use for event sounds.
+ Switch to workspace 2
+ Switch to last workspace
+ Switch system controls
+ DEPRECATED: This key is deprecated and ignored.
+ Switch input source
+ Unused; ignore
+ The machine name to use as a SOCKS proxy.
+ file;manager;folder;explore;disk;filesystem;
+ Defines the height of a row in the file pane.
+ Left mouse button mode
+ Show command line
+ Show buttonbar
+ This option defines the width of the date column.
+ Quick search exact match begin
+ The entries in this list represent the devices configured by the user.
+ This option defines the default behavior when items will be overwritten by a move command.
+ Leave terminal open
+ Alternate foreground color in custom mode.
+ Alternate background color in custom mode.
+ Selection foreground color
+ LSCOLORS red foreground mapping
+ LSCOLORS green foreground mapping
+ Search pattern for text
+ Create Archive
+ Profiles
+ View file
+ Windows share
+ Commandline history
+ Query first
+ Show for
+ Use Internal Viewer
+ Leave terminal window open
+ Alias:
+ Layout
+ Network protocol
+ Accelerator Mode
+ Credits
+ /File name without extension
+ /Time/HH
+ <unchanged>
+ size
+ date
+ Invalid command
+ Needs terminal
+ Properties…
+ Enable Filter…
+ Restore Selection
+ Forward
+ F3 View
+ Open connection
+ Change right connection
+ Create symbolic link
+ About GNOME Commander
+ Invert selection
+ Configure plugins
+ Change directory
+ Forward one directory
+ gksudo, xdg-su, gksu, gnomesu, kdesu or beesu is not found.
+ There was an error opening home page.
+ There was an error reporting problem.
+ 20 chars/line
+ Album Gain
+ Artist of the track.
+ Bitrate in kbps.
+ ISRC
+ Sample Rate
+ Year
+ Hidden Slide Count
+ Keywords
+ Identifier representing the default system locale.
+ Note Count
+ Object Count
+ Type of presentation, like “On-screen Show”, “SlideView”, etc.
+ Number of slides in the presentation document.
+ Title of the document.
+ Bits per Sample
+ Custom Rendered
+ The date and time when the original image data was generated. For a digital still camera the date and time the picture was taken are recorded.
+ Digital Zoom Ratio
+ Document Name
+ The FlashPix format version supported by a FPXR file.
+ GPS Tag Version
+ Interoperability IFD Pointer
+ An IPTC/NAA record.
+ OECF
+ Pixel Y Dimension
+ Scene Capture Type
+ Subject Area
+ Audio Encryption
+ General encapsulated object.
+ Media type.
+ Musician credits list.
+ Net Radio Owner
+ Original album.
+ Private
+ Publisher.
+ Recording dates.
+ Synchronized lyric.
+ Tagging time.
+ Unsynchronized lyric.
+ Official artist.
+ Official audio source webpage.
+ Focal length of lens in mm.
+ Audio Sampling Rate
+ A textual description of the data.
+ Total size of the object data.
+ Version of the file format.
+ Page Width
+ None
+ Read and verify the ISO image from each device after writing is complete.
+ USB Flash Drive
+ I Understand
+ Failed to parse command line options
+ GNOME loves to cook
+ Editing a recipe
+ The user ID of the current user.
+ The shopping list
+ Done
+ 15 to 30 minutes
+ Gluten-free
+ Examples: 1 kg, 2 1/2 pounds, 250 ml, 6
+ Anything
+ What’s New
+ Find…
+ Desktop
+ serving
+ Season:
+ Christmas
+ ounce
+ deciliter
+ qt
+ st
+ stone
+ Ready to Cook!
+ Beef stock
+ Bell Pepper (green)
+ Breadcrumbs
+ Carrot
+ Garlic
+ Ground fennel
+ Hazelnuts
+ Kale
+ Lemon juice
+ Onion powder
+ Paprika
+ Shallots
+ Shrimps
+ Strawberry
+ Unsalted butter
+ Vegetable oil
+ Vinegar
+ Water
+ White wine
+ no Apple Vinegar
+ no Bacon
+ no Beans
+ no Bell Pepper (green)
+ no Black cardamom pod
+ no Cake flour
+ no Cherry tomatoes, halved
+ no Cocoa powder
+ no Finely chopped cilantro
+ no Lamb
+ no Lemon juice
+ no Nutritional yeast
+ no Olive oil
+ no Salt and pepper
+ no Scallions
+ no Slivered almonds, toasted
+ no Sweet potatoes
+ If set to true, then GNOME Flashback application will be used to provide the audio device selection dialog.
+ This is the same authentication agent that was provided by PolicyKit-gnome.
+ Show trash icon
+ Revert Settings
+ You have just inserted a blank HD DVD.
+ Hybrid Sleep
+ Target architecture
+ Only check for Junk messages in the INBOX folder
+ Open menu
+ Mono
+ Move window one workspace down
+ Switch to workspace 2
+ right
+ Don't make fullscreen windows that are maximized and have no decorations
+ Restore Window
+ Move to Workspace Down
+ Shift
+ No scores yet
+ Score
+ Properties
+ Remote GStreamer Debugger
+ Path to the certificate file
+ In order to be able to use RDP with TLS Security, both the private key file and the certificate file need to be provided to the RDP server.
+ Method used to authenticate VNC connections
+ Use Smartcard
+ Browse...
+ Additional pre-authentication required
+ Credential cache name malformed
+ Unknown credential cache type
+ Requested principal and ticket don't match
+ Program lacks support for encryption type
+ Internal credentials cache error
+ Bad magic number for krb5samchallenge2
+ Don't show me this again
+ (No network connection)
+ PKINIT trust anchors
+ ticket expiring notification
+ Maps
+ Cannot resolve hostname
+ Unique name:
+ Width for the dock when it's of floating type
+ Close this dock
+ Dock master this dock object is bound to
+ Floating Toplevel
+ X coordinate for dock when floating
+ eog
+ The color that is used to fill the area behind the image. This option has effect only if use-custom is enabled.
+ Disable Dark Theme
+ Python Console
+ The GNOME Project
+ Spinup Time
+ Seek Error Rate
+ Seek Timer Performance
+ Uncorrectable Sector Count
+ UDMA CRC Error Rate
+ Soft ECC correction
+ GMR Head Amplitude
+ Endurance Remaining
+ Last self-test failed (electrical)
+ Pre-Fail
+ Changing the passphrase for this device, will also update the passphrase referenced by the <i>/etc/crypttab</i> file
+ The strength of the passphrase
+ Retrieving DVD keys
+ Delete Disk Image File
+ Error formatting volume
+ 5 minutes
+ The label matches the existing label
+ Fair
+ Error resizing filesystem
+ Repair successful
+ Error mounting filesystem
+ Invalid compressed data
+ Sample Size (MiB)
+ TB
+ Enter passphrase used to protect the data
+ Turn on to configure AAM at startup and when the disk is connected
+ Select a device to manage.
+ Activate selected swap partition
+ The special device file — use symlinks in the /dev/disk hierarchy to control the scope of the entry
+ This is equivalent to Master Boot Record <i>bootable</i> flag. It is normally only used for GPT partitions on MBR systems
+ Hide from Firmware
+ New Disk Image
+ Difference
+ Restore Disk Image
+ Extended
+ If specified
+ If true, file comparisons will have paired source maps for compared files.
+ File status filters
+ Move tab right
+ Previous conflict
+ Pull change from right
+ Add Synchronization Point
+ Go to the next conflict
+ Remove
+ Previous logs:
+ File 3
+ Blank comparison
+ Version Control
+ Change trimming
+ Folders have no differences
+ can’t auto-merge less than 3 files
+ <unnamed>
+ Plain Text
+ Clear
+ A3
+ Rotate page to the right (clockwise)
+ Saving
+ New Document
+ Unable to connect to scanner
+ GNOME Hitori
+ Window size
+ 5
+ Command to execute on click
+ Confirm panel removal
+ History of \Run Application\ dialog
+ Interpret position relative to bottom/right edge
+ Expand to occupy entire screen width
+ X co-ordinate of panel, starting from the right of the screen
+ Panel autounhide delay
+ Background color:
+ Error
+ Do you want to delete the applet from your configuration?
+ Don't Delete
+ Browse all local and remote disks and folders accessible from this computer
+ Power Off
+ Click to view your appointments and tasks
+ Knots
+ Contexts:
+ Notification Area
+ A separator to organize the panel items
+ Click here to hide all windows and show the desktop.
+ Restoring Minimized Windows
+ The backend does not support bulk modifications
+ Contact ID already exists
+ No such source
+ Unique ID
+ Other Address Label
+ Business Phone 2
+ Home Phone
+ Jabber Home ID 2
+ Yahoo! Work Screen Name 1
+ Gadu-Gadu Home ID 2
+ The phone number parser reported a yet unknown error code.
+ 3rd
+ 4th
+ and Saturday
+ on the last Friday
+ on the 21st day
+ Cannot send calendar objects: 
+ DIGEST-MD5
+ OAuth2 (Outlook)
+ Cannot attach CMS data
+ Always check for new mail in this folder
+ Synchronize remote mail locally in all folders
+ Sent Items
+ Sent Messages
+ Bulk Mail
+ Retrieving POP summary
+ Syntax error in parameters or arguments
+ Service ready
+ Requested action aborted: error in processing
+ Programs that are allowed to be run by reminders
+ Whether or not to show reminder notification dialog always on top. Note this works only as a hint for the window manager, which may or may not obey it.
+ The last used snooze time, in minutes
+ Holiday Cards
+ XML data does not have root node
+ Accept Permanently
+ Reason:
+ The certificate has expired.
+ Invalid URL
+ Unhandled error
+ Collection/GNOME Online Accounts
+ Remove Session
+ A problem has occurred and the system can’t recover. All extensions have been disabled as a precaution.
+ Refusing new client connection because the session is currently being shut down\n
+ Ignoring any existing inhibitors
+ Session names are not allowed to start with “.”
+ The last recorded height of the application window.
+ Ask when opening an attachment
+ All others
+ TLS
+ Start with the main window hidden (deprecated)
+ Log folder normalization
+ Account update
+ Account problem
+ Discard
+ Print…
+ Move conversation to Trashmsgidplural Move conversations to Trash
+ Templates | Template Mail | Template Email | Template E-Mail
+ Mail merge template
+ Plays the desktop sent-mail sound when an email is sent
+ Now
+ TB
+ MB
+ Starred
+ Archive | Archives
+ Insert an image
+ Discard and Close
+ Always Load Remote Images
+ The link appears to go to:
+ Preview body text.
+ Sent by:
+ New conversation
+ Show keyboard shortcuts
+ Select next/previous conversation
+ New Mobile Broadband connection…
+ Unknown
+ Re-enter new PIN code:
+ Monitoring frequency
+ ARP targets
+ Bridged connections
+ STP forwarding delay, in seconds
+ Advertise
+ Enter the priority group ID for each User Priority.
+ Wake on LAN
+ No
+ Device name
+ Remote IP
+ Require IPv4 addressing for this connection to complete
+ Value is positive number in milliseconds. Specifies an interval between bursts of notify-peer packets.
+ LACP runner options
+ LACP
+ Name of runner to be used.
+ mW
+ Whether to automatically add routes for the AllowedIPs ranges of the peers
+ HW address
+ invalid hardware address
+ File Relabel
+ The following files are not labelled for use with certificate authentication. Do you wish to adjust the labels?
+ Could not load vlan user interface.
+ Enhanced Open
+ Could not load Wi-Fi user interface.
+ HSUPA
+ Roaming network
+ Easy document navigation with bookmarks
+ Character Map
+ Insert special characters just by clicking on them.
+ Pick Color
+ You appear to have schemes with the same IDs in different directories\n
+ Embedded Terminal
+ Language pair used
+ Interactive completion
+ Minimum word size:
+ Username
+ Administrator Name
+ Avatar image
+ Enterprise Login
+ Go online to set up Enterprise Login.
+ This is a weak password. Try to use more lowercase letters.
+ The time zone will be set automatically if your location can be found. You can also search for a city to set it yourself.
+ No files to be archived
+ Cannot save contact list, it’s only supported on EWS Server 2010 or later
+ Invalid occurrence ID
+ Owner
+ Default
+ Search…
+ Override Office365 OAuth2 settings
+ EWS Settings
+ Do not send Out of Office replies
+ Reply to any sender outside the organization
+ For accessing Microsoft 365 server
+ OAuth2 (Microsoft 365)
+ Clock rotation
+ Every hour rotates 360 degrees.
+ Every game is an independent event with 2 possible results. The total number of possibilities is 2 at the power of [games].
+ [optionprefix] His father
+ [optionprefix] His cousin
+ gbrainy
+ The word 'taxidermist' is used to define a person that?
+ A car engine that is poorly designed and lacking of sophistication is?
+ Fish
+ Apple
+ Which of the following words is closest to the meaning of 'hedonism'?
+ Acclaimed
+ Amphora
+ Macadamia
+ Satire
+ Cow
+ Which of the following words is the closest in meaning to 'intrinsic'?
+ Cellulose
+ Sweet corn
+ Insects
+ Concert hall
+ Art
+ fish / submarine | bird
+ track | railway | rails | railroad
+ thermometer / temperature | clock
+ time
+ --versions \t\t\tShow dependencies.
+ <b>Game Types</b>
+ Pause Game
+ Help
+ Copyright:
+ Select All
+ Install from file...
+ C
+ D
+ Mental calculation. Arithmetical operations that test your mental calculation abilities.
+ Circles in a square
+ There are 5 of 6 possibilities.
+ Two unmodified 6 sided dice are thrown simultaneously. What is the probability of getting two '6'? Answer using a fraction (e.g.: 1/2).
+ How many four sided figures do you count in the figure below?
+ The numbers in the grid below follow a pattern. Which number should replace the question mark?
+ It is an easy exercise if you systematically count the lines.
+ Think of the common elements that the given figures have inside them.
+ You whistle if you are not happy
+ Some pictures are not really good
+ What percentage of Shiny Cars use diesel?
+ hand
+ Phone
+ Web service addresses are not writeable on this contact.
+ Can’t add personas with no primary store.
+ Open
+ Find More in Software
+ Select monitor to share with the requesting application
+ Entire Screen
+ Effects
+ Task manager for GNOME
+ Nothing else to do here
+ Did you drink some water today?
+ An error occurred while updating a task
+ Clear completed tasks…
+ Not able to communicate with Todoist. Please check your internet connectivity.
+ On the Todo.txt file
+ Nickname
+ Leave Room
+ Will notify if user appears online.
+ Align to:
+ Set partition name on %1
+ See %1 for more information.
+ Legend
+ There is no file system available (unformatted)
+ Unable to read the contents of this file system!
+ delete partition
+ delete %1 file system
+ grow partition from %1 to %2
+ Libparted Information
+ Grow %1 from %2 to %3
+ Extended
+ View
+ Paste the partition from the clipboard
+ Mount on
+ Are you sure you want to delete %1?
+ Could not unmount %1
+ Active partitions are those that are in use, such as a mounted file system, or enabled swap space.
+ Do you want to continue?
+ Searching for file systems on %1
+ Deactivate
+ Since GParted is a powerful tool capable of destroying partition tables and vast amounts of data, only root may run it.
+ Show the next move
+ Save the game with a different name
+ Hard
+ Five minutes
+ Current Player
+ Simple
+ Unpause the game
+ All files
+ Built-in Permissions
+ No results found
+ Link Types
+ Add Picture…
+ Select ICC Profile File
+ Calibrate the color of your devices, such as displays, cameras or printers
+ Date &amp; Time
+ Diagnostics
+ Landscape
+ Manual Schedule
+ Calculating…
+ Virtualization
+ Rename
+ Microphone mute/unmute
+ Search
+ Log out
+ Remove
+ Input Sources
+ No keyboard shortcut found
+ 2 minutes
+ 5 minutes
+ Primary Button
+ Dynamic workspaces
+ Workspaces on all displays
+ Not set up
+ Stable
+ None
+ Identity
+ Control how you connect to the Internet
+ Network;Wireless;Wi-Fi;Wifi;IP;LAN;Broadband;DNS;Hotspot;
+ HTTPS Proxy
+ Shared connection service failed to start
+ Line busy
+ TLS
+ missing wep-key
+ Show Message Content in Popups
+ Online Accounts
+ Fully charged
+ Main
+ Automatic suspend
+ 20 minutes
+ Printer;Queue;Print;Paper;Ink;Toner;
+ No Active Jobs
+ Ink Level
+ Select your display language and formats
+ Language;Layout;Keyboard;Input;
+ Folders which are searched by system applications, such as Files, Photos and Videos.
+ Enable or disable remote desktop connections to this computer.
+ Authorization Error
+ Connected & Authorized
+ Thunderbolt security level could not be determined.
+ Speed
+ Short
+ Repeat keys speed
+ Large Text
+ Visual Alerts
+ Magnifier
+ Contrast:
+ Color
+ File History
+ Fingerprint Login
+ Allow user to change their password on next login
+ Set a password now
+ Invalid password, please try again
+ Delete the selected user account
+ Try to avoid some of the words included in the password.
+ Use absolute positioning for the pen
+ Airbrush stylus with pressure, tilt, and integrated slider
+ Registered
+ Modem Details
+ Firmware Version
+ 2G (Preferred), 4G
+ 2G (Preferred), 3G
+ Enter PIN to unlock your SIM card
+ Choose Network
+ Settings is the primary interface for configuring your system.
+ Warning: Development Version
+ Panels
+ The identifier for the last Settings panel to be opened. Unrecognised values will be ignored and the first panel in the list selected.
+ Hex:
+ There is no string to search for!
+ There is no active document to replace data in!
+ Exit
+ Replace
+ New document
+ Fonts
+ Box size
+ GHex Website
+ Game field from last saved session.
+ Width of the window in pixels
+ Copyright © 2013–2014 Michael Catanzaro
+ You can’t move there!
+ icn
+ draw
+ form
+ pgbar
+ tre
+ France French Grade 1
+ Hungarian Grade 1
+ space
+ comma
+ soft hyphen
+ macron
+ superscript 2
+ superscript 3
+ ordinal
+ a acute
+ THORN
+ e circumflex
+ single low quote
+ trademark
+ superscript 4
+ superscript n
+ Decrease the speech pitch
+ Go to the beginning of the line
+ Go to previous button
+ Go to previous check box
+ Display a list of form fields
+ Display a list of landmarks
+ bisque
+ cyan
+ dark olive green
+ lime green
+ midnight blue
+ papaya whip
+ purple
+ thistle
+ Mark in braille
+ Profile Name:
+ Application
+ None
+ List Item
+ Speak cell
+ Alt
+ help
+ ring
+ Shift
+ right arrow from bar
+ right-pointing arrowhead
+ breve
+ does not contain as a member
+ neither approximately nor actually equal to
+ almost equal to
+ neither greater than nor less than
+ succeeds or equivalent to
+ multiset
+ nor
+ equal to or less than
+ left angle bracket
+ union with dot
+ bookmark entered
+ spell
+ Usage: 
+ Another screen reader process is already running for this session.\nRun “orca --replace” to replace that process with a new one.
+ Set up user preferences (GUI version)
+ Cut selection to clipboard.
+ document selected from cursor position
+ Leaving flat review.
+ word
+ a down diagonal strike
+ leaving navigation.
+ leaving credits.
+ leaving page list.
+ same page
+ same site
+ Mouse over object not found.
+ Error: Could not create list of objects.
+ white space
+ pullquote
+ main content
+ Match case
+ Volume:
+ Enable speech
+ Announce blockquotes during navigation
+ Enable punctuation keys
+ Text Attributes
+ underline
+ rtl
+ left
+ no justification

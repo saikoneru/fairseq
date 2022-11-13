@@ -305,6 +305,8 @@ def add_preprocess_args(parser):
                        help="number of parallel workers")
     group.add_argument("--dict-only", action='store_true',
                        help="if true, only builds a dictionary and then exits")
+    group.add_argument("--extend-dict-file", metavar="FP", default=None,
+                       help="List of new words that should not be mapped to unk")
     # fmt: on
     return parser
 
@@ -389,6 +391,8 @@ def add_model_args(parser):
     group.add_argument('--arch', '-a', metavar='ARCH',
                        choices=ARCH_MODEL_REGISTRY.keys(),
                        help='model architecture')
+    group.add_argument('--extend-emb', action="store_true",
+                        help="Extend embedding layers using the size of new dictionary")
     # fmt: on
     return group
 

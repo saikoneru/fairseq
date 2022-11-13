@@ -1,0 +1,4901 @@
+ Alerts
+ Starred
+ System
+ Security
+ Security
+ Usage
+ Usage
+ Usage
+ Keyboard Shortcuts
+ Keyboard Shortcuts
+ Keyboard Shortcuts
+ Time
+ Message
+ Message
+ Documentation
+ Documentation
+ Back
+ Back
+ Back
+ PID
+ UID
+ General
+ Open a new window
+ Open a new window
+ Keyboard shortcuts
+ Keyboard shortcuts
+ Print version information and exit
+ Other
+ Other
+ Other
+ Other
+ %I:%M:%S %p
+ %I:%M:%S %p
+ %l:%M %p
+ Cancel
+ Swap left and right mouse buttons for left-handed mice.
+ Length of a double click in milliseconds.
+ Drag threshold
+ Distance before a drag is started.
+ Distance before a drag is started.
+ When set to true, GNOME will remember the state of the NumLock LED between sessions.
+ Set this to TRUE to be able to send mouse clicks by tapping on the touchpad.
+ Set this to TRUE to be able to send mouse clicks by tapping on the touchpad.
+ The type of action triggered by the button being pressed.
+ Name
+ Name
+ Name
+ Antialiasing
+ RGBA order
+ Power
+ Power
+ Power
+ Automatic suspend
+ Out of paper
+ Printing
+ Printing
+ SIM not inserted
+ SIM PIN required
+ SIM PUK required
+ SIM PUK2 required
+ SIM PUK2 required
+ Set
+ Unlock
+ Enter PIN to unlock your SIM card
+ Enter PIN to unlock your SIM card
+ Enter PUK to unlock your SIM card
+ Select
+ Preview
+ Preview
+ Threshold:
+ Filter Options
+ Filter Options
+ Search:
+ Process
+ Skip
+ Merge
+ Merge
+ Merge
+ No matches
+ Open
+ File already exists
+ Format
+ Format
+ Format
+ Options
+ Continue
+ Continue
+ Continue
+ Apply
+ Burn
+ Multiply
+ Multiply
+ Multiply
+ Information
+ Delete
+ Delete
+ read only
+ Layer Attributes
+ Layer Attributes
+ Divide
+ Divide
+ Screen
+ Screen
+ Overlay
+ Difference
+ Difference
+ Lighten only
+ Color erase
+ Color erase
+ Grain extract
+ Grain merge
+ Grain merge
+ Selection
+ Selection
+ Case sensitive
+ Case sensitive
+ Case sensitive
+ Move
+ Zoom
+ Zoom
+ Zoom
+ Show
+ Warp
+ Swap
+ Swap
+ Destination
+ Shape
+ Lines
+ Lines
+ To:
+ To:
+ Append
+ Loop
+ None
+ None
+ None
+ None
+ None
+ None
+ None
+ Center
+ Rotate:
+ Scale:
+ Rotation:
+ Cursor
+ Grid
+ Pattern:
+ Antialias:
+ Cut
+ Cut
+ Select All
+ Select None
+ Ready
+ Volume:
+ Play
+ Play
+ Pause
+ Reverse
+ Reverse
+ Offset X:
+ Offset X:
+ Offset Y:
+ Reset
+ Reset
+ Enable dithering of transparency
+ Update
+ Update
+ Start:
+ Overlap:
+ medium
+ Rows:
+ (modified)
+ (modified)
+ automatic
+ none
+ Name:
+ Name:
+ internal error
+ SECTION
+ SECTION
+ Duration:
+ Transform:
+ Clip
+ Master
+ Master
+ Mask
+ Type:
+ frame
+ frame
+ Select Range to Adjust
+ Highlights
+ Hue-Saturation...
+ Cyan
+ Color Levels
+ Average
+ Layer
+ Frame
+ Frames
+ Frames
+ Frames
+ Encoding
+ Encoding
+ Encoding
+ Monitor
+ Options:
+ undefined
+ undefined
+ Select File
+ Author:
+ Copyright:
+ Auto
+ Restart
+ Restart
+ Previous puzzle
+ Next puzzle
+ Scores
+ Scores
+ Toggle main menu
+ Toggle main menu
+ Quit
+ Quit
+ Start Over
+ Start Over
+ Previous
+ Previous
+ Previous
+ Previous
+ Previous
+ Previous
+ Next
+ Next
+ Next
+ Change Puzzle
+ Change Puzzle
+ The width of the window
+ The width of the window
+ Width of the window in pixels
+ A flag to enable maximized mode
+ A flag to enable maximized mode
+ A flag to enable maximized mode
+ If “true”, the main window starts in maximized mode.
+ If “true”, the main window starts in maximized mode.
+ Print release version and exit
+ Print release version and exit
+ Print release version and exit
+ Print release version and exit
+ Print release version and exit
+ Violet
+ Burst
+ Device
+ Device
+ Image
+ Capture
+ Capture
+ Cheese
+ Cheese
+ Fullscreen on / off
+ Fullscreen on / off
+ Quit the application
+ Output version information and exit
+ Stop recording
+ Stop recording
+ Add to Favorites
+ Add to Favorites
+ Record
+ Record
+ Start
+ Start
+ Search for:
+ Start Game
+ Start Game
+ History
+ History
+ Contents
+ Configure the application
+ Configure the application
+ View
+ View
+ View
+ Window maximized
+ Window maximized
+ Move Up
+ Move Down
+ Favorite
+ Favorite
+ Favorite
+ Samples
+ Last Played
+ Last Played
+ Comment
+ Muted
+ Muted
+ Do Not Delete
+ Flags
+ Open menu
+ Open menu
+ Search
+ Search
+ Try a different search.
+ Try a different search.
+ Loading…
+ Loading…
+ Size
+ Allocation
+ Allocation
+ Request Mode
+ Reactive
+ Scale Y
+ Transform
+ Constraints
+ Constraints
+ Constraints
+ Margin Bottom
+ Margin Left
+ Expand
+ Expand
+ Expand
+ Orientation
+ Orientation
+ Homogeneous
+ Homogeneous
+ Spacing
+ Drag Handle
+ The amount of space between two consecutive rows
+ The amount of space between two consecutive columns
+ Make all warnings fatal
+ Make all warnings fatal
+ Property Name
+ Translation Domain
+ Fog
+ Fog
+ Maximum length
+ Buffer
+ Cursor Size
+ Cursor Position
+ Duration
+ Direction
+ Direction
+ Initial angle
+ Initial angle
+ URI
+ URI
+ State
+ State
+ Make X calls synchronous
+ All files
+ Check
+ Empty
+ File
+ File
+ Solid color
+ Tiled
+ Align left
+ Underline
+ Underline
+ Text Color
+ Pick a Color
+ Retrieving DVD keys
+ Retrieving DVD keys
+ Plugins
+ Recent Projects
+ Recent Projects
+ Track
+ Space
+ Space
+ Space
+ Space
+ Type
+ Type
+ Type
+ Options…
+ Options…
+ Artist:
+ Plugin
+ Configure
+ Configure
+ Activate All
+ Activate All
+ Discard Changes
+ Create a new project
+ New
+ Insert
+ Insert
+ Remove All
+ End
+ End
+ Undo
+ Screenshot taken
+ Screenshot taken
+ Disconnect
+ Disconnect
+ Display
+ Scaling
+ Scaling
+ View only
+ View only
+ Original size
+ Original size
+ Estimating...
+ Reset to default values
+ Reset to default values
+ Select a color
+ OK
+ Interactive Intro
+ Interactive Intro
+ Revert
+ Revert
+ Frame rate:
+ Audio
+ Info
+ Scale
+ Framerate
+ Group
+ Pick a background color
+ Pick a background color
+ Horizontal:
+ Top
+ Top
+ Bottom
+ Untitled
+ Fancy
+ Fancy
+ Unknown
+ Unknown
+ Unknown
+ Icon
+ Icon
+ Open containing folder
+ Open containing folder
+ Viewer
+ Viewer
+ Action Search
+ Zoom in
+ Zoom in
+ Contributors:
+ Contributors:
+ Variable
+ Variable
+ Unknown reason
+ Unknown reason
+ About a year ago
+ Font
+ Recently Played
+ Recently Played
+ Play and organize your music collection
+ Location
+ Location
+ Rating
+ Library Location
+ Browse...
+ Sync
+ Sync
+ Details
+ Details
+ Every day
+ Every day
+ Shuffle
+ Album artist:
+ Album artist:
+ Location:
+ Location:
+ Location:
+ %a %I:%M %p
+ %b %d %I:%M %p
+ %b %d %I:%M %p
+ %b %d %Y
+ %b %d %Y
+ Tracks:
+ Browse
+ Extract
+ Extract
+ Reload
+ Retry
+ Authentication error
+ Download
+ Lyrics
+ Sharing
+ Sharing
+ Add Remote
+ Remotes
+ Advanced
+ Advanced
+ Radio
+ Radio
+ Search again
+ Search again
+ Failed
+ Failed
+ Feed
+ Stop playback
+ Stop playback
+ Paused
+ All Files
+ Replace All
+ Install
+ Install
+ Library
+ Devices
+ Shared
+ from
+ Lossless
+ Play Count
+ Album Artist
+ Album Artist
+ Album Artist
+ Track Number
+ equals
+ ends with
+ Forward
+ Forward
+ Country
+ Move up
+ Move down
+ Miscellaneous
+ Home
+ Home
+ Be verbose
+ invalid
+ alert
+ combo box
+ dial
+ icon
+ label
+ list
+ list item
+ menu item
+ progress bar
+ row header
+ row header
+ scroll bar
+ separator
+ separator
+ tree item
+ list box
+ list box
+ audio
+ audio
+ video
+ landmark
+ marquee
+ marquee
+ Description of an object, formatted for assistive technology access
+ Congratulations!
+ Keep Playing
+ Start a new game
+ SIZE
+ SIZE
+ 3 × 3
+ 3 × 3
+ 5 × 5
+ Custom
+ Custom
+ Page on GNOME wiki
+ Confirm:
+ Confirm:
+ Full
+ Width (in pixels) of the window.
+ Set as default
+ Set as default
+ Login
+ Login
+ Full Name
+ Full Name
+ Passphrase for New PGP Key
+ Enter the passphrase for your new key twice.
+ Create
+ Enter new passphrase
+ Enter passphrase
+ Resize
+ Resize
+ Reason:
+ Fully
+ Ultimately
+ Owner trust
+ Certify
+ Authenticate
+ Authenticate
+ Authenticate
+ Key
+ Created
+ Created
+ Unnamed
+ Label:
+ Import failed
+ Import from file…
+ Import from file…
+ Filter
+ Export…
+ Lock
+ Lock
+ Lock
+ There was an internal error trying to search for applications:
+ Getting the file list
+ Create Archive
+ Go to the previous visited location
+ Go to the previous visited location
+ Go to the next visited location
+ Command Line Output:
+ Could not display help
+ Archive
+ Refresh
+ Common
+ Select all
+ Select all
+ Select all
+ Other Options
+ Access, organize and share your photos on GNOME
+ Access, organize and share your photos on GNOME
+ Window position (x and y).
+ Window maximized state
+ Window maximized state
+ Window maximized state
+ Favorites
+ Previous photo
+ Go back
+ Go back
+ Click on items to select them
+ Select Items
+ Select Items
+ Add to favorites
+ Done
+ Organize
+ Organize
+ Set as Background
+ Set as Background
+ Center:
+ Both
+ Both
+ Date Modified
+ Dimensions
+ ISO Speed
+ Match
+ Match
+ Share
+ Share
+ Enhance
+ Abort
+ Kill
+ Kill
+ Stop
+ Notification Messages
+ Private Key
+ Private Key
+ Full Name:
+ Full Name:
+ Couldn’t package files
+ Couldn’t package files
+ ID
+ ID
+ GPL-3.0+ or GFDL-1.3-only
+ UserDocs
+ Zoom In
+ Zoom In
+ Normal Size
+ Find Next
+ Find Previous
+ Find Previous
+ Go
+ Script
+ Match whole word
+ Page Setup
+ Page Setup
+ Thai
+ Tags
+ Tags
+ Tags
+ Tags
+ Hangul
+ Latin
+ Identifier
+ Children
+ Background
+ Background
+ Union
+ Union
+ Intersection
+ Intersection
+ Save Selected
+ Save Selected
+ Match case
+ Match case
+ Match case
+ Layer name:
+ Plugins…
+ Show or hide the toolbar
+ Show or hide the toolbar
+ Show or hide the statusbar
+ Redo
+ Redo
+ Duplicate
+ Parent
+ Parent
+ Parent
+ Middle
+ Middle
+ Connected
+ Layout
+ Layout
+ Layout
+ Debug
+ Box
+ Box
+ Line
+ Outline
+ Outline
+ Show Grid
+ Snap to Grid
+ Snap to Grid
+ Inverse
+ Inverse
+ Inverse
+ User Interface
+ Select color
+ Select color
+ Modification date
+ URL
+ URL
+ Text alignment
+ Text alignment
+ Stroke
+ Stroke
+ Stroke
+ Events
+ Nullable
+ Nullable
+ Default
+ Default
+ Table
+ Fonts
+ Attribute
+ Relationship
+ Input
+ Allow
+ Guide
+ Guide
+ Straighten
+ Spin
+ Attach
+ Attach
+ Join
+ Join
+ Join
+ Branch
+ Branch
+ Release
+ Release
+ Polish
+ Sand
+ Supply
+ Supply
+ Control
+ Control
+ Control
+ Disable
+ Limit
+ Increase
+ Adjust
+ Adjust
+ Solid
+ Human
+ Current
+ Current
+ Unspecified
+ Unspecified
+ Message:
+ Controls
+ Controls
+ Measurement
+ Precision
+ Precision
+ Square
+ Decagon
+ Icosagon
+ Star
+ Star
+ Fixed
+ Fixed
+ Legend
+ Aggregation
+ Aggregation
+ Composition
+ Visibility:
+ Public
+ Public
+ Protected
+ Template
+ Query
+ Query
+ Undefined
+ Undefined
+ In
+ In
+ Event Source
+ Event Source
+ Call
+ Return
+ Send
+ Send
+ Action
+ Thread
+ Thread
+ Sun
+ Gateway
+ Mixer
+ Web browser
+ Tablet
+ Tablet
+ Tablet
+ Headphones
+ Headphones
+ Bridge
+ Soil
+ Sort
+ Sort
+ Logic
+ Computer
+ Storage
+ Storage
+ Note
+ Note
+ Note
+ Pan
+ %l∶%M %p
+ %l∶%M %p
+ Post
+ Next Thread
+ Next Thread
+ Previous Thread
+ Previous Thread
+ Ignore Thread
+ Ignore Thread
+ Work Online
+ Newsgroups
+ Copy URL
+ Central European
+ Central European
+ Western European, New
+ Enter the character set to use
+ Other…
+ Character encoding:
+ Bytes
+ KB
+ Offline
+ Score
+ Clear List
+ Wrap Text
+ Wrap Text
+ Check Spelling
+ Continue Anyway
+ Parts
+ Tabs
+ Panes
+ Language Settings
+ Headers
+ URL:
+ Profile Information
+ Profile Information
+ Optional Information
+ Optional Information
+ References
+ References
+ Line Count
+ Byte Count
+ forever
+ Fallback
+ Running
+ Running
+ Stopped
+ Removing
+ Removing
+ Online
+ Online
+ Online
+ Ambient
+ Previous Image
+ Summary
+ LCD (RGB LED backlight)
+ CRT
+ CRT
+ Set the parent window to make this modal
+ Test profile: 
+ Test profile: 
+ Show debugging information for all files
+ Show debugging options
+ gray
+ Random
+ Random
+ Float
+ Float
+ Float
+ Alien Map
+ Strength
+ To
+ Std. Dev.
+ Std. Dev.
+ Detail
+ Detail
+ Ratio
+ Ratio
+ Rank
+ Rank
+ Repeat
+ Repeat
+ Repeat
+ Value Invert
+ Value Invert
+ Value Invert
+ Move pixels
+ Move pixels
+ Grow area
+ Shrink area
+ Swirl clockwise
+ Swirl counter-clockwise
+ Sinusoidal
+ Sinusoidal
+ Elevation
+ Elevation
+ Bump Map
+ Channel Mixer
+ Channel Mixer
+ Polar
+ Polar
+ Displace
+ Gradient
+ Engrave
+ Spider
+ Spider
+ Fractal Trace
+ Main
+ Lens Distortion
+ Maze
+ Maze
+ Hexagons
+ Hexagons
+ Octagons
+ Solid Noise
+ Polar Coordinates
+ Polar Coordinates
+ Ripple
+ Shift
+ Sinus
+ Balance
+ Wrap around
+ Wrap around
+ Wrap around
+ Wrap around
+ Waves
+ Wind
+ Wind
+ Edge behavior
+ Clone
+ Smoothing
+ Relative Colorimetric
+ Absolute Colorimetric
+ Fill rule
+ Fill rule
+ Compression
+ Directory
+ Maximal scale of refinement points to be used for the interpolation mesh
+ Separator
+ Separator
+ Step
+ Step
+ Select a file
+ Schedule
+ Notes
+ Delete Event
+ Go forward
+ Go forward
+ Recent
+ Black and White
+ Use Default Font
+ Use Default Font
+ Editor Font
+ Color scheme to use for syntax highlighting
+ Color scheme to use for syntax highlighting
+ Used by GtkSourceView to determine colors for syntax highlighting
+ Wrap
+ Wrap
+ Commit
+ Commit
+ Commit
+ Show the application’s version
+ Interface
+ Interface
+ Clone Repository
+ Create Branch
+ Create Tag
+ Create Tag
+ Display right margin at column:
+ Enable spell checking
+ Startup
+ Editor font: 
+ Syntax highlighting color scheme:
+ Syntax highlighting color scheme:
+ Expand all
+ Expand all
+ Binary
+ Remember password until you logout
+ Remember forever
+ Remember forever
+ Slider
+ Slider
+ Processing
+ Log Out
+ Close without Saving
+ Close without Saving
+ Close without Saving
+ Close without Saving
+ Close without Saving
+ Western
+ Nordic
+ Nordic
+ Number
+ Boolean
+ Notebook
+ Header
+ Header
+ Header
+ Custom Title
+ Report
+ List
+ First
+ First
+ button
+ button
+ Default Value
+ Hidden
+ Open File
+ Containers
+ Encoding:
+ Encoding:
+ Locale:
+ Locale:
+ Add Image
+ Text Formatting
+ Unselect All
+ <b>Group:</b>
+ <b>Group:</b>
+ Column
+ Column
+ The text to display
+ The text to display
+ Widget
+ Widget
+ Whether to use the system monospace font
+ Window maximized state.
+ Notebooks
+ Notebooks
+ Medium
+ Medium
+ Medium
+ Use System Font
+ Celsius
+ Fahrenheit
+ Fahrenheit
+ Redo Move
+ Accordion
+ Yield
+ Whether the window is maximized
+ Statistics
+ Get a hint for your next move
+ Get a hint for your next move
+ Sound
+ Sound
+ Score:
+ Autoplay
+ Autoplay
+ Image Editor
+ Buffers
+ Buffers
+ Orange
+ Tool
+ Palette
+ Aspect Ratio
+ Close Tab
+ Detach Tab
+ File Open Dialog
+ Clear History
+ Equalize
+ There is no image data in the clipboard to paste.
+ Open Recent
+ Open Recent
+ Open Recent
+ Neon...
+ Grid...
+ Guides
+ Rotating
+ Stack
+ Stack
+ Show All
+ Show All
+ Zoom 1:1
+ Scroll left
+ Scroll left
+ Scroll right
+ Scroll up
+ Scroll up
+ Scroll down
+ Low
+ Low
+ Hard
+ Ask what to do
+ Ask what to do
+ Rate
+ Rate
+ Flip
+ Flip
+ Offset X
+ Offset X
+ Offset Y
+ Mirror
+ points
+ Extensions
+ Open Location
+ Template:
+ Module
+ Module
+ Speed
+ Appearance
+ Number of lines
+ W
+ W
+ Zoom:
+ Zoom:
+ Zoom:
+ Permission denied
+ Erase
+ Legacy
+ Legacy
+ Range
+ Pencil
+ Pencil
+ Colorize
+ Threshold
+ Spread
+ M
+ M
+ Highlight opacity
+ Presets:
+ Engine
+ Metric
+ Shortcut
+ Balanced
+ Used
+ Misc
+ Misc
+ Fade
+ Mean:
+ Std dev:
+ Std dev:
+ Automatically Detected
+ Invalid UTF-8
+ Invalid UTF-8
+ Strikethrough
+ Strikethrough
+ Plain
+ If you save it, all the external changes could be lost. Save it anyway?
+ Save Anyway
+ Save Anyway
+ Company
+ months
+ ago
+ ago
+ variant
+ variant
+ Authentication
+ Authentication
+ Drag and Drop
+ Property
+ (default)
+ (default)
+ Contexts:
+ After
+ After
+ Read Only
+ Read Only
+ Resource Path
+ Variant
+ Stretch
+ Stretch
+ Toggle
+ Toggle
+ Tag
+ Combo Box
+ Combo Box
+ Dial
+ Dial
+ Panel
+ Panel
+ Radio Button
+ Table Cell
+ Link
+ Link
+ Document Text
+ Landmark
+ North
+ North
+ West
+ West
+ East
+ South
+ South
+ Desktop
+ Desktop
+ Left to Right
+ Text Entry
+ Text Entry
+ Reject
+ Accept
+ Accept
+ Continuous
+ Before
+ Before
+ Visible child
+ Horizontal Scale
+ Vertical Scale
+ Up
+ Down
+ Top Left
+ Bottom Left
+ Widgets
+ Widgets
+ Double
+ Small Capitals
+ Translators
+ Translators
+ Documenters
+ Documenters
+ Documenters
+ Padding
+ Padding
+ Tab
+ Tab
+ Create Link
+ Editor
+ Editor
+ Editor
+ Emphasis
+ Emphasis
+ If set, an underline in the text indicates the next character should be used for the mnemonic accelerator key
+ Inputs
+ Inputs
+ Label
+ Mute
+ Nice
+ Order
+ Out of memory
+ Out of memory
+ Out of memory
+ Plugin Path
+ Rebuild
+ Redo the last undone action
+ Save Changes
+ Save Changes
+ Select Color
+ Ticks
+ Tracks
+ Transpose
+ Transpose
+ Transpose
+ Volume
+ Distortion
+ Distortion
+ Merge...
+ Utilities
+ Cannot connect to the server
+ Cannot connect to the server
+ CC
+ Choose…
+ Choose…
+ Issuer
+ not available
+ Basic
+ Basic
+ Security:
+ Server requires authentication
+ Remember password
+ Undelete
+ View Source
+ View Source
+ View Source
+ View Source
+ Run
+ Run
+ Choose destination folder
+ Choose destination folder
+ Wrapped
+ Zoom 100%
+ Organizer:
+ Browse…
+ read-only
+ Rescan
+ Rescan
+ Outbox
+ Checking
+ Show icon
+ Incoming
+ Chinese Simplified
+ Chinese Traditional
+ Chinese Traditional
+ Attachment
+ Attachment
+ Attachment
+ Inline
+ Change All
+ Expand All
+ Check for new messages in all folders
+ Check for new messages in all folders
+ Listen for server change notifications
+ Only check for Junk messages in the Inbox folder
+ Synchronize remote mail locally in all folders
+ Synchronize remote mail locally in all folders
+ Updating foreign folders
+ Full name
+ Full name
+ View the size of all Exchange folders
+ View the size of all Exchange folders
+ Subscribe to folder of other user…
+ Owner
+ Owner
+ Writing folder permissions, please wait…
+ Anonymous
+ Anonymous
+ Permissions
+ Permissions
+ Create items
+ Edit all
+ Edit all
+ Folder owner
+ Folder owner
+ Reading folder permissions, please wait…
+ Reading folder permissions, please wait…
+ Searching…
+ Searching…
+ Searching…
+ Include subfolders
+ Account is disabled
+ Hover Click
+ Try a different search
+ Try a different search
+ Performance
+ Minimum font size
+ Central European (IBM-852)
+ Central European (IBM-852)
+ Central European (ISO-8859-2)
+ Central European (MacCE)
+ Central European (Windows-1250)
+ Central European (Windows-1250)
+ Chinese Simplified (GB18030)
+ Chinese Simplified (GB2312)
+ Chinese Simplified (HZ)
+ Chinese Simplified (HZ)
+ Chinese Traditional (Big5)
+ Chinese Traditional (Big5)
+ Chinese Traditional (Big5-HKSCS)
+ Chinese Traditional (Big5-HKSCS)
+ Visual Hebrew (ISO-8859-8)
+ Type to search…
+ Type to search…
+ Find previous occurrence of the search string
+ Find next occurrence of the search string
+ Find next occurrence of the search string
+ Clear All
+ Clear All
+ DIR
+ DIR
+ Light
+ Light
+ Frequency
+ Reopen Closed Tab
+ Monospace font
+ Reset zoom
+ Editing
+ Idle
+ Unable to retrieve namespace prefixes
+ No namespace prefixes were returned
+ No namespace prefixes were returned
+ Verify name exactly
+ Verify name exactly
+ Certificates (TLS)
+ Could not process the request because the VPN connection settings were invalid.
+ Could not process the request because the VPN connection settings were invalid.
+ Enable verbose debug logging (may expose passwords)
+ Advanced…
+ Advanced…
+ Subject Match
+ Subject Match
+ Require that peer certificate was signed with an explicit key usage and extended key usage based on RFC3280 TLS rules.
+ Print version
+ Stream is already closed
+ Not enough space in destination
+ Connect to the session bus
+ Connect to the session bus
+ Timeout in seconds
+ Timeout in seconds
+ Target file exists
+ Seek not supported on stream
+ Truncate not supported on stream
+ Truncate not supported on stream
+ Can’t rename file, filename already exists
+ Invalid attribute type (uint64 expected)
+ Target file is not a regular file
+ Target file is not a regular file
+ Not enough memory
+ Not enough memory
+ Need more input
+ Invalid compressed data
+ hexadecimal digit or “}” expected
+ missing “<” in symbolic reference
+ unfinished symbolic reference
+ zero-length symbolic reference
+ digit expected
+ digit expected
+ Draft
+ Draft
+ Legal
+ Tip
+ Pause the game
+ Pause the game
+ Unpause the game
+ Undo move
+ Roll
+ Undo your most recent move
+ Difficulty:
+ Tags:
+ Tags:
+ Buttons
+ Buttons
+ Labels
+ Black on white
+ Lighting (degrees)
+ Scanning
+ Scanning
+ Scanning
+ One
+ One
+ Button 1
+ Button 2
+ Button 3
+ Button 3
+ Unminimize
+ Unmaximize
+ Move to Workspace Left
+ Move to Workspace Up
+ Maximize the window
+ Copy Link
+ Invalid argument
+ Decimal
+ Choose a file
+ Choose
+ File type:
+ Underline text
+ Set to default
+ Zoom...
+ Separator:
+ Separator:
+ default
+ default
+ Unable to open help file
+ Unable to open help file
+ Extra
+ Extra
+ yes
+ no
+ Display Overview Map
+ Active plugins
+ If you don’t save, all your changes will be permanently lost.
+ Add or Remove…
+ Line Ending:
+ Line Ending:
+ Open Files
+ Preparing…
+ Preparing…
+ Match Case
+ Move Left
+ Move to New Window
+ Automatic Indentation
+ Save All
+ Save All
+ Chosen Encodings
+ Highlight matching brackets
+ Insert spaces instead of tabs
+ Insert spaces instead of tabs
+ Create a backup copy of files before saving
+ Create a backup copy of files before saving
+ Autosave files every
+ Save the document
+ Save the document
+ Close the document
+ Find the next match
+ Redo previous command
+ Increment number at cursor
+ Decrement number at cursor
+ Check spelling
+ Create a new document
+ Save the current file
+ Save the current file
+ Words
+ Build
+ Whether to use the system font
+ Whether to use the system font
+ Current line
+ Untitled Folder
+ Open in Terminal
+ Open in Terminal
+ If true, the terminal will use the desktop-global standard font if it’s monospace (and the most similar font it can come up with otherwise).
+ Reverse order
+ Reverse order
+ Check Spelling…
+ Custom Format
+ Inserts current date and time at the cursor position.
+ Inserts current date and time at the cursor position.
+ Original Artist
+ Rock
+ Browser
+ Transliterate
+ Single channel
+ Add a new entry
+ Format…
+ Format…
+ No VPN secrets!
+ Battery
+ Battery
+ Hits
+ Disk
+ Disk
+ GNOME Shell
+ Stop Recording
+ snow
+ mph
+ Larger Text
+ Text Files
+ Text Files
+ Export failed
+ Export failed
+ Connectivity
+ Dimensions:
+ Authentication failed
+ Connecting…
+ Connecting…
+ Timed out when logging in
+ Log In Anyway
+ Cancel Login
+ Can’t send host identity confirmation
+ Hostname not known
+ Hostname not known
+ No route to host
+ Host key verification failed
+ About this application
+ Enable shortcuts
+ Play/Pause
+ Play/Pause
+ Unable to play the file
+ Unable to play the file
+ Unknown Artist
+ Best Fit
+ Best Fit
+ Link:
+ to 
+ Copy Link Location
+ Copy Link Location
+ When to group windows
+ Show windows from all workspaces
+ Window Grouping
+ Window Grouping
+ Group windows when space is limited
+ Group windows when space is limited
+ Calculator
+ Calculator
+ to
+ Area
+ Radians
+ Radians
+ Period:
+ Show release version
+ Others
+ Others
+ Programming
+ Locale
+ Caption:
+ Current value
+ Level
+ Level
+ Level
+ Level
+ Scope
+ Scope
+ Dirty
+ Dirty
+ Graph
+ Show Labels
+ Show Labels
+ at
+ Padding:
+ Plot
+ Manual
+ Manual
+ Series
+ Case Sensitive
+ Case Sensitive
+ Case Sensitive
+ black
+ brown gold
+ navy
+ dark blue
+ very dark gray
+ dark red
+ dark red
+ red-orange
+ gold
+ dark green
+ dark green
+ dull blue
+ dull blue
+ blue
+ blue
+ dark gray
+ red
+ lime
+ lime
+ dull green
+ purple
+ purple
+ magenta
+ yellow
+ cyan
+ cyan
+ light orange
+ light yellow
+ light yellow
+ light green
+ light green
+ light cyan
+ light cyan
+ light cyan
+ light blue
+ white
+ Select an Image
+ Faces
+ Roman
+ Superscript
+ Superscript
+ Pick a Font
+ Pick a Font
+ Percentage
+ Percentage
+ Fraction
+ North America
+ Cauchy
+ Cauchy
+ down
+ up
+ Default font
+ Default font
+ Distribution:
+ Limits
+ Order:
+ Christian Hergert, et al.
+ Use the light or dark variant of the GTK theme and/or GtkSourceView style scheme.
+ Use the light or dark variant of the GTK theme and/or GtkSourceView style scheme.
+ Keybindings
+ Keybindings
+ Ln
+ Discard All
+ Discard All
+ Document Properties
+ Unselect all
+ Unselect all
+ Unselect all
+ Use the system fixed width font
+ E
+ E
+ S
+ S
+ S
+ Strategies
+ Set Rating
+ Zoom 200%
+ Zoom 200%
+ Rotate Right
+ Rotate Right
+ Rotate Left
+ Rotate Left
+ Rotate Left
+ Importing
+ Default:
+ Transition effect:
+ Don’t show this message again
+ Don’t show this message again
+ Original dimensions:
+ Add Tags
+ Add Tags
+ More…
+ No language selected
+ Send PPP echo packets
+ Table of Contents
+ path
+ path
+ Synchronization
+ Use custom font
+ Use custom font
+ Matches
+ Is this the first run
+ Setting to decide whether to show first-run hint dialog or not.
+ During a game
+ During a game
+ Turn off the sound
+ Turn off the sound
+ Turn on the sound
+ Resume
+ Play Again
+ Play Again
+ Play Again
+ Zoom image
+ Finish
+ Finish
+ 15 m
+ Flicker
+ Synchronize
+ Synchronize
+ select
+ select
+ Show:
+ Show:
+ Show:
+ Send by email
+ Place
+ Select destination
+ Backup
+ Backup
+ auto
+ auto
+ Work
+ Work
+ Sounds
+ unselected
+ unselected
+ selected
+ selected
+ Any
+ Competition
+ Competition
+ Inspector
+ Select file to import
+ Distances
+ Distances
+ Cycling
+ Runner
+ Runner
+ Mail
+ Reply to sender
+ Reply to sender
+ Job
+ Home Fax
+ Home Fax
+ Attach a file
+ on
+ second
+ attachment
+ Change…
+ No Information
+ Common Name
+ Complete
+ To Do
+ To Do
+ Save the current file with a different name
+ Save the current file with a different name
+ Bcc:
+ Angry
+ Cool
+ Undo the last action
+ Undo the last action
+ Remove image
+ Shaded
+ Custom:
+ Custom:
+ Could not open the link.
+ Remember this password
+ Remember this password
+ Display Name
+ Open Link in Browser
+ Open Link in Browser
+ Complete.
+ Receiving
+ Sending
+ Attached
+ Attached
+ Junk
+ Quote
+ Quote
+ Folder names cannot contain “/”
+ does not end with
+ is less than or equal to
+ is less than or equal to
+ Set Label
+ Set Label
+ Start up
+ Use the same fonts as other applications
+ Pick a color
+ Reply to All
+ Reply to All
+ Use Default
+ %a %l:%M %p
+ %a %l:%M %p
+ Downloading
+ Downloading
+ Time format:
+ Time format:
+ Keep reminder notification window always on top
+ Display reminders for completed tasks
+ Display reminders for completed tasks
+ Display reminders for past events
+ Requires password to continue.
+ New Folder…
+ Plain text
+ Plain text
+ DOS Batch
+ Keywords
+ Keywords
+ External Editor
+ Service type:
+ Exit the program
+ Toolbar Style
+ Toolbar Style
+ Passwords do not match
+ Marginally trusted
+ File Sharing
+ Network timeout
+ Enable edge tiling when dropping windows on screen edges
+ Enable edge tiling when dropping windows on screen edges
+ Lock Screen
+ Suspend
+ Headset
+ Display Settings
+ Display Settings
+ T
+ DSL authentication
+ DSL authentication
+ PIN code required
+ PIN code is needed for the mobile broadband device
+ Authentication Required
+ Sorry, that didn’t work. Please try again.
+ Slow Keys Turned On
+ Slow Keys Turned Off
+ Slow Keys Turned Off
+ You just held down the Shift key for 8 seconds. This is the shortcut for the Slow Keys feature, which affects the way your keyboard works.
+ You just held down the Shift key for 8 seconds. This is the shortcut for the Slow Keys feature, which affects the way your keyboard works.
+ Sticky Keys Turned On
+ Sticky Keys Turned On
+ Sticky Keys Turned Off
+ You just pressed the Shift key 5 times in a row. This is the shortcut for the Sticky Keys feature, which affects the way your keyboard works.
+ Type to search
+ Application defined
+ Show Pointer
+ Sticky Keys
+ Sticky Keys
+ Airplane Mode is On
+ Turn Off Airplane Mode
+ Connection failed
+ Connection failed
+ Airplane Mode On
+ Revert Settings
+ Revert Settings
+ Move Titlebar Onscreen
+ Authentication dialog was dismissed by the user
+ Show passwords
+ Show passwords
+ file
+ FD
+ Note:
+ search
+ Search Shortcuts
+ Search Shortcuts
+ Video Files
+ Select A Folder
+ Human-readable name of the profile
+ Human-readable name of the profile
+ Whether to scroll to the bottom when there’s new output
+ Whether to scroll to the bottom when there’s new output
+ If true, whenever there’s new output the terminal will scroll to the bottom.
+ Select a File…
+ Mark as favorite
+ TTY
+ Gender
+ Gender
+ Explore
+ Features:
+ Use GNOME night light setting to activate night-mode.
+ Use GNOME night light setting to activate night-mode.
+ Panels
+ All Upper Case
+ Clean
+ Open Containing Folder
+ Open Containing Folder
+ Boxes
+ A folder with that name already exists.
+ A file with that name already exists.
+ Scroll on output
+ Search options
+ Modified:
+ Fit Width
+ Fit Width
+ Grid view
+ Exit fullscreen
+ Move to workspace above
+ Move to workspace above
+ Built-in display
+ Unknown Display
+ A flag to follow system night light
+ A flag to follow system night light
+ The width of the main window in pixels.
+ The width of the main window in pixels.
+ The height of the main window in pixels.
+ The height of the main window in pixels.
+ boolean
+ double
+ Failed to parse command-line arguments.
+ Start New Game
+ Start New Game
+ Play with keyboard
+ Move keyboard highlight
+ Select the given row
+ Universal Access
+ Develop
+ Installing
+ Finance
+ Finance
+ Chat
+ Whether an unlimited number of lines should be kept in scrollback
+ If true, pressing a key jumps the scrollbar to the bottom.
+ If true, pressing a key jumps the scrollbar to the bottom.
+ Whether to blink the cursor
+ Disconnected
+ Disconnected
+ Paired
+ Paired
+ Mouse & Touchpad Settings
+ Choose a folder
+ Set the image as desktop background
+ Maker Note
+ Maker Note
+ Complete!
+ Play / Pause
+ Editing Duration
+ Current Locale
+ Current Locale
+ Collisions:
+ Collisions:
+ Could not save the file
+ Could not save the file
+ Directions
+ Wi-Fi
+ Reset to Defaults
+ Left Super
+ Left Super
+ Right Super
+ Prepared
+ Prepared
+ Science
+ Science
+ Escape
+ Invalid byte sequence in conversion input
+ feed
+ meter
+ meter
+ switch
+ switch
+ Spreadsheet
+ Accessed
+ Windows system
+ Open your personal folder
+ Open the contents of your desktop in a folder
+ Open the contents of your desktop in a folder
+ File Transfer Protocol
+ File Transfer Protocol
+ Network File System
+ Samba
+ SSH File Transfer Protocol
+ Unable to get remote server location
+ Above-base Forms
+ Above-base Mark Positioning
+ Above-base Substitutions
+ Below-base Forms
+ Terminal Forms
+ Post-base Forms
+ Post-base Substitutions
+ Stretching Glyph Decomposition
+ Reverse portrait
+ Reverse landscape
+ Printer Default
+ Convert to PS level 1
+ Convert to PS level 2
+ Help contents
+ High Scores
+ device
+ device
+ Remote Login
+ The signing certificate authority is not known.
+ The certificate’s algorithm is considered insecure.
+ The certificate’s algorithm is considered insecure.
+ Timer
+ Timer
+ Device Details
+ bytes
+ MiB
+ Previous track
+ Redo the undone action
+ Cut the selection
+ Cut the selection
+ Copy the selection
+ Copy the selection
+ Paste the clipboard
+ Paste the clipboard
+ Are you sure you wish to quit?
+ Solver
+ Solver...
+ Solver...
+ Various
+ Various
+ Compression level:
+ Could not launch the application
+ Metering Mode
+ Metering Mode
+ Creator
+ Creator
+ Link Here
+ Files with “.” at the beginning of their name are hidden.
+ Merge All
+ Empty all items from Trash?
+ Empty all items from Trash?
+ Anything
+ Folder names cannot contain “/”.
+ Folders with “.” at the beginning of their name are hidden.
+ read
+ read
+ List files only
+ Read-only
+ Original File Name
+ Unstar
+ Unstar
+ Lookup
+ Broadcast
+ Netmask
+ Netmask
+ Snooze
+ Time is up!
+ Current location
+ Shutter Speed
+ Shutter Speed
+ WEP 128-bit Passphrase
+ WPA & WPA2 Personal
+ missing EAP-FAST PAC file
+ Choose a PAC file
+ missing EAP-LEAP username
+ missing EAP-LEAP password
+ missing EAP-LEAP password
+ No CA certificate is required
+ undefined error in 802.1X security (wpa-eap)
+ missing leap-username
+ missing leap-password
+ invalid wep-key: passphrase must be non-empty
+ invalid wep-key: passphrase must be non-empty
+ invalid wep-key: passphrase must be shorter than 64 characters
+ Show key
+ Autohide
+ Move left
+ Move right
+ Move right
+ Search for
+ Comma separated values (CSV)
+ Copy down
+ Copy down
+ Print the current file
+ Report a Problem
+ Insert an image
+ Insert an image
+ never
+ never
+ Best Times
+ Report Issue
+ Report Issue
+ Beep when a key is accepted
+ FTP proxy port
+ Wrap mode
+ Wrap mode
+ Do nothing
+ Do nothing
+ Initial screen for the application
+ Initial screen for the application
+ Radish
+ Manage your network connections
+ Print version and exit
+ Benchmark
+ The certificate’s activation time is still in the future.
+ The certificate’s activation time is still in the future.
+ Mix uppercase and lowercase and try to use a number or two.
+ Mix uppercase and lowercase and try to use a number or two.
+ If you don’t save, changes will be permanently lost.
+ Front
+ Front
+ Removable Media
+ Number of concurrent connections to use
+ Copy selection to clipboard
+ Copy selection to clipboard
+ Use this connection only for resources on its network
+ Shared to other computers
+ Link-Local Only
+ Link-Local Only
+ Enhanced Open
+ Enhanced Open
+ Failed to log into domain
+ Failed to log into domain
+ Enterprise Login
+ Sorry, that user name isn’t available. Please try another.
+ The new password needs to be different from the old one.
+ The new password needs to be different from the old one.
+ Adding more letters, numbers and punctuation will make the password stronger.
+ Adding more letters, numbers and punctuation will make the password stronger.
+ Automatic Problem Reporting
+ Operation Cancelled
+ Operation Cancelled
+ salmon
+ Alerts
+ Warnings
+ Master
+ Security:
+ Use
+ Usage
+ New window
+ Accelerators
+ Keyboard Shortcuts
+ Key binding
+ Help
+ Auxiliary
+ help
+ Priority
+ Parameter
+ Part
+ part
+ Substring
+ Go back
+ Previous
+ UID
+ Group ID
+ GID
+ Thread Name
+ Process Name
+ Generic
+ Common
+ General
+ Open a New Window
+ Close window
+ Close Window
+ Close the window
+ Show Help
+ Show help
+ Display help
+ Keyboard shortcuts
+ Application
+ application
+ search
+ Search
+ Log Viewer
+ Others
+ Other
+ %B %-d %Y
+ %e %B %Y
+ %H:%M
+ Save logs
+ Save
+ log messages
+ Single click
+ Natural scrolling
+ Start Time
+ The start time
+ Startup time
+ Start time
+ Log Out
+ Sign Out
+ Take a screenshot
+ Take a Screenshot
+ Increase text size
+ Decrease font size
+ Name
+ command
+ Command
+ Antialias
+ Antialiasing
+ color
+ Options
+ Configure
+ Airplane mode enabled
+ Power
+ Energy
+ Automatic logout
+ Please Wait…
+ Please wait…
+ Toner empty
+ Cover open
+ Open cover
+ Open door
+ Marker supply low
+ Low on a marker supply
+ Low on paper
+ unknown error
+ Unknown Error
+ Amount:
+ Value:
+ select
+ Browse
+ Choose
+ Number:
+ Border radius:
+ Border Radius:
+ Feather Radius:
+ Preview
+ Edit Layer Mask
+ Debugging Options
+ Find:
+ Search:
+ Skip
+ Merge
+ Collate
+ No matches
+ format:
+ Format:
+ Opening
+ Open
+ Asynchronous
+ File exists already
+ formats
+ Settings :
+ Continue
+ File name:
+ Filename:
+ Information
+ information
+ BackSpace
+ Trash /\nDelete
+ Erase
+ Blank
+ Remove
+ Add New
+ Add
+ Read-only
+ Read-Only
+ discard changes
+ Discard changes
+ Channel Name
+ Crush
+ Dissolve
+ Divide
+ Splitting
+ Superpose
+ Overlap
+ Overlay
+ Addition
+ Add
+ Color Erase
+ Delete Color
+ Hue
+ Tint
+ Reorder layer(s)
+ Merge Layers
+ Merge layers
+ Browser
+ Select
+ Unselect all
+ Select None
+ Selection none
+ Select All
+ Selection all
+ Toggle selection
+ Invert selection
+ Inverse selection
+ Selection invert
+ Apply Layer Mask
+ Apply layermask
+ Apply layer mask
+ Layer Name:
+ Layer Select
+ Layer Selection
+ Case sensitive
+ Group name:
+ Groupname:
+ Move
+ Displace
+ Repository
+ Select Source
+ Advanced options
+ Advanced Settings
+ Other Options
+ Darken Only
+ Lighten only
+ Lighten Only
+ bowtie
+ Looped
+ None
+ Anchor:
+ Middle
+ Center
+ New Layer
+ Keep Aspect Ratio
+ Preserve aspect ratio
+ match aspect ratio
+ Constrain aspect ratio
+ X coordinate
+ Y Coordinate
+ Duration:
+ Cursor
+ Output file:
+ Font Size:
+ Copying
+ Copy
+ Insert After
+ Paste After
+ Volume
+ Activate
+ Enable
+ Original Audio
+ Previews
+ Playback
+ Play
+ Pause
+ Reverse
+ Unset
+ Revert
+ Coalesce
+ Offset
+ Amount
+ Center Horizontal
+ Center Vertical
+ Vertically Center
+ Updating
+ Reload
+ Update
+ width
+ Elevation
+ height
+ Comment:
+ comment:
+ normal
+ Row:
+ Line:
+ of:
+ automatic
+ auto
+ Aspect:
+ Aspect ratio:
+ Aspect Ratio:
+ Increment:
+ Step value:
+ Flip horizontally
+ Flip Horizontally
+ Flip horizontal
+ Flipping Vertically
+ Flip Vertical
+ Flip vertically
+ Output
+ output
+ Percentage:
+ Processing
+ Status
+ Adjust Colors
+ Color Balance
+ Color-Balance
+ Shadows
+ red
+ Cyan
+ cyan
+ magenta
+ Magenta
+ Hue:
+ Lightness:
+ Levels
+ Shades:
+ Lightness
+ Average
+ Fill with BG Color
+ Fill with Background Color
+ Layer
+ File Name
+ filename
+ File name
+ file name
+ Frames
+ Monitor
+ original of
+ original
+ Original
+ Choose File
+ Normalization
+ Normalize
+ Title:
+ Caption:
+ Jigsaw
+ Dots
+ Normal dots
+ Scores
+ Keyboard Shortcuts
+ Shortcuts
+ Keybindings
+ Keyboard shortcuts
+ About
+ Finish
+ Exit
+ Termination
+ Print release version and exit
+ violet
+ Success
+ Video
+ Close
+ Close Tab
+ device
+ Device
+ Camera
+ Webcam
+ image of
+ Picture
+ Image
+ Capturing
+ capture
+ Recorder
+ Full screen
+ Fullscreen
+ Save As…
+ Send to Trash
+ Move message to Trash
+ Overview
+ Skip all
+ Search…
+ Find…
+ Search...
+ Start
+ Run
+ Launch
+ Startup
+ History
+ Help contents
+ Content
+ Contents
+ Modify
+ Edit
+ View
+ columns
+ Columns
+ Cols
+ Columns' names
+ Column names
+ Search term
+ Program Version
+ The height of the Main Window.
+ The height of the main window.
+ Window Maximized
+ The width of the window
+ Window width
+ The width of the Main Window.
+ Display
+ Driver
+ Song
+ Song titles
+ Track Title
+ songs
+ Songs
+ Year
+ Maker
+ Recently Played
+ comment
+ Comment
+ Muted
+ Mute
+ Last Used
+ Recent
+ Last used
+ Emoticons
+ Icons
+ Symbols
+ Images
+ Pictures
+ Math
+ Open Menu
+ char
+ Load...
+ Unfiled
+ Unassigned
+ Charmap
+ Character Table
+ Character table
+ Offset
+ Location
+ Position
+ Role
+ size
+ Zoom
+ Size
+ Min Height
+ Text Direction
+ Effect
+ X Alignment
+ X Align
+ Y Alignment
+ Y Align
+ Y align
+ Background Color
+ background color
+ enabled
+ Horizontal alignment
+ Vertical justification
+ Spread
+ Expand
+ Adjustment
+ justification
+ Direction
+ Alignment
+ Orientation
+ Image Orientation
+ Uniform
+ Scaling Factor
+ Scale Factor
+ Handle Box
+ Row spacing
+ Line Spacing
+ Row Spacing
+ ID
+ About translation
+ Font name
+ Fog
+ Mist
+ mist
+ Text
+ Buffer
+ Font Color
+ Variable
+ Cursor size
+ Attribute
+ Attributes
+ Wrap Text
+ Word wrap
+ Straightening
+ Straighten
+ Number of iterations
+ object
+ Start Angle
+ middle dot
+ URI
+ Border Color
+ Line color
+ Pixel format
+ Pixel Format
+ Skin
+ window
+ Windows
+ Import
+ Extract
+ Importing
+ Build Image
+ Create Image
+ Unknown song
+ Unknown Track
+ Unknown Title
+ all files
+ All files
+ Validating
+ Verifying
+ Review
+ Probe
+ Validate
+ Will be deleted
+ Invalid URL
+ Invalid URI
+ Invalid command
+ Show the diff window
+ Show changes
+ Select an Image
+ Centered
+ centered
+ Center Alignment
+ Tiled
+ Tile
+ Print
+ Printing
+ Align right
+ Centering
+ Align left
+ Underline
+ Italics
+ PAGES
+ project
+ Tools
+ Instruments
+ Plug-ins
+ Delete…
+ Erase…
+ Blank…
+ Menu
+ menu
+ Split
+ Performer
+ Artist
+ Duration
+ Strength
+ Length
+ Time
+ Search Directory
+ Rename…
+ New Folder
+ New folder
+ Do not Recover
+ Displace
+ Replace
+ Import session
+ Import Session
+ File Renaming
+ Description
+ Place
+ Space
+ Movies
+ Videos
+ Redo
+ Unminimize
+ Recover
+ Show Side Panel
+ display sidebar
+ Show Side Bar
+ Sidebar is visible
+ View sidebar
+ Show the side bar
+ Plug-in
+ Remove
+ Delete
+ Close without Saving
+ Open…
+ Insert
+ no file
+ Slice
+ Section
+ parts
+ Start-up
+ Start up
+ Starting
+ end
+ hours
+ minutes
+ Go back
+ Screenshot captured
+ Connection type
+ Connection Type
+ Join
+ User Name
+ password
+ Password
+ Sign In
+ Enroll
+ Login
+ Log in
+ Url
+ URI
+ Application menu
+ AppMenu
+ Go Back
+ Display
+ Play
+ Scale
+ High Quality
+ High quality
+ Fit to window
+ Estimating...
+ Framerate
+ Frame rate
+ Sample Rate
+ Sample rate
+ Channel children
+ alpha:
+ Alpha:
+ Pick a color
+ Select color
+ Select a color
+ G
+ W
+ B
+ tilt
+ Tilt
+ Reset All
+ Project Settings
+ Manual
+ Pixel
+ audio
+ Sound
+ Compose
+ Folders:
+ Folder:
+ Open Folder
+ Open directory
+ Choose a font
+ Pick a background color
+ Horizontal:
+ Undo the most recent action
+ Undo the last operation
+ Show the shortcuts window
+ Transform
+ Transformation
+ Ultimate
+ Ultimately
+ Upper
+ Bottom
+ Lower
+ Undo
+ Quit without saving
+ Exit Without Save
+ Close without saving
+ Export As...
+ Detect automatically
+ Untitled
+ unnamed
+ Time
+ time
+ Dark Theme
+ More Information
+ more info
+ Further Information
+ Symbol
+ Open containing folder
+ Open Containing Folder
+ Not supported
+ Unsupported
+ Quick
+ Fast
+ Feathering
+ Smooth
+ Go forward one second
+ Leave fullscreen mode
+ Delete Layer
+ Add Layer
+ Magnify
+ Grow
+ Shrink
+ Former Maintainers:
+ Extensions
+ Reset the shortcut to the default accelerator
+ Magnification
+ Zoom
+ Console
+ console
+ Font
+ Music Player
+ Music Players
+ Music player
+ Side Panel
+ Sidebar
+ Side Pane
+ MB
+ Select All
+ Select all items
+ Unselect All
+ Unselect all
+ Artists and Albums
+ Artists and albums
+ Location
+ rating
+ Preferred format
+ Synchronization
+ Balance
+ Edit...
+ Shuffle playlist
+ Shuffle Playlist
+ Repository:
+ Detail
+ Details
+ of
+ Sort
+ Error message
+ File Size:
+ Today %l∶%M %p
+ Today %H∶%M
+ Today %I:%M %p
+ Yesterday %l∶%M %p
+ Yesterday %I:%M %p
+ %-d %B %Y
+ %d %B %Y
+ Serial Number:
+ Serial:
+ Vendor:
+ Producer:
+ Disc:
+ CD:
+ Refresh
+ Reload
+ State:
+ Recommendations
+ Editor’s Picks
+ Love
+ Ban
+ Lock
+ Download
+ Sharing
+ Spread
+ Connecting...
+ Advanced
+ Miscellaneous
+ Instant Messenger Status
+ IM Status
+ Initiate
+ Search engines
+ Search Engines
+ Username:
+ User Name:
+ mistake
+ Mistakes
+ MPRIS D-Bus interface
+ MPRIS D-Bus Interface
+ Previous
+ Prev
+ Stop
+ Power Manager
+ Interactive Python console
+ Access key:
+ Key:
+ Date
+ Keep Waiting
+ Contributions:
+ Couldn't display help
+ Replace All
+ Installing
+ Shared
+ Don't sync
+ Do Not Synchronize
+ Queue
+ off
+ Other
+ No
+ yes
+ Yes
+ Last seen
+ Beats per minute
+ equals
+ starts with
+ begins with
+ ago
+ Days
+ Find:
+ Search:
+ Forward
+ Next
+ Go forward
+ Zoom multiplier
+ Country Code
+ Country code
+ Country
+ State
+ To top
+ Move up
+ Move down
+ Down
+ Add...
+ Add…
+ Misc
+ Various
+ Miscellaneous
+ Go to previous page
+ Show the previous page
+ Show the next page
+ Go to next page
+ Home
+ Homepage
+ accelerator label
+ Accelerator Label
+ Alert
+ alert
+ Timer
+ Animation
+ Arrow
+ Calendars
+ Color Picker
+ Color picker
+ combo box
+ Combo Box
+ Date Editor
+ dial
+ dialog
+ filler
+ Filler
+ frame
+ Glass Pane
+ glass pane
+ caption
+ List
+ menu bar
+ Menu Bar
+ Page Tab
+ panel
+ Panel
+ Push Button
+ radio button
+ Scrollbar
+ Separator
+ slider
+ spin button
+ Status Bar
+ statusbar
+ Statusbar
+ table
+ Table Cell
+ table cell
+ Terminal
+ Tool Bar
+ tool bar
+ Tool Tip
+ Tree
+ viewport
+ Field of view
+ Header
+ footer
+ paragraph
+ Paragraph
+ ruler
+ Ruler
+ Auto Completion
+ Editbar
+ edit bar
+ Graph
+ chart
+ document frame
+ Headline
+ Heading
+ Page
+ Redundant Object
+ Form
+ link
+ Presentation
+ Document Text
+ document web
+ Email
+ E-Mail
+ E-mail
+ Document Email
+ Aggregation
+ grouping
+ Image Map
+ Notification
+ notification
+ level bar
+ Title Bar
+ title bar
+ Articles
+ Article
+ landmark
+ Log
+ log
+ description list
+ Description List
+ Description Value
+ high
+ up
+ Keep Playing
+ Unpause the game
+ Number of rows
+ Number of columns
+ Number of Columns
+ Animation speed
+ Animations speed
+ Custom
+ Could not export data
+ Couldn’t export data
+ Fully
+ Full
+ Lookup
+ Search
+ Navigation
+ navigation
+ Width of window
+ Height of the window
+ Height of window
+ Servers
+ Email address
+ Operation was cancelled
+ Change
+ PGP keys
+ PGP Keys
+ PGP key
+ New PGP Key
+ Encryption Type:
+ Encryption Type
+ Unsafe
+ Signing
+ Sign
+ Sync
+ Synchronization
+ Equalize
+ Full
+ Fully
+ Authorize
+ Authenticate
+ Importing data
+ Not Available
+ not available
+ Private key
+ Private Key
+ All key files
+ Keyfiles
+ Show All
+ See all
+ Show any
+ Filters
+ Export...
+ Unknown type
+ unknown type
+ Algorithm
+ Public key
+ Server address:
+ Set Up
+ Show as list
+ Whether the status bar should be visible.
+ Extract to…
+ Save Options
+ Save Settings
+ New Folder
+ DIRECTORY
+ FOLDER
+ Directories
+ Folder
+ Create archive
+ Location:
+ Could not rename the file
+ Paste Selection
+ Paste selection
+ Show all files
+ Cancel the operation
+ Stop the operation
+ Open with...
+ Open With…
+ Compression ratio:
+ Window size
+ Favorite
+ Folder name
+ Folder Name
+ Directory Name
+ Next photo
+ Best fit
+ Zoom to fit
+ Best Fit
+ Select Items
+ Add to Favourites
+ Add to favorites
+ Add to Favorites
+ Print...
+ Set As Wallpaper
+ Set as Background
+ Scaling:
+ Millimeters
+ millimeters
+ inch
+ inches
+ in.
+ Date Modified
+ Creation Date
+ Date Created
+ dimensions
+ Focal Length
+ F Number
+ Focal length
+ ISO Speed Rating
+ ISO Speed
+ Add to Album
+ Add to Photoset
+ Feeds
+ Sources
+ Import…
+ Importing…
+ Importing...
+ Import...
+ Free
+ Custom
+ Crop
+ Hangup
+ Quit
+ Leave
+ Notifications
+ Email Address:
+ Mailing address:
+ Tag
+ day
+ hour
+ minute
+ Second
+ Choose Date
+ Normal Size
+ Search backwards
+ Reverse search
+ Find previous
+ Previous
+ Go
+ Font family
+ Font size
+ Match whole words only
+ Copy to clipboard
+ Copy to the clipboard.
+ Add-in
+ Paste from the clipboard
+ Paper size
+ Paper Size
+ Edges
+ Margins
+ Grid lines
+ Grid Lines
+ union
+ Don't quit
+ None
+ Line width
+ Line Width:
+ Plugins…
+ Show Tool Bar
+ display toolbar
+ Display statusbar
+ Copy selection to clipboard
+ Replicate Selection
+ Duplicate selection
+ Search for text
+ Find and replace text
+ Cut Line
+ Copy Text
+ Paste text from clipboard
+ Insert an image
+ Add Image
+ Insert image
+ Insert Image
+ none
+ Turn
+ Reverse
+ Invert
+ Composition
+ Editing Text
+ ScrollLock
+ Roll
+ Scroll Lock
+ Rectangle
+ Block
+ Contour
+ Outline
+ Show Rulers
+ Show rulers
+ Inversion
+ Charged
+ Background Color:
+ Background color:
+ Magnify:
+ Snapping
+ Loading...
+ Loading…
+ Slide
+ Cross
+ Crossing
+ round
+ size: 
+ Dash dot
+ Dash dot dot
+ Warning
+ alert
+ Don’t show this message again
+ Don't show this message again
+ always
+ Always
+ Slant
+ Bevel
+ Line Style
+ Fill Color
+ Fill color
+ Start Arrow
+ Font color
+ Font Color
+ Line join
+ Line Join
+ Patterns
+ Pattern
+ Bucket Fill
+ Drawing
+ Paint
+ Dates
+ aspect ratio
+ Primary
+ Primary key
+ Primary Key
+ Default
+ style
+ table name
+ Tag
+ Typing
+ Enter
+ Input
+ Inputs
+ Control
+ input
+ Return
+ Entry
+ Receiving
+ Receive
+ Discharge
+ Direct
+ Spin
+ Secure
+ Commit
+ Backup
+ Packing
+ Handler
+ Control
+ Controls
+ Raise
+ Detect
+ Recognize
+ Check
+ Checking
+ Select
+ Mark
+ Feet
+ Foot
+ Header
+ Head
+ Finger
+ Fingers
+ Print Screen
+ Pipe
+ Conduction
+ Challenge
+ rows
+ Metering
+ square
+ star
+ Fix
+ Fixed
+ Media Type
+ Fixed aspect ratio
+ Angle
+ Endpoint
+ End point
+ Show Arrow
+ Methods
+ Strategies
+ Class name:
+ Style:
+ Style
+ Touch
+ Type
+ Kind
+ foreground color
+ Foreground Color
+ Foreground color
+ Single
+ Plain
+ Simple
+ Basic
+ Sending
+ Action
+ Not valid UTF-8
+ After:
+ To:
+ Diamond
+ down arrow
+ Up arrow
+ right arrow
+ left right arrow
+ Left-right arrow
+ Advanced
+ Speakers
+ Man
+ woman
+ Miss
+ Woman
+ Car
+ Cloud
+ cloud
+ Telephone
+ Phone
+ Telephony
+ Mobile Phone
+ sum
+ product
+ Doc
+ Data store
+ Send Notice
+ Maker Note
+ body
+ %a %I:%M %p
+ Write
+ Post
+ Save all attachments
+ Text Display
+ Western Europe
+ Character Encoding
+ Drafts
+ Encoding:
+ Character encoding:
+ Profile:
+ bytes
+ kB
+ To Do
+ Scoring
+ An error occurred!
+ An error has occurred!
+ Start Editor
+ Run Editor
+ Wrap around
+ Wrap
+ Wrap Text
+ Wrap the text
+ Spellchecker
+ Check spelling
+ Spellcheck
+ Spell Checking
+ Reply To
+ Reply to
+ Show only icons
+ Show only the icons
+ Custom command:
+ column name
+ mouse
+ Mouse
+ Smooth scrolling
+ Smooth scroll
+ Tabs
+ Panels
+ Panes
+ Show Notifications
+ Pane Layout
+ Layout
+ Headers
+ Page Header
+ Monospace font:
+ Fixed Width Font:
+ Text color:
+ Text Color:
+ Encoding
+ Character Encoding
+ Text Encoding
+ Upload
+ Text file
+ Stopped
+ Environment
+ Color space
+ Color model
+ Colorspace
+ Generated
+ Created
+ Make
+ White Point
+ White point
+ Next Image
+ Next figure
+ Copying Files
+ Supported images files
+ Supported image files
+ Setup Complete
+ Select Target
+ Color space:
+ Colorspace: 
+ Show Details
+ Input device
+ Display device
+ Display Device
+ Output Device
+ Output device
+ Gray
+ Calibration Device
+ Display Brightness
+ Screen brightness
+ No description provided
+ Black
+ White
+ Read/Write
+ Non-Linear
+ Strength
+ Chessboard
+ To
+ Until
+ Sample Points
+ Window title
+ Window Title
+ Dropshadow
+ Effect Strength
+ Solid Noise
+ Noise
+ Chroma
+ Color Saturation
+ Low output
+ Low Input
+ High input
+ High output
+ infinity
+ Kaleidoscope
+ Black on white
+ Repetition
+ Repeat
+ proportion
+ Low threshold
+ Threshold low
+ Threshold high
+ Spiciness
+ Stroke
+ X Offset
+ Offset Y
+ Y Offset
+ To Color
+ Preserve
+ Press
+ Whirl
+ History
+ Gradient
+ Edge behavior
+ Border behavior
+ Color Levels
+ Number of colors
+ Division
+ Maze
+ Red-eye
+ Shift
+ Movement
+ Background
+ To left
+ Navigate left
+ Edge Behavior
+ Convert format
+ Convert Format
+ Cast Format
+ frame-rate
+ Framerate
+ Black Point Compensation
+ Fill rule
+ pages
+ Pages
+ PPI
+ Icon title
+ Symbolic Icon Name
+ origin-x
+ Origin-x
+ X origin
+ Y origin
+ origin-y
+ Origin-y
+ Zoom Ratio
+ Scale ratio
+ Stride
+ Gradient
+ Week view
+ Window maximization state
+ Choose a file
+ Select a file
+ Open a File
+ Owner
+ user
+ Memos
+ Notes
+ Note
+ Every Day
+ Daily
+ Every day
+ Display version number
+ Show the application’s version
+ Show weather
+ New event
+ Month view
+ Show one month
+ internal error
+ File System
+ Filesystem
+ File system
+ Junior
+ What’s New
+ Pleasure
+ Drop targets:
+ Goals:
+ Enable Monitoring
+ Create Patch
+ Save Patch
+ Invalid Name
+ Show source markup
+ Show markup
+ Pick the editor font
+ Select Editor Font
+ Open Settings
+ Merge
+ Open File
+ Open file
+ Open a file
+ Context:
+ Contexts:
+ Padding
+ Processing…
+ Processing
+ Open a document
+ Open a Document
+ Choose a file
+ Select file
+ Local Network
+ Local network
+ Open Recent
+ Recently Opened
+ Failed to create the directory
+ New Find
+ Search again
+ Sign up
+ Could Not Open File
+ invalid
+ Number
+ number
+ Count
+ Counting
+ Zip/Postal Code
+ Postal code
+ Flags
+ button
+ switch
+ Passwords Do Not Match
+ ascending
+ Ascending
+ Entries
+ vertical bar
+ Vertical Line
+ Delete Table
+ Format
+ Formatting
+ Example
+ Error Saving
+ New Database
+ New database
+ Save Image
+ Host
+ Computer
+ Use host
+ Developer
+ Relations
+ Town:
+ City:
+ <b>Title</b>
+ Add image
+ Nothing
+ Clear
+ None
+ Decimal places:
+ Number Format
+ Numeric Formatting
+ Number format
+ Multiline
+ Multi-line
+ Font:
+ Font Name:
+ Foreground Color:
+ Page Preview
+ Print Preview
+ Print preview
+ Insert field
+ Align Top
+ Align top
+ Align Bottom
+ Align left
+ Align Left
+ Justify Left
+ Left Align
+ Right Align
+ Justify Right
+ Align Right
+ Clear Background
+ Remove background
+ The ellipse width
+ The ellipse height
+ Miter limit
+ Miter Limit
+ The height of the rectangle
+ row
+ Column
+ The preferred place to ellipsize the string, if the label does not have enough room to display the entire string
+ Text alignment
+ Widget
+ Window position (x and y).
+ Window position (X and Y).
+ Moderate
+ Open In New Window
+ Open a new window
+ Strike through
+ Strike
+ Strike out
+ New note
+ Custom location
+ Select a folder
+ Select Folder
+ Delete permanently
+ Permanently Delete
+ Whether to use the system font
+ Use system fonts
+ [FILE…]
+ Search for a city
+ Places
+ Temperature Unit
+ Select Location
+ Leave Fullscreen
+ You should have received a copy of the GNU General Public License along with this program. If not, see <http://www.gnu.org/licenses/>.
+ Clock
+ Sample clock
+ Stack
+ Show keyboard shortcuts
+ Show Keyboard Shortcuts
+ 8
+ 7
+ Q
+ K
+ Icon
+ Queen
+ queen
+ Four colors
+ Two Suits
+ Orange
+ Purple
+ purple
+ Update interval
+ Update Interval
+ Notification Messages
+ Undo
+ Journal
+ History
+ Input Devices
+ Input
+ Close Tab
+ Very large
+ Extra Large
+ Current Status
+ Current State
+ Lock Tab
+ Lock Tab to Dock
+ Empty
+ Flip image horizontally
+ Mirror the image horizontally
+ Flip drawable horizontally
+ Flip the image vertically
+ Flip image vertically
+ Close all
+ Saving…
+ Save…
+ Distortion
+ Repeat Last
+ New…
+ New...
+ Delete Image
+ Remove image
+ New map
+ Edit Template
+ Left-to-right
+ Right to left
+ Right-to-Left
+ RTL
+ Edit path
+ Show grid
+ Show Grid
+ Show Menubar
+ Show menubar
+ Zoom 1∶1
+ Custom color...
+ Custom Color...
+ Scroll left
+ Scroll right
+ Revert Zoom
+ Reset zoom
+ Black and White
+ Utility window
+ High
+ Up
+ Ask
+ Edge
+ Resize Images
+ Resize Image
+ Move item
+ Image size
+ Startup
+ Clipboard
+ Image type
+ Image Type
+ Fill type
+ Dot
+ Padding:
+ Fill:
+ Debuggers
+ Diagnostics
+ Debugging
+ speed
+ Speed
+ Velocity
+ Policies
+ User Interface
+ Audio
+ Speech
+ Language
+ Calibrate…
+ Space Bar
+ Space
+ Cursor
+ Mouse Pointers
+ Edit Mode
+ Multiplication
+ Standard
+ Default
+ Outdated
+ Deprecated
+ parse error
+ Processing error
+ Convolve
+ Link
+ Dilate
+ Other Options
+ M
+ Reset Color
+ Pick color from the image
+ Pick a color from the image
+ Spacing:
+ Distance:
+ Show Gridlines
+ Show grid lines
+ Alignment:
+ Keep the original aspect ratio
+ Readjust
+ Ln
+ Z
+ Periodically
+ Periodic
+ Graphic
+ Hotkey combination
+ Shortcut Key
+ Keyboard Shortcut
+ Key Binding
+ Accelerator
+ Clear event
+ Delete Event
+ Keyboard
+ keyboard
+ Waiting in queue
+ Queued
+ Swap
+ CPU usage
+ CPU Usage
+ Memory usage
+ Extra
+ Select Fields
+ Slider
+ slider
+ Icon:
+ File type
+ File type:
+ Undefined
+ Strikethrough
+ Strikeout
+ Change Background Color
+ Change Background
+ Set Foreground Color
+ Set foreground color
+ Set Background Color
+ Close Project
+ Create a new project
+ Send
+ Web Site
+ years
+ Months
+ months
+ Distribution
+ distribution
+ Educational
+ Scientific
+ Identifier:
+ Common
+ Shared
+ Accessibility
+ Custom Text
+ User Text
+ Clean
+ Swap
+ stretch
+ Absolute size
+ Select a font
+ Toggle
+ combo box
+ Combo
+ Spin Button
+ Spin
+ checkbox
+ Check Button
+ Checkbox
+ radio
+ menu item
+ Menu Item
+ Button
+ Column Header
+ File chooser
+ File selection
+ list item
+ Scroll Bar
+ Tree Table
+ Embedded
+ Cite
+ Block Quote
+ Marquee
+ marquee
+ Generic object
+ General Object
+ North West
+ Northwest
+ north
+ North
+ North East
+ West
+ East
+ southwest
+ South West
+ south
+ South East
+ Splash Screen
+ splash screen
+ Workspace
+ Top to bottom
+ Bottom to top
+ Icons only
+ Icons Only
+ Only text
+ Text Only
+ Text below icons
+ Demi
+ Outside
+ word
+ Free Form
+ Free Form Expression
+ Number
+ number
+ Word completion
+ Upper Case
+ Uppercase Chars
+ Search bar
+ Refuse
+ Accept
+ Answer
+ Select Directory
+ Select directories
+ Select folders
+ Select Folder
+ On
+ progress bar
+ Regular
+ Icon Size
+ Icon size
+ Page total
+ Edit Page
+ Fade
+ Slide Left
+ Slide Up
+ Scroll down
+ Slide Down
+ Horizontal Scale
+ Vertical Scale
+ Menu Button
+ menu button
+ Bottom Left
+ Top Right
+ Adjustment
+ Descending
+ descending
+ Grid view
+ Semi-Condensed
+ Semi-Expanded
+ Semi Expanded
+ File Filter
+ Other
+ Copyright
+ Contributors
+ Radio Buttons
+ Cell spacing:
+ Hint:
+ Note:
+ Aborted
+ Abortion
+ Canceling
+ Abort
+ Background image
+ Background Image
+ Boost
+ Busses
+ Change…
+ Denominators
+ Scale
+ Do not save
+ Do Not Save
+ Close without Saving
+ Discard Changes
+ Table of Contents
+ weight
+ Emphasis
+ Keyboard Layout
+ Generic Keys
+ Initializing
+ Is a directory
+ Move Left
+ Move left
+ Move to the right
+ Counter
+ Counters
+ TTL
+ meter
+ Update
+ Undo the effect of the last action
+ Waveform
+ Write project to disk
+ About...
+ Settings…
+ Controllers
+ control-47
+ First:
+ First Name:
+ Cc:
+ (No Subject)
+ (No subject)
+ Error in regular expression syntax
+ Regex Error
+ CC
+ Answered
+ Replied to
+ Name:
+ Full name:
+ Full Name:
+ Decline
+ Deny
+ The certificate has expired
+ Completed
+ Done
+ East European
+ occurrence
+ occurrences
+ Remember Password
+ Remember password
+ Safety:
+ SMTP server
+ SMTP Server
+ Address Book
+ All Done!
+ Done!
+ Filters:
+ Unread
+ Move to
+ Other…
+ More…
+ Wrapped
+ Copy to Folder…
+ Errors:
+ Open Link
+ Zoom to 100%
+ Select All
+ Tentatively accept
+ Nickname
+ Nick
+ First Name
+ Cc:
+ New Filter
+ Regular Expression
+ Regular expression
+ Filter name:
+ Filter Name:
+ Level
+ Matches
+ Directory name:
+ Folder name:
+ unlimited
+ no limits
+ Incoming
+ Input
+ In:
+ Play Sound
+ Play sound
+ More options
+ Miscellaneous
+ Main Window
+ Address Books
+ Address books
+ Deleting messages
+ Spelling
+ Attachments
+ Attachment
+ quoted
+ Quoted
+ Replies
+ Exchange
+ Expunge
+ Select Message Thread
+ Find Next
+ Find Again
+ Find next
+ Remove Duplicates
+ Remove duplicates
+ Check Spelling
+ Recipient
+ Recipients
+ Options
+ Foreign Folders
+ Listen for server notifications
+ Listen for server change notifications
+ No users found
+ Searching
+ Contacts
+ contacts
+ Recurse Into Subfolders
+ Password has expired
+ double click
+ Double click
+ Enable dwell click
+ Enable simulated secondary click
+ Enable simulated secondary clicks
+ Host name invalid
+ Invalid hostname
+ Monitor;System;Process;CPU;Memory;Network;History;Usage;Performance;Task;Manager;
+ No results found
+ No Results Found
+ Force quit
+ Force Quit
+ Wrap Search
+ This connection is not secure
+ This Connection is Not Secure
+ Copy E-mail Address
+ Open Hyperlink
+ View open tabs
+ View Open Tabs
+ Save image as
+ Save As Image
+ Reveal password
+ Show password
+ Select a directory
+ Keywords
+ Clear data
+ Online
+ Device name
+ Device Name
+ Color theme
+ Color Scheme
+ Color scheme
+ Downloads Directory
+ Downloads folder
+ Close current tab
+ Close the current tab
+ No extensions installed
+ No Extensions Installed
+ HTML File
+ Web Page
+ Add Feed
+ Don’t verify certificate identification
+ Don't quit when VPN connection terminates
+ Don’t quit when VPN connection terminates
+ Authorizing
+ Show password
+ Make Directory
+ DESTINATION
+ Monitor events
+ Invalid file name
+ host unreachable
+ Mo
+ T
+ Tu
+ Fr
+ S
+ Sun
+ S
+ Dedication
+ glossary
+ Easy
+ Master
+ Heavy
+ Difficult
+ Show keyboard shortcuts
+ Show Shortcuts
+ Show Keyboard Shortcuts
+ Continue playing
+ Unpause the game
+ Undo move
+ Start a new game
+ Undo your most recent move
+ Undo your last move
+ Level:
+ Game type
+ An error has occurred
+ Disable plugin
+ Browse…
+ Sphere Color
+ Sphere color
+ Window Picker
+ Window Selector
+ Always On Top
+ Move to workspace left
+ Move to Workspace Up
+ Move to workspace below
+ Move to Workspace Down
+ Minimize Window
+ Minimize the window
+ Minimize window
+ Unminimize the window
+ Restore Window
+ Unmaximize the window
+ Maximize window
+ Maximize the window
+ Maximize window horizontally
+ Maximize horizontally the window
+ Maximize vertically the window
+ Next tab
+ Next Tab
+ About this application
+ Open With
+ currency sign
+ Currency symbol
+ Define as default
+ Copy Image
+ Copy image
+ Dial
+ Choose
+ Italic text
+ set to default value
+ Comma Separated Value (CSV)
+ Close connection
+ Zoom...
+ Resize...
+ Character Encoding:
+ Encoding:
+ Comma
+ semicolon
+ Tab
+ space
+ white space
+ Other:
+ Distinguished Name:
+ Search scope:
+ Search Scope:
+ Clear history
+ Perform action
+ Connection
+ Connectivity
+ Authentication required
+ Authentication is required to change user data
+ New document
+ Automatic indentation
+ Automatically indent
+ Highlight current line
+ Highlight Current Line
+ Show Right Margin
+ Display right margin
+ Statusbar is visible
+ Status Bar is Visible
+ There was an error displaying help.
+ There was an error displaying the help.
+ Line Ending:
+ Discard Changes and Reload
+ Find and replace
+ Find & Replace
+ Find and Replace
+ Search & Replace
+ Wrap Around
+ Highlighter
+ Tab Stops
+ Line Numbers
+ Line numbers
+ Normal Size
+ Zoom In
+ Zoom the page out
+ Shrink the document
+ Zoom out
+ Close all documents
+ Find the next match
+ Find previous occurrence
+ Marker
+ Go to Line
+ Go to line
+ Toggle visibility of insertion caret
+ Delete the current line
+ Delete current line
+ bytes
+ Run a Command
+ All documents
+ All Documents
+ Create new document
+ Shortcut key:
+ Home directory
+ Home Folder
+ Home folder
+ File Browser
+ New File
+ New file
+ Error Text Color
+ sort
+ Reversed Order
+ Reverse Order
+ Use custom format
+ %d/%m/%Y %H:%M:%S
+ Disc
+ Copyright
+ Run Program
+ Run a program
+ Rename Folder
+ Stop Running Search
+ Music Directory
+ Parent folder
+ General
+ Miscellaneous
+ Results List
+ Result List
+ legend
+ Legend
+ Find Files
+ Find files
+ Error renaming directory
+ Front
+ Back
+ All uppercase
+ All lowercase
+ All Lower Case
+ No available memory
+ Move Up
+ Toggle primary menu
+ Show / Hide primary menu
+ boolean
+ Boolean
+ integer
+ Integer
+ Set
+ Define
+ Recent documents
+ Recent Documents
+ Save current file
+ Format...
+ Record Type
+ Output format:
+ Output Format:
+ Open location
+ Log Error
+ No VPN gateway specified.
+ Battery
+ Batteries
+ Volumes
+ Volume
+ Disk
+ Times
+ Timings
+ Command line
+ %H∶%M
+ %l∶%M %p
+ Width of the main window
+ Main window width
+ Main window height
+ Close current window
+ Close the current window
+ Close all windows
+ Close any window
+ Select a date
+ Select Date
+ %A, %e %B %Y
+ %A %B %e %Y
+ %A, %B %e, %Y
+ End day:
+ End date:
+ Color Depth:
+ Unable to spawn SSH program
+ Remote
+ Quit the program
+ Playback
+ AudioNext
+ Previous track
+ Previous song
+ Try a Different Search
+ Copy Link Location
+ Not enough free memory
+ Not enough memory
+ Remove bookmark
+ Theme name
+ Bahrain, Dinars
+ Brunei Dollar
+ Euro
+ Croatia, Kuna
+ Indonesian Rupiah
+ United States of America, Dollars
+ US Dollar
+ ratio
+ Mass
+ Kilometers
+ Meters
+ meter
+ centimeter
+ liters
+ Milliliters
+ kilograms
+ pounds
+ pound
+ ounces
+ Ounces
+ gram
+ Grams
+ Stone
+ stone
+ Milliseconds
+ bits
+ Insert Character Code
+ Content Type
+ Verbosity
+ key
+ Key
+ Old
+ Alt
+ Ctrl
+ Top Bar
+ Indicator:
+ Display:
+ Pristine
+ Unmodified
+ Current Color
+ Current color stop
+ figure
+ Mapping
+ Start
+ Low bound:
+ Lower Bound:
+ Serial Number
+ Serial number
+ Series number
+ Case sensitive
+ Deep blue
+ dark blue
+ dim gray
+ Lime
+ Select an Image
+ Select a picture
+ Select an image
+ Demi Bold
+ Semi-Bold
+ Small Capitals
+ Small Caps
+ Percentages
+ Custom...
+ Solid
+ Outline
+ Keep original case
+ Areas
+ Moving Average
+ Moving average
+ Tab Width
+ Show Overview Map
+ Show overview map
+ Automatically check spelling
+ Row Height
+ right margin
+ stats
+ Regular expressions
+ Match Words
+ Match whole words
+ Use system style
+ Unselect all
+ Unselect All
+ L
+ S
+ Any
+ Every
+ There was an error displaying help
+ Host
+ Computer Name
+ Host name
+ Hostname
+ Save a Copy
+ token
+ Token
+ display search bar
+ Display search bar
+ Save Password
+ remember password
+ Remember password
+ API Key
+ Rejected
+ Post
+ Publishing
+ Rotate Right
+ Adjust
+ Advanced Information
+ By Date Taken
+ By Exposure Date
+ Stop Import
+ Every
+ Unrecognized User
+ Unknown user
+ Home
+ Private
+ 24 Hr
+ 24 hour
+ Import is complete
+ Import from Folder
+ Import From Folder
+ Focal length:
+ Zoom:
+ Exposure time:
+ Expo. Time:
+ Sort Ascending
+ Sort Descending
+ Sort (Descending)
+ Edit comment
+ starred
+ Manage your saved searches
+ Add Word
+ Invalid or missing SSTP gateway.
+ Custom font
+ Memo List
+ Select An Icon…
+ Select Symbol…
+ Fixed width
+ Events
+ %A, %B %d %Y
+ Home Page
+ Home page
+ Homepage
+ Save Selected
+ → Increase indent
+ Not Implemented
+ Create a new memo
+ Note
+ Committing changes...
+ Storing changes…
+ No date
+ No Date
+ The window’s width in pixels
+ LEVEL
+ Show release version
+ New Session
+ Last
+ Apply to
+ subtraction
+ Num
+ Count
+ Sentence
+ Set
+ sentence
+ Current session
+ Cancel process
+ result
+ Score
+ Result
+ Open in browser
+ Open in the Browser
+ Identifier
+ Accredited
+ Date of Birth
+ Date of birth
+ Directions
+ Erase Type
+ remote
+ other
+ Multimedia
+ Annotations
+ Make report
+ Create Report
+ Technology
+ Engineering
+ Run!
+ SessionID
+ Session ID
+ Please wait.
+ Cancelled.
+ Session name
+ Greater than or Equal
+ Try again
+ Distances
+ Removals
+ Evolution
+ peru
+ Peru
+ Boxing
+ Bishop
+ Show notification
+ Show notification popup
+ General Settings
+ Variable font name
+ Variable width font
+ Open a new window
+ Open new window
+ Go to Folder
+ Switch to Folder
+ Create new contact
+ Name…
+ Wants to receive HTML mail
+ Wants HTML Mail
+ SIP address
+ SIP Address
+ Full name
+ Name
+ I
+ SIP
+ Availability
+ Spouse
+ Radio
+ Funk
+ Members
+ Timezone:
+ New Task…
+ is lower than
+ Image Gallery
+ Invalid signature
+ Invalid Signature
+ Bcc
+ Account name
+ Account Name
+ Category Name
+ Connection failed
+ Connection failure
+ Lookup
+ Remember this password
+ Date & Time
+ Date and Time
+ Monkey
+ monkey
+ Image Files
+ Paragraph Style
+ paragraph style
+ Enumerate
+ Image...
+ Image…
+ underline
+ Insert Emoticon
+ Remove Link
+ Remove Hyperlink
+ Ribbon
+ Volume
+ Band
+ Wrap around
+ Wrap search
+ Select Destination
+ Select destination
+ Sort By
+ Create New View
+ Create new view
+ IMAP server
+ Optional Information
+ Optional data
+ Work
+ appendix
+ Attached
+ Mark as Read
+ Mark as Unread
+ Mark Unread
+ Messagemsgidplural Messages
+ messagemsgidplural messages
+ Posting destination
+ Destination Folder
+ Deleting old messages
+ Expunging old messages
+ is less than or equal to
+ is lower than or equal to
+ Call
+ Username can be left empty
+ Alarms
+ Memos:
+ Notes:
+ Network Settings
+ Deactivate Account
+ Disable Account
+ Highlight text
+ prologue
+ Copy Link Address
+ Copy Link Location
+ Use proxy
+ Workspaces on primary display only
+ lock screen
+ Lock Screen
+ No notification messages
+ service
+ Authentication required
+ Network Name
+ Restart & Update
+ Restart & Install Updates
+ Powered Off
+ Disabled
+ New shortcut…
+ Screen Reader
+ Screen reader
+ Screen Keyboard
+ View Keyboard Layout
+ Show Keyboard Layout
+ Fully charged
+ Passwords do not match.
+ Logout…
+ force
+ Profile name
+ Autosave
+ Auto Save
+ Copy below
+ Copy down
+ Search Preferences
+ Search options
+ Rotate clockwise
+ Rotate counterclockwise
+ Process cancelled
+ Tags:
+ Flags:
+ Append to file
+ Append to file…
+ Timer
+ Swatches
+ Delete Field
+ Delete field
+ Unmark as Favorite
+ Unmark as favorite
+ Mark as Favorite
+ Avatar
+ Favourite
+ Star
+ Favorite
+ Telephone Number
+ Leave Room
+ Leave chatroom
+ Previous room
+ Passwords do not match
+ Could not change password
+ View
+ Join Room
+ Interactive Completion
+ Show symbols
+ Show Icons
+ Document properties
+ Installing…
+ Install…
+ Oops, something went wrong
+ Uh oh, something went wrong
+ Sorry, something went wrong
+ Enter/Leave fullscreen
+ Toggle Fullscreen
+ Toggle window to fullscreen
+ Version Control
+ Clear highlight
+ Unversioned
+ Installation prefix
+ Object path
+ Authentication Failed
+ Authentication failed
+ Authorization failed
+ The operation timed out
+ Connect to Other Bus
+ Install failed
+ Play
+ An Internet Relay Chat Client for GNOME
+ New Folder...
+ New command
+ New Command
+ Search options
+ Find Options
+ Dual
+ Usage terms
+ Installation
+ Switch applications
+ Application Switching
+ Attach Modal Dialogs
+ These windows do not support “save current setup” and will have to be restarted manually next time you log in.
+ Creators
+ Producer
+ Creator
+ View Properties
+ Discard All
+ Dismiss All
+ erased
+ Folder children
+ Resign
+ (none)
+ Caption:
+ Country Name
+ Untrusted
+ Invalid
+ Installed
+ Installed Size
+ Download Size
+ Scanning
+ Scan
+ Viewer
+ Reboot
+ Uninstall...
+ Failed to load image
+ Could not load image
+ Find out more
+ Checking…
+ Packaging
+ Packages
+ Cursor foreground colour
+ tango
+ scroll lock
+ Legacy
+ Compatibility
+ Switch to Previous Tab
+ Move Tab to the Left
+ Move Tab to the Right
+ Open Terminal
+ Open terminal
+ Call To…
+ Zoom
+ zoom
+ Service
+ Forward
+ Seek Forwards
+ Seek Forward
+ Seek to…
+ Skip to…
+ Skip To…
+ Report a Bug
+ Font Color:
+ Font color:
+ File properties
+ Replace by
+ Replace with
+ Key press to move right.
+ Current Location
+ Choose Theme
+ Select a theme
+ Slight
+ Placement
+ blank
+ Mute
+ AudioMute
+ Queries
+ Service provider
+ Carrier
+ Vendor
+ page up
+ PageUp
+ Increase volume
+ AudioRaiseVolume
+ Screen Saver
+ Wi-Fi
+ Documented by
+ landmark
+ Landmark
+ Other application…
+ Other Application…
+ light blue
+ light green
+ dark green
+ Dark Green
+ light yellow
+ Light Yellow
+ Modified
+ Tool
+ Program
+ Stop Multi-disk Drive
+ Stop Multi-disk Device
+ No Printers Found
+ Page Ordering
+ GTK Version
+ Method input
+ Visible child
+ Child Visible
+ Cursor theme
+ Child
+ Pages per Sheet
+ Before
+ After
+ Pages per side:
+ Pages per sheet:
+ Board Size
+ Service Identifier
+ Service ID
+ Error deleting folder
+ Error deleting directory
+ KiB
+ Email addresses
+ Publisher
+ Editor
+ Extract
+ Classical
+ Classic
+ Change Directory
+ Can not open file
+ Blinking cursor
+ Cursor Blinking
+ Can not open file!
+ View options
+ Choose File…
+ No disc
+ Drive:
+ Shutter Speed
+ Exposure Time
+ %l:%M %p
+ %I:%M %p
+ Deleting Files
+ Deleting files
+ Moving files
+ Moving Files
+ audio DVD
+ Photo CD
+ Picture CD
+ All directories
+ All folders
+ Open with:
+ Go to Top
+ Reset to Defaults
+ Not an ordinary file.
+ Print version information and exit
+ Show version number and exit
+ Mute/unmute
+ subtitle
+ Subtitles
+ Mute sound
+ Video Files
+ Video files
+ on the bottom
+ File modification date
+ Current Date
+ Don't change
+ Flickr
+ Fit Width
+ Fit to width
+ Fit to height
+ Fit Height
+ Custom Format
+ custom format
+ Used
+ Old name
+ New Name
+ Hidden files
+ Holidays
+ Holiday
+ Could not launch the application
+ Authenticated
+ Authorized
+ Preshared key
+ Wi-Fi security
+ Inverse
+ Reversed
+ Save game log
+ Log the game moves
+ Print release version and exit
+ Print version and exit
+ Logical
+ Left border
+ escape
+ UNIX (LF)
+ Unix (LF)
+ Unknown
+ Known
+ Activate All
+ By-line
+ Link to:
+ Symlink target:
+ Move the keyboard cursor
+ Move keyboard cursor
+ Report a Problem
+ Include pointer
+ Include Pointer
+ Show week numbers in calendar
+ Show battery percentage
+ Enable Notifications
+ Enable notifications
+ Repeat Keys
+ Switch input source
+ Number of Workspaces
+ wrap mode
+ Symlinks
+ Disks
+ Devices
+ Send files
+ New connection
+ Date &amp; Time
+ Date & Time
+ Link
+ link
+ acknowledgments
+ gallon
+ Gallon
+ glass
+ Glass
+ Ginger
+ ginger
+ peach puff
+ pumpkin
+ Tomato
+ tomato
+ Vinegar
+ garlic
+ Do nothing
+ Not connected
+ Last Week
+ Last week
+ Minimal Size
+ Minimum size
+ Not active
+ Device
+ device
+ Short
+ Draw spaces
+ Show whitespace
+ Ignored
+ Junk
+ Select Color
+ MAC address
+ roaming
+ Operation Canceled
+ Operation cancelled
+ Operation Cancelled
+ wheat
+ Wheat
+ Corn
+ maroon
+ Remote Desktop
+ CapsLock
+ caps lock
+ shift lock
+ Caps Lock
+ Enter the new shortcut
+ enter new key

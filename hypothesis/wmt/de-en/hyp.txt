@@ -1,0 +1,4283 @@
+Fo@@ tom@@ o@@ ze
+Video
+Seri@@ al Mem@@ o
+Swi@@ tch to previous page of the effects
+Eff@@ ect
+Swi@@ tch to next page of the effects
+Sett@@ ings
+Help
+Photo Resolution
+Bri@@ gh@@ tness
+Satur@@ ation
+Image
+Dis@@ connect
+Del@@ ay between photos ( seconds )
+ful@@ l@@ screen
+About Che@@ ese
+Save As …
+Mo@@ ve to Tr@@ ash
+Che@@ ese
+A program to record images and videos with a web@@ cam and add fun graphic effects
+Web@@ cam@@ -@@ Autom@@ at
+Photo ; Video ; Web@@ cam ; camera ; Sel@@ f@@ ie ;
+The duration of the coun@@ t@@ down before a photo was taken in seconds
+Dis@@ miss Flash before recording
+Set to true to get a flash when a image is taken into the image
+C@@ urs@@ or string to label camera damage
+Last selected effect
+Photo width
+Photo height
+The height of the image recorded by the camera in pi@@ xels
+The width of the video recorded by the camera in pi@@ xels
+Video height
+Ad@@ just the contrast of the image coming from the camera
+Ad@@ just the color tone of the image to the camera
+Video P@@ ath
+Del@@ ay between photos in series mem@@ o
+Over@@ view
+Mo@@ ve to Tr@@ ash
+Connec@@ tion device
+De@@ vice functions are not supported
+Start in wide mode
+De@@ vice to use as a camera
+Start in ful@@ l@@ screen mode
+&@@ #@@ 9@@ 1@@ ; 0 &@@ #@@ 9@@ 3@@ ; If you delete an item , it will be permanently lost . ms@@ g@@ st@@ r &@@ #@@ 9@@ 1@@ ; 1 &@@ #@@ 9@@ 3@@ ; if you delete items , it will be permanently lost .
+Ski@@ p All
+Save
+Rec@@ ord multiple photos
+No effect found
+An error occurred while playing the Web@@ cam@@ -@@ video signal
+Rec@@ ord multiple photos with web@@ cam
+Take a video
+Rec@@ ord multiple photos
+X coordinate
+Y coordinate
+Player Y coordinate
+Wid@@ th
+Si@@ ze
+The size of the player
+Fi@@ xed X
+Fi@@ xed Y
+Fi@@ xed position set
+Re@@ qu@@ ire for the player to be forced to minimum width
+Natural width
+Re@@ quest for the actor ’ s natural width
+Minimum width set
+Whether to use the “ min@@ -@@ width ” property
+Whether to use the &@@ apo@@ s@@ ; min@@ -@@ height &@@ apo@@ s@@ ; property
+Natural width set
+Whether to use the &@@ apo@@ s@@ ; natural value &@@ apo@@ s@@ ; property
+As@@ su@@ mption
+The player ’ s request
+Re@@ qu@@ ire Mode
+The player ’ s request mode
+The position of the player on the cell axis
+When the player should be fil@@ tered into a single image
+Vi@@ sible
+Whether the player is ren@@ dered
+Re@@ alized
+The visible range of this player
+Name
+Player Name
+Ro@@ tate Point
+Z@@ -@@ ro@@ tation point
+C component of the ro@@ tation point
+Sc@@ ale factor for the X axis
+Y scale
+Z@@ -@@ scale
+Sc@@ ale At@@ ta@@ chment Force
+Sc@@ ale Center
+Red angle X
+The ro@@ tation angle on the Y axis
+Red angle Z
+The red angle on the cell axis
+The ro@@ tation center on the X axis
+Ro@@ tation center Y
+The ro@@ tation center on the Z axis
+Ro@@ tation center around the Z axis
+An@@ ch@@ or X
+The anch@@ or point as Cl@@ ut@@ ter@@ Gra@@ v@@ ity
+Trans@@ form
+Trans@@ form mat@@ rix
+Trans@@ form set
+Whether the transform property is set
+Sub@@ basic transformation mat@@ rix
+child transformation set
+Over@@ order display
+Whether to show the player on over@@ order
+O@@ wn@@ er owner
+Action
+Ad@@ ds an action to the player
+Eff@@ ect
+Add an effect to be applied to the player
+Y extension
+The player ’ s orientation on the X axis within its ma@@ pping
+Ori@@ entation of the player on the Y axis within its ma@@ pping
+Additional distance top
+Left distance
+Right sp@@ ac@@ ing
+Back@@ ground Color palette
+Back@@ ground Color
+The last child of the player
+Content
+The distribut@@ or object to render the player ’ s contents
+Ac@@ tivity content of actor
+The player ’ s content limit
+The filter to use to decrease the content size
+Z@@ oom filter
+The filter to use to en@@ large the content size
+actor
+The player attached to the met@@ a
+Whether the met@@ a is enabled
+Source
+Ali@@ gn@@ ment axis
+The axis to focus the position on
+The ma@@ pping factor ( between 0.@@ 0 and 1.0 )
+Un@@ able to initi@@ alize Cl@@ ut@@ ter@@ -@@ back@@ end : no driver available .
+The binding source
+The coordin@@ ates to binding
+Off@@ set
+The unique name of the bin@@ ary pool
+Horiz@@ on@@ tal orientation
+Horiz@@ ont@@ ally align@@ ment of the player within the layout manager
+The player ’ s vertical orientation within the layout manager
+Def@@ ault vertical orientation of the player within the layout manager
+Horiz@@ on@@ tal fill
+Ver@@ tical fill
+Whether the child is preferred when the container is free on the vertical axis
+Horiz@@ ont@@ ally align@@ ment of the player within the cell
+Ver@@ tical orientation of the player within the cell
+Ver@@ tical
+The layout orientation
+P@@ ack at the start
+Whether to pack items at the start of the box
+Sp@@ ac@@ ing
+Whether to anim@@ ate layout changes
+E@@ as@@ ing Mode
+The bri@@ gh@@ tness change to use
+Sc@@ ale factor specified
+Sc@@ ale factor
+The scale factor for the can@@ v@@ as
+The player entered by this data
+Rem@@ a@@ ining
+Fo@@ cus Point
+Whether the cli@@ ck@@ able item should have an anch@@ or
+Long pressure duration
+The minimum duration of a long pressure to detect the gest@@ ure
+Th@@ re@@ sh@@ old for long pressure
+The maximum threshold before a long pressure is can@@ cel@@ ed
+Ver@@ tical tiles
+Back@@ ground material
+The damage factor
+Back@@ end
+Ver@@ tical Dra@@ g threshold
+Dra@@ g axis
+Dra@@ g range set
+Whether the target region has been set
+Whether each object should have the same statement
+column sp@@ ac@@ ing
+Line sp@@ ac@@ ing
+Minimum width of the column
+Maximum width of the column
+The maximum width of each column
+Minimum row height of each row
+Maximum row height
+Num@@ ber of contact points
+Th@@ re@@ sh@@ old trig@@ ger edge
+Ver@@ tical sp@@ ac@@ ing of threshold trig@@ ger
+The trig@@ ger ’ s vertical distance used by the action
+Top atta@@ chment
+The line number to which the top page of a child wid@@ get is attached
+column sp@@ ac@@ ing
+If TR@@ U@@ E is , rows all same height
+Equ@@ al column
+If true , all colum@@ ns will have the same height
+ID
+De@@ vice Type
+The device type
+De@@ vice Mode
+The device mode
+Whether the device is enabled
+Num@@ ber of axis
+The number of axis of the device
+Manu@@ fac@@ tur@@ er ID
+Product ID
+In@@ i@@ tial value
+In@@ i@@ tial value of the inter@@ val
+Fin@@ al value
+Inter@@ val Fin@@ al Valu@@ e
+Manager
+The manager who created this data
+default : LT@@ R
+Def@@ ault Image Frequ@@ ency
+Make all war@@ nings fat@@ al
+Direc@@ tion of the text
+Use un@@ sharp
+Show Cl@@ ut@@ ter@@ -@@ Op@@ tions
+Whether the output of inter@@ pol@@ ated events is enabled .
+Ab@@ bre@@ vi@@ ation
+The offset along the path , between -@@ 1.0 and 2.0
+Fil@@ en@@ ame Set
+Whether the : fil@@ en@@ ame@@ property is set
+The path to the currently read file
+Translation
+The domain used for translation
+Image R@@ ange Mode
+The time necessary to detect a multiple click between two cli@@ cks
+Double click inter@@ val
+Dra@@ g threshold
+F@@ ont Name
+Whether to use Hin@@ ting ( 1 enabled , 0 disabled and -@@ 1 used default )
+F@@ ont Hin@@ t style
+The style of the Hin@@ t ( hin@@ tn@@ one , hin@@ ts@@ light , hin@@ t@@ medium , hin@@ t@@ full )
+Sub@@ pi@@ x layout of the f@@ ont
+The minimum duration to detect a long pressure for a gest@@ ure
+The scale factor to use on the window
+Fon@@ t@@ confi@@ g@@ -@@ tim@@ est@@ amp
+Tim@@ est@@ amp of the current Fon@@ t@@ confi@@ g configuration
+Pass@@ word Hin@@ t Time
+For a long time the last specified character will be displayed in hidden entries
+Sha@@ der Type
+The used Sha@@ der Type
+The source of the limit
+From E@@ dge
+To@@ ggle
+The offset in pi@@ xels to apply the constra@@ int to
+Whether the major is a ful@@ l@@ screen
+Whether the mouse poin@@ ter should be visible in the main z@@ oom
+Color
+Per@@ spective project parameters
+Tit@@ le
+Use fo@@ g
+Whether to enable depth order
+Use al@@ pha
+Whether the scene should empty its contents
+Acc@@ ept Fo@@ cus
+Whether the scene should take focus on display
+Text
+The contents of the buffer
+Text length
+Maximum length
+Maximum number of characters for this entry . Z@@ ero if there is no maximum
+Bu@@ ffer
+The text buffer
+The f@@ ont of the text
+The color of the text
+Edi@@ table
+Whether the text can be edited
+Mark@@ able
+En@@ able
+Whether the input bar trig@@ gers a send of the active signal
+Po@@ inter Color
+Whether the cur@@ sor color is set
+Po@@ inter position
+The poin@@ ter position
+S@@ election limit
+S@@ election color
+S@@ election color set
+Whether the selection color is set
+Use syn@@ tax highlighting
+Whether the Pan@@ go mark@@ up text contains
+Line wra@@ pping
+If set , break lines when the text is too long
+How to wra@@ p rows
+Oper@@ ations
+The preferred location for out@@ going points in the string
+Line orientation
+Whether the text is align@@ ed
+Pass@@ word characters
+Maximum length
+Maximum text length within the player
+Line Mode
+Whether to show the text in a row
+Set the selection text color
+Whether the selection text color is set
+Del@@ ay before start
+Dur@@ ation
+Time of line in milli@@ seconds
+Direc@@ tion
+Whether the direction should be automatically rever@@ sed when the end is reached
+Pro@@ gress Mode
+How the line line should calcul@@ ate progress
+Inter@@ val
+Un@@ close the fa@@ de when finished
+Li@@ mit the z@@ oom to an axis
+Tim@@ el@@ ine
+Alpha value , as calculated by al@@ pha
+Pro@@ gress Mode
+Ob@@ ject
+Ob@@ ject for which animation is valid
+Anim@@ ation duration in milli@@ seconds
+Whether the animation is repeated in@@ definitely
+The tim@@ el@@ ine used by animation
+Alpha
+The al@@ pha value used by the animation
+The duration of animation
+The animation tim@@ el@@ ine
+Alpha object to re@@ set behavior
+Start depth
+Fin@@ al depth to use
+Start angle
+Fin@@ al angle
+In@@ i@@ tial angle of x@@ -@@ axis
+In@@ i@@ tial angle of the y axis
+Z@@ -@@ axis &@@ apo@@ s@@ ;@@ s zero angle
+El@@ li@@ pse inc@@ ur@@ sion at the z@@ -@@ axis
+El@@ li@@ pse center
+Ro@@ tation orientation
+Start op@@ acity
+Fin@@ al op@@ acity level
+The Cl@@ ut@@ ter@@ P@@ ath@@ -@@ object representing the path to anim@@ ate along its path
+A@@ xis
+Center Y
+Initi@@ al scale on the X axis
+Fin@@ al scale on the X axis
+Start cali@@ bration in Y@@ -@@ direction
+The box background color
+The width of the c@@ ub@@ ic can@@ v@@ as
+Char@@ ac@@ ter height
+The height of the c@@ airo can@@ v@@ as
+AD@@ BE@@ SE
+Whether the player is playing
+Play@@ back current progress
+Sub@@ title f@@ ont name
+Vol@@ ume
+Whether the current stream is sc@@ ann@@ able
+The duration of the stream in seconds
+The rec@@ tan@@ gle color
+Framework color
+Framework width
+Has border
+Fra@@ g@@ mental Source
+Fra@@ g@@ mental Sha@@ der Source
+Comp@@ ili@@ zed
+Whether the Sha@@ der is compiled and in@@ ver@@ ted
+Whether the Sha@@ der is enabled
+Ver@@ tical Sha@@ der
+Fra@@ g@@ mental Sha@@ der
+Def@@ ault bl@@ end time
+column number
+The row the wid@@ get is in
+The number of colum@@ ns to show the wid@@ get
+Line Bur@@ n
+Ex@@ p@@ and Horiz@@ ont@@ ally
+As@@ sign extra space in the horizontal axis for the child
+As@@ sign extra space in the vertical axis for the child
+Sp@@ ac@@ ing between colum@@ ns
+Di@@ stance between rows
+Red@@ o Horiz@@ ont@@ ally
+Re@@ ali@@ zing content in a horizontal , rather than sc@@ aling
+Red@@ o Ver@@ tical
+Re@@ pe@@ at content ver@@ tically , rather than sc@@ aling
+The code pi@@ xel format to use
+Code tex@@ ture
+The bottom handle of the co@@ l tex@@ ture used to draw this player
+Code material
+Lo@@ ad data as@@ yn@@ chron@@ ously
+Sha@@ pe a player with al@@ pha channel at selection
+Could not load image data
+The bottom Wa@@ y@@ land area
+Sur@@ face height
+X display to use
+Syn@@ chron@@ ize X calls
+Dis@@ able X@@ In@@ p@@ ut@@ -@@ Support
+Pi@@ x@@ map width
+The width of the pi@@ x@@ map attached to this tex@@ ture
+Pi@@ x@@ map height
+The height of the pi@@ x@@ map attached to this tex@@ ture
+Pi@@ x@@ map depth
+The X@@ 11@@ -@@ binding X@@ 11@@ window
+Autom@@ atic window ren@@ dering
+Win@@ dow ma@@ pped
+Whether the window is ma@@ pped
+Dest@@ ro@@ y
+window X
+Win@@ dow X position on screen according to X@@ 11
+Win@@ dow Y
+In@@ sert special characters in documents
+F@@ ont ; F@@ ont ; Uni@@ code ; Char@@ ac@@ ter ; Char@@ ac@@ ter
+× ori@@ es@@ -@@ r map
+G@@ PL@@ -@@ 3.0 +
+User Docum@@ entation
+Han@@ ja in training
+Han@@ ja for Person@@ s Name
+F@@ ont Vari@@ ation of
+Cre@@ ation form at the beginning of the word
+Pres@@ entation form in the word center of
+Soli@@ d ren@@ dering form from
+High@@ er shape of
+Lo@@ wer shape of
+M@@ ean compatibility character
+square C@@ J@@ K vari@@ ation of
+Sum@@ m@@ ary shape for mixed fra@@ ctions
+Un@@ specified compatibility character
+Comp@@ ati@@ bility Cl@@ one :
+Classic de@@ composition :
+Uni@@ code had been included :
+Uni@@ code category :
+UT@@ F@@ -@@ 16 :
+deci@@ mal XML entity :
+Comm@@ ents and links
+Ali@@ as@@ name :
+See also :
+C@@ ant@@ on@@ ese Dialog :
+Japanese On@@ -@@ Deb@@ ate :
+Japanese art discussion :
+T@@ ang@@ -@@ Deb@@ ate :
+Pa@@ int C@@ ell
+Char@@ ac@@ ter Details
+Char@@ ac@@ ters found .
+By f@@ ont system
+By Uni@@ code block
+Only show l@@ umin@@ ance from this f@@ ont
+Search
+Help
+Close window
+File
+View
+Search forward
+Search back@@ ward
+Go to
+Pre@@ vious Char@@ ac@@ ters
+Un@@ known
+For@@ ward
+Search term :
+Take full words only
+Find in Char@@ ac@@ ter Details
+&@@ l@@ t@@ ; Hei@@ ght replace , no private use &@@ g@@ t@@ ;
+&@@ l@@ t@@ ; La@@ yer 16 , Home Use &@@ g@@ t@@ ;
+Other , form@@ at@@ ting
+Other private use
+Let@@ ter , Other
+Large letter at the start of the word
+Large letter
+Additional Char@@ ac@@ ters , Ren@@ dered
+Additional Char@@ ac@@ ters , Com@@ posite
+Num@@ ber , deci@@ mal dig@@ its
+Inter@@ point , binding
+Inter@@ point , binding
+Inter@@ point , open quo@@ tation character
+I@@ con , Currency
+separ@@ ator , paragraph
+separ@@ ator , space character
+You also want to have a copy of Uni@@ code copyright together with Gu@@ char@@ map . You can always see it on the Uni@@ code website : htt@@ ps : / / www.@@ uni@@ co@@ de@@ .org / cop@@ y@@ ri@@ ght@@ .@@ html
+on the basis of the Uni@@ code poin@@ ter database 14@@ 0.@@ 0
+Pre@@ vious f@@ ont system
+Next Block
+Pre@@ vious Block
+Text to copy :
+Page Op@@ tions
+Print
+&@@ #@@ 9@@ 1@@ ; F@@ IL@@ E ... &@@ #@@ 9@@ 3@@ ;
+Group type of row cell
+This is the group type of characters in the character can@@ v@@ as . The characters can be group@@ ed either by “ script ” or “ block ” .
+Set the number of colum@@ ns to multiple times of 2
+Last selected character
+0@@ x@@ 43
+Latin , complement ( Lat@@ in@@ -@@ 1 )
+Latin , extension A
+Latin , extension B
+IP@@ A p@@ lugins
+Cy@@ ri@@ llic
+Th@@ a@@ ana
+Mand@@ atory
+Arab@@ ic , Ex@@ tension A
+Gur@@ mu@@ k@@ hi
+Malaysia
+La@@ o@@ tic
+Geor@@ g@@ ish
+Cher@@ ok@@ ee
+O@@ g@@ am
+Kh@@ mer
+Ta@@ i C@@ lock
+Kh@@ mer i@@ cons
+L@@ ana ( Ta@@ i Th@@ am )
+Bal@@ in@@ ese
+S@@ und@@ ane@@ sian
+Geor@@ g@@ ish , Ex@@ tension
+V@@ edi@@ c p@@ lugins
+High@@ - and deep characters
+Currency i@@ cons
+Let@@ ter like i@@ cons
+Ar@@ rows
+Ma@@ themati@@ cal O@@ temperature
+Vari@@ ous technical characters
+Op@@ tical Char@@ ac@@ ter ID
+S@@ cat@@ tered al@@ phan@@ um@@ er@@ ic characters
+Framework Label
+Ge@@ om@@ etric shapes
+Vari@@ ous i@@ cons
+D@@ ing@@ b@@ ats
+ar@@ rows , addition A
+Vari@@ ous ma@@ them@@ atic i@@ cons B
+Latin , extension C
+Ti@@ fin@@ ag@@ h
+Ethiop@@ ia , extension
+Cy@@ ri@@ llic , extension A
+C@@ J@@ K Radi@@ al , Ex@@ tension
+Ide@@ o@@ graphic label character
+C@@ J@@ K i@@ cons and inter@@ point
+H@@ ard J@@ amo , Comp@@ ati@@ bility
+Channel
+B@@ op@@ om@@ o@@ f@@ o , extension
+C@@ J@@ K stro@@ kes
+Y@@ i@@ -@@ sil@@ k character
+Lis@@ u
+Modi@@ fied audio character
+Latin , extension D
+sau@@ r@@ ash@@ tra
+De@@ van@@ ag@@ ari , Ex@@ tension
+Re@@ j@@ ang
+H@@ ard J@@ amo , Ex@@ tension A
+Bir@@ th@@ day , extension B
+Cha@@ m
+Cher@@ ok@@ ee , Comple@@ tion
+Master Ma@@ ye@@ k
+H@@ ard J@@ amo , Ex@@ tension B
+High@@ er replacement co@@ der
+Lo@@ wer replacement co@@ der
+Home Use Area
+Arab@@ ic presentation form A
+Ver@@ tical shapes
+Com@@ b@@ ine half di@@ ac@@ ri@@ c@@ tic characters
+Sem@@ i@@ -@@ width and complete shapes
+Special character
+Anti@@ que i@@ cons
+Car@@ ic
+Cop@@ tic Pa@@ int Char@@ ac@@ ters
+Go@@ tic
+Horiz@@ ari@@ tical
+Albanian
+L@@ ine@@ ar He@@ ader A
+Cy@@ pr@@ ic sil@@ low
+Ar@@ am@@ a@@ ic
+N@@ ab@@ at@@ a@@ ic
+H@@ at@@ ran
+Pho@@ en@@ iz@@ ic
+K@@ har@@ o@@ sh@@ th@@ i
+Man@@ ic
+In@@ put P@@ ah@@ la@@ vi
+P@@ sal@@ ter@@ -@@ P@@ ah@@ la@@ vi
+Al@@ tt@@ stor@@ k
+Alt@@ od@@ le
+F@@ ace dig@@ its
+Alt@@ so@@ g@@ Indian
+Al@@ tu@@ y@@ gh@@ ur@@ i
+Cho@@ res@@ mic
+El@@ y@@ ma
+Ka@@ i@@ th@@ i
+Sor@@ ang@@ -@@ Som@@ pen@@ g
+Sin@@ gh@@ al@@ ese old payment character
+K@@ ho@@ j@@ ki
+Mul@@ tan@@ ic
+Si@@ dd@@ ham
+Mo@@ di
+Mon@@ go@@ li@@ cal , Comple@@ tion
+Tak@@ ry
+A@@ ho@@ m
+Ka@@ ang K@@ sh@@ iti
+N@@ Nordic ag@@ ari
+D@@ san@@ ab@@ ad@@ ata square
+So@@ j@@ om@@ bo
+P@@ au C@@ in H@@ au
+B@@ ha@@ ik@@ su@@ ki
+Mar@@ ches
+Mas@@ ar@@ am gon@@ o
+Mac@@ ass@@ ar
+Dro@@ p F@@ ont
+Spring and as@@ sp@@ an f@@ ont
+Cy@@ pro@@ -@@ Min@@ o@@ ic
+Egypt ’ s hierarch@@ y type control character
+An@@ ato@@ lic hierarch@@ y types
+Pa@@ ha@@ w@@ h H@@ mon@@ g
+Me@@ de@@ factor
+Small Kit@@ an f@@ ont
+K@@ ana , Ex@@ tension B
+K@@ ana , Comple@@ tion
+Small K@@ ana , extension
+Women ’ s f@@ ont ( N@@ ush@@ u )
+Dup@@ lo@@ yal short f@@ ont
+Sh@@ ort@@ cut control character
+By@@ z@@ ant@@ ine mem@@ o character
+May@@ a Num@@ ber Char@@ ac@@ ter
+Tai@@ -@@ X@@ u@@ an i@@ cons
+Coun@@ t Num@@ ber
+Ma@@ themati@@ cal al@@ phan@@ um@@ er@@ ic i@@ cons
+#@@
+Ad@@ erc@@ ise
+Game cards
+S@@ cat@@ tered al@@ phan@@ um@@ er@@ ic character , addition
+emo@@ j@@ is
+Transport and map i@@ cons
+In@@ i@@ tial i@@ cons and to@@ gram
+Uni@@ fied C@@ J@@ K ide@@ o@@ gram , extension B
+Uni@@ fied C@@ J@@ K ide@@ o@@ gram , extension C
+Uni@@ fied C@@ J@@ K ide@@ o@@ gram , extension E
+Uni@@ fied C@@ J@@ K ide@@ o@@ gram , extension G
+Lab@@ els
+Home usage area , complement A
+Home usage range , addition B
+Bra@@ illa
+Channel inde@@ xed sil@@ very
+General
+Cy@@ pr@@ ic
+Greek
+H@@ Georgia
+L@@ ine@@ ar He@@ ader B
+P@@ ha@@ g@@ IP
+Y@@ i
+Web is often called with its en@@ co@@ der “ E@@ pi@@ ph@@ any ” .
+The GN@@ OME project
+brow@@ se to the Internet
+Network ; Browser ; Web ;
+Open new In@@ co@@ gn@@ it@@ o@@ -@@ window
+brow@@ se on the Internet with C@@ are@@ t browser
+Home page
+Name of the search engine used by default .
+En@@ able Google search proposals
+Whether to show Google search proposals in the selection list below the address pan@@ e .
+Open new window as a new tab
+When enabled , tab@@ s will not be immediately loaded when re@@ building session , but only when the user swit@@ ches into one of this tab .
+List of advertising block fil@@ tering “ ad@@ block ”
+List of content fil@@ tering addresses in the J@@ S@@ ON format for the adverti@@ ser .
+Pro@@ mp@@ t default setting
+When enabled , the browser always asks whether to set it as default if it is not already the case .
+Start in@@ co@@ gn@@ it@@ o@@ -@@ mode
+Def@@ ault data to delete .
+Ex@@ p@@ and the width of the tab@@ s and take all available space .
+When enabled , the tab@@ s will take all available space in the tab . This setting is ignored in the panel desktop .
+Un@@ open window when the last tab is closed
+The article f@@ ont style in the book@@ let .
+Gra@@ dient Color scheme .
+Sm@@ aller f@@ ont size
+Use GN@@ OME standard f@@ ont
+Cust@@ om serial f@@ ont
+Cust@@ om serial f@@ ont
+A value to use to over@@ write the serial work@@ space f@@ ont when use@@ -@@ gn@@ om@@ e@@ -@@ fon@@ ts are set .
+Cust@@ om mono@@ space f@@ ont
+A value to use to over@@ write the work@@ space f@@ ont when use@@ -@@ gn@@ om@@ e@@ -@@ fon@@ ts are set .
+Use custom J@@ S
+Check any text entered in edi@@ table areas .
+Def@@ ault character en@@ coding . Acc@@ ep@@ ted values are those accepted by Web@@ Kit@@ GT@@ K .
+Pre@@ fer@@ red languages . Ar@@ ray of lo@@ cal@@ e@@ -@@ en@@ co@@ der or “ system ” to use the current loc@@ ale .
+User Agent
+En@@ able advertising blo@@ cker
+Whether to lo@@ ok@@ up embedded advertising within web pages .
+En@@ able page specific qu@@ ir@@ ks
+Qu@@ ir@@ ks enable the activ@@ ation to function better . For de@@ bug purposes , it may be necessary to dis@@ able this setting .
+En@@ able secure browser
+Whether to enable safe brow@@ sing . For this , the Google Safe Browser API v@@ 4 is used .
+Whether to activate smart tracking .
+En@@ able automatic search
+Whether to be p@@ lug@@ ged in . Ex@@ p@@ anded are based on the behaviour in Opera and are enabled by the middle mouse button + gest@@ ure .
+Last Up@@ lo@@ ad@@ folder
+Rem@@ ember the last Up@@ lo@@ ad@@ folder
+Whether to automatically switch to a new open tab .
+Whether Web@@ Ex@@ tensions should be enabled . Web@@ Ex@@ tensions are a web browser cross system for p@@ lugins .
+Indi@@ c@@ ates which Web@@ Ex@@ tensions are “ active ” set .
+Additional addresses for web application
+List of addresses to open by web application
+The position to use for a new window if this is not restored from a previous session .
+The size to use for a new window if it is not restored from a previous session .
+Is maxim@@ ized
+Firefox Syn@@ c host URL
+Ad@@ dress to a custom Firefox Syn@@ c to@@ ken server .
+The email address associated with the Fire@@ fo@@ x account used for data synchron@@ ization with the Moz@@ illa server .
+Last syn@@ c tim@@ est@@ amp
+Syn@@ c De@@ vice ID
+Syn@@ c device ID of the current device .
+Syn@@ c device name
+Syn@@ chron@@ ize data with Firefox
+Whether to synchron@@ ize E@@ physical collections with Fire@@ fo@@ x collections .
+En@@ able book@@ marks synchron@@ ization
+The tim@@ est@@ amp of the recently executed book@@ mark synchron@@ ization .
+Whether the book@@ marks collection must be synchron@@ ized for the first time .
+En@@ able password syn@@ c
+Whether the password ex@@ tract should be synchron@@ ized .
+En@@ able history c@@ rop@@ ping
+Whether history needs to be synchron@@ ized first .
+Whether the open tab@@ s should be synchron@@ ized .
+Syn@@ c tim@@ est@@ amp for open tab
+The tim@@ est@@ amp of the last performed synchron@@ ization of the last opened tab .
+Decision to use when this computer is requested to access the notification system
+Decision to use when this computer is requested to store pass@@ words
+Decision to use when calling for camera access for this computer
+Memory usage
+E@@ pi@@ ph@@ any@@ -@@ technology pre@@ view
+A simple , clear , beautiful view to the web
+Applic@@ ations
+In@@ co@@ gn@@ it@@ o@@ -@@ mode dis@@ ables your activity only for people using this computer .
+Download requested
+Where do you want to save this file ?
+ES@@ C
+F@@ 11
+Web is controlled by auto .
+New Ta@@ b
+Arab@@ ic ( IS@@ O@@ -@@ 8@@ 8@@ 5@@ 9@@ -@@ 6 )
+Arab@@ ic ( Windows 12@@ 56 )
+Bal@@ tic ( Win@@ do@@ w@@ s@@ -@@ 12@@ 56 )
+Armen@@ ia ( AR@@ M@@ SC@@ II -@@ 8 )
+Central European ( IB@@ M 8@@ 52 )
+Central European ( Mac@@ CE )
+Central European ( Windows 12@@ 50 )
+Chinese , simplified ( GB@@ 18@@ 0@@ 30 )
+Chinese , simplified ( IS@@ O@@ -@@ 20@@ 22 C@@ N )
+Chinese , traditional ( B@@ ig@@ 5 )
+Chinese , traditional ( B@@ ig@@ 5 H@@ K@@ S@@ CS )
+Cy@@ ri@@ llic ( IS@@ O@@ -@@ IR@@ -@@ 1@@ 11 )
+Cy@@ ri@@ llic ( Mac@@ Cy@@ ri@@ lus )
+Cy@@ ri@@ llic / Russian ( IB@@ M@@ -@@ 8@@ 66 )
+Greek ( Mac@@ Greek )
+Gur@@ mu@@ k@@ hi ( Mac@@ Gur@@ mu@@ k@@ hi )
+Heb@@ re@@ w ( IS@@ O@@ -@@ 8@@ 8@@ 5@@ 9@@ -@@ 8@@ -@@ I )
+Japanese ( EU@@ C@@ -@@ J@@ P )
+Japanese ( Shi@@ ft@@ -@@ J@@ IS )
+Korean ( IS@@ O@@ -@@ 20@@ 22 K@@ R )
+Korean ( U@@ H@@ C )
+Kel@@ tic ( IS@@ O@@ -@@ 8@@ 8@@ 5@@ 9@@ -@@ 14 )
+Is@@ land ( Mac@@ iso@@ dic )
+Indian ( IS@@ O@@ -@@ 8@@ 8@@ 5@@ 9@@ -@@ 10 )
+Per@@ sian ( Mac@@ Far@@ si )
+Croatia ( Mac@@ rank )
+South European ( IS@@ O@@ -@@ 8@@ 8@@ 5@@ 9@@ -@@ 3 )
+Thai ( T@@ IS@@ -@@ 6@@ 20 )
+Turkish ( IB@@ M )
+Turkish ( Mac@@ Turkish )
+Turkish ( Windows 12@@ 54 )
+Viet@@ nam@@ ese ( T@@ C@@ V@@ N )
+Vietnam ( V@@ IS@@ C@@ II )
+Viet@@ nam@@ ese ( Windows 12@@ 58 )
+west ( Windows 12@@ 52 )
+Uni@@ code ( UT@@ F@@ -@@ 16 LE )
+Type to search …
+Search the previous match for this string
+Save Ne@@ ver
+Note : This form is not safe . If you enter your password here , it will not be kept secret .
+The web process has cr@@ ashed
+The web process has been termin@@ ated because the memory limit is exceeded
+The web process has been qu@@ it on API request
+Wa@@ it
+Dec@@ re@@ ase
+Allow
+The identification of this website is too old . Check the date on your computer .
+Could not par@@ se this website . You may be cor@@ rupt .
+The identification of this website has been re@@ vo@@ ked by the ex@@ iting , tru@@ sted organization .
+Can &@@ apo@@ s@@ ;@@ t get identification of this website because it uses an un@@ sufficient encryp@@ tion .
+The identification of this website is only valid for data in the future . Check the date on your computer .
+Can@@ not display this website
+Rel@@ o@@ ad
+R
+Back
+B
+P
+In@@ secure website detected !
+OK
+Not specified
+Today % I &@@ apo@@ s@@ ;@@ % M % p
+Yesterday % I write % M % p
+% a % H : % M
+% -@@ d . % b % I : % M % p
+Your Fire@@ fo@@ x account password appears to have been changed .
+Please open Firefox Syn@@ c and log in with the new password to continue the synchron@@ ization process .
+Syn@@ c cre@@ denti@@ als for the current syn@@ c user are invali@@ d .
+Could not transfer client record .
+Could not transfer met@@ a / global record .
+Could not verify memory version .
+Certi@@ fic@@ ate issu@@ er is not known
+The certificate contains errors
+The certificate uses a weak signature algorith@@ m
+Certi@@ fic@@ ate activ@@ ation time is in the future
+The identity of this website has been confirmed .
+The identity of this website has not been confirmed .
+Cle@@ ar All
+Th@@ re@@ sh@@ old or deleted
+Star@@ ting …
+Open
+All Files
+Emp@@ ty
+Pa@@ ste and More
+Cre@@ ate book@@ marks for this page
+This website has not properly saved your connection .
+Per@@ missions
+Pass@@ word En@@ coding
+Location access
+Micro@@ fon@@ dness Access
+C@@ amera access
+Autom@@ atic media player
+no Sound
+Mobile
+Rel@@ o@@ ad current page
+Should browser history be cle@@ ared ?
+Emp@@ ty browser history will ensure that all links in history are permanently deleted .
+Open a new window instead of a new tab
+Lo@@ ad the given session status file
+F@@ IL@@ E
+Start private session in web application mode
+Start Web@@ Dri@@ ver private session
+Cust@@ om profile directory for private sessions
+Ad@@ dress …
+Open a new tab
+Do you really want to remove this extension ?
+Auth@@ or
+Remo@@ ve selected web extension
+Re@@ pe@@ at
+Mark All
+Update
+Before
+Open link in new window
+Open link in new tab
+Cop@@ y Dis@@ c URL
+Cop@@ y email address
+Save Image As …
+Save Video As …
+Open Audio in New Ta@@ b
+Page Source Text
+Open link
+Open link in new tab
+Open link in In@@ co@@ gn@@ it@@ o@@ -@@ window
+Download Operation
+Show open tab@@ s
+No
+Save Media As
+Web applications off@@ line memory
+Web@@ SQL databases
+Ex@@ tensions Data
+UR@@ I should not contain the search term multiple times
+Search engines short@@ cuts cannot contain spaces .
+A name is required
+D@@ ele@@ te all pass@@ words ?
+Cle@@ ar
+Cop@@ y Pass@@ word
+Cop@@ y User Name
+Pass@@ word
+Remo@@ ve Pass@@ word
+Dar@@ k
+Add Language
+Web application icon
+R@@ un only the n@@ one migration step
+Speci@@ fies the required version of the mix@@ er
+Web pro@@ fil@@ er
+Cre@@ ate book@@ marks for this page
+Swi@@ tch to Home Page
+Show open pages
+Boo@@ k@@ mark
+Key@@ words
+Add keyword …
+Add
+Place book@@ marks of some web pages to see them here .
+D@@ ele@@ te all selected personal data
+Search for personal data
+S@@ ending personal data here
+You cannot und@@ o this step . Data you choose to delete will be permanently deleted .
+Search
+No results found
+T@@ ry another search
+Char@@ ting En@@ coding
+Use the en@@ coding specified by the document
+Recently used en@@ co@@ dings
+Firefox Syn@@ c
+Report to your Fire@@ fo@@ x account to synchron@@ ize data with GN@@ OME Web and Firefox to other computers . GN@@ OME Web is not Firefox and is not developed or supported by Mozilla .
+Log@@ in
+Sub@@ scri@@ be
+Syn@@ c Op@@ tions
+Syn@@ chron@@ ize pass@@ words
+Syn@@ chron@@ ize Now
+Change
+History
+Chr@@ on@@ ics is empty
+List visited pages here
+Rel@@ o@@ ad
+Re@@ fresh all tab@@ s
+At@@ ta@@ ch tab@@ s
+Close Left Ta@@ b
+Close
+S@@ hr@@ ink
+Re@@ store z@@ oom level
+Search …
+New Win@@ dow
+Open new In@@ co@@ gn@@ it@@ o@@ -@@ window
+Re@@ open the selected tab@@ s
+Import &amp; Export
+Inst@@ all page as web application …
+Open Application Manager
+Over@@ write en@@ coding …
+Sett@@ ings
+Key@@ board Sh@@ ort@@ cuts
+Help
+Ta@@ b
+No pass@@ words available
+Cop@@ y us@@ ername
+Ap@@ pe@@ arance Image
+fon@@ ts
+Seri@@ ous f@@ ont
+Seri@@ al f@@ ont
+mono@@ sp@@ ace@@ f@@ ont
+Boo@@ k@@ ings
+Color scheme
+St@@ yle
+Use custom JavaScript
+General
+Web application
+Man@@ age additional addresses
+Web Content
+Lo@@ ck Bo@@ t@@ tom Win@@ dow
+User defined
+Pro@@ mp@@ t for download
+Download Fol@@ ders
+Search engines
+S@@ ession
+Re@@ store Ta@@ b on star@@ tu@@ p
+Browser
+Sp@@ ell check
+Choose a language :
+Privacy Policy
+Web Tra@@ cking
+Web site sa@@ ver
+En@@ able search proposals in the address pan@@ e .
+Google search proposals
+You can delete saved personal data .
+Name
+Ad@@ dress
+Key@@ board short@@ cut
+Remo@@ ve search engine
+General
+New Win@@ dow
+Open File
+Save Page As
+Print Page
+Qu@@ it
+Help
+Open Men@@ u
+Show Download List
+navigation
+Swi@@ tch to Home Page
+Rel@@ o@@ ad current page
+Back to previous page
+Close the current tab
+Mo@@ ve current tab to the left
+History
+Cre@@ ate book@@ marks for this page
+Import book@@ marks
+Export book@@ marks
+En@@ able / dis@@ able c@@ are@@ t mode
+Inst@@ all page as web application
+Open Web Application Manager
+View
+Z@@ oom
+View page source text
+Edit
+C@@ ut
+Pa@@ ste
+Un@@ do
+Mark All
+An address starting with an additional address will be opened by this web application . If you leave the address sch@@ ema , the address scheme will be used from the currently loaded address .
+Ad@@ dress
+Ex@@ tensions
+Add …
+Ch@@ rome
+Select File
+Import
+Boo@@ k@@ mark successfully imported !
+Boo@@ k@@ mark successfully exported !
+Website
+Start
+Can@@ cel
+Re@@ place
+An application with this name already exists . The over@@ write will lose its contents .
+Save
+M@@ HTML
+En@@ able
+Ry@@ gel
+U@@ P@@ n@@ P / DL@@ N services
+Ry@@ b Pre@@ fer@@ ences
+Add a folder to the list of shared fol@@ ders
+Add Free Fol@@ der
+Remo@@ ve Free Fol@@ der
+Add a network interface
+Remo@@ ve a network interface
+Select Fol@@ der
+Bad test type
+Do not allow convert
+Do not allow del@@ eting
+Comm@@ a separated list of &@@ apo@@ s@@ ; Dom@@ ains : Level &@@ apo@@ s@@ ; ( domain : level ) pa@@ irs . More information in ry@@ gel ( 1 ) .
+Dis@@ able extension
+Set Ex@@ tension Op@@ tions
+Use configuration file instead of user configuration
+Qu@@ it remote Ry@@ b reference
+Re@@ place the currently executed instance of Ry@@ gel
+Ex@@ p@@ and remote Ry@@ b instance \ n
+Play@@ speed not supported
+transition not available
+Search mode not supported
+Inv@@ ali@@ d channel
+Can@@ not search sub@@ objects
+Not applicable
+No such file transfer
+Bad value of the new tag .
+At@@ temp@@ ting to change a w@@ rit@@ able property .
+Num@@ ber of parameters does not match .
+Un@@ known error .
+Search mode not supported
+Speed not supported
+Could not create play@@ list
+Medi@@ a@@ Engineering .@@ in@@ it is not called . For@@ ting is not possible .
+Mis@@ sing &@@ apo@@ s@@ ; Ali@@ gn@@ ment ID &@@ apo@@ s@@ ; argument
+Mis@@ sing filter
+Mis@@ sing element argument .
+&@@ id must be empty in a Cre@@ ate@@ Ob@@ ject call
+Bit@@ flags that cannot be set have been found in “ d@@ l@@ na Man@@ aged ”
+Inv@@ ali@@ d &@@ apo@@ s@@ ; up@@ n@@ p : class &@@ apo@@ s@@ ; given in \ Cre@@ ate@@ Ob@@ ject &@@ apo@@ s@@ ;
+The item is missing the attri@@ bute &@@ apo@@ s@@ ; &@@ apo@@ s@@ ;
+Can@@ not create a limited object
+Mis@@ sing &@@ apo@@ s@@ ; Ali@@ gn@@ ment ID &@@ apo@@ s@@ ; argument .
+No sub@@ titles available
+Pre@@ views are not supported
+No pre@@ view available
+Play@@ speed not supported
+Could not create for@@ warding
+Can only read file based media objects ( media Fi@@ le@@ I@@ te@@ ms )
+Free media
+Rec@@ ei@@ ving invali@@ d command is ignored
+Arti@@ st
+Files and Fol@@ ders
+Media of @ RE@@ AL@@ N@@ AM@@ E &@@ apo@@ s@@ ;
+System appearance
+Over@@ write this application settings . You will be re@@ set when the inspec@@ tor is closed .
+High Con@@ tr@@ ast
+Un@@ named Page
+Sett@@ ings
+Search
+Christian Her@@ ert , et al .
+A GN@@ OME Text Editor
+Autom@@ atic Save Del@@ ay
+Use the light or dark vari@@ ation of the GT@@ K theme and / or GT@@ K@@ S@@ our@@ ce@@ Vie@@ w@@ -@@ St@@ yle sch@@ ema .
+Un@@ do style
+Autom@@ atic In@@ put
+Autom@@ atically re@@ size new rows to the previous in@@ dent .
+The number of spaces in a table .
+In@@ line width
+S@@ ets to how many spaces should be mounted . A “ -@@ 1 ” represents a table width .
+Show line numbers
+Whether to show a border on the right side of the editor .
+Whether to show an overview of the file next to the editor .
+High@@ light the current row
+Text wra@@ pping
+Whether to wra@@ p text .
+Cust@@ om f@@ ont
+A custom f@@ ont to use in the editor .
+St@@ yle template
+Autom@@ atic spell checking
+Re@@ store session
+Re@@ store the previous session when the text editor is started .
+Color Win@@ dow
+The last used location in a “ Save ” or “ Save as ” dialog .
+The various types of spaces to mark in the editor .
+En@@ able the use of s@@ ni@@ pp@@ ets registered in the G@@ t@@ k@@ S@@ our@@ ce@@ View editor .
+Line height
+The line height for the selected f@@ ont .
+Open given files in a new window
+IL@@ Cre@@ ate@@ F@@ rom@@ P@@ ath ( ) failed
+Dis@@ card and re@@ load changes
+File was changed on volume
+The file was changed by another program .
+Save As …
+Un@@ saved document has been restored .
+Save …
+Dis@@ card …
+Re@@ store changes to the draft
+Un@@ saved changes to the document have been restored .
+Docum@@ ent Type
+No recently opened documents
+D@@ raft
+Docum@@ ent portal
+F@@ ailed to save the document
+Save As
+Can@@ cel
+Go to line
+navig@@ ate
+In@@ ver@@ t
+Autom@@ atic In@@ put
+Tab@@ ul@@ ators
+Space character
+8
+Z
+High@@ light the current row
+Beh@@ avi@@ or
+Re@@ store the previous session when the text editor is started
+Choose f@@ ont type
+Page % N of % Q
+Proper@@ ties
+File
+Location
+Ro@@ ws
+Char@@ ac@@ ters , no spaces
+Save Chan@@ ges ?
+Open documents contain un@@ saved changes . These will be permanently lost .
+Save
+Re@@ place
+Go to the previous match ( C@@ tr@@ l + Shi@@ ft + G )
+Go to the next match ( C@@ tr@@ l + G )
+Re@@ place
+Langu@@ ages
+Check spell sp@@ elling
+Follow system style
+Dar@@ k style
+Yesterday
+About a year ago
+Unix / Linux ( L@@ F )
+Windows ( CR + L@@ F )
+Autom@@ atically detected
+Char@@ ac@@ ter En@@ coding :
+S@@ aving changes will replace the previously saved version .
+Dis@@ card
+Open File
+All Files
+Open
+Open the last open document ( C@@ tr@@ l + K )
+Start or open a document
+Docum@@ ent Sett@@ ings
+Bin@@ ding
+Help
+About Text Editor
+2
+4
+6
+Text wra@@ pping
+Mo@@ ve to left
+Ski@@ p to New Win@@ dow
+Close
+Editor keyboard short@@ cuts
+Win@@ dow
+Mo@@ ve document to a new window
+Mo@@ ve to the next tab
+Mo@@ ve to the previous tab
+Mo@@ ve before the previous tab
+Re@@ store before closed tab
+Si@@ ze
+S@@ hr@@ ink
+Docum@@ ents
+New Docum@@ ent
+Find a Docum@@ ent
+Find a document based on the name
+Cop@@ y and Pa@@ ste
+Cop@@ y selected text to cli@@ p@@ board
+Cli@@ p selected text to cli@@ p@@ board
+Pa@@ ste text from cli@@ p@@ board
+Un@@ do and re@@ do
+Red@@ o last command
+Pa@@ ste emo@@ ji into the document
+Search and replace within the document
+Dec@@ re@@ ase number below cur@@ sor
+To@@ ggle over@@ write
+To@@ ggle cur@@ sor visibility
+S@@ election
+Ski@@ p to the end of the document
+Go to line
+D@@ ele@@ te from the cur@@ sor to the start of the word
+D@@ ele@@ te from cur@@ sor to end of the word
+D@@ ele@@ te the current row
+OK
+Can@@ cel
+You must specify a dialog . See “ zen@@ ity --@@ help ” for more details . \ n
+No
+Could not understand message \ n
+Un@@ known hin@@ t . ski@@ pping . \ n
+Un@@ known Hin@@ t name . ski@@ pping . \ n
+Could not understand standard input command \ n
+T@@ IT@@ EL
+Set the window icon
+SY@@ MB@@ OL@@ P@@ AT@@ H
+Set the width
+B@@ RE@@ ITE
+Set the height
+TR@@ U@@ E
+S@@ ets the label of the O@@ KS button
+Set the dec@@ r@@ yp@@ tion button label
+Set the model hin@@ t
+Set the parent window to mount
+Show calendar dialog
+Set the calendar tag
+T@@ AG
+M@@ ON@@ AT
+Set the calendar year
+J@@ A@@ HR
+Set the format for the returned date
+Hi@@ de the input text
+Show error dialog
+Set the icon to the dialog
+Do not enable Pan@@ go mark@@ up
+En@@ able om@@ is@@ sions in the dialog . This will correct the window size for long texts .
+Show info dialog
+Show file selection dialog
+Set the fil@@ en@@ ame
+En@@ able memory mode
+Set the output separ@@ ator
+TR@@ EN@@ N@@ ING
+Con@@ firm file selection if a fil@@ en@@ ame already exists
+SP@@ AL@@ TE
+Print a specific column ( default is “ ALL ” can be used to print all colum@@ ns )
+Hi@@ de a specific column .
+Change the default search function for lists to search for text in the center , not at the start
+He@@ al on the default input by missing
+Set the notification ID
+PRO@@ Z@@ ENT
+Qu@@ it parent process when the can@@ v@@ as button is cli@@ cked
+Hi@@ de Can@@ v@@ as Button
+Def@@ ault focus on the can@@ v@@ as button
+Show text information dialog
+Set text f@@ ont
+En@@ able HTML Support
+S@@ ets an address instead of a file . Only works with the --@@ html option .
+Ad@@ dress
+Autom@@ atically jump to the text . Only if the text is inser@@ ted by default input
+Show War@@ n dialog
+Show sli@@ der dialog
+Set the minimum value
+Show cli@@ p@@ board values
+Fe@@ ather the value
+Show form pan@@ e
+Add a new entry in the form catalog
+Fiel@@ d Name
+Add new password entry field in the form list
+Cal@@ endar field name
+Add a new list in the form catalog
+Col@@ umn Valu@@ e List
+Fiel@@ d name of the selection field
+Show column title
+Print version
+General Sett@@ ings
+Show General Sett@@ ings
+Cal@@ endar Sett@@ ings
+Text In@@ put Pre@@ fer@@ ences
+File choo@@ ser Pre@@ fer@@ ences
+List Sett@@ ings
+Show list options
+No@@ ti@@ fication I@@ con Sett@@ ings
+Pro@@ gress Sett@@ ings
+Show progress options
+Qu@@ ery Sett@@ ings
+Show Qu@@ ery Sett@@ ings
+War@@ n Sett@@ ings
+Show sli@@ der settings
+Text Information Op@@ tions
+Show text information options
+Color selec@@ tor Pre@@ fer@@ ences
+Show color selection preferences
+Show form list options
+This option is not available . Please use --@@ help for all application options . \ n
+Enter your password
+User name :
+Valu@@ e out of range . \ n
+No column title specified for list dialog \ n
+Ad@@ just sli@@ der value
+Text View
+Choose a date
+Add a new entry
+Er@@ ror
+An error occurred .
+Formul@@ a Cat@@ alog
+Information
+All updates were completed .
+Do you want to continue ?
+Select items from the list
+En@@ able favorite application 4
+En@@ able favorite application 7
+En@@ able favorite application 9
+Scre@@ en photos
+Take a screen@@ shot
+Take a screen@@ shot of a window
+System
+Ali@@ gn to active noti@@ fications
+GN@@ OME S@@ hell
+Man@@ age window and start applications
+En@@ able internal developer and te@@ ster tools with Alt + F@@ 2
+Al@@ lows internal de@@ bug and monitoring tools to access .
+U@@ U@@ ID of the exten@@ sions to be immediately disabled
+Whether to dis@@ able the revision compatibility check for the extension
+List of desktop file identi@@ fi@@ ers and their preferred applications
+Whether the default Blu@@ et@@ oo@@ th@@ -@@ adap@@ ter is assigned devices
+Key@@ board short@@ cut to open the applications view
+Key@@ board short@@ cut to switch the visibility of the notification list
+Key@@ board short@@ cut to switch the visibility of the notification list .
+Key@@ board short@@ cut to focus on the active noti@@ fications
+Key@@ board short@@ cut to focus on the active noti@@ fications .
+Swi@@ tch to Application 1
+Swi@@ tch to Application 3
+Swi@@ tch to Application 5
+Swi@@ tch to Application 7
+The application i@@ cons mode .
+Whether windows of the current work@@ space are listed in the window window . Otherwise , all windows are included .
+The locations to display from world clo@@ cks
+Autom@@ atic Location
+Connec@@ t module dialog to parent window
+This key over@@ sets the key in or@@ g@@ .@@ gn@@ om@@ e.@@ mut@@ ter when GN@@ OME shell is running .
+En@@ able size adjustment when a window is moved to the screen channel
+Man@@ age work@@ spaces dynam@@ ically
+Work@@ spaces only on the primary screen
+Del@@ ay focus change in mouse mode until the poin@@ ter is no longer moving
+Network Mes@@ sage
+Sor@@ ry , but there is a problem : this extension ’ s preferences cannot be displayed . We suggest that you report this error to the authors of the extension .
+Visit the extension website
+Choose session
+U@@ ser@@ name
+Log@@ in failed
+( or use the finger at the reader )
+Re@@ start
+Lo@@ ck Scre@@ en
+Sub@@ scri@@ be
+un@@ subscribe ; exit
+read@@ iness ; sleep
+Un@@ lock screen ro@@ tation
+Lo@@ ck Scre@@ en ro@@ tation
+Even now
+% H &@@ apo@@ s@@ ;@@ % M
+% l &@@ apo@@ s@@ ;@@ % M % p
+Ho@@ ts@@ pot login
+Provi@@ des access
+New Win@@ dow
+Show Details
+Select Audio De@@ vice
+Sound Sett@@ ings
+Change Back@@ ground ...
+Display Sett@@ ings
+Sett@@ ings
+06
+D
+% O@@ B
+% O@@ B % Y
+Pre@@ vious month
+Next month
+We@@ ek % V
+No noti@@ fications
+Wa@@ it
+External drive dis@@ connected
+Connec@@ tion
+Key
+Service
+Re@@ qui@@ red login
+Wireless 80@@ 2.@@ 1@@ X login
+DS@@ L login
+P@@ IN code required
+A P@@ IN code is required for mobile broadband device
+V@@ P@@ N Pass@@ word
+Show applications
+D@@ ash
+% e % B
+Today
+Tom@@ orrow
+No events
+Add World clo@@ cks …
+World clo@@ cks
+Lo@@ ading …
+Go online to get weather information
+We@@ ather
+Select We@@ ather Location …
+Tur@@ n off
+Re@@ start
+re@@ start and install
+Inst@@ all Ex@@ tension
+Av@@ ail@@ able exten@@ sions updates
+An application wants to lock keyboard short@@ cuts
+Un@@ do
+Allow
+Key@@ board delay enabled
+Key@@ board delay disabled
+Le@@ ave To@@ gg@@ led
+En@@ able
+Regional &amp; Language Sett@@ ings
+Show errors
+Dep@@ rec@@ ated
+Er@@ ror
+Show Source
+Un@@ do
+Log@@ in as privileged user
+The operation of a session as a privileged user should be sub@@ du@@ ed for security reasons . If possible , please log in as a normal user .
+Scre@@ en lock disabled
+System Information
+Un@@ known artist
+Applic@@ ations
+New Key@@ board short@@ cut ...
+Application set
+Show Scre@@ en Help
+Swi@@ tch screen
+As@@ sign Key@@ board short@@ cut
+Inv@@ ali@@ d
+Edit …
+No
+Press Es@@ c to cancel
+Press any key to qu@@ it
+System
+Top panel
+Press Es@@ c to close
+New star@@ tu@@ p not available on Wa@@ y@@ land
+New Start …
+GN@@ OME must lock the screen
+Take the screen
+Win@@ dow
+Scre@@ en photo / screen@@ shot
+Scre@@ en Pho@@ tos
+Scre@@ en content recorded
+Click here to view the video .
+Scre@@ en photo taken
+You can insert the image from the cli@@ p@@ board .
+Scre@@ en photo taken
+Search
+Hi@@ de text
+Windows system volume
+P@@ IMP number
+Rem@@ ember password
+Un@@ lock
+P@@ IM must be a number or empty .
+accessibility
+Scre@@ en bar
+Visual War@@ nings
+Key@@ board Out
+Large f@@ ont
+Bri@@ gh@@ tness
+Single click
+Con@@ text click
+Mis@@ sing click
+Key@@ board
+Show keyboard layout
+Tur@@ n off
+Privacy Op@@ tions
+U@@ sed Location
+Location off
+Allow location access
+Location access can be changed at any time in privacy settings .
+&@@ l@@ t@@ ; Un@@ known &@@ g@@ t@@ ;
+Mobile Broad@@ band Connec@@ tion Sett@@ ings
+Air@@ plane mode is turned on
+Wireless network is disabled when your device is in air@@ plane mode .
+Wireless network is turned off
+Wireless network must be turned on to create a network connection .
+Wireless Net@@ works
+Choose a Network
+No Net@@ works
+Use the secret switch to dis@@ able
+Wireless Network Sett@@ ings
+Re@@ qui@@ red login
+V@@ P@@ N
+Connec@@ tion failed
+Network connection activ@@ ation failed
+Night mode disabled
+For@@ get
+Dis@@ able until Tom@@ orrow
+Energy Sett@@ ings
+Don &@@ apo@@ s@@ ;@@ t pa@@ ste
+Ass@@ ess@@ ment ...
+Stop Scre@@ en Rec@@ ord
+Air@@ plane mode is turned on
+Lo@@ ck
+Sub@@ scri@@ be / Sub@@ scri@@ be
+read@@ iness
+Ex@@ p@@ and ...
+Sub@@ scri@@ be
+Un@@ known th@@ under@@ bol@@ t device
+A new device has been detected in the mean time . Please dis@@ connect the device and close it again to use it .
+Th@@ under@@ bol@@ t authentic@@ ation error
+Vol@@ ume
+Fli@@ p
+Mer@@ ge Scre@@ en
+% A , % d % B
+Un@@ lock by mouse click or key press
+No Thank you
+Ke@@ ep this display settings ?
+Res@@ et
+Ke@@ ep
+Hi@@ de
+Mo@@ ve
+Change size
+Al@@ ways fore@@ ground
+Mo@@ ve a work@@ space to the left
+Mo@@ ve a work@@ space to the right
+Mo@@ ve to the screen up
+Mo@@ ve to the right monitor
+The mode used by G@@ D@@ M in the login window
+Un@@ known
+Pass@@ words do not match .
+A password must be specified
+The GN@@ OME project
+GN@@ OME p@@ lugins are used to update p@@ lugins , configure the pre@@ set of p@@ lugins and remove or dis@@ able any desired p@@ lugins .
+Set@@ up GN@@ OME S@@ hell exten@@ sions
+No match
+The extension can be updated
+Website
+Remo@@ ve ...
+Man@@ ual installed
+No installed p@@ lugins
+Log@@ in …
+Description
+U@@ U@@ U@@ ID is a unique identi@@ fier of your extension . \ n@@ You should have the format of an email address ( cli@@ ck@@ fo@@ cus &@@ ma@@ x@@ mu@@ ster@@ mann@@ .@@ illa ) \ n
+Tem@@ plate
+The unique ID of the new extension
+N@@ AM@@ E
+The visible name of the new extension
+IN@@ C@@ LU@@ D@@ ING
+V@@ OR@@ LA@@ GE
+Enter information about the extension inter@@ active
+Dis@@ able an extension
+En@@ able an extension
+Over@@ write an existing extension
+ER@@ RO@@ R
+Inst@@ all an extension package
+No extension package specified
+More than one extension package specified
+Show p@@ lugins installed by the user
+Show enabled p@@ lugins
+Show p@@ lugins with Pre@@ fer@@ ences
+Show exten@@ sions with updates
+Print Ex@@ tension Details
+The directory in which the translations are included
+D@@ OM@@ A@@ IN
+The directory to create the pack in
+QU@@ UT D@@ N@@ ER
+Cre@@ ate an extension package
+More than one source directory specified
+Op@@ ens the extension settings
+Un@@ install an extension
+P@@ ath
+Ad@@ dress
+Version
+Status
+“ version ” does not accept any arguments
+En@@ able extension
+Dis@@ able extension
+Un@@ install Ex@@ tension
+List p@@ lugins
+Show extension information
+Open Ex@@ tension Op@@ tions
+Cre@@ ate Ex@@ tension
+Package extension
+System Cl@@ ings
+Comp@@ ati@@ ble with Lib@@ res@@ wan@@ - and C@@ isco IP@@ sec@@ -@@ V@@ P@@ N servers .
+Group pass@@ word :
+IP@@ sec@@ -@@ based V@@ P@@ N
+Un@@ handled , pending authentic@@ ation .
+Do not qu@@ it when the V@@ P@@ N connection is can@@ cel@@ ed
+En@@ able the actual de@@ bug log ( can contain pass@@ words )
+D@@ -@@ Bus name to use for this instance
+This service provides an integrated IP V@@ P@@ N for Net@@ work@@ Manager .
+IK@@ Ev@@ 1 ( X@@ AU@@ T@@ H )
+Auth@@ entic@@ ation
+Secre@@ t :
+Certi@@ fic@@ ate name :
+Ex@@ p@@ anded ...
+Identi@@ fication
+domain :
+( NT@@ - ) domain name for authentic@@ ation \ n@@ confi@@ g : domain &@@ l@@ t@@ ; domain &@@ g@@ t@@ ;
+Ph@@ ase@@ 1 algorith@@ ms :
+Ph@@ ase@@ 2 algorith@@ ms :
+S@@ ets the algorith@@ m that is offered or accepted for a Ph@@ ase@@ 2 negotiation . The format is “ cip@@ her@@ -@@ h@@ ash ; mod@@ p@@ group , cip@@ her h@@ ash ; mod@@ p@@ group , … ” . \ n@@ confi@@ g : &@@ l@@ t@@ ; suggestions &@@ g@@ t@@ ;
+Ph@@ ase@@ 1 lifetime :
+Ph@@ ase@@ 2 lifetime :
+Whether a connection should not be re@@ tra@@ cked when it is running . \ n@@ confi@@ g : re@@ key &@@ l@@ t@@ ; no / yes &@@ g@@ t@@ ;
+Con@@ ne@@ si@@ tivity
+Private sub@@ network behind the pe@@ er , expressed in the form of network / network m@@ ask . \ n@@ confi@@ g : ri@@ ght@@ sub@@ net &@@ l@@ t@@ ; network &@@ g@@ t@@ ;
+IK@@ Ev@@ 2 negotiation may allow the creation of an IP@@ sec@@ t connection with band@@ width traffic selec@@ tors . This option is ignored for IK@@ Ev@@ 1 . \ n@@ confi@@ g : denti@@ ro@@ wing &@@ l@@ t@@ ; yes / no &@@ g@@ t@@ ;
+En@@ able MO@@ B@@ IK@@ E
+GN@@ OME System Monitor
+Monitor ; system ; process ; CPU ; memory ; network ; history ; load ;
+The system monitoring is a process viewer with an interesting and easy to use user interface .
+CPU list view
+Res@@ ource Over@@ view
+File system view
+The GN@@ OME project
+D@@ ele@@ te process
+Re@@ qui@@ res permission to manage other users ’ processes
+Re@@ qui@@ res per@@ missions to change the priority of processes
+Show help
+Open Men@@ u
+Key@@ board Sh@@ ort@@ cuts
+Show processes
+Show file systems
+Update
+Proc@@ esses
+Open Files
+S@@ end received signal
+S@@ end en@@ vel@@ ope signal
+Show CPU Proper@@ ties
+CPU
+S@@ wap
+Memory &amp; S@@ wap
+Filter files by name
+Search for open files
+Sett@@ ings
+Key@@ board Sh@@ ort@@ cuts
+Update
+Active processes
+Cust@@ om processes
+Proper@@ ties
+Memory Image
+Open Files
+Nor@@ mal
+Very low
+User defined
+Set Aff@@ in@@ ity
+Open Files
+En@@ able a low re@@ fin@@ ement
+War@@ n before exit or sp@@ lit@@ ting processes
+Show memory in I@@ EC
+Process information displayed in the list :
+graph@@ s
+Char@@ ac@@ ter Points
+Show di@@ agr@@ ams as smo@@ other graph@@ s
+Set network total traffic unit separately
+Show network traffic in b@@ its
+Show all file systems
+Can@@ cel
+Change Pri@@ ority
+Nic@@ e@@ -@@ Valu@@ e :
+Open the file system tab
+Show the version of the application
+Today % H : % M
+Yesterday % H : % M
+% d % d % Y
+percentage
+Select Color
+The selected color
+Inv@@ ali@@ d color data received \ n
+Click to set the colors of the graph@@ s
+V@@ M Start
+V@@ M offset
+Home - modified
+Jo@@ in - un@@ changed
+Jo@@ in together - modified
+Memory Image
+File
+IP@@ v@@ 6 network connection
+Un@@ known type
+F@@ D
+Solar@@ is mode for the CPU percentage display
+Time in milli@@ seconds between process list updates
+Time in milli@@ seconds between graph@@ s
+Whether to show information about all file systems
+Time in milli@@ seconds between device list updates
+Speci@@ fies which processes should be displayed .
+S@@ ets the currently displayed tab
+CPU colors
+S@@ wap s@@ wap graph color pre@@ set
+Set all network traffic unit separately
+Show memory and s@@ wap memory in I@@ EC
+Process list sort column
+CPU list column sor@@ ting
+Show CPU name column on star@@ tu@@ p
+Wid@@ th of the user column
+Show user column on star@@ tu@@ p
+Wid@@ th of &@@ apo@@ s@@ ; state &@@ apo@@ s@@ ; column
+Show status column on star@@ tu@@ p
+Wid@@ th of the &@@ apo@@ s@@ ; un@@ s@@ wap &@@ apo@@ s@@ ; column
+Show &@@ apo@@ s@@ ; un@@ s@@ wap &@@ apo@@ s@@ ; column on star@@ tu@@ p
+Show desktop memory column on star@@ tu@@ p
+Wid@@ th of the “ Get@@ ei@@ l@@ ter Memory ” column
+Show “ Get@@ ei@@ l@@ ter Memory ” column on star@@ tu@@ p
+Wid@@ th of the &@@ apo@@ s@@ ; X server memory column
+Show X server memory column on star@@ tu@@ p
+Wid@@ th of CPU time column
+Show the &@@ apo@@ s@@ ; gest@@ ure &@@ apo@@ s@@ ; column at star@@ tu@@ p
+Wid@@ th of &@@ apo@@ s@@ ; Nic@@ e@@ -@@ value &@@ apo@@ s@@ ; column
+Show “ Nic@@ e@@ -@@ Valu@@ e ” column on star@@ tu@@ p
+Wid@@ th of &@@ apo@@ s@@ ; ID &@@ apo@@ s@@ ; column
+Show &@@ apo@@ s@@ ; ID &@@ apo@@ s@@ ; column on star@@ tu@@ p
+Wid@@ th of the command line column
+Show process command line column on star@@ tu@@ p
+Wid@@ th of the user column
+Show memory column on star@@ tu@@ p
+Wid@@ th of the CPU column &@@ apo@@ s@@ ; Control Group &@@ apo@@ s@@ ;
+Show CPU &@@ apo@@ s@@ ; Control Group &@@ apo@@ s@@ ; on star@@ tu@@ p
+Show unit column on star@@ tu@@ p
+Wid@@ th of the “ session ” column
+Wid@@ th of the CPU column &@@ apo@@ s@@ ; Location &@@ apo@@ s@@ ;
+Show CPU &@@ apo@@ s@@ ; Location &@@ apo@@ s@@ ; at star@@ tu@@ p
+Show device events in the process at star@@ tu@@ p
+Show device w@@ rit@@ ings column across the process at star@@ tu@@ p
+Show the &@@ apo@@ s@@ ; De@@ vice device events &@@ apo@@ s@@ ; column on star@@ tu@@ p
+Wid@@ th of process &@@ apo@@ s@@ ; device w@@ rit@@ ings &@@ apo@@ s@@ ; column
+Process priority column width
+Show the “ priority ” column on star@@ tu@@ p
+De@@ vice view sort column
+De@@ vice view sort order
+Show folder column in the device view on star@@ tu@@ p
+Show type column in the device view on star@@ tu@@ p
+Show the “ whole ” column in the device view on star@@ tu@@ p
+Wid@@ th of the “ Fre@@ i ” column in the device view
+Show “ Fre@@ i ” column in the device view at star@@ tu@@ p
+Wid@@ th of the “ Av@@ ail@@ able ” column in the device view
+Show the &@@ apo@@ s@@ ; bench@@ mark &@@ apo@@ s@@ ; column in the device view at star@@ tu@@ p
+S@@ ort column of memory image
+S@@ ort order of memory image
+S@@ ort column of open files
+S@@ ort order of open files
+I@@ con
+By sending a process , data can be destroyed , the current session will be inter@@ rupted or a security risk . Only processes that will stop .
+Ke@@ ep the process received by &@@ #@@ 9@@ 1@@ ; 0 &@@ #@@ 9@@ 3@@ ; process
+Note :
+Nic@@ e@@ -@@ value of a process determin@@ es its priority , where a small Nic@@ e@@ -@@ value is a high priority .
+N / V
+CPU name
+Status
+X server memory
+CPU Time
+Pa@@ int
+Pri@@ ority
+ID
+Security Con@@ text
+Wa@@ iting Channel
+Unit
+S@@ ession
+User
+De@@ vice events across the device
+De@@ vice events
+De@@ vice W@@ ri@@ ting
+App@@ ly
+V@@ ali@@ d
+S@@ hr@@ ink
+Very high priority
+High priority
+Ad@@ wa@@ ita dark
+High Con@@ tr@@ ast
+Simp@@ li@@ fication simple
+Select an operating system . Bo@@ xes will be downloaded and installed in a virtual machine .
+Download a free available operating system .
+Set the resources ( memory and memory ) to show virtual machines on your computer .
+3D acceler@@ ation for some of the supported operating systems .
+Use the cli@@ p@@ board with your system and virtual machine together .
+Share files with virtual machines by dra@@ gging them from the file manager to the “ boxes ” window .
+The GN@@ OME project
+R@@ un and manage virtual machines
+Scre@@ en photos inter@@ val
+Win@@ dow position
+Win@@ dow position ( x and y )
+maxim@@ ized window
+Win@@ dow maxim@@ ization state
+First execution
+Free directory
+Vari@@ able field from the name of the fol@@ ded fol@@ ders and their paths
+Welcome to Bo@@ xing
+Click on the &@@ l@@ t@@ ; b &@@ g@@ t@@ ; + &@@ l@@ t@@ ; / b &@@ g@@ t@@ ; button to create your first virtual machine .
+Un@@ known medium
+Search for an operating system or enter a download link …
+Bo@@ xes could not identify the operating system in the image file .
+Cre@@ ating a new virtual machine and installing an operating system on it . First select the source for the operating system .
+Cre@@ ate a virtual machine from a file
+Download an operating system
+Pre@@ par@@ ation is running …
+Check and create
+Virtual exten@@ sions are not available on your system . Please check your BI@@ OS settings and enable them .
+U@@ ser@@ name
+Pass@@ word
+Ex@@ pression Installation
+New
+T@@ able view
+Syn@@ chron@@ ization to the file start
+You will find your file in the download directory .
+Action
+Key@@ board Sh@@ ort@@ cuts
+ful@@ l@@ screen
+Open main menu
+Key@@ board Sh@@ ort@@ cuts
+Close / Qu@@ it boxes
+Bo@@ x build and properties
+Bo@@ x Display
+To@@ ggle keyboard
+Back to overview
+To@@ ggle ful@@ l@@ screen mode
+Key@@ board Sh@@ ort@@ cuts
+Help
+About Bo@@ xes
+No CD ROM / DVD image
+Remo@@ ve
+USB devices
+Res@@ ources
+Name
+IP address
+CPU
+3D acceler@@ ation
+Allow operation in the background
+Set@@ up
+De@@ bug lo@@ gs
+Edit Sett@@ ings
+Local Fol@@ der
+Dec@@ re@@ ase to sn@@ ap@@ shot
+D@@ ele@@ te sn@@ ap@@ shot
+Qu@@ ick S@@ election
+Select the ex@@ tract installation to pre@@ set the box with optimal settings .
+Product key
+Bo@@ xes allows simple installation and running virtual machines .
+On ex@@ tract installation , boxes set the settings when creating a new virtual machine for you . Just start the installation - all of this will be removed .
+Dra@@ g and drop
+Bo@@ x actions
+Inclu@@ de the screen@@ shot
+Force sh@@ ut@@ down
+Re@@ start
+A simple GN@@ OME 3 application to access virtual machines
+Show version number
+Open in ful@@ l@@ screen mode
+Open Box with U@@ U@@ ID
+Search text
+Ad@@ dress , system medi@@ ator or installation medium to display
+To@@ o many command line arguments given . \ n
+Can@@ cel
+Open
+Choose a device or an ISO file
+Open
+Pre@@ vious
+Live
+x@@ 8@@ 6@@ -@@ system ( 32 bit )
+x@@ 8@@ 6@@ -@@ system ( 64 bit )
+Downlo@@ ading media
+Inst@@ all
+System
+C@@ tr@@ l + Alt + Del@@ ay
+C@@ tr@@ l + Alt + D@@ el
+C@@ tr@@ l + Alt + F@@ 1
+C@@ tr@@ l + Alt + F@@ 2
+C@@ tr@@ l + Alt + F@@ 7
+For@@ ward keyboard short@@ cuts
+Stop
+Dep@@ rec@@ ated
+machine is currently created
+Save …
+De@@ bug Lo@@ g
+Bo@@ xes want to run a V@@ M in the background
+The GN@@ OME Bo@@ xes F@@ lat@@ p@@ -@@ version does not support any USB deriv@@ ative .
+Do you want to open the settings to manage application per@@ missions ?
+Change the configuration of your box may lead to errors in its operating system . Would you like to create a sn@@ ap@@ shot to und@@ o the changes ?
+Use the button below to create your first sn@@ ap@@ shot .
+Not enough space on your system to increase the maximum disk size .
+Data memory drive
+Un@@ known
+An error occurred during the installation process . Ex@@ pression installation is disabled .
+Downlo@@ ading device driver …
+Is S@@ EL@@ inu@@ x installed ?
+The “ gn@@ om@@ e@@ -@@ boxes ” memory po@@ ol@@ ing information could not be retri@@ e@@ ved from lib@@ vir@@ t . Make sure that “ vir@@ sh -@@ c q@@ em@@ u : / / / session po@@ ol@@ -@@ clu@@ x@@ ml gn@@ om@@ e@@ -@@ boxes ” is running .
+In@@ sufficient host system
+Energy statistics can show running data and current battery information , as well as programs that require power and increase the computer .
+Whether to show data points in the gra@@ dient art
+The default type of the graph to display the gra@@ dient
+The maximum time to show history
+Whether to show data points for statistics in the statistics window .
+The default type of graph to display in the statistics window .
+The page number index to show as default
+The identi@@ fier of the last device to use to re@@ set the focus to the correct device .
+battery ; use ; charge ;
+Lo@@ ad
+Time until fully loaded
+3 hours
+8 hours
+1 week
+La@@ yer Profile
+Dep@@ rec@@ ated Profile
+Di@@ ff@@ icul@@ ty
+&@@ #@@ 9@@ 1@@ ; 0 &@@ #@@ 9@@ 3@@ ; Lap@@ top@@ -@@ battery battery
+&@@ #@@ 9@@ 1@@ ; 0 &@@ #@@ 9@@ 3@@ ; Monitor &@@ #@@ 9@@ 1@@ ; monitor monitor
+&@@ #@@ 9@@ 1@@ ; 0 &@@ #@@ 9@@ 3@@ ; M@@ ean &@@ #@@ 9@@ 1@@ ; 1 &@@ #@@ 9@@ 3@@ ; mi@@ ce
+&@@ #@@ 9@@ 1@@ ; 0 &@@ #@@ 9@@ 3@@ ; Key@@ board &@@ #@@ 9@@ 1@@ ; 1 &@@ #@@ 9@@ 3@@ ; keyboard
+&@@ #@@ 9@@ 1@@ ; 0 &@@ #@@ 9@@ 3@@ ; PD@@ Am@@ s@@ g@@ st@@ r &@@ #@@ 9@@ 1@@ ; 1 &@@ #@@ 9@@ 3@@ ; PD@@ As
+Mobile Phone Phone &@@ #@@ 9@@ 1@@ ; 1 &@@ #@@ 9@@ 3@@ ; Mobile Phone Phone
+Li@@ thi@@ um@@ -@@ I@@ on ( Li@@ -@@ I@@ on )
+Li@@ thi@@ um Poly@@ mer ( Li@@ P@@ o )
+Le@@ ave battery ( P@@ b )
+Emp@@ ty
+Y@@ ellow
+Wa@@ iting for loading
+At@@ tri@@ butes
+Valu@@ e
+Yes
+No
+De@@ vice
+Type
+vend@@ or
+Model
+Deli@@ very
+Re@@ fresh
+State
+Energy
+Energy when un@@ loading
+Energy ( Design )
+tension
+Per@@ cent@@ age percentage
+Cap@@ acity
+technology
+Online
+De@@ vice history
+Pre@@ calculated Time
+Pre@@ ci@@ sion
+Details
+G@@ raph :
+Data length :
+No display data exists .
+Use od@@ d line
+Show data points
+Statisti@@ cs
+Can@@ not read from an empty cli@@ p@@ board .
+No EG@@ L configuration available
+No EG@@ L configuration found with the required properties
+No perfect EG@@ L configuration found
+Could not create EG@@ L display
+No compatible formats to transfer content .
+EG@@ L implementation does not support the allowed AP@@ Is
+In@@ put
+break
+roles
+S@@ -@@ Ab@@ f
+Es@@ c
+Pos@@ 1
+Left
+R@@ unter
+Image From
+Pos@@ 1
+Pos@@ 1 ( N@@ m@@ bl@@ ck )
+Image to ( N@@ m@@ bl@@ ck )
+un@@ f ( n@@ m@@ bl@@ ck )
+un@@ f
+Incre@@ ase monitor bri@@ gh@@ tness
+Dec@@ re@@ ase monitor bri@@ gh@@ tness
+Incre@@ ase keyboard bri@@ gh@@ tness
+To@@ ggle mu@@ te
+Next Tit@@ le
+Pre@@ vious Tit@@ le
+Start recording
+Audio Media
+Dis@@ card
+File Manager
+Ta@@ b Cal@@ cul@@ ator
+Search
+Tools
+battery
+Back
+read@@ iness
+Bre@@ ak state
+Web@@ C@@ am
+Display
+To@@ ggle tou@@ ch@@ p@@ ad
+In@@ ver@@ t
+S@@ cal@@ ing in read@@ iness
+W@@ ri@@ ting a closed stream
+Glob@@ al@@ Re@@ Al@@ lo@@ c ( ) failed :
+Can@@ not convert a single handle
+Glob@@ al@@ Al@@ lo@@ c ( ) failed :
+The cli@@ p@@ board manager could not save the selection .
+GL@@ X is not supported
+Not enough space at destination
+Inv@@ ali@@ d by@@ te sequence in conversion input
+Inv@@ ali@@ d formats in associated text conversion .
+Tur@@ ns the switch around
+En@@ ables the color
+Mat@@ ch the color to
+En@@ able the p@@ lot@@ ting
+En@@ ables the entry
+En@@ able primary icon
+En@@ ables the primary icon of the entry
+En@@ able secondary icon
+Show password entry &@@ apo@@ s@@ ;@@ s contents
+Cle@@ ar
+Application
+License
+GNU General Public License , version 2 or later
+GNU General Public License , version 3 or later
+GNU L@@ ess@@ er General Public License , version 2.1 or later
+GNU L@@ ess@@ er General Public License , Version 3 or later
+BSD 2 Cl@@ ause License
+Arti@@ stic License 2.0
+GNU Aff@@ ero General Public License , only version 3
+BSD 3 cl@@ one license
+Apache License Version 2.0
+Mozilla Public License 2.0
+Website
+Cre@@ ated by
+Docum@@ entation of
+Translation from
+Design of
+Shi@@ ft
+C@@ tr@@ l
+Alt
+Super
+H@@ yp@@ er
+N@@ B
+space bar
+War@@ ning
+War@@ ning dialog
+B@@ anner
+Button
+Ch@@ eck@@ box
+S@@ election Fiel@@ d
+Comm@@ and
+mer@@ ged
+form
+Group
+He@@ ading
+Label
+Le@@ gend
+Link
+Prim@@ ary
+Ma@@ themati@@ cs
+Men@@ u Bar
+Men@@ u entry
+Men@@ u entry check@@ box
+navigation
+no
+Op@@ tions
+S@@ election Button
+S@@ election Button Group
+Area
+Area
+Line
+Ro@@ w He@@ ader
+Image Tra@@ ck Bar
+Search Fiel@@ d
+Section
+Tra@@ ck He@@ ader
+Select
+separ@@ ator
+Colum@@ ns
+Ta@@ b
+T@@ able
+Text Fiel@@ d
+Tool@@ bar
+Mini@@ help
+Tre@@ e T@@ able
+Other Application …
+Select Application
+GN@@ OME Software Star@@ ted failed
+Standard application
+Rel@@ ated Applic@@ ations
+Other applications
+No reason given
+calendar : M@@ Y
+% Y
+Dep@@ rec@@ ated
+Inv@@ ali@@ d
+New Key@@ board short@@ cut ...
+Very dark blue
+Light Green
+Very bright Y@@ ellow
+Dar@@ k Orange
+H@@ elles Red
+Red
+Very dark red
+Light Viol@@ et
+Dar@@ k bre@@ n
+Very dark bre@@ w
+White
+Dar@@ k gra@@ y 1
+Dar@@ k gra@@ y 2
+Dar@@ k gra@@ y 3
+Dar@@ k gra@@ y 4
+User defined
+F@@ it
+Close
+Man@@ age custom sizes
+in@@ ch
+Wid@@ th :
+Can@@ v@@ as :
+Left :
+Right :
+Paper dra@@ fts
+In@@ sert emo@@ tic@@ on
+A file cannot be called “ . ”
+A directory cannot be named “ .. ”
+Fil@@ en@@ ame may not contain “ / ”
+Fil@@ en@@ ame should not end with a space character
+Fol@@ der names starting with “ . ” are hidden
+A directory of same name already exists
+A file of same name already exists
+Open
+T@@ ry to use a shorter name .
+Inv@@ ali@@ d fil@@ en@@ ame
+The file cannot be moved to the tr@@ ash
+Cle@@ ar
+Could not select file
+Open with File Manager
+Show hidden files
+Show type column
+Show direc@@ tories before files
+Search
+Last change
+% H : % M
+% -@@ e . % b
+% -@@ e . % b % Y
+F@@ ont
+Graphi@@ cs
+Docum@@ ent
+presentation
+T@@ able Docum@@ ent
+Un@@ known
+You do not have access to the given directory .
+Choose a f@@ ont
+No
+Wid@@ th
+Op@@ tical Si@@ ze
+Standard
+Lig@@ ors
+C@@ ase case
+Num@@ ber W@@ ra@@ p
+Num@@ ber distance
+Num@@ ber format
+Char@@ ac@@ ters Vari@@ ation
+Open@@ GL@@ -@@ context creation failed
+C@@ ut
+Cop@@ y
+Pa@@ ste
+Open Link
+Inv@@ ali@@ d URL
+Un@@ able to un@@ lock the dialog . \ n@@ Click to avoid changing \ n@@
+Dialog is locked . \ n@@ Click for \ n@@ Chan@@ ges
+default : LT@@ R
+Connec@@ tion
+Connec@@ t Anonymous
+In@@ ver@@ ted
+For@@ get password immediately
+Terminal P@@ ager
+Top command
+Bour@@ ne@@ -@@ × S@@ hell
+Ta@@ b List
+Ta@@ b
+No valid page setup file
+Man@@ age custom sizes …
+Any printer
+For portable documents
+Show text
+fixed key is enabled
+Show text
+Last used
+Recently used files
+Other locations
+Open in new window
+Add book@@ marks
+Mount
+Dis@@ card
+Start
+Connec@@ t Drive
+Dis@@ connect Drive
+Stop multimedia drive
+Ho@@ st
+No network value found
+Un@@ able to access location
+Connec@@ tion
+App@@ le@@ Tal@@ k
+Network File System
+SS@@ H File Transfer Protocol
+s@@ ft@@ p : / / / or s@@ sh : / /
+da@@ v : / / / or da@@ v@@ s : / /
+Connec@@ tion
+Can@@ not get remote server location
+Net@@ works
+Se@@ par@@ ate
+Ke@@ ep Pass@@ word
+Select Fil@@ en@@ ame
+Un@@ available
+Pre@@ par@@ ing printing
+S@@ ending data
+Wa@@ it
+Lo@@ ck because of problem
+Print
+Comple@@ ted with error
+Application
+No paper more
+pack@@ aged
+Cust@@ om size
+Inv@@ ali@@ d argument for Cre@@ ate@@ DC
+Start Do@@ c error
+Un@@ known error
+Print
+Left to right , bottom to top
+Top to bottom , left to right
+Top to bottom , right to left
+L
+Second dust
+Ro@@ tate clo@@ ck@@ wise
+S@@ cro@@ ll to left
+S@@ cro@@ ll to right
+Search Resul@@ ts
+Re@@ pe@@ at
+mu@@ te
+Do not show this message anymore
+minim@@ ize window
+maxim@@ ize window
+Close
+Re@@ store
+Ob@@ ject P@@ ath
+En@@ able
+Par@@ ame@@ ter@@ Type
+Position the mouse here to load
+locally
+Prim@@ ary
+No
+Bl@@ ase
+Dest@@ ination
+You can enter any of GT@@ K recognized C@@ SS@@ -@@ rules here .
+Dis@@ able this own CSS
+St@@ yle Cl@@ asses
+De@@ activated
+GT@@ K version
+Pan@@ go f@@ ont statement
+Media back@@ end
+In@@ put Metho@@ d
+Res@@ ource P@@ ath
+GL@@ -@@ vend@@ or
+volcan@@ o AP@@ I version
+volcan@@ o driver version
+Un@@ named Section
+Dest@@ ination
+Buil@@ d ID
+Qu@@ ery mode
+Base Line
+Image clock
+Mark@@ er return
+Fr@@ am@@ er@@ ated
+Top layer
+Vi@@ sible Sub@@ element
+At@@ tribute :
+column :
+Standard
+Them@@ e
+X@@ Sett@@ ings
+Un@@ known
+defined at
+Rec@@ ord Fr@@ ames
+Save selected no@@ de
+Cop@@ y to cli@@ p@@ board
+property
+Si@@ ze
+Name :
+Type :
+N@@ one
+Horiz@@ ont@@ ally
+Ver@@ tical
+Mode
+G@@ Li@@ b must be configured with --@@ D@@ buil@@ d@@ type = de@@ bug
+C@@ um@@ ul@@ ative 1
+C@@ um@@ ul@@ ative 2
+Sel@@ f
+Imple@@ mented
+GL@@ -@@ representation disabled
+Dar@@ k vari@@ ation
+Po@@ inter theme
+I@@ con theme
+Text Ex@@ pression
+Right to left
+Anim@@ ations
+Show graphics updates
+Show bas@@ en@@ ame
+Show layout borders
+C@@ SS@@ -@@ p@@ adding
+C@@ SS@@ border
+Wid@@ get over@@ lay
+Show focus
+Choose an object
+Show Details
+Show all items
+Show all resources
+Cal@@ cul@@ ate statistics
+Update Action Status
+Next Tra@@ ck
+C@@ SS@@ no@@ de
+Ad@@ just group size
+Action
+accessibility
+Global
+Res@@ ources
+Access all alternatives
+Re@@ qui@@ re@@ ments above the base line
+Altern@@ ate Bro@@ ken
+Active
+Di@@ ak@@ ri@@ tic posi@@ tioning below the base line
+Re@@ qui@@ re@@ ments below the base line
+Si@@ ze / lower@@ case dependent shapes
+Com@@ position / Dec@@ re@@ ase of Gl@@ yp@@ h@@ s
+Connec@@ ted shapes
+Con@@ text conditional Lig@@ ors
+Cap@@ itali@@ zation of capital letters
+Con@@ text conditional oni@@ on@@ -@@ book
+Cur@@ sive Posi@@ tioning
+C@@ ells of capital letters
+denom@@ in@@ ator
+Exper@@ t shapes
+Bro@@ ken
+Full width
+Hal@@ f shapes
+Histor@@ ical Lig@@ ors
+Han@@ gu@@ l
+Initi@@ al shapes
+I@@ soli@@ dated shapes
+Itali@@ c
+J@@ IS@@ 7@@ 8@@ -@@ shapes
+J@@ IS@@ 8@@ 3 shapes
+Def@@ ault Lig@@ ors
+Le@@ ading Jam@@ o shapes
+Local shapes
+Medi@@ al shapes
+Di@@ ak@@ ri@@ cs to di@@ ak@@ ri@@ cs posi@@ tioning
+Di@@ ak@@ ri@@ tic posi@@ tioning by replacement
+An@@ no@@ tation alternative shapes
+Nu@@ k@@ ta@@ -@@ shapes
+Coun@@ t
+Medi@@ a@@ deci@@ mal Num@@ bers
+Fol@@ der character
+Small capital
+Prop@@ or@@ tion@@ al@@ -@@ rate
+Re@@ qui@@ re@@ ments before base line
+Sha@@ pes by base line
+Re@@ qui@@ re@@ ments by the base line
+Quar@@ ter width
+Re@@ qui@@ red conc@@ ent@@ ric alternatives
+Re@@ ph@@ -@@ shapes
+Right bound@@ ary
+Sav@@ ed right to right left alternatives
+Rub@@ y@@ -@@ note shapes
+Op@@ tical Si@@ ze
+Cap@@ s
+Sti@@ cky Set 3
+Sti@@ cky Set 4
+Sti@@ cky Set 5
+Sti@@ cky Set 6
+Sti@@ cky Set 7
+Sti@@ cky Set 9
+Sti@@ cky Set 13
+Sti@@ cky Set 18
+Sti@@ cky Set 19
+Sti@@ cky Set 20
+Altern@@ ate for Ma@@ themati@@ cal Scri@@ pts
+I@@ con de@@ composition of Gl@@ yp@@ h@@ s
+Lo@@ ading
+C@@ ut letter
+Fin@@ ishing Jam@@ o shapes
+Tradi@@ tional nam@@ es@@ pace shapes
+V@@ at@@ to@@ -@@ vari@@ ants
+Altern@@ ate vertical sem@@ it@@ ri@@ cs
+Ver@@ tical channel alternatives
+Ver@@ tical kernel
+Prop@@ or@@ tional alternative vertical met@@ ri@@ cs
+Ver@@ tical alternatives with ro@@ tation
+Ver@@ tical ro@@ tation alternatives
+A@@ 0
+A@@ 2
+A@@ 2 × 3
+A@@ 3
+A@@ 3 × 6
+A@@ 3 × 7
+A4
+A4 Ta@@ b
+A4 × 3
+A4 × 4
+A4 × 5
+A4 × 7
+A4 × 8
+A@@ 8
+B@@ 1
+B@@ 3
+B@@ 4
+Sha@@ pe Ex@@ tra
+Red@@ o / CC
+B@@ 7
+B@@ 8
+C@@ 2
+Cy@@ cling
+RE@@ AS@@ T
+DO / COM
+C@@ 9
+RA@@ 2
+RA@@ 4
+S@@ RA@@ 0
+S@@ RA@@ 2
+S@@ RA@@ 3
+S@@ RA@@ 4
+J@@ B@@ 1
+J@@ B@@ 3
+J@@ B@@ 7
+J@@ B@@ 8
+Ch@@ ou@@ Turkey 2 en@@ vel@@ ope
+Ch@@ ou@@ Turkey 3@@ -@@ B@@ order
+Ch@@ ou@@ Turkey 4 en@@ vel@@ ope
+Ch@@ ou@@ Turkey 40@@ th B@@ order
+k@@ ah@@ u wra@@ pping
+Ti@@ le B@@ order
+k@@ ev@@ 8 en@@ vel@@ ope
+ou@@ fu@@ ku ( response post@@ card )
+you@@ 4 B@@ order
+10 × 11
+10 × 13
+10 × 15
+11 × 12
+5 × 7
+6@@ x@@ 9@@ -@@ B@@ order
+9@@ x@@ 11@@ -@@ W@@ ra@@ p
+9@@ x@@ 12@@ -@@ W@@ ra@@ p
+Ar@@ ch C
+b@@ -@@ plus
+c@@ 5 wra@@ pping
+European ed@@ p
+f
+End loo@@ p European
+End lo@@ sp@@ ap@@ ed American
+End lo@@ sp@@ ap@@ ed German legal
+Administr@@ ative Right
+Administr@@ ative Let@@ ter
+Index 3@@ x@@ 5
+Index 4@@ x@@ 6 ( post@@ card )
+Ar@@ ran@@ gement
+Tab@@ lo@@ id
+USB Let@@ ter Ex@@ tra
+O@@ fici@@ o
+Quar@@ to
+Super B
+White format
+Inv@@ ali@@ d offset
+Italian b@@ lending
+Large photo
+Central Pho@@ tos
+pa@@ -@@ k@@ ai
+Post@@ fi@@ x offset
+Broad@@ band Photo
+pr@@ c@@ 1 wra@@ pping
+pr@@ c@@ 2 wra@@ pping
+pr@@ c@@ 4 wra@@ pping
+pr@@ c@@ 6 en@@ vel@@ ope
+pr@@ c@@ 7 en@@ vel@@ ope
+pr@@ c@@ 8 wra@@ pping
+RO@@ C 16@@ k
+Sett@@ ings
+Services
+Show All
+Inv@@ ali@@ d pages
+Cross format
+He@@ ader High Format
+He@@ ader cross format
+Un@@ supported video co@@ dec
+User name :
+Ex@@ trac@@ ting jobs
+;
+Paper type
+Paper In@@ put
+Out@@ put eight
+Resolution
+G@@ host@@ Scri@@ pt@@ -@@ fil@@ tering
+Uni@@ que
+Sh@@ ort border ( rot@@ ate )
+Ex@@ p@@ anded
+Uni@@ que
+Long border ( default )
+Top B@@ in
+Middle B@@ in
+Page B@@ in
+Middle B@@ in
+Bo@@ t@@ tom Bo@@ t@@ tom
+Ho@@ se
+Res@@ ources
+Pri@@ ority
+Cal@@ cul@@ ation info
+Confi@@ dence
+secret
+Standard
+Un@@ classic
+P@@ ages per sheet
+Print around
+Print at clock
+PDF
+P@@ ages per sheet :
+Print in this folder instead of c@@ w@@ d
+Cre@@ ate de@@ bug output
+N@@ OT@@ E &@@ #@@ 9@@ 1@@ ; UR@@ I … &@@ #@@ 9@@ 3@@ ; — start an O@@ UT
+Start an application specified by its desktop file \ n@@ and op@@ tionally passed one or more UR@@ Is as arguments .
+Don &@@ apo@@ s@@ ;@@ t check for inde@@ x.@@ theme to exist
+Do not insert image data to cache
+In@@ sert image data to cache
+Print C@@ -@@ He@@ ader File
+C@@ is@@ co@@ -@@ IP@@ se@@ c virtual private networks client
+Comp@@ ati@@ ble with C@@ is@@ co@@ -@@ V@@ P@@ N concentr@@ ators configured to use IP@@ se@@ c .
+Net@@ work@@ Manager developer
+Group pass@@ word :
+Auth@@ entic@@ ate V@@ P@@ N
+Group pass@@ word :
+C@@ is@@ co@@ -@@ compatible V@@ P@@ N client ( v@@ p@@ n@@ c )
+Secure ( default )
+S@@ hu@@ ff@@ le ( use with caution )
+No ( completely un@@ safe )
+C@@ isco ( default )
+Net@@ screen
+SER@@ -@@ T when available ( default )
+Al@@ ways SER@@ -@@ T
+C@@ is@@ co@@ -@@ U@@ DP
+DH@@ -@@ Group 2 ( default )
+DH@@ -@@ Group 5
+v@@ p@@ n@@ c does not support interactive requests
+Could not use the new security key because the interactive mode is disabled .
+Due to invali@@ d V@@ P@@ N connection settings , the request could not be processed .
+n@@ m@@ -@@ v@@ p@@ n@@ c@@ -@@ service integrated C@@ isco Leg@@ acy IP@@ sec@@ -@@ V@@ P@@ N functionality in Net@@ work@@ Manager .
+General
+Show pass@@ words
+Group password \ n@@ confi@@ g : IP@@ Se@@ c &@@ &@@ l@@ t@@ ; group password &@@ g@@ t@@ ;
+Group name \ n@@ confi@@ g : IP@@ Se@@ c ID &@@ l@@ t@@ ; group name &@@ g@@ t@@ ;
+User password
+U@@ ser@@ name
+Use hybri@@ d authentic@@ ation
+Allow hybri@@ d authentic@@ ation to use certificate in addition to password . \ n@@ confi@@ g : IK@@ E Auth@@ mode hybri@@ d
+Ex@@ p@@ anded ...
+Identi@@ fication
+( NT@@ - ) domain name for authentic@@ ation \ n@@ confi@@ g : domain &@@ l@@ t@@ ; domain &@@ g@@ t@@ ;
+vend@@ or
+Version
+Local port
+IK@@ E DH@@ -@@ Group
+SER@@ -@@ Tra@@ verse
+Local IS@@ ACP port to use ( 0 for random port ; 500 is the default port of v@@ p@@ n@@ c ) \ n@@ confi@@ g : Local port &@@ l@@ t@@ ; 0@@ -@@ 6@@ 5@@ 35 &@@ g@@ t@@ ;
+For P@@ FS Di@@ ff@@ ie@@ -@@ H@@ ell@@ man group \ n@@ confi@@ g : Perf@@ ect For@@ ward Sec@@ rec@@ y &@@ l@@ t@@ ; no@@ ops / &@@ 1 / &@@ 2 / &@@ 5 / server &@@ g@@ t@@ ;
+Name of the IK@@ E DH@@ -@@ Group \ n@@ confi@@ g : IK@@ E D@@ H Group &@@ l@@ t@@ ; &@@ 1 / &@@ 2 / &@@ 5 &@@ g@@ t@@ ;
+Per@@ cent@@ age Tra@@ vers@@ al Metho@@ d \ n@@ confi@@ g : N@@ one Tra@@ verse Mode &@@ l@@ t@@ ; nat@@ t / none / for@@ ce@@ -@@ nat@@ t / c@@ is@@ co@@ -@@ u@@ d@@ p &@@ g@@ t@@ ;
+En@@ cryp@@ tion method \ n@@ confi@@ g : nothing for safe , “ En@@ able Single D@@ ES ” for white , “ En@@ able no encryp@@ tion ” for no
+En@@ cryp@@ tion method
+Video
+Play videos
+Video contains additional features such as downloading sub@@ titles , re@@ play speed , creation of screen@@ shots , and support for recording DVDs .
+Video ; film ; cli@@ p ; series ; player ; player ; DVD ; TV ; CD ; To@@ tem ;
+The video contrast
+The video sat@@ ur@@ ation
+Whether to dis@@ able the d@@ ein@@ ter@@ lac@@ ing for existing videos from sem@@ it@@ ones
+Audio output output type to use
+Si@@ ze of the cache to use for network stre@@ ams before the stream is restored ( in seconds )
+Sub@@ title character en@@ coding .
+Def@@ ault Open … Open location
+Def@@ ault location of the Open … dialog , default is the current directory .
+Def@@ ault location of the screen photo … &@@ apo@@ s@@ ; dialog
+Whether sub@@ titles should be automatically loaded when loading a filter
+List of active p@@ lugins
+A list of p@@ lugins currently active ( loaded and running ) .
+Fol@@ der to display
+Ster@@ eo
+4 channel
+Lo@@ ad sub@@ titles when a video is loaded
+Select sub@@ title f@@ ont
+Ex@@ tensions
+Ex@@ tensions ...
+General
+Color Equ@@ al
+Con@@ tr@@ ast :
+Satur@@ ation :
+H@@ ue :
+Audio Out@@ put type :
+Proper@@ ties
+Qu@@ it
+Incre@@ ase volume
+To@@ ggle mu@@ te / un@@ mu@@ te mu@@ te
+View
+Dis@@ able ful@@ l@@ screen
+Ro@@ tate
+Play / P@@ ause
+J@@ um@@ p
+Go forward 60 seconds
+Ste@@ p back to the previous frame
+Ste@@ p before next frame
+Go back 5 seconds
+Go back 3 minutes
+J@@ um@@ p to …
+Up
+Bo@@ t@@ tom
+To left
+Right
+Bin@@ ding
+Help
+Add local video …
+View ratio
+Autom@@ atic
+16 : 9 ( broadband image )
+2.@@ 11 : 1 ( DV@@ B )
+Swi@@ tch view angle
+Dis@@ card
+Sub@@ title
+Select text sub@@ title …
+Tra@@ ck Men@@ u
+C@@ amera Name
+Play speed
+Please enter the address of the file to open :
+A password is requested for the RT@@ SP@@ s server
+The source appears encryp@@ ted and cannot be read . T@@ ry to play a encryp@@ ted DVD without lib@@ d@@ v@@ d@@ c@@ ss ?
+Could not find the given film .
+missing SSL / T@@ L@@ S support . Please check your installation .
+Could not read the film .
+The file you wanted to play is empty .
+This stream cannot be played . It may be blocked by a fire@@ wall .
+Mis@@ sing some required p@@ lugins . Make sure the program is installed correctly .
+-- --
+Video pre@@ view
+Fil@@ en@@ ame
+Dur@@ ation
+Brow@@ se Er@@ ror
+Search error
+Please make sure the to@@ tem is installed correctly .
+Click objects to select them
+Back
+Search
+Sound track
+Sub@@ title
+Auto
+No
+Play@@ back
+Next Tit@@ le / Film
+Could not start To@@ tem .
+Play / P@@ ause
+Pre@@ vious
+To@@ ggle
+To@@ ggle ful@@ l@@ screen
+Qu@@ it
+Qu@@ eu@@ e to
+Qu@@ eu@@ e and re@@ set is not possible at the same time
+Close
+Cle@@ ar
+Arab@@ ic
+Bal@@ tic
+Chinese ( simplified )
+Chinese ( traditional )
+Croatia
+Cy@@ ri@@ llic / Russian
+Greek
+Hin@@ di
+Is@@ Dutch
+Japanese
+Per@@ sian
+South European
+Thai
+Turkish
+Viet@@ nam@@ ese
+Sub@@ title Files
+Select Sub@@ title
+S@@ ets the so@@ for@@ tn@@ ess@@ -@@ message state to “ Out ” when a video is played
+MP@@ R@@ IS D@@ -@@ Bus Interface
+S@@ end noti@@ fications about currently saved videos and allow remote control with MP@@ R@@ IS .
+Open Fol@@ der
+Sub@@ title Downlo@@ ader
+Search for sub@@ titles for the current film
+S@@ ear@@ ching sub@@ titles …
+Downlo@@ ading sub@@ titles …
+Can@@ not connect to Open@@ Sub@@ titles read website
+Could not connect to the Open@@ Sub@@ titles read website .
+No search results .
+Format
+Sub@@ title language :
+Fil@@ l Proper@@ ties
+Add Fil@@ l Proper@@ ties Men@@ u
+Tit@@ le :
+Album :
+Comm@@ ent :
+container :
+dimensions :
+Bit@@ rate :
+Channel :
+Un@@ known
+Un@@ known
+Un@@ known
+Un@@ known
+k@@ .@@ A .
+k@@ .@@ A .
+k@@ .@@ A .
+k@@ .@@ A .
+0 Hz
+r@@ isco b@@ 2 password
+Py@@ th@@ on Con@@ sole
+To@@ tem Py@@ th@@ on Con@@ sole
+Recently used files
+ro@@ tation extension
+Al@@ lows videos to rot@@ ate if they are mis@@ align@@ ed
+Save a copy of the currently saved filter
+Files is not available .
+Film
+Dis@@ ables the screen sa@@ ver on film player
+Play a video
+Wid@@ th of the screen@@ shot ( in pi@@ xels ) :
+Cal@@ cul@@ ate the number of screen@@ shots
+Num@@ ber of screen@@ shots :
+Provi@@ des the jump to the &@@ apo@@ s@@ ; sp@@ in to &@@ apo@@ s@@ ; dialog
+Sec@@ on@@ dary 9@@ 1@@ ; 0 &@@ #@@ 9@@ 3@@ ; Sec@@ on@@ dary g@@ st@@ r &@@ #@@ 9@@ 1@@ ; 1 &@@ #@@ 9@@ 3@@ ; seconds
+J@@ um@@ p to
+J@@ um@@ p to …
+Nor@@ mal
+1.@@ 25@@ -@@ case
+1.@@ 5 x
+1.@@ 7@@ 5@@ -@@ x
+Vari@@ able play@@ speed
+Provi@@ des a menu for variable play@@ back speed
+S@@ ets the user agent for the V@@ im@@ eo@@ -@@ page
+Color space
+With Alpha
+Num@@ ber of bit per color share
+Wid@@ th
+Ro@@ w@@ stri@@ de
+Po@@ inter to pi@@ xel data of a pi@@ x@@ bu@@ f
+Pi@@ x@@ el@@ -@@ by@@ te
+Not enough memory to save image to C@@ all@@ back
+Er@@ ror writing to image stream
+Whether the animation should be repeated after exit
+Image default un@@ us@@ able
+Not enough memory to load animation
+Bad ch@@ unk in animation
+In@@ i@@ tial size of the B@@ MP image is not supported
+Can &@@ apo@@ s@@ ;@@ t comp@@ ress top@@ down images
+File end occurred too early
+The image is too wide for the B@@ MP format .
+JP@@ EG
+T@@ IF@@ F
+Could not load met@@ ad@@ file
+Un@@ supported image format for G@@ DI +
+Could not save
+W@@ M@@ F
+Not enough memory to load G@@ IF@@ -@@ image
+File doesn ’ t seem to be a G@@ IF file
+Data in@@ complete in the G@@ IF file ( maybe it was some hidden ? )
+The G@@ IF image has been mu@@ te or is incomplete .
+Mac@@ OS X icon
+Com@@ pressed i@@ cons not supported
+Un@@ supported icon type
+The I@@ CO@@ -@@ image has been mu@@ te or is incomplete .
+Po@@ inter Ho@@ ts@@ pot outside image
+Hei@@ ght or width of the trans@@ form@@ ed JP@@ EG is zero .
+The bit number per channel of the P@@ NG image is invali@@ d .
+B@@ its per channel of transform P@@ NG are not 8 .
+Trans@@ formed P@@ NG is not R@@ GB or R@@ GB@@ A .
+heavy errors while reading a P@@ NG image file
+PN@@ M file has an invali@@ d width
+PN@@ M file has an invali@@ d height
+PN@@ M file image height is 0
+raw PN@@ M image type is invali@@ d
+PN@@ M image lo@@ ader does not support this PN@@ M sub@@ format
+raw PN@@ M formats require exactly one space before color split data
+In@@ put file descri@@ p@@ tor is N@@ UL@@ L .
+Could not read Q@@ T@@ IF@@ -@@ He@@ ader
+Could not create G@@ d@@ k@@ Pi@@ x@@ bu@@ f@@ Lo@@ a@@ der@@ -@@ object .
+Could not al@@ locate color table
+Could not create new pi@@ x@@ bu@@ f
+The wrong color image does not contain a color attri@@ bute
+Could not al@@ locate T@@ G@@ A@@ -@@ default memory
+Could not al@@ locate memory for T@@ G@@ A@@ -@@ context structure
+Tar@@ ga
+Could not get image width ( invali@@ d T@@ IF@@ F file )
+Could not get image height ( invali@@ d T@@ IF@@ F file )
+T@@ IF@@ F image width or height is zero
+T@@ IF@@ F image dimensions too large
+Not enough memory to open T@@ IF@@ F file
+Could not open T@@ IF@@ F image
+Could not load T@@ IF@@ F image
+Could not save T@@ IF@@ F image
+T@@ IF@@ F comp@@ ression does not refer to a valid co@@ dec .
+Could not save T@@ IF@@ F data
+X@@ B@@ M
+No X@@ P cur@@ sor display found
+Inv@@ ali@@ d XML file he@@ ader
+Wid@@ th of the XML image file &@@ l@@ t@@ ; = 0
+Hei@@ ght of the XML image file &@@ l@@ t@@ ; = 0
+Could not al@@ locate memory used to load an XML image
+Could not read XML color table
+Min@@ es
+Min@@ es@@ we@@ eper ; M@@ ine ; game ; pu@@ zzle ;
+Small game field
+Large game field
+The title of the game history to use .
+If set to true , you will be allowed to mark square as unknown .
+Whether check should be marked automatically as a decrease when enough box is revealed
+Whether to dis@@ able theme based transition anim@@ ations
+Num@@ ber of rows of custom game field
+The number of min@@ ers in a custom game
+Win@@ dow &amp; Game
+Start a new game
+Re@@ start the game with the current settings
+Show help
+Open Men@@ u
+Show short@@ cuts
+Qu@@ it
+Game size selection
+Game size : means
+In game
+Un@@ cover Fiel@@ d
+To@@ ggle the field &@@ apo@@ s@@ ;@@ s path state
+Wid@@ th
+Can@@ cel
+break
+Change difficulty
+pack@@ aged
+Print version number and qu@@ it
+Central game
+Large game
+Ap@@ pe@@ arance Image
+Help
+About Min@@ es
+Min@@ or Fiel@@ d :
+Ke@@ ep the current game
+Start from new
+For@@ get
+Play again
+Cle@@ ar explo@@ sive min@@ ers from field
+Select Them@@ e
+Only take the current window instead of the whole work@@ space . This key is de@@ prec@@ ated and will no longer be used .
+Direc@@ tory where screen photos are placed by default .
+Last screen@@ shot directory
+Direc@@ tory where the last screen@@ shot was inser@@ ted .
+Inclu@@ de IC@@ C profile
+Inclu@@ de IC@@ C profile with the screen@@ shot
+Def@@ ault File Ex@@ tension
+Def@@ ault file extension for screen@@ shots .
+Inclu@@ de the screen@@ shot of the current window
+GN@@ OME Scre@@ en Photo
+Can@@ cel
+Save
+Direc@@ tory :
+Inclu@@ de the screen@@ shot
+Rec@@ ording Area
+Scre@@ en
+S@@ election
+0
+About Scre@@ en Pho@@ tos
+Could not get screen@@ shot
+An error occurred while creating the file . Please choose another folder and try again .
+Er@@ ror creating file
+U@@ ne@@ x@@ pec@@ ted screen@@ shot
+Inclu@@ de only one range instead of the entire screen
+Remo@@ ve the window bound@@ ary from the screen@@ shot . This option is considered de@@ prec@@ ated and window limits are always included
+Scre@@ en focus only after given time &@@ #@@ 9@@ 1@@ ; in seconds &@@ #@@ 9@@ 3@@ ;
+Inter@@ active Set Op@@ tions
+Fil@@ en@@ ame
+Show version information and exit
+Scre@@ en Photo .@@ p@@ n@@ g
+Er@@ ror loading help
+Connec@@ t
+Dis@@ connect
+Connec@@ tion dis@@ connected
+BE@@ K@@ AN@@ NT
+More …
+property
+Proper@@ ties
+Name
+Property Name
+Property Valu@@ e
+About
+Events
+Event tim@@ est@@ amp
+As@@ ks
+Qu@@ ery type
+Type type request :
+Position
+Data size
+Ob@@ ject P@@ ath
+Si@@ ze buffer
+S@@ end Data
+Mes@@ sage type
+Mes@@ sage Tim@@ est@@ amp
+Ob@@ ject
+Level
+Fun@@ ction
+Mes@@ sage
+Lo@@ g level :
+Set threshold threshold
+C@@ ateg@@ ory
+( press “ Update ” button )
+Un@@ supported Type :
+Edit
+Pre@@ fer@@ ences ...
+Server
+About …
+Lo@@ g messages
+Bus messages
+Cle@@ ar
+Copyright ( C ) 2015 Mar@@ c@@ in Kol@@ ny &@@ l@@ t@@ ; mar@@ cin@@ .@@ kol@@ ny &@@ g@@ mail@@ .com &@@ g@@ t@@ ;
+Ro@@ w Colum@@ ns :
+IP address :
+GN@@ OME Remo@@ te Desktop
+Status &@@ #@@ 9@@ 1@@ ; --@@ show@@ -@@ cre@@ denti@@ als &@@ #@@ 9@@ 3@@ ; - Show current state \ n \ n@@ options : \ n --@@ help - show this help text \ n
+If true , the R@@ D@@ P back@@ end will be initi@@ alized .
+Scre@@ en share type on R@@ D@@ P connections
+Certi@@ fic@@ ate file path
+To use R@@ DP with T@@ L@@ S security , both private key file and certificate file must be provided to the R@@ D@@ P server .
+private key file path
+Remo@@ te connections only allow the screen content to be visible
+Whether or not the V@@ N@@ C back@@ end is enabled
+Metho@@ d used to authentic@@ ate V@@ N@@ C connections
+clo@@ ck@@ speed ro@@ tation
+There are overall &@@ #@@ 9@@ 1@@ ; people &@@ #@@ 9@@ 3@@ ; people . &@@ #@@ 9@@ 1@@ ; bro@@ thers have bro@@ thers , &@@ #@@ 9@@ 1@@ ; si@@ sters &@@ #@@ 9@@ 3@@ ; have si@@ sters and &@@ #@@ 9@@ 1@@ ; both &@@ #@@ 9@@ 3@@ ; and many people have neither bro@@ thers nor si@@ sters ?
+Pass@@ word
+Every place has 10 options . The total number of options is 10 high &@@ #@@ 9@@ 1@@ ; dig@@ its &@@ #@@ 9@@ 3@@ ; .
+Tennis game
+Inter@@ est interest rates are calculated on the base capital plus all the interest generated .
+What number plus &@@ #@@ 9@@ 1@@ ; numer@@ a &@@ #@@ 9@@ 3@@ ; is equal to &@@ #@@ 9@@ 1@@ ; numer@@ b &@@ #@@ 9@@ 3@@ ; ?
+It is the result of the operation &@@ #@@ 9@@ 1@@ ; numer@@ b &@@ #@@ 9@@ 3@@ ; - &@@ #@@ 9@@ 1@@ ; numer@@ a &@@ #@@ 9@@ 3@@ ; .
+What number min@@ us &@@ #@@ 9@@ 1@@ ; numer@@ a &@@ #@@ 9@@ 3@@ ; is equal to &@@ #@@ 9@@ 1@@ ; numer@@ b &@@ #@@ 9@@ 3@@ ; ?
+Which number multip@@ lied with &@@ #@@ 9@@ 1@@ ; numer@@ a &@@ #@@ 9@@ 3@@ ; is equal to &@@ #@@ 9@@ 1@@ ; numer@@ b &@@ #@@ 9@@ 3@@ ; ?
+It is the result of the operation &@@ #@@ 9@@ 1@@ ; numer@@ b &@@ #@@ 9@@ 3@@ ; / &@@ #@@ 9@@ 1@@ ; numer@@ a &@@ #@@ 9@@ 3@@ ; .
+Which number is split by &@@ #@@ 9@@ 1@@ ; numer@@ a &@@ #@@ 9@@ 3@@ ; is equal &@@ #@@ 9@@ 1@@ ; numer@@ b &@@ #@@ 9@@ 3@@ ; ?
+It is the result of the operation &@@ #@@ 9@@ 1@@ ; numer@@ a &@@ #@@ 9@@ 3@@ ; * &@@ #@@ 9@@ 1@@ ; numer@@ b &@@ #@@ 9@@ 3@@ ; .
+Beh@@ avi@@ or
+Ch@@ ess
+Pal@@ in@@ th@@ mic years
+Dar@@ k
+Only three of the four numbers in the plot will be used to add 120 points .
+He@@ bel
+Take the arch@@ im@@ e@@ de set to be written : &@@ apo@@ s@@ ; Gi@@ b me a point on which I can stand , and I will raise the world from the flag .
+A le@@ ver is in balance when placed objects in distance are in@@ ver@@ sely propor@@ tional to their wei@@ ghts .
+Multi@@ ple Num@@ ber
+&@@ #@@ 9@@ 1@@ ; optional pre@@ fix &@@ #@@ 9@@ 3@@ ; &@@ #@@ 9@@ 1@@ ; optional &@@ #@@ 9@@ 3@@ ; and &@@ #@@ 9@@ 1@@ ; op@@ tion@@ c &@@ #@@ 9@@ 3@@ ;
+&@@ #@@ 9@@ 1@@ ; optional pre@@ fix &@@ #@@ 9@@ 3@@ ; &@@ #@@ 9@@ 1@@ ; optional &@@ #@@ 9@@ 3@@ ; and &@@ #@@ 9@@ 1@@ ; op@@ tion@@ b &@@ #@@ 9@@ 3@@ ;
+&@@ #@@ 9@@ 1@@ ; optional pre@@ fix &@@ #@@ 9@@ 3@@ ; &@@ #@@ 9@@ 1@@ ; optional &@@ #@@ 9@@ 3@@ ; and &@@ #@@ 9@@ 1@@ ; op@@ tion@@ c &@@ #@@ 9@@ 3@@ ;
+&@@ #@@ 9@@ 1@@ ; optional pre@@ fix &@@ #@@ 9@@ 3@@ ; &@@ #@@ 9@@ 1@@ ; op@@ tion@@ c &@@ #@@ 9@@ 3@@ ; and &@@ #@@ 9@@ 1@@ ; optional &@@ #@@ 9@@ 3@@ ;
+&@@ #@@ 9@@ 1@@ ; optional &@@ #@@ 9@@ 3@@ ; and &@@ #@@ 9@@ 1@@ ; op@@ tion@@ b &@@ #@@ 9@@ 3@@ ;
+&@@ #@@ 9@@ 1@@ ; optional pre@@ fix &@@ #@@ 9@@ 3@@ ; s &@@ g@@ t@@ ; p
+&@@ #@@ 9@@ 1@@ ; optional pre@@ fix &@@ #@@ 9@@ 3@@ ; p &@@ l@@ t@@ ; r
+&@@ #@@ 9@@ 1@@ ; optional pre@@ fix &@@ #@@ 9@@ 3@@ ; p &@@ g@@ t@@ ; r
+&@@ #@@ 9@@ 1@@ ; optional pre@@ fix &@@ #@@ 9@@ 3@@ ; q = s
+&@@ #@@ 9@@ 1@@ ; optional pre@@ fix &@@ #@@ 9@@ 3@@ ; for &@@ l@@ t@@ ; q
+&@@ #@@ 9@@ 1@@ ; optional pre@@ fix &@@ #@@ 9@@ 3@@ ; x * y
+&@@ #@@ 9@@ 1@@ ; optional pre@@ fix &@@ #@@ 9@@ 3@@ ; x * y * 2
+&@@ #@@ 9@@ 1@@ ; optional pre@@ fix &@@ #@@ 9@@ 3@@ ; ( x - y ) * 2
+The heavy load wei@@ ghted &@@ #@@ 9@@ 1@@ ; &@@ #@@ 9@@ 3@@ ; and the ligh@@ ter &@@ #@@ 9@@ 1@@ ; ligh@@ ter &@@ #@@ 9@@ 3@@ ; .
+Family Rel@@ ation@@ ships
+&@@ #@@ 9@@ 1@@ ; optional pre@@ fix &@@ #@@ 9@@ 3@@ ; its parent
+Its parent
+The ch@@ unk of the Mut@@ ter Bro@@ ken is also ? Do not accept that the crop has not been referred to . &@@ #@@ 9@@ 1@@ ; optional &@@ #@@ 9@@ 3@@ ;
+son of his parent
+The average of three numbers is &@@ #@@ 9@@ 1@@ ; three &@@ #@@ 9@@ 3@@ ; . The average of two of these numbers is &@@ #@@ 9@@ 1@@ ; two &@@ #@@ 9@@ 3@@ ; . What is the third number ? &@@ #@@ 9@@ 1@@ ; optional &@@ #@@ 9@@ 3@@ ;
+It is the result of the operation : &@@ #@@ 9@@ 1@@ ; three &@@ #@@ 9@@ 3@@ ; * 3 - ( &@@ #@@ 9@@ 1@@ ; two &@@ #@@ 9@@ 3@@ ; * 2 ) .
+Bir@@ th@@ day
+&@@ #@@ 9@@ 1@@ ; optional pre@@ fix &@@ #@@ 9@@ 3@@ ; No
+It was re@@ signed on the 3@@ 1st of December and says it on the 1st of January .
+Direc@@ tion
+I go to the south in the evening at sun@@ shine . Which side of me is the shadow ? &@@ #@@ 9@@ 1@@ ; optional indication &@@ #@@ 9@@ 3@@ ;
+&@@ #@@ 9@@ 1@@ ; optional pre@@ fix &@@ #@@ 9@@ 3@@ ; Hin@@ ter me
+When I go south , the east is left of me and the shadow is east .
+Two men
+Under the set of Py@@ th@@ ag@@ or@@ as , the solution 2 is the square root of ( &@@ #@@ 9@@ 1@@ ; dist@@ a &@@ #@@ 9@@ 3@@ ; ^ 2 + &@@ #@@ 9@@ 1@@ ; dist@@ b &@@ #@@ 9@@ 3@@ ; ^ 2 ) .
+Play your logical , hidden and copy skills , and your remin@@ der
+Classic
+Mem@@ o Book
+Rem@@ ember what is used in the various games .
+Tennis
+Rad@@ ar
+It is the only game without ball .
+Hu@@ ff / Pap@@ age@@ i
+P@@ ony / Hor@@ de
+H@@ and / C@@ ats
+Do@@ gs and Hor@@ ses are types while Ter@@ rier and Pon@@ ys are races .
+The &@@ apo@@ s@@ ; Ta@@ xi@@ der@@ m@@ ist &@@ apo@@ s@@ ; word is used to describe a person that is ...
+with to@@ ten Anim@@ als
+E@@ stim@@ ates of a skin
+simp@@ el
+Which of the following words is the word “ dam@@ n ” next ?
+Mis@@ sing
+Hi@@ de
+Ign@@ ore
+be@@ ans
+mis@@ understand
+Which of the following sets defined best “ O@@ stra@@ k@@ is@@ po ” ?
+person named by the Company
+Con@@ spi@@ red
+Which of the following words is fri@@ ction of people ?
+Viol@@ ine
+O@@ bo@@ e
+Sport
+C@@ urs@@ or
+It is the only one that has nothing to do with architecture .
+kilometers
+hec@@ to@@ gram
+Gall@@ one
+Wine gra@@ dient
+It is the only one that is not a fruits .
+Shi@@ ft
+Cro@@ co@@ di@@ l
+It is the only one that is not a rep@@ tile and does not have a tail .
+T@@ iger
+wol@@ f
+It is the only one that is not a but@@ cher .
+Which of the following words is the word “ h@@ ed@@ on@@ ism ” next ?
+D@@ ark@@ en
+Ab@@ st@@ in@@ ence
+Which of the following words is the next word “ as@@ c@@ ending ” ?
+Which of the following words is next to the &@@ apo@@ s@@ ; &@@ y@@ mor@@ on &@@ apo@@ s@@ ; word ?
+Syn@@ ony@@ m
+Rel@@ ated
+L@@ ines
+on@@ ion
+Lithu@@ anian
+O@@ live
+Car@@ bon
+Natural
+Z@@ ink
+Car@@ di@@ ology
+H@@ at@@ ology
+psy@@ chi@@ at@@ ry
+Se@@ am@@ less
+High@@ ly
+De@@ bug is not enough to take care of something that would be expected .
+Reg@@ ular
+Y@@ ellow
+Ex@@ tra Ex@@ tra
+S@@ elec@@ ts
+Other words have the meaning that something is rarely happening .
+Inter@@ est
+Which of the following words will be the word “ bad ” next ?
+Un@@ pleasant
+In@@ te@@ ger
+U@@ ne@@ x@@ pec@@ ted
+High@@ lights
+At@@ ta@@ ched
+Other words have a no@@ table meaning .
+Special
+T@@ eller
+Bo@@ dy
+Amp@@ h@@ ore
+Wal@@ n@@ ut
+C@@ il@@ an@@ ie
+No@@ ti@@ fication
+W@@ ra@@ p
+Which of the following words is the word ‘ K@@ number ’ next ?
+Jam@@ mer
+quiet
+sle@@ y
+In@@ ver@@ t word
+E@@ pi@@ gram
+It is the only one that has nothing to do with liter@@ ary .
+Cur@@ ve
+Hy@@ acity use
+L@@ ater@@ ne
+l@@ amp
+Shi@@ ft
+arm@@ or
+It is the only one not used to protect .
+Mon@@ li@@ th
+K@@ aro@@ tte
+Ra@@ ise
+An@@ gel
+piano
+Dra@@ w Syn@@ chron@@ ization
+It is the only music instrument that has no keys .
+Ku@@ h
+Le@@ op@@ ard
+H@@ and
+Tri@@ angle
+fifth
+Which of the following words will be the &@@ apo@@ s@@ ; in@@ tr@@ all &@@ apo@@ s@@ ; word next ?
+In@@ har@@ ent
+Ex@@ tra
+Pre@@ vious
+Multi@@ ple
+Rec@@ tan@@ gle
+square
+R@@ Hom@@ bus
+Auto / Car &@@ #@@ 12@@ 4@@ ; Air@@ plane
+Air@@ plane
+B@@ un@@ er
+Cir@@ cle / Sem@@ i@@ -@@ circle &@@ #@@ 12@@ 4@@ ; di@@ ameter
+C@@ ent
+An@@ gle
+Radi@@ us of a circle is half di@@ ameter .
+Spe@@ ak / write &@@ #@@ 12@@ 4@@ ; not like
+Di@@ ff@@ icul@@ tion
+Re@@ vel@@ ation
+Pat@@ tern
+W@@ rite / Sti@@ ft &@@ #@@ 12@@ 4@@ ;
+Ga@@ bel
+Men@@ u
+Wine cell@@ ar
+A sti@@ cky is used to write and a co@@ il to food .
+Island
+Co@@ con@@ ut
+An haven is a veget@@ arian , in the Des@@ ert , and an Island is a be@@ vel@@ ed land , fully surrounded by water .
+W@@ ra@@ p
+Prin@@ ter
+A tur@@ tle is in a panel and a letter is in a wra@@ p .
+Wine / Wine Tr@@ ash &@@ #@@ 12@@ 4@@ ; R@@ um
+Cor@@ n
+Buil@@ d / Plan@@ e &@@ #@@ 12@@ 4@@ ; bird
+In@@ sec@@ ts
+Thanks / in@@ compatibility &@@ #@@ 12@@ 4@@ ; Des@@ po@@ ti@@ sm
+O@@ gar@@ ch@@ ie
+Un@@ ti@@ tled
+Mon@@ ey
+Dec@@ ag@@ on
+En@@ ne@@ ag@@ ram
+deci@@ im@@ al
+Sun@@ set
+A@@ im@@ ut
+Mer@@ ge All
+sport all
+J@@ unter@@ s / W@@ ri@@ ter &@@ #@@ 12@@ 4@@ ; photographer
+Photo@@ graphy
+Bad / broken &@@ #@@ 12@@ 4@@ ; Air@@ ball
+Sp@@ aces
+roles
+D@@ raft / idea &@@ #@@ 12@@ 4@@ ; Equ@@ ity
+The connection between the two words is syn@@ ony@@ ms .
+ship
+C@@ age
+Tower / Ch@@ ess &@@ #@@ 12@@ 4@@ ; Sol@@ ver
+B@@ order
+W@@ ri@@ ter
+Peace
+enemy
+Cor@@ rupt
+p@@ tives / optim@@ istic &@@ #@@ 12@@ 4@@ ; suspici@@ ous
+U@@ ne@@ x@@ pec@@ ted
+Ther@@ mal / temperature &@@ #@@ 12@@ 4@@ ; Comp@@ ass
+Area
+The first word is the device and the second word it takes .
+Met@@ all
+h@@ ung@@ low / food &@@ #@@ 12@@ 4@@ ; ti@@ red
+/ open &@@ #@@ 12@@ 4@@ ; Ban@@ ane
+Lo@@ ck / S@@ hr@@ ink &@@ #@@ 12@@ 4@@ ; A@@ xt
+h@@ ack
+S@@ cro@@ ll
+feet / two &@@ #@@ 12@@ 4@@ ; Dra@@ g
+ten &@@ #@@ 12@@ 4@@ ; 10
+F@@ ish / Aqu@@ ome &@@ #@@ 12@@ 4@@ ; O@@ il
+F@@ low
+fish / U@@ -@@ boot &@@ #@@ 12@@ 4@@ ; Vo@@ gel
+iner@@ tial / eyes &@@ #@@ 12@@ 4@@ ; S@@ hear
+Game / Play &@@ #@@ 12@@ 4@@ ; Tool
+Edit &@@ #@@ 12@@ 4@@ ; works
+Er@@ ror / correct &@@ #@@ 12@@ 4@@ ; damage
+Col@@ or@@ map
+hands / attack &@@ #@@ 12@@ 4@@ ; teeth
+B@@ old
+eye space / eye &@@ #@@ 12@@ 4@@ ; sn@@ ap
+Li@@ ppe &@@ #@@ 12@@ 4@@ ; Upper &@@ #@@ 12@@ 4@@ ; Word
+I@@ ce / sli@@ ce &@@ #@@ 12@@ 4@@ ; C@@ lon@@ ing
+sti@@ cky
+whi@@ r@@ l / water &@@ #@@ 12@@ 4@@ ; Tor@@ n@@ ado
+Wind &@@ #@@ 12@@ 4@@ ; Air
+N@@ est
+Wil@@ d &@@ #@@ 12@@ 4@@ ; bis@@ si@@ g
+T@@ ance
+S@@ cro@@ ll / C@@ ell &@@ #@@ 12@@ 4@@ ;
+N@@ ase
+E@@ ll@@ bo@@ ws / K@@ nie &@@ #@@ 12@@ 4@@ ; Hand@@ ling
+Com@@ poser &@@ #@@ 12@@ 4@@ ; Musi@@ cal &@@ #@@ 12@@ 4@@ ; Ly@@ ri@@ c@@ ist
+Tra@@ ck &@@ #@@ 12@@ 4@@ ; Flo@@ ating &@@ #@@ 12@@ 4@@ ; Y@@ ears &@@ #@@ 12@@ 4@@ ; Tra@@ ck &@@ #@@ 12@@ 4@@ ;
+AT@@ M &@@ #@@ 12@@ 4@@ ; currency &@@ #@@ 12@@ 4@@ ; money
+Ther@@ mal / temperature &@@ #@@ 12@@ 4@@ ; clock
+Time
+Let@@ ter / Word &@@ #@@ 12@@ 4@@ ; Page
+second
+T@@ iger / Car@@ ni@@ vor@@ en &@@ #@@ 12@@ 4@@ ; Ku@@ h
+Con@@ figure / Star &@@ #@@ 12@@ 4@@ ; Archi@@ ve
+Show and exit --@@ help \ t \ t@@ This help .
+Show --@@ g@@ ame@@ list \ t \ t \ t@@ List of available games .
+--@@ custom@@ game &@@ #@@ 9@@ 1@@ ; play@@ 1 , play@@ N &@@ #@@ 9@@ 3@@ ; \ t@@ Le@@ gt a list of games for a own game .
+M@@ EN@@ SA@@ -@@ Work
+With this program you should also have a copy of the GNU General Public License . If not , see &@@ l@@ t@@ ; http : / / www.@@ gn@@ u.@@ org / lic@@ enses / &@@ g@@ t@@ ; .
+A game to have fun and tra@@ iling the bra@@ ins
+S@@ elected
+All Files
+A problem occurred while creating PDF file . The file was not created .
+The lower di@@ ag@@ ram shows the progress of the player ’ s results .
+Cle@@ ar
+Start
+Choose nothing
+Save
+&@@ l@@ t@@ ; b &@@ g@@ t@@ ; General Sett@@ ings &@@ l@@ t@@ ; / b &@@ g@@ t@@ ;
+Ski@@ p games using colors
+&@@ l@@ t@@ ; b &@@ g@@ t@@ ; Game cards &@@ l@@ t@@ ; / b &@@ g@@ t@@ ;
+logic
+Connec@@ ted
+Res@@ ources
+S@@ ent
+&@@ l@@ t@@ ; b &@@ g@@ t@@ ; Num@@ ber of Play &@@ l@@ t@@ ; / b &@@ g@@ t@@ ;
+P@@ ages per sheet :
+Display :
+Sett@@ ings
+Ski@@ p games where colors are used ( provided for color blin@@ ds user )
+Time in seconds to remember the task :
+Show a coun@@ t@@ down message
+Minimum number of completed tasks to save the game session :
+D@@ ele@@ te game history of the player
+W@@ rite the given reply to the input box and press the OK button after it .
+break
+Game
+New Game
+All games and exercises ( logic , copy , remin@@ der , and hidden )
+Cre@@ ate Cust@@ om Game …
+P@@ ause / Continu@@ e game
+View
+Show
+Horiz@@ ont@@ ally
+Rep@@ ly :
+The following p@@ lugins will be installed :
+&@@ l@@ t@@ ; big &@@ g@@ t@@ ; &@@ l@@ t@@ ; b &@@ g@@ t@@ ; extension management &@@ l@@ t@@ ; / b &@@ g@@ t@@ ; &@@ l@@ t@@ ; / big &@@ g@@ t@@ ;
+The following p@@ lugins are currently installed :
+Dis@@ able
+Version
+Auth@@ or :
+&@@ l@@ t@@ ; b &@@ g@@ t@@ ; Select the p@@ lugins to install and click on “ Before ” &@@ l@@ t@@ ; / b &@@ g@@ t@@ ;
+Show only updates
+Ex@@ tension Installation
+Name
+All registered sources
+Get online source
+Select the location of the source you want to register :
+Get local source
+Select …
+P@@ ath :
+Install@@ ed
+Update
+Source :
+Inst@@ all From File …
+No selection
+No exten@@ sions were found
+Update
+Ex@@ tension packages
+Inst@@ all Ex@@ tension Package
+All sources
+Man@@ age S@@ ources …
+Ex@@ tension Source Manager
+Open Location
+Stop
+Play all games
+All
+Play your final fol@@ ders and thoughts
+exercises that require your short time legacy
+Play your mer@@ ge to ask for
+Stop or continue game
+Qu@@ it
+yellow
+white
+A
+C
+D
+E
+F
+bad results
+Com@@ pose with all problems , even the difficult one . exercise makes the master .
+Play on a daily basis and you will soon notice a progress .
+You can set the level of the game ’ s difficulty in the settings .
+Split items in categories is a common technique to remember things .
+Cre@@ ate ac@@ ron@@ y@@ ms using the first letter of any fact you want to remember .
+The fun at a pu@@ zzle is propor@@ tional at the time you are doing it .
+T@@ ry to dis@@ able any problem in simple partial problems .
+Take a look at the time of the verse when you answer hidden an@@ alo@@ gi@@ es .
+When you buy , you can try to calcul@@ ate amounts without a calcul@@ ator .
+Res@@ et the items shown below in the default time
+Rem@@ a@@ ining time
+Details of how g@@ bra@@ iny results are calculated , can be found in the help .
+Next Games hin@@ ts
+Time
+Connec@@ t to the group . For@@ get your com@@ poser .
+Ari@@ th@@ me@@ tic Oper@@ ations
+A@@ verage
+The average of a list of numbers is their total split by the number of numbers in the list .
+Num@@ ber of succ@@ essive numbers
+Bro@@ ken
+What is the result of the given operation ? You can either provide a fra@@ ction or a number as a reply .
+Lar@@ ger Si@@ ze
+Pos@@ sible split
+O@@ temperature
+Si@@ ze ratio
+Num@@ ber ratio
+A ratio gives the propor@@ tions between two numbers . A ratio of a : b means that one has parts for each “ a ” parts “ b ” .
+Two numbers
+A c@@ ub@@ ic is a regular , fixed item with six converted square areas .
+How many tri@@ ang@@ les are needed in the right part of the last image when only tri@@ ang@@ ular is used to keep balance ?
+Each circle is equivalent to two tri@@ ang@@ les and each square is three tri@@ ang@@ les .
+Each circle is equivalent to two tri@@ ang@@ les .
+Cir@@ cles in a square
+clo@@ cks
+The clo@@ cks do not follow tim@@ e@@ out .
+How many cir@@ cles can you count ?
+The exercise is easy when you count the cir@@ cles on a regular basis .
+Coun@@ ts
+How many branch numbers come , where the first paragraph is smaller than the second ( for example : 12 and 13 ) ?
+Note that 99 has twice the “ 9 ” paragraph .
+How much percent of the image belongs to the sha@@ ded area ?
+There are 2 of 6 total .
+There are 5 of a total of 6 options .
+Two common se@@ c sc@@ roll@@ s are thrown at the same time . How large is the chance to get two even numbers ? Rep@@ ly with a break ( e.g. 1 / 2 ) .
+How many areas will the last circle be split when all points are connected ?
+Equ@@ ation
+All cir@@ cles up to one share a shared property .
+Images and Text
+Image Pat@@ tern
+Over@@ lay the first and second image , remove the common lines and rot@@ ate the resulting image 45 degrees .
+Images
+Quar@@ ter
+How many four pages can you count in the image below ?
+One of the numbers in the grid must be cre@@ pt . Which ?
+All entered numbers have an ari@@ th@@ me@@ tic property together .
+From the figure on top of the top , the figure is rot@@ ated 90 degrees against the clo@@ ck@@ wise .
+The fourth column is calculated by multi@@ p@@ lic@@ ating the first two colum@@ ns and the second one .
+T@@ ry to introduce a state where you arrive a low number of people .
+The less the ar@@ c is cur@@ ved , the greater the circle is .
+How many line segments in total are found in the lower images . As a line segment , a line is between two points without a cros@@ sha@@ irs .
+The exercise is easy when you count the lines in a regular way .
+Mo@@ ve Image
+Mo@@ ve the circle from the first row to the second and each one of the fourth row to the second , and from the fourth to the fifth row .
+Next Image
+Which number is to replace the question character ?
+Between numbers there is an ari@@ th@@ me@@ tic connection .
+Num@@ er@@ ical episode
+Next episode is logic . Which number should replace the question character ?
+Each number of results is the result of the initial number of Ad@@ dition from 1 to the previous number and multip@@ lication of 3 .
+Each number of results is the result of the sub@@ tra@@ ction of 2 of the previous number and multip@@ lication of -@@ 2 .
+The criterion for deciding whether the group equ@@ ation belongs to is not ari@@ th@@ me@@ tic .
+People on a table
+5 .
+19 .
+4 .
+12 .
+Some people of the city of the city are pa@@ inters
+All people of the city of the city are pa@@ inters
+No people of the city in the city of the city are a pa@@ ver
+No other options
+Some pa@@ inters are not an artist
+All artists are lu@@ cky
+You have no card at all
+All people have a card
+S@@ cro@@ ll when you are lu@@ cky
+You are only lu@@ cky when you are pi@@ cking
+Hon@@ est@@ y is sometimes the best principal
+Hon@@ est@@ y is not always the best principal
+Some of the best values are in@@ ali@@ d
+All other options
+Some bad images are not first attempts
+All bad images are first attempts
+No one would like to feel better than a walk
+Def@@ ault logic
+Quar@@ ter
+It is the only character whose lines are all equal .
+The number in the middle of each row is half the sum of the other numbers in this row .
+The letters to the square follow a pattern . Which letter is to replace the qu@@ eu@@ e at the last square ?
+There are 9 single squ@@ ares , 4 squ@@ ares of 4 and 1 square composed of 9 individual .
+What is the minimum number of qu@@ ad@@ ratic paper sheets of any size to create the image ? L@@ ines show between different sheets .
+The sheets over@@ la@@ p .
+How late it is
+clock
+The distance formula is “ distance = speed x time ” .
+You can calcul@@ ate the response by multip@@ ly the speed of the first step with the given time and division of the result by the difference in speed .
+Tri@@ angle
+How many tri@@ ang@@ les of any size are you in the bottom image ?
+Tri@@ ple with numbers
+Which number is to replace the query character below ?
+All tri@@ ang@@ les share one property and are independent of the other .
+Color images
+Color Text
+Points count
+Rem@@ ember faces
+In which cell is the other face like the bottom . Enter the cell number .
+Rem@@ ember fac@@ tual
+In what year S@@ hin@@ y Car@@ s created the last time the production was created ?
+Which percentage of all S@@ hin@@ y Car@@ s produced by the world ’ s S@@ hin@@ y Car@@ s is being s@@ wor@@ n in Europe ?
+How much percent of the S@@ hin@@ y Car@@ s are running with &@@ apo@@ s@@ ; S@@ hin@@ y Car@@ s
+List of previously displayed images
+Go down
+Rem@@ ember the details
+How many numbers were in the previous image . Rep@@ ly with numbers .
+Col@@ lap@@ se words
+ll@@ bo@@ ws
+Br@@ ust
+C@@ able j@@ au
+L@@ ach@@ s
+Car@@ to@@ ff@@ le
+P@@ pe@@ pper
+Vin@@ eg@@ ar
+Pum@@ bis
+Bra@@ ke
+Len@@ mbo@@ d
+dru@@ m
+Spe@@ aker
+T@@ act
+Cl@@ oud
+H@@ ase
+M@@ ouse
+wol@@ f
+&@@ #@@ 9@@ 1@@ ; 0 &@@ #@@ 9@@ 3@@ ; To how much degrees the min@@ er of a clock in two hours and &@@ #@@ 9@@ 1@@ ; n@@ at &@@ #@@ 9@@ 3@@ ; minute ? ms@@ g@@ st@@ r &@@ #@@ 9@@ 1@@ ; 1 &@@ #@@ 9@@ 3@@ ; how much the min@@ er of a clock is rot@@ ating in two hours and &@@ #@@ 9@@ 3@@ minutes ?
+Location screen reader
+? ?
+al@@ rt
+an@@ im
+ar@@ w
+c@@ n@@ v
+c@@ pt@@ n
+United States
+ic@@ n
+r@@ m@@ n
+d@@ l@@ g
+di@@ p
+html
+Out@@ put
+fl@@ r
+f@@ ont
+g@@ p@@ n
+h@@ d@@ n@@ g
+l@@ b@@ l
+mn@@ u
+m@@ nu@@ it@@ m
+op@@ tn@@ p@@ n
+p@@ lug@@ ged
+t@@ bl@@ end
+p@@ w@@ d
+po@@ p@@ mn@@ u
+J@@ um@@ p
+r@@ d@@ m@@ nu@@ it@@ m
+sc@@ b@@ r
+sc@@ p@@ n
+sc@@ t@@ n
+s@@ ld@@ r
+sp@@ in
+stat@@ b@@ r
+t@@ b@@ l
+c@@ ll
+tom@@ nu@@ it@@ m
+term
+t@@ gl@@ b@@ t@@ n
+tip
+v@@ w@@ pr@@ t
+Cop@@ y
+app
+ed@@ t@@ b@@ r
+em@@ b
+Channel French degrees 2
+Fran@@ cs French degrees 2
+Norwe@@ gi@@ an degrees 2
+Arab@@ ic degrees 1
+W@@ itali@@ c degree 2
+German base f@@ ont
+German Sh@@ ort@@ cut
+Hungarian 8 point computer
+Hungarian degrees 1
+Belgium , Dutch degrees 1
+New line
+S@@ ign Char@@ ac@@ ters
+Num@@ ber
+Dol@@ lars
+A@@ post@@ rop@@ h
+Star
+Plus
+Comm@@ a
+Point
+smaller than
+Equ@@ al
+As@@ k Char@@ ac@@ ters
+at
+In@@ verse s@@ lash
+In@@ i@@ tial bra@@ cket to
+In@@ put S@@ ign Char@@ ac@@ ter
+Copyright
+In@@ i@@ tial French quo@@ tation character
+Log@@ ical N@@ version
+Mac@@ ron
+degrees
+high two
+high three
+Active
+Des@@ c@@ ending Char@@ ac@@ ters
+Center
+high 1
+Fin@@ al French quo@@ tation character
+Three quarter
+In@@ put Qu@@ ery
+A Gra@@ vis
+A Active
+A Cir@@ cum@@ fle@@ x
+A Christi@@ de
+A Out@@ line
+A Cir@@ cular Cir@@ cular
+C Z@@ edi@@ illa
+E Gra@@ vis
+E Cir@@ cum@@ fle@@ x
+E Out@@ line
+I Gra@@ vis
+I Active
+I Cir@@ cum@@ fle@@ x
+ET@@ H
+O Cir@@ cum@@ fle@@ x
+O Isa@@ de
+O Shi@@ ft
+O S@@ hu@@ ff@@ le
+U Active
+U Cir@@ cum@@ fle@@ x
+U Out@@ line
+TH@@ OR@@ N
+Es@@ c@@ et
+a Gra@@ vis
+a Cir@@ cum@@ fle@@ x
+a Shi@@ ft
+i ac@@ ut
+i Cir@@ cum@@ fle@@ x
+eth
+n Christi@@ de
+o Active
+o Cir@@ cum@@ fle@@ x
+by
+smo@@ n
+y ac@@ ut
+Y UM@@ LA@@ UT
+Right simple quo@@ tation character
+Cross
+Num@@ ber ar@@ row
+Pro@@ milk
+second
+Tri@@ ple
+Num@@ ber str@@ ings
+Tra@@ iler
+bold printed he@@ ader
+X list character
+high 0
+high 4
+high 9
+High Min@@ or character
+High level character
+High round bra@@ cket on
+high level bra@@ cket to
+high n
+low 1
+low 3
+low 7
+low 8
+Low Min@@ or Char@@ ac@@ ters
+low level bra@@ cket on
+low level bra@@ cket to
+Ob@@ ject Char@@ ac@@ ters
+Pre@@ view the whole window in the overview
+Per@@ forms the simple book@@ marks function
+Per@@ forms the detailed book@@ marks function
+Pre@@ view status line
+Open the search dialog
+Search for the next occurr@@ ence of a string
+Search for the previous occurr@@ ence of a string
+Check and leave the overview
+Mo@@ ve the overview to the last position
+Mo@@ ve the overview to the start of the next row
+Read the current entry or the current word in the overview
+Book the current entry or the current word in the overview
+Book the current entry or the current word in the ph@@ one@@ tic overview
+Mo@@ ve the overview to the next entry or word
+Mo@@ ve the summary to the word that is above the current one
+Pre@@ view the current item in the overview
+Mo@@ ve the summary to the word below the current one
+Mo@@ ve the overview to the previous character
+Pre@@ par@@ ing the current character in the overview
+Pre@@ view the Uni@@ code value of the current character in the overview
+Cop@@ y the content of the overview to the cli@@ p@@ board
+App@@ end the overview contents to the cli@@ p@@ board
+Read the attri@@ butes of the current text save
+Set the bra@@ cket display to the right
+Retur@@ n to object the focus of the keyboard
+R@@ un cur@@ sor ro@@ uting
+Set the start of the mark@@ er
+Star@@ ts the learn mode . Press the E@@ scape key to leave the learn mode
+Dec@@ re@@ ase the layer height
+Dec@@ re@@ ase the language volume
+To@@ ggle language output
+Qu@@ it the screen reader
+Swi@@ tch to the next setup profile
+Swi@@ tch to the next case style
+Swi@@ tch to the next level of keyboard search
+Save the current position as book@@ marks
+Mo@@ ve to the previous book@@ mark location
+Mo@@ ve to the next book@@ mark location
+Add book@@ marks
+Save book@@ marks
+To@@ ggle mouse loc@@ alization
+Print current time
+Print the current date
+For@@ ward next command to the current program
+Pre@@ par@@ ing a previous chat message and print to Bra@@ illa
+Right Line
+L@@ ines Line
+Inv@@ ali@@ d links
+Cur@@ ve position
+6 Point Bra@@ illa
+Cur@@ ve Rou@@ ting
+Pre@@ par@@ ing last notification
+Sho@@ ws the list of noti@@ fications
+Mo@@ ve to the next word
+Mo@@ ve to the previous word
+Mo@@ ve to next line
+Mo@@ ve to previous line
+Mo@@ ve to start the file
+Mo@@ ve to the end of the file
+Mo@@ ve to the beginning of the line
+Mo@@ ve to end of line
+Mo@@ ve to the previous object
+Advanced dynamic areas height settings
+Dis@@ able the default height settings for dynamic areas
+Monitor dynamic areas
+D@@ ele@@ te the assigned row he@@ aders
+Pre@@ par@@ ing the content of the input line
+To@@ ggle navigation bar
+Mo@@ ve to the next quote
+Mo@@ ve to the next button
+Mo@@ ve to the next check@@ box
+Show a list of cros@@ sha@@ irs
+Mo@@ ve to the previous click item
+Mo@@ ve to the next click item
+Mo@@ ve to the previous combined selection field
+Mo@@ ve to the end of the container
+Mo@@ ve to the next input field
+Show a list of entries
+Mo@@ ve to the next he@@ ader
+Mo@@ ve to the previous orientation point
+Show a list of orientation points
+Mo@@ ve to the previous larger object
+Mo@@ ve to the previous link
+Mo@@ ve to previous list
+Mo@@ ve to the next list
+Mo@@ ve to the previous list entry
+Mo@@ ve to the next list entry
+Mo@@ ve to the next dynamic range
+Mo@@ ve to the previous paragraph
+Mo@@ ve to the next paragraph
+Mo@@ ve to the previous selection button
+Mo@@ ve to the next selection button
+Mo@@ ve to previous separ@@ ator
+Mo@@ ve to the next table
+Mo@@ ve to first cell in a table
+Mo@@ ve a cell to the left
+Mo@@ ve a cell to the right
+To@@ ggle layout mode
+Swi@@ tch between stop mode and focus mode
+Mo@@ ve to the next visited link
+Show a list of visited links
+E@@ scape Col@@ ors
+Aqu@@ am@@ ar@@ in@@ blue
+Mand@@ el@@ white
+Blue
+Blue Viol@@ et
+Bre@@ ak
+Y@@ ellow bro@@ wn
+Ti@@ le blue
+Light Green
+Cho@@ ice
+Cor@@ al
+Dar@@ k Blue
+Dar@@ k Golden Bo@@ und@@ ary Color
+Dar@@ k k@@ ha@@ ki
+Dar@@ k ma@@ gent@@ a
+dark can@@ v@@ as color
+Dar@@ k S@@ he@@ et
+Dar@@ k Viol@@ et
+Low fro@@ st
+Per@@ sen@@ n@@ ing@@ blue
+Back@@ stein
+Flo@@ at white
+Fore@@ ground Green
+F@@ ace them
+Gold
+Golden Prin@@ ter
+Green
+Inde@@ xed red
+dust colors
+Flo@@ at Green
+Light Blue
+light cor@@ al red
+Light cy@@ an
+light Golden W@@ ra@@ p
+H@@ elles Bus@@ y
+H@@ al Sea Green
+light sli@@ des@@ blue
+He@@ avy Y@@ ears
+DF
+C@@ il@@ an@@ ie
+Middle Blue
+middle or@@ ch@@ ide@@ e
+Middle Sea green
+Middle Spring Green
+Middle Viol@@ et
+mid@@ night blue
+Al@@ tro@@ sa
+Mo@@ k@@ assi@@ n
+Q@@ a@@ jo@@ white
+Mar@@ bles blue
+Orange
+bub@@ ble cr@@ ash@@ es
+Peru
+P@@ ath
+Viol@@ et
+ro@@ si@@ -@@ bre@@ n
+sat@@ ur@@ ated blue
+stat@@ eh@@ bro@@ n
+la@@ x colors
+Pat@@ tern
+Silver
+snow white
+Di@@ st@@ el
+Tom@@ ate
+Tur@@ ks
+V@@ ei@@ l
+Blu@@ r
+White
+No@@ ise Col@@ ors
+Y@@ ellow
+Point 7
+Points 7 and 8
+J@@ um@@ p to
+OK
+Sound
+No
+Let@@ ter
+Pre@@ view messages
+Pre@@ view Chat Name
+Double click
+Standard synthe@@ si@@ zer
+Re@@ place Ex@@ pression
+Search Op@@ tions
+Pre@@ par@@ ing matching during search
+Un@@ associated
+Chan@@ ges
+Desktop
+Pre@@ view
+Save profile as a conflict
+Lo@@ ad User Profile
+D@@ ele@@ te User Profile
+All
+Some
+Most
+Button
+Label
+Ch@@ eck@@ box
+Com@@ b@@ ine S@@ election Fiel@@ d
+Description
+Label
+La@@ yer
+Link
+List
+List entry
+Ad@@ dress
+quo@@ tation character
+buttons
+En@@ tries
+Formul@@ a Fiel@@ d
+Images
+Not visited links
+Visit links
+Page navigation
+Standard
+System
+Spe@@ e@@ ch Dis@@ pat@@ cher
+Sp@@ ell check
+Display de@@ bug con@@ tex
+Ski@@ p empty cells
+Pre@@ par@@ ing cell
+Pre@@ view C@@ ell Co@@ ordin@@ ates
+At@@ tri@@ butes name
+Use structured navigation
+Sh@@ ort
+Shi@@ ft
+C@@ tr@@ l
+Shi@@ ft left
+Left Alt
+Control on left
+Alt right
+Met@@ a@@ ste right
+Num@@ ber block
+Set@@ up bar
+Set@@ up bar
+Image race
+Image on
+Image From
+Ta@@ b left
+Enter
+high
+r@@ below
+Right tag
+Alt G@@ r
+Help
+Mode Swi@@ tch Key
+Pa@@ ste
+Pos@@ 1
+End
+min@@ us
+Pa@@ ste
+Alt@@ L
+C@@ tr@@ l
+Shi@@ ft
+Bo@@ und@@ ary ar@@ row down
+Ar@@ row to Nor@@ theast
+Ar@@ row to Sou@@ theast
+Di@@ cker ar@@ row up
+Di@@ cker ar@@ row right
+C@@ urs@@ or ar@@ row to left and right
+Di@@ cker ar@@ row to Sou@@ theast
+Min@@ us
+Cir@@ cum@@ fle@@ x
+H@@ at@@ sch@@ ek
+Point
+Double vertical line
+for all
+Comple@@ tion
+partial differenti@@ ation
+There is one
+Emp@@ ty amount
+N@@ ab@@ la
+I@@ tem From
+no element
+small element
+Min@@ us or Plus
+plus with d@@ ot
+Once
+square root
+Cub@@ ic root
+infin@@ ity
+An@@ gle
+measured angle
+Room An@@ gle
+split
+does not split
+parallel
+logical or
+Out@@ line plot
+Sur@@ face
+Vol@@ ume An@@ gle
+As a result
+because
+Ex@@ z@@ ess
+geom@@ etric Prop@@ or@@ tion
+In@@ verse Christi@@ de
+asy@@ mp@@ to@@ tic equal to
+not asy@@ mp@@ to@@ tic equal to
+About equal to
+fast but not really equal to
+not nearly equal to
+almost equal or equal to
+Tri@@ ple ti@@ cks
+Th@@ re@@ sh@@ old
+geom@@ etric same to
+About equal or image from
+Equ@@ al character with the following double point
+Cir@@ cle in Equ@@ al Char@@ ac@@ ter
+Cir@@ cle over Equ@@ ity Char@@ ac@@ ters
+matches
+Uni@@ que
+measured by
+identical to
+strictly equivalent to
+smaller or equal to
+smaller or equal to
+greater or equal to
+greater than , but not equal
+much smaller than
+much greater than
+not equivalent
+greater or equal to
+Ei@@ ther greater or equal
+less or larger than
+larger or less than
+no less than or greater than
+not greater or less than
+Pre@@ vious
+For@@ ward or equal to
+after or equal to
+For@@ ward or equivalent
+not forward
+sub@@ set of
+is upper set of
+no Upper set of
+sub@@ set of or equal to
+Upper set or equal to
+Ei@@ ther part of or equal to
+In@@ hi@@ bit upper set
+fourth image
+fourth original
+fourth image or equal to
+fourth original or equal to
+to top opened quarter
+Cre@@ ated Pl@@ aces
+Cre@@ ated divisions d@@ ot
+Cre@@ ated Ster@@ no@@ per@@ ator
+Cre@@ ated Vie@@ wer
+St@@ ack@@ ed point operator
+vertical of
+Model
+Force
+Tri@@ ple vertical panel with rec@@ tan@@ g@@ ular ro@@ tation
+Double vertical panel with double right ro@@ tation
+not true
+not force
+ne@@ sted double vertical panel with double right ro@@ tation
+For@@ ward in Rel@@ ation
+Follow in Rel@@ ation
+normal sub@@ group
+Image
+Multi@@ ple Ad@@ dress
+her@@ mit@@ es@@ h con@@ ju@@ g@@ ated mat@@ rix
+En@@ able
+Ex@@ tra or
+non@@ -@@ and
+No@@ ti@@ fier operator
+Point Oper@@ ator
+L@@ eng@@ th Nor@@ mal factor half direct product
+L@@ ef@@ t@@ -@@ direct product
+In@@ verse Christi@@ de equal
+white logical or
+Double sub@@ set
+Double average
+real average
+Equ@@ al and parallel
+less than at point
+greater than at point
+greater than , equal or less than
+smaller or equal to
+Equ@@ al or For@@ ward
+Ei@@ ther forward or equal
+Ei@@ ther after or equal to
+no fourth image or equal to
+small but not equal to
+below , but not equivalent
+not included as normal sub@@ group
+no normal sub@@ group or equal to
+Ver@@ tical El@@ li@@ pse
+C@@ ann@@ ed horizontal elli@@ pse
+Di@@ ag@@ onal El@@ li@@ pse , bottom left to top right
+element with long horizontal d@@ ash
+Ver@@ tical d@@ ash element at the end of the horizontal bar
+small element with over@@ head
+2 horizontal stro@@ ke element
+In@@ verse element character character with long horizontal d@@ ash
+In@@ verse element character character with vertical d@@ ash at the end of the horizontal bar
+In@@ verse element character character with over@@ head
+small in@@ verse element character character with over@@ head
+z no@@ tation column
+left u@@ pri@@ ght class
+Right as@@ c@@ ending class
+Left Un@@ do Cl@@ one
+Right S@@ he@@ et Sc@@ ale
+White circle
+Black circle
+empty
+In@@ sert book@@ marks
+Can@@ not save book@@ marks
+Sound icon
+no
+navigation control is performed by the screen reader .
+Force the option to use
+O@@ PT@@ ION
+Op@@ tional arguments
+The following are not allowed :
+Print known programs
+Lo@@ ad Profile
+N@@ AM@@ E
+Re@@ place an already running instance of the screen reader
+Show and exit this message
+Save de@@ bug at de@@ bu@@ g@@ -@@ J@@ J@@ J@@ J@@ -@@ MM@@ -@@ T@@ T@@ -@@ H@@ H : M@@ M : S@@ S.@@ out
+Save de@@ bug information in the given file
+F@@ IL@@ E
+Con@@ figure User Sett@@ ings ( Text Version )
+Con@@ figure User Sett@@ ings ( Gra@@ ph@@ ic Version )
+Report program error to or@@ ca@@ -@@ list @ gn@@ om@@ e.@@ org .
+S@@ election was cut to cli@@ p@@ board .
+Cli@@ p
+Cop@@ ying selection to cli@@ p@@ board .
+cop@@ ied
+inser@@ ted
+Pro@@ mp@@ t when our contacts are entered .
+Don &@@ apo@@ s@@ ;@@ t pre@@ view chat name .
+Pre@@ par@@ ing the chat name .
+Don &@@ apo@@ s@@ ;@@ t al@@ locate chat events .
+Start dele@@ tion
+In@@ sert Start
+In@@ sert End
+Start highlighting
+High@@ light End
+Su@@ g@@ ges@@ tion
+End of container .
+Not in a container .
+all elements selected
+the whole document is selected
+Docum@@ ent selected to cur@@ sor position
+Docum@@ ent to cur@@ sor position not selected
+Del@@ eted al@@ pha he@@ ader .
+Del@@ eted al@@ pha he@@ ader .
+empty
+No files found .
+Content was mounted to cli@@ p@@ board .
+Content was cop@@ ied to cli@@ p@@ board .
+The overview is not used .
+The overview will be om@@ it@@ ted .
+Open List Fiel@@ d
+Open Tre@@ e
+Image Map Link
+Enter new keyboard short@@ cut
+Key
+Ech@@ o set to key .
+Ech@@ o disabled .
+Key and Word
+Ech@@ o set to key and word .
+set
+Ech@@ o set to set .
+Word
+Ech@@ o set to word .
+Ech@@ o set to word and set .
+a current icon
+a long divisions character
+a vertical stro@@ ke
+a di@@ ag@@ ram stro@@ ke up
+a nor@@ theast ar@@ row
+a line on the left
+by
+Cub@@ ic root
+root
+root start
+low
+Th@@ re@@ sh@@ old
+High@@ -@@ up@@ set
+W@@ ri@@ ting about
+ne@@ sted table end
+Activ@@ ated
+Learn mode . Press the E@@ scape key to leave .
+Ex@@ tra content will be om@@ it@@ ted .
+Ex@@ p@@ ending information .
+Mo@@ ving main content will be left .
+Remo@@ ving navigation .
+Ex@@ p@@ and range .
+Un@@ able to leave table .
+Ex@@ p@@ and section .
+Ex@@ p@@ ending end f@@ ont .
+Ex@@ p@@ ect to leave .
+Ex@@ p@@ ect to leave .
+Sub@@ scri@@ be to end no@@ de .
+Ex@@ p@@ ect Ep@@ ig@@ plot .
+Ex@@ amp@@ les will be om@@ it@@ ted .
+exit index .
+Ex@@ p@@ and page list .
+S@@ ending part will be left .
+Ex@@ p@@ ending pro@@ log .
+Un@@ able to leave suggestion .
+Mark line up to cur@@ sor position
+Don &@@ apo@@ s@@ ;@@ t mark line to the cur@@ sor position
+Ex@@ p@@ and learn mode .
+Mark line from start to previous cur@@ sor position
+Mark line from the previous cur@@ sor position to the end
+Link
+The same page
+The same website
+Use a high ar@@ row to navig@@ ate to the list . Press E@@ scape to leave .
+Dis@@ able all dynamic areas
+Set@@ ting dynamic range to the ob@@ sc@@ ure
+Dynam@@ ic range set to poli@@ tely
+U@@ ne@@ x@@ pec@@ ted dynamic range
+Dynam@@ ics areas monitoring is turned off
+No dynamic messages saved
+Dynam@@ ics A@@ re@@ as Support is disabled
+from
+on
+mis@@ written
+Per@@ man@@ ent qu@@ eu@@ e mode .
+Layout Mode .
+Ob@@ ject Mode .
+No Space Over object found .
+M@@ ouse loc@@ alization is enabled .
+No focus
+No more buttons .
+No more check fields .
+No more combined selection fields .
+No more input fields .
+No more images .
+No more links .
+No more paragraphs .
+No more selection buttons .
+No more tables .
+No more un@@ visited links .
+Not in a link .
+Lo@@ wer
+Bur@@ ning message listing mode .
+Top
+Press help . \ n
+No noti@@ fications
+dig@@ its
+on
+Lo@@ ading . Please wait .
+Lo@@ ad completed .
+Mark page from cur@@ sor position
+Mark page to cur@@ sor position
+Mark Section above cur@@ sor position
+Un@@ marked Section from cur@@ sor position
+An instance of the location property dialog is already open . \ n@@ Please close this dialog before opening a new one .
+All
+At@@ ta@@ ch the special character to all .
+No speci@@ fication of the special character .
+At@@ ta@@ ch the special character to some .
+Search completed .
+Re@@ store selection .
+faster .
+s@@ lower .
+higher .
+lower .
+l@@ oud .
+Per@@ cent@@ age : S@@ cat@@ ching
+Scre@@ en reader .
+Language output is not available .
+Not found
+Tur@@ n on navigation bar .
+Pre@@ par@@ ing cell
+Pre@@ view line
+Not Uni@@ fied
+Colum@@ ns re@@ group@@ ed
+Top border of the column .
+Ro@@ ot deleted .
+D@@ ele@@ te last row .
+selected
+not selected
+% H hours , % M minutes and % S seconds
+Un@@ do
+0 Ob@@ jects
+Image
+Thank you
+At@@ ta@@ chment
+Fin@@ al f@@ ont
+Fin@@ al
+Tra@@ ck Page
+Thank you
+Thank you
+Ep@@ ig@@ graph
+Er@@ rat@@ a
+Ex@@ ample
+Def@@ ault word
+G@@ los@@ s@@ ary
+In@@ tro@@ duction
+Part
+As@@ ks and Rep@@ lies
+Content Direc@@ tory
+Ver@@ tical sc@@ roll@@ bar
+Swi@@ tch
+I@@ con Bar
+navigation
+Area
+Men@@ u Button
+Des@@ c@@ ending
+Ver@@ tical
+selected
+not selected
+on
+partially selected
+not selected
+selected
+not selected
+not selected
+Visit
+not visited
+gra@@ cked
+Only read@@ able
+Multi@@ ple S@@ election
+invali@@ d
+bad spell sp@@ elling
+spell sp@@ elling
+bad gram@@ me
+Search
+Close
+Search
+Search for :
+Start at :
+Search back@@ ward
+Search direction :
+C@@ ase case sensitive
+Op@@ tions :
+System
+Win@@ dow
+Scre@@ en Read Pre@@ fer@@ ences
+App@@ ly
+Start profile :
+Lo@@ ad
+Show tool@@ tip
+Pre@@ view item on mouse
+M@@ ouse
+Time format :
+Bra@@ illa updates
+Frequ@@ ency ( seconds ) :
+G@@ ilt for :
+En@@ able fast re@@ do and default sp@@ ades in \ Pre@@ view All
+Can@@ cel quo@@ tations in All Pre@@ read
+Can@@ cel list in All Pre@@ read
+Can@@ cel tables in All Pre@@ read
+Can@@ cel shapes in All Pre@@ read
+Read All
+General
+Vol@@ ume :
+Speed :
+person :
+Language :
+Language system :
+Vo@@ ting Type :
+Large smooth style :
+Language output type
+Pre@@ par@@ ing mer@@ ged words separately
+En@@ able language
+Exec@@ ution
+Can@@ cel quo@@ tations during navigation
+Can@@ cel tables during navigation
+Can@@ cel orientation points during navigation
+Pre@@ view Description
+Pre@@ view whole row in table sheets
+Sh@@ ort@@ cut table :
+Display Sett@@ ings
+En@@ able message po@@ p@@ up
+Mes@@ sage is detailed
+Mes@@ sage Fe@@ ather S@@ end Sett@@ ings
+Bra@@ illa
+En@@ able Key@@ board Right
+En@@ able al@@ pha keys
+En@@ able inter@@ point keys
+En@@ able space bar
+En@@ able navigation keys
+Ech@@ o
+Key@@ board Sh@@ ort@@ cuts
+Language di@@ ctionary
+Deb@@ ate
+Read All
+Nothing to pre@@ view
+Res@@ et
+Text At@@ tri@@ butes
+Mo@@ ve to bottom
+Ad@@ just selected attri@@ bute
+Back@@ ground Color
+Back@@ ground for the whole height
+Dis@@ played background
+Text Ex@@ pression
+edi@@ table
+Dis@@ played fore@@ ground
+Er@@ ror
+in@@ visible
+Ori@@ entation
+Language
+Pi@@ xels above rows
+Pi@@ xels within wra@@ pping
+Right border
+D@@ ele@@ te
+St@@ yle
+Text Ver@@ sing
+Text sha@@ de
+Bo@@ t@@ tom
+Large letter style
+W@@ ra@@ p mode
+W@@ rite Mode
+wrong
+none
+en@@ gra@@ ved
+up@@ per@@ case
+Line above
+blin@@ king
+black
+Sign@@ als
+Word
+Word character
+Left
+No orientation
+block offset
+very strong Con@@ den@@ sed
+strong Con@@ den@@ sed
+normal
+half extended
+Small up@@ per@@ case
+be@@ vel@@ ed
+Itali@@ c
+Def@@ ault
+Text Bo@@ dy
+He@@ ading
+Base Line
+Up@@ dated
+top
+center
+bottom
+Text bottom
+left left right above
+Right left above
+top left left
+Left right
+Right left
+top bottom
+M@@ assi@@ v
+To control items , either use the ar@@ row keys or enter a search term .
+Tur@@ n the switch button together with Left key to shopping .
+Em@@ bedded the space bar to activate .
+Select high and down ar@@ row keys to select the value , or enter the numer@@ ic value .
+Use link and right ar@@ row keys to navig@@ ate . To move through the menu points , use up and down keys .

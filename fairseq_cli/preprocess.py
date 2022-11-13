@@ -14,6 +14,7 @@ import sys
 import typing as tp
 from argparse import Namespace
 from itertools import zip_longest
+import numpy as np
 
 from fairseq import options, tasks, utils
 from fairseq.binarizer import (
@@ -91,6 +92,20 @@ def _build_dictionary(
         nwords=args.nwordssrc if src else args.nwordstgt,
         padding_factor=args.padding_factor,
     )
+
+
+def _extend_dictionary(
+    vocab: Dictionary,
+    extend_dict_file: str,
+    args: Namespace,
+):
+    with open(extend_dict_file, mode='r', encoding='utf-8') as fp:
+        new_words = fp.readlines()
+        new_words = [word.rstrip() for word in new_words]
+    for word in new_words:
+        vocab.add_symbol(word)
+    return vocab
+
 
 
 #####################################################################
@@ -360,6 +375,15 @@ def main(args):
         else:
             tgt_dict = None
 
+    if args.extend_dict_file:
+        if not os.path.exists(args.extend_dict_file):
+            raise FileNotFoundError(args.extend_dict_file)
+        if args.srcdict:
+            src_dict = _extend_dictionary(
+                        src_dict,
+                        args.extend_dict_file,
+                        args,
+                        )
     # save dictionaries
 
     src_dict.save(_dict_path(args.source_lang, args.destdir))
@@ -378,7 +402,7 @@ def main(args):
         _make_all_alignments(args)
 
     logger.info("Wrote preprocessed data to {}".format(args.destdir))
-
+    
     if args.alignfile:
         _align_files(args, src_dict=src_dict, tgt_dict=tgt_dict)
 

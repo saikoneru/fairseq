@@ -1,0 +1,4309 @@
+Nachricht
+Exakt
+Das GNOME-Projekt
+Protokolle speichern
+Einfacher Klick
+Anfänglicher Tastendruck
+Bildlaufmethode auswählen
+Funktionsmerkmal für Wacom-Berührung
+Tastenkürzel um die Wiedergabe zu pausieren .
+Tastenkürzel um ein Bildschirmfoto eines Fensters in die Zwischenablage zu kopieren .
+Tastenkürzel zur Erhöhung der Textgröße
+Tastenkürzel um die Lautstärke auf- oder auszulösen , ohne einen Klangeffekt abzugeben .
+Tastenkürzel zum Ein- und Ausschalten des Flugmodus .
+Bluetooth-RF beenden
+System-Tastenkürzel um den Internet-Browser zu öffnen .
+Zeit in Sekunden , die der Rechner über Netzanschluss inaktiv sein muss , bevor er in den Energiesparmodus versetzt wird . Ein Wert von 0 bedeutet nie .
+Kalibrierung erforderlich
+Drahtlose Maus hat nur noch wenig Energie
+Die kabellose Tastatur hat nur noch wenig Energie . Sie wird ausfallen , falls sie nicht bald aufgeladen wird .
+PDA-Akku ist fast leer
+Grafiktablett-Akku ist fast leer
+Kameramodell ist fast leer
+Kamera hat nur noch wenig Energie
+Die LED des Wacom-Tabletts ändern
+Dichte Duplikationsbilder …
+Bluebox
+Quelltransparenz :
+Auswahl in Pixel vergrößern ( negative Werte für Verkleinerung verwenden )
+Der Grenzwert für den Rot-Kanal
+Schwellwert für Sättigung
+Basiseinstellungen
+Deckkraft :
+Suche :
+Suche nach Menüpfad läuft - bitte warten
+Eingabevideo :
+Abziehen beginnt mit dem angegebenen Zeitversatz HH : MM : SS im Video
+Einstellungen :
+Weichzeichnerradius 2 in Y-Richtung
+Kantenerkennung ( DoSoG ) …
+Ergebnisebene erzeugen :
+Nach jedem Schritt das Bild sichern
+&lt; Image &gt; / Filter /
+Flammenbreite :
+Oben :
+Filteranrufe der aktuellen GIMP-Sitzung auswählen
+Fenster schließen
+MPEG1 …
+Ebene ( n ) unsichtbar machen
+Ebenenmaske aus Bw kopieren
+Alle Ebenen auswählen , deren Name mit Muster beginnt
+Ebenenauswahl umkehren
+Schattenpunkte :
+Punktmenge A :
+Ebenen anlegen
+Morph-Arbeitspunktdatei :
+Unterordner :
+Skalierungsvorschau :
+Pfad-Bluebox-Schlüsselfarbe verschieben
+Mit darunter liegender Ebene zu neuer Schwarzmaske vereinen
+Letztes bearbeitetes Ziel-Einzelbild
+x1 :
+Umgang mit Auswahlen im Quellbild
+Antialias verwenden
+Muster ist gleich dem Ebenennamen
+Wave-Datei :
+Offset und Lautstärke zurücksetzen
+Mausklick : Nummer des aktuellen Einzelbildes ins Feld » Bis Einzelbild « übertragen , \ nUmschalttaste T-Klick : Dieses Einzelbild in das aufrufende Bild laden
+Druckbereich an Standardausgabe
+Umgekehrte Reichweite zur Clipliste hinzufügen
+Wiedergabe
+Neue Breite :
+Video-Einzelbilder skalieren ( alle )
+Benutzerpalette verwenden
+Einzelbilder zuschneiden
+Momentane Breite :
+Punkt einfügen
+Belichtungsgröße :
+Vorschaugröße in der Clipliste
+Clip erstellen
+Enkodieren
+Zeile :
+Name der Cliplist-Datei
+Nicht unterstützte Zeile wurde ignoriert
+AN :
+Pingpong :
+Transformation :
+Horizontal spiegeln
+Masken-Abschnitt
+Storyboard-Abschnitt löschen
+Videobereich
+Basisname für extrahierte Einzelbilder ( Einzelbild und Erweiterung werden hinzugefügt )
+Ein : bluebox erzeugt Transparenz als Ebenenmaske \ nAus : bluebox wird als Alphakanal Transparenz erzeugen
+Entflechtung ( gerade Zeilen )
+Magenta / Grün :
+Rot
+Blau
+Hohe Eingabe :
+Vektoren ( SVG ) Datei :
+Kodierung
+Name der Videodatei der Ausgabe
+720x480 NTSC
+MAC
+Video-Encoder-Plugin auswählen
+Kompression :
+avi Video-Kodierung für bewegte Einzelbilder . Menü : @ MPEG @
+7 null
+256 Buntheit
+Audio-Bitrate :
+Experten-Encoder-Algorithmen für FFMpeg
+5 Epzs ( empfohlen )
+IDCT Algorithmus :
+18 simpassis
+21 ja
+1 Flugzeug
+Adaptive Quantisierung der Normalisierung
+Abgeschnitten
+qblur :
+rc-init-cplx :
+Vorübergehend starten
+Huarongspur
+Fensterbreite in Pixel
+Schärfen
+Puzzle
+Verschlusssumme
+Die Höhe des von der Kamera aufgenommenen Videos in Pixel
+Mehrere Fotos aufnehmen
+Zurück wiedergeben …
+Suchen …
+&lt; b &gt; Alternative Versionen &lt; / b &gt;
+Spalte hinzufügen
+Eigenschaftshöhe
+Der letzte Text im Sucheintrag .
+Spalten- und Sortierungsreihenfolge
+Falls dieser Schlüssel WAHR ist , werden Spiele ohne Ton gestartet .
+Bis zu sechs Spieler
+Bis zu sechs Spieler abwechselnd
+Bis zu sieben Spieler gleichzeitig
+Ausgewählte Spielaufzeichnungen löschen ?
+Die Webseite besuchen
+Spiel im Vollbildmodus aufnehmen
+Zeichen kopieren
+Schalter
+Tastenkombinationen
+Maximale Anzahl der zuletzt verwendeten Zeichen
+Position auf der Z-Achse
+Deckkraft
+Horizontales Skalierungszentrum
+Legt den Clip-Bereich fest , um die Anforderung des Akteurs zu verfolgen
+Legt fest , ob der Akteur den Zeiger eines Eingabegeräts enthält
+Das Objekt , das das Layout der Unterelemente eines Akteurs steuert
+Ausrichtung des Akteurs auf der Y-Achse innerhalb dessen Zuordnung
+Der eindeutige Name des Tastfelds
+Vorgegebene horizontale Ausrichtung der Akteur innerhalb des Layout-Managers
+Gibt an , ob das Klickelement ein Grab hat
+Minimale Breite jeder Spalte
+Die von der Aktion verwendete Kante des Auslösers
+Geräteverwaltung
+Einzelbilder pro Sekunde anzeigen
+Achse
+Farbe
+Perspektive
+Fokus verwenden
+Die zu verwendende Schriftbeschreibung
+Ellipsis
+X-Koordinate des Rotationszentrums
+Die Hintergrundfarbe der Box
+Die Dauer des Datenstroms in Sekunden
+Quelle des Fragment-Shaders
+Größe des Akteurs automatisch auf untergeordnete Pixbuf-Abmessungen abgleichen
+Zuschneiden deaktivieren
+Maximaler Restestapel einer verschiebten Textur
+Seitenverhältnis beibehalten
+Mit Alpha auswählen
+Die unterliegende Wayland-Fläche
+Oberflächenbreite
+Legt fest , ob die Textur mit Änderungen an Pixmap abgeglichen werden soll .
+Fenster-Redirect Automatisch
+Zerstört
+X Fenster
+Schnelles Löschen
+Das Abbild auf DVD wird gebrannt
+Simulation des Brennens eines Abbildes auf CD
+Ein Abbild der CD / DVD wurde auf Ihrer Festplatte erstellt . \ nDas Brennen wird beginnen , sobald eine beschreibbare CD / DVD eingefügt wird .
+Ein Test zur Unversehrtheit der Daten wird beginnen , sobald die CD / DVD eingefügt wird .
+Wenn Sie diese importieren , können Sie sie sehen und verwenden , sobald die aktuelle Auswahl der Dateien gebrannt wird .
+Das Abbild der CD wurde erfolgreich erstellt
+Weitere Kopien erstellen
+VCD-Bild
+Maximale Geschwindigkeit
+Vollständige Windows-Kompatibilität deaktivieren
+Brasero media Brenn-Bibliothek
+Wiederbeschreibbare Blu-ray Disk
+Bild
+Fett
+Leere CD / DVD …
+Diese CD oder DVD löschen
+Einige Dateien haben ungültige Dateinamen
+Brennt , löscht und formatiert CDs , DVDs und BDs
+Den gewählten Titel teilen
+Datei hinzufügen
+Eine CD / DVD kopieren
+PFAD ZEICHEN
+Platz
+Plugin
+Möchten Sie wirklich ein neues Projekt erstellen und das derzeitige verwerfen ?
+Projekt als einfache Textliste speichern
+Ein neues Projekt anlegen
+Bitte wählen Sie ein anderes Bild .
+Fehler beim Laden des Projekts .
+1 : 1 Kopie einer CD / DVD erstellen
+Ein neues Projekt anlegen :
+{ Zahlen }
+Titel :
+Möchten Sie wirklich mit einer automatischen Teilmenge fortfahren ?
+Zusammenführen
+:
+Eigenschaften
+Vollbildschirm
+Skalieren
+Alle vom GStreamer-Multimediager-Framework unterstützten Dateiformate akzeptieren
+Automatisch ausrichten
+Clip-Eigenschaften
+Grün
+B
+Breite
+Neigung
+Alles zurücksetzen
+Info zu Pitivi
+Alle Einstellungen auf die vorherigen Werte zurücksetzen ( vor dem Öffnen des Einstellungsdialogs )
+Schließen
+Jahr :
+Proxy
+Dateiname :
+Codec :
+Aus Proxy-Dateien immer rendern
+Die Audio-Ausgabe konnte nicht erzeugt werden . Stellen Sie sicher , dass Sie ein gültiges Plugin haben ( Umschalt , Alsasink oder Osssink ) .
+aktiviert Benachrichtigungen , wenn die Darstellung abgeschlossen ist
+Effekt entfernen
+Schnelleinzug nach Pitivi
+Rauschen und Weichzeichnen
+Ein Projekt auswählen
+Info zu
+Inhalt des Ordners öffnen
+Kein Proxy für das ausgewählte assetmsgstr verwenden , verwenden Sie nicht Proxies für ausgewählte Quelldateien
+Projekt
+Ausgewählte Clips kopieren
+Clip an der Position teilen
+Zusätzliche Informationen :
+Max . CPU-Auslastung zur Umwandlung
+Folgende Tastenkombinationen können verwendet werden :
+Titel folgen
+Musikdateien werden in :
+Durchsuchen …
+Wiedergabeliste mischen
+Nach Erweiterung
+Wiedergabeliste
+Details
+Sortierung
+% e. % b % I : % M % p
+Album einschicken
+Welche AudioscRoboter-Dienste wollen Sie verwenden ?
+Ihr Profil anzeigen
+Mit dieser Gegenstelle konnte nicht gekoppelt werden
+Es konnte keine Verbindung zum gemeinsamen Musikverlauf hergestellt werden
+Geräteknoten :
+Name :
+November ( 11 )
+Passwort :
+Zugriffstaste :
+Fehler
+Möchten Sie die Podcast-Folge und die heruntergeladene Datei löschen ?
+Folge und Datei löschen
+Podcast-Episoden suchen
+Ein vorhandenes Rhythmbox-Fenster nicht anzeigen
+Zufällige Wiedergabe aktivieren
+n - Nächste Spur
+Musikdatenbank konnte nicht geladen werden :
+Beispiel-Erweiterung
+Bibliothek mit Änderungen an Dateien nicht aktualisieren
+Wiedergabeliste konnte nicht gespeichert werden
+Speichert
+Zusätzliche Software ist erforderlich , um einige dieser Dateien abzuspielen .
+Qualität
+Jetzt wiedergeben
+Jahr
+Tage
+Weiterleiten
+Ausführlich verhalten
+Spaltenkopf
+Bildlaufleiste
+Schiebeleiste teilen
+Gruppieren
+Neues Spiel
+Löschen ist nicht möglich
+Rechner :
+:
+Der Port , auf den der Server zugreifen soll .
+GNOME-Web-Passwort
+Telepathy-Passwort
+Erstellt am
+Schlüsseldaten
+Name muss mindestens 5 Zeichen lang sein .
+Optionale Beschreibung der Widerrufen
+Geheimschlüssel exportieren
+Benutzerkennungen
+Vollständig
+Schlüssel signieren
+Signatur widerrufen
+Vertrauen in Eigentümer
+Zertifikat
+Unterschlüssel ist deaktiviert
+Nur vertrauenswürdig
+PEM-enkodierte Anfrage
+Import
+Zurück
+Ihre E-Mail-Adresse oder eine Erinnerung an den Schlüssel .
+SSH-Schlüsseleigenschaften
+Algorithmus
+Archivverwaltung ( auch als Dateimanager bekannt ) ist die Standard-GNOME-Anwendung zum Öffnen , Erstellen und Ändern von Archiv- und Komprimierungsdateien .
+Legt fest , ob der Archivkopf verschlüsselt werden soll . Falls der Kopf verschlüsselt ist , wird das Passwort zum Auflisten des Archivinhaltes benötigt .
+Optionen speichern
+Optionen speichern
+Dateien zum Namen des Archivs hinzufügen und das Programm beenden
+Neuer Name ist der gleiche wie alt , bitte geben Sie einen anderen Namen ein .
+Ein Fehler ist aufgetreten .
+Neues Archiv
+überspringen
+Alle auswählen
+Alle Dateien anzeigen
+Ordnerstruktur erhalten
+Die Baumansicht der Ordner in der Seitenleiste anzeigen
+Forelle
+Suche
+Papierkorb leeren
+Alles auswählen
+Ausgewähltes Foto drucken
+Am besten einpassen
+Untere :
+Vertikal
+Quelle
+Abmessungen
+Belichtung
+Geräte
+Nichts auswählen
+Schatten
+1 × 1 ( Quadrat )
+Schärfen
+Calistoga
+Falsches Argument für Systemaufruf
+Unerwünschte Schlüssel werden importiert
+Unbekannt
+Mehrere Schlüssel
+Der Datei-Drehung konnte nicht erfolgreich abgeschlossen werden
+Ausgewählte Empfänger
+Angezeigte Minute
+Als Untergrenze angegebene Minute
+Nummern-Kompatibilitätszeichen
+UTF-16 :
+Anmerkungen und Kreuzreferenzen
+Unbekanntes Zeichen kann nicht identifiziert werden .
+ganzes Wort treffen
+Nächster Block
+Vorheriger Block
+Kyrillisch
+Arabisch , Erweiterung A
+Tibetanisch
+Laufend
+Georgisch , Erweiterung
+Lateinisch , Erweiterung C
+Koptisch
+Zusätzliche Interpunktion
+Tein-Buchstaben verändern
+Cham
+Taiwanesisch
+Käfig
+Schach
+Tamilisch , Ergänzung
+Medefaidrin
+Khitan-Kleines Skript
+Cypro Minoan
+Han
+AUSSERHALB
+Exportfilter / -Format auswählen
+Beschreibung
+Finden
+Skalieren
+Kopfgitter
+Hexadezimalgröße
+Gitterlinien
+Auswahl
+Das von Ihnen abgelegte Objekt kann nicht in sein Elternelement passen . \ nEntweder erweitern Sie das Elternobjekt oder legen Sie das Objekt anderenfalls ein .
+Nichts auswählen
+Nichts
+Ebenenname :
+85
+GTK + -Einstellungen konnten nicht ermittelt werden
+Erweiterungen
+Seitenumbrüche :
+Visual Spacing Y :
+ein Benutzer
+Bitte entfernen Sie alte Dia-Installation vollständig oder installieren Sie Dia zu einem anderen Ort .
+$ PROFILE \ \ .dia und alle Unterordner werden vollständig gelöscht . Fortsetzen ?
+Nichts
+Doppelt rechter Dreieck
+Beachten Sie
+Allgemein
+Port löschen
+Benutzerdefinierter XML-Zeilenlader
+Rechte Kardinalität :
+Funktion beenden
+Auswerfen
+Übersetzen
+Straighten
+Zusammenführen
+Begrenzung
+Berechnen
+Gasen
+Drehung
+Elektrische Oberfläche
+Luftdruck
+Vulkan-Flow
+Menschliche Bewegung
+Diese Aktion ist ein Anruf zu einem Makroschritt
+Die Schrift der Voraussetzung
+GRAFCET Diagrammobjekte
+OR
+Maschinendomäne
+KAOS-Diagramm
+Dreieck
+Verlängerte Pfeil
+Segment löschen
+Öffentlich
+Klassenname abstrakte
+Umbrechen nach dieser Länge :
+Abfrage
+Einschränkung :
+Dieses Diagramm verwendet das Statusobjekt für Anfangs- / Final-Zustände . \ nDiese Option wird in den zukünftigen Versionen abgebrochen . \ nBitte verwenden Sie stattdessen das Anfangs- / Finale Statusobjekt . \ n
+Fehlgeschlagener Algorithmus .
+Bildhöhe :
+PDF-Importfilter
+Skalierbare Vektorgrafik Import- und Exportfilter
+Fehler beim Lesen der Auflösung .
+Horizontales Parallelogramm
+Endereignis — Abbruch
+Eingeklappter Ad-Hoc
+Einfaches Wärmetauscher , vertikal
+Wasserkühler
+Einfaches Furnace
+Projektor oder Projektor
+Vertikal ausgerichtetes Großbuchstaben
+Horizontal ausgerichtete Verwendung
+Scanner
+PDA
+Router mit Siliziumwechsler
+100BaseT Hub
+Inhalts-Dienst-Modul
+CiscoWorks-Mann
+NAT
+PIX-Firewall
+Sicherheitsgerätegerät
+VPN-Konzentrator
+LongReach CPE
+TokenRing
+Fax
+ATA
+Referenzzeile
+Zähler mit Blasen
+Komponenten für LADDER-Schaltkreise
+Summe , Abziehen des linken Eingangs
+Integrierer — Eingang rechts
+Funktion
+Ecke 2
+Auto 2 , Rear View
+Ein i * Positiv-Beitrag
+Springer — Partioti
+Springer — Partiooi
+Verschiedene
+Bigwerte-PC
+Stift
+Luftauslastung
+Flussbeschriftung
+Nachricht senden
+Großes Paket
+Es ist auch der einzige Unix-Newsreader , der eine perfekte Punktzahl auf dem Gut Net-Kepping der Bewertung ergibt .
+Layout
+Markierte Gruppen als gelesen markieren
+Aufgabenverwaltung
+Artikeltext auswählen
+Nächstes ungelesener Diskussionsfaden
+Vorheriger Artikel
+Artikel als gelesen markieren
+Artikel als ungelesen markieren
+Folgenachricht
+Artikel mit Wertung zwischen 9999 ( überwacht ) treffen
+Folgenachricht an
+Antwort an
+Chinesisch
+Unicode
+visuell
+Lokale Ordner
+Ereignisliste speichern
+Danke , dass Sie Pan versuchen ! \ n \ nUm die Nachricht zu starten , zuerst einen Server hinzufügen .
+Rot13
+Nach ganz oben verschieben
+Text umbrechen
+Editor immer ausführen
+Es gab Probleme mit diesem Posteingang .
+Entwurf des Artikels speichern
+E-Mail an
+Der aktuelle Dateiname
+Das E-Mail-Konto , in dem Nachrichten auf Ihre Nachricht antworten sollen . Dies ist nur erforderlich , wenn es sich von der » Von « -Kopfzeile erstreckt .
+GNOME-Einstellungen verwenden
+5000 bis 9998
+Vor dem Löschen eines Artikels immer nachfragen
+Artikel-Zwischenspeicher auf dem Herunterfahren löschen
+Dateierweiterung für zwischengespeicherte Artikel :
+Benutzerdefinierte Schriftart im Artikeltext verwenden :
+Hochladen
+Signaturtyp :
+Pan : Artikel speichern
+für den nächsten Monat
+Beginnen mit
+Kopfzeilenkomprimierung :
+Sicherheit
+Immer dem Zertifikat dieses Servers vertrauen
+Fehler beim Initialisieren der Zeichenfläche
+Farbtemperatur
+Korrektur anzeigen
+Eine Gamma-Tabelle mit einer Video-Karte zeigt die in die Anzeige geladenen Kurven
+So würde ein Bild aussehen , wenn mit dem Profil gespeichert wird
+Vorgabeparameter werden ermittelt
+Muster werden gelesen
+Bitte warten Sie einige Minuten , bis die Tinte getrocknet wird . Das Profiling schrumpfen erzeugt ein schwaches Profil und könnte Ihr Farb-Messinstrument beschädigen .
+Jede vorhandene Bildschirmkorrektur wird vorübergehend ausgeschaltet und die Helligkeit auf Maximum gesetzt .
+Alles erledigt !
+Dynamischer Kontrast deaktivieren , falls in Ihrer Anzeige dieses Funktionsmerkmal enthalten ist .
+Anzeigepunkt auswählen
+Schnell
+Vorgabe :
+Farbprofil ist bereits importiert
+Version des Protokollprotokolls des Drehpunktes :
+Für dieses Fenster gibt es keine ICC-Profile
+Import
+Eine oder mehrere Primärfarben sind ungültig
+Das Weiß ist nicht D50 weiß
+Unbekannter Warnungstyp
+Auf dem Bildschirm anzeigen
+Eine Datei ausgeben
+Horizontal
+Linear-premultiplied-if-alpha
+Kompressionsalgorithmus für Daten , die im Auslagerungsspeicher gespeichert sind
+Modulfehler
+Der GeglBuffer , der in die Weiterleitung geladen wird
+Anzahl der Stichproben pro Iteration , die nach dem Bereich der Farben suchen
+Eine Farbangabe über die Eingabe zeichnen , wobei deren Transparenz beibehalten wird .
+Geschätzte Temperatur der Lichtquelle in Kelvin , mit der das Bild aufgenommen wurde .
+Nach 2
+LAB B
+Prüfpunkte
+( 1,4 )
+Belichtungswerte
+Weichzeichner-Sigma
+Legt fest , ob die Ausgabelänge auf Eingabegröße geklickt werden soll
+1D Gaußsche Weichzeichner
+Durchschnittlicher Unterschied zwischen allen Pixeln .
+Knoten
+Hoch-Leuchtkraft in der Ausgabe
+Die Farbe bei ( x1 , y1 )
+Neigung
+Der Wert repräsentiert den Beitrag der Vergangenheit zum neuen Einzelbild .
+Mittlere Krümmungsunschärfe
+Median-Weichzeichnen
+Weichzeichnen anhand der Komprimierung der Median-Farbe in der Nachbarschaft jedes Pixel .
+Grüner Kanal-Verstärker
+Schräge aktivieren
+Y-Komponente
+Ermittelt die Deckkraft der Eingabe und die globale Wert-Eigenschaft .
+ein GeglBuffer auf dem Laufwerk zum Öffnen
+Eine Transformation rekursiv anwenden .
+Niedrige Pixelwerte beschneiden
+Superpixel basierend auf dem Knopf k-bedeutet Clustering
+Menge
+Legt fest , ob Schattenbereiche verbessert werden sollen , wenn ein natürliches Ergebnis deaktiviert ist
+Die zu verwendende Deckkraft der Füllung .
+Vektor
+Superpixel basierend auf der Wasser-Transformation
+Die Normalisierung der Ausgabe von 0.0 bis 1.0 .
+Seitenverhältnis
+Tiefe
+Rot-nach-Rot-Kanal
+Grün für Grün-Kanal
+Kanal-Mixer
+Farben merken , indem relative Beiträge aus Quellkomponenten definiert werden .
+Höhe der Ersetzung .
+Eine Farbe mit einer anderen vertauschen , optional einen Schwellwert festlegen , um von einem Shade in einen anderen zu konvertieren .
+horizontal oder vertikal entflechten
+Rot-harte Kanten
+Grüne harte Kanten
+Beugungsmuster
+Versetzungsmultiplikator für die radiale Richtung
+Sobel
+Gravur
+Blau-Anwendungsmodus
+Farbe basierend auf dem Durchschnitt der absummierten Pixel schneiden
+Kachelabstand
+Histogrammgröße
+Erstellt ein Bild mit einem Plasma-Effekt .
+Ursprungspunkt für die Polarkoordinaten
+Spiralradius
+Nach links verteilen
+Gestagert
+3x3
+Zwischenspeicher
+Keine Operation
+Einzelbilder
+Megaging-Qualität
+FFmpeg-Einzelbildspeicherer
+JPEG-Dateilader
+Aktive Ebenen
+GdkPixbuf-Quelle
+PNG-Bildspeicherer , mit libpng
+Umbruch-Höhe
+Porter-Duff-Operation src-out ( d = cA * ( 1.0f - aB ) ) )
+Den Puffer um dessen Mitte drehen , um mögliche Offset-Sätze zu berücksichtigen .
+Glättung
+Radius der Zeilenpixel-Region ( Größe wird Radius * 2 + 1 )
+BoxWeichzeichnen
+Ditto
+Linsenzentrum X
+x-Koordinate starten
+X-Koordinate der Mustermitte
+Stop 2
+Vorschau für Jahr
+Klicken Sie zum Auswählen des Kalenders
+Gestern
+Ends
+GNOME-Kalender beenden
+Allgemein
+Alben der Woche
+Eine Quelle , die lokal verfügbare Metadaten bereitstellt
+Sprache
+Chronik
+Patch aus einem Commit empfangen
+Das GNOME-Projekt
+Legt fest , ob Objekte für den Stash in der Chronik angezeigt werden sollen .
+Die Spalte , in welcher der rechte Rand angezeigt wird , falls die Einstellung » show-right-margin « auf » WAHR « gesetzt ist .
+Maximale Anzahl an vorherigen Commit-Beschreibungen , die in der Chronik gespeichert werden .
+Anzahl der Vor- / Nachher-Kontextlinien
+Keine gespeicherten Dateien
+Git-Benutzerkonfiguration konnte nicht gesetzt werden .
+Cherry-Pick ist mit Konflikten im Arbeitsordner abgeschlossen
+Ihre E-Mail ist noch nicht eingerichtet . Bitte wechseln Sie in die Benutzerkonfiguration und geben Sie Ihre E-Mail ein .
+Standardmäßig alle Schlagwörter in der Aktivitätenchronik auswählen
+Lokaler Zweigname :
+Rechten Rand bei Spalte anzeigen :
+Syntaxhervorhebung des Quellcode in Diff-Ansichten aktivieren
+Hilfe öffnen
+Auswahl bearbeiten
+Export
+Entwicklermodus nicht verfügbar
+Tabelle ist bereits vorhanden
+Beziehung existiert bereits
+Alles
+Ihr Suchkriterium stimmt auf keine Datensätze in der Tabelle überein .
+Das Dokument konnte nicht geöffnet werden .
+&lt; Bild &gt;
+Südeuropäisch
+Zip-Code
+Unbenannt
+Der Name der erstellten .glom-Datei , wie z.B. &thing.glom .
+Der Rechnername des PostgreSQL-Servers , z.B. localhost . Falls nicht angegeben , wird eine Selbstdatenbank erstellt .
+Benutzername für den PostgreSQL-Server .
+Glom : Der Ausgabepfad ist kein Ordner .
+Optionen im HauptGlom-Format
+Diesen Datensatz entfernen .
+Es gibt keine Felder im Layout , daher gibt es keine Möglichkeit , Daten in einen neuen Datensatz einzugeben .
+Der Primärschlüssel wird automatisch erhöht . \ n Sie dürfen keinen eigenen Primärschlüssel eingeben .
+Aus Feld
+Passwörter nicht Treffer
+Sie können die Primärschlüssel nicht zurücksetzen , weil die Tabelle eine Primärschlüssel hat . Sie können ein anderes Feld als Primärschlüssel festlegen .
+Fehler in der Berechnung
+Felder
+Die Beziehung kann nicht zum Anzeigen von Bezugsdatensätzen verwendet werden , da die Beziehung kein Feld in der Bezugstabelle angegeben .
+&lt; b &gt; Druck-Layout umbenennen &lt; / b &gt;
+Geben Sie die Suchkriterien ein , um Datensätze in der anderen Tabelle zu identifizieren , um eine Kennung für dieses Feld zu wählen .
+Benutzer
+Zurücksetzen
+&lt; span weight = \ bold \ size = \ larger \ &gt; Öffnen oder Erstellen eines Dokuments &lt; / span &gt;
+Bezeichnung
+Zieh- und Bezugs-Layout
+Sicherheitskopie exportieren
+Zugehörige Beziehungen anzeigen
+Benutzerdefinierten Titel verwenden :
+Übersetzung kopieren
+&lt; span weight = \ bold \ size = \ larger \ &gt; Original identifizieren &lt; / span &gt; \ n \ nDie Sprache des Originaltextes wird derzeit als : identifiziert
+Trennzeichen :
+Vordergrundfarbe :
+Alle auswählen
+Bezugsdatensätze einfügen
+Die für den Hintergrund der Zeichenfläche zu verwendende Farbe , angegeben als GdkRGBA
+Legt fest , ob das Bild skaliert wird , um die Breite und Höhe zu passen
+Legt fest , wann das Objekt eine Mauszeiger-Ereignisse erhält
+Der zu verwendende Stil für Linienverbindungen
+GdkRGBA nachziehen
+Das Pixbuf zum Zeichnen der Umrandung des Objekts . Um die Einfärbung zu deaktivieren , setzen Sie die Eigenschaft » stroke-pattern « auf NULL
+Pfaddaten
+Die Höhe des Rechtecks
+Oberes Auffüllen
+Y Expand
+Gibt an , ob das Objekt weiter schrumpfen kann als die angeforderte vertikale Größe
+Text
+Ansicht bearbeiten
+Ansicht auswählen
+Notizpfad , der beim Beenden der letzten Zeit geöffnet wurde .
+Notizbücher
+Groß
+In den Papierkorb verschieben
+Ausgang
+Beenden
+In einem neuen Fenster öffnen
+Sie integriert auch optional die GNOME-Shell , damit Sie die aktuellen Bedingungen der am häufigsten verwendeten Städte sehen können , indem Sie den Namen in der Aktivitätenübersicht eingeben .
+Die in der Weltansicht angezeigten Orte . Jeder Wert ist ein GVariant , der von gweatherlocationSerialisierung ( ) zurückgegeben wurde .
+Diamant Mine
+Magentawiebeln
+Maze
+Deal
+7
+Kreuz-Drei
+Karo-Drei
+Karo-Vier
+Pik-Ass
+Facebook-Karte
+Tastenkombinationen
+Ablegen und Ablegen von Karten , indem Sie anklicken
+die Herz-Neun
+die Herz-Zehn
+Entfernen Sie den roten Joker .
+Entfernen Sie die Pik-Vier .
+Entfernen Sie die Pik-Neun .
+Entfernen Sie die Karo-Fünf .
+Legen Sie eine Karte zur Foundation
+Legen Sie etwas in den leeren Spieltischplatz
+Denken Sie daran , etwas in einen leeren Platz zu verschieben
+Versuchen Sie , eine Karte in den Reservestapel zu verschieben
+Ass
+Sieben
+Auswahl links :
+Legen Sie den Restestapel auf einen Reservestapel
+Köpfe wiederholen
+GNU Image Manipulation Program
+Bilder erstellen und Fotos bearbeiten
+Einige kritische Fehler durch GIMP 2.10.18 lösen , eine Namen-Unterstützung für CMYK PSD-Dateien einfügen und eine » Hochkontration « -Kontrast zum Symbolthema hinzufügen .
+Vordergrundauswahl : Farb- / Deckkraft-Auswahl für » color « Vorschau
+Freie Auswahl : Verbesserte Kopier-Interaktion
+Freie Auswahl erzeugt eine Vorauswahl
+Füllen-Füllen-Werkzeug : Neue » Mit Liniengrafik füllen « für nicht vollständig geschlossene Linien-Bereiche
+Neue generische Leinwandänderung » Alt + mittlere Maustaste « , um Ebenen zu wählen
+Informationen zur XCF-Kompatibilität im Speichern-Dialog sind verständlicher und verdeckt
+GIMP 2.10.6 enthält zahlreiche Fehlerkorrekturen , Optimierungen und Funktionsmerkmale . Die wichtigsten davon sind :
+Schneller Start : Schriften werden nicht mehr blockiert
+Versionsinformationen anzeigen und Programm beenden
+&#91; DATEI &#124; ADRESSE ... &#93;
+Ansicht
+Pinseleditor Menü
+Den Speicherort der Pinseldatei in der Dateiverwaltung anzeigen
+Die Position des Kanals sperren
+Zu Auswahl hinzufügen
+Alle Bildpunkte dieser Farbe aus der aktuellen Auswahl subtrahieren
+Farben
+Vordergrund : Erste Palettenfarbe verwenden
+Vordergrund : Nächste Palettenfarbe verwenden
+Hintergrund : Farbe aus Palette festlegen
+Hintergrund : Erste Farbe aus Farbpalette verwenden
+Hintergrund : Eine Farbe im Farbfeld überspringen
+Vordergrund Grün : Um 10 % verringern
+Hintergrund Grün : Um 10 % erhöhen
+Hintergrund Blau : Um 1 % verringern
+Vordergrundfarbton : Festlegen
+Vordergrundsättigung : Um 1 % verringern
+Vordergrundsättigung : Um 10 % verringern
+Werkzeugdeckkraft : 10 % transparenter machen
+Werkzeug-Malmodus : Ersten auswählen
+Palettenauswahl : Zum vorigen wechseln
+Schriftauswahl : Nach Index auswählen
+Pinselwinkel ( Editor ) : Vertikal machen
+Pinselwinkel ( Editor ) : Um 1 ° links drehen
+Eine leere Eventmarkierung zum Leistungsprotokoll hinzufügen
+Den Dialog » Auswahl « anzeigen
+Paletteneditor
+Tastenkombinationen
+Moduls
+Auf dem Bildschirm verschieben
+Symbol
+Dialog zum Öffnen von Dateien
+Entzerrung
+Einfügen als
+Kopieren
+Zeigen , was in der Auswahl sichtbar ist
+In Ablage kopieren …
+Den Inhalt einer benannten Ablage einfügen
+Leeren
+Eine neue Ebene aus dem Inhalt der Zwischenablage erzeugen
+Mit FG-Farbe füllen
+Die Auswahl mit der Hintergrundfarbe füllen
+In Ablage verschieben
+Fehlerprotokoll in Datei speichern
+Speichern
+( Unbenannte Vorlage )
+Kombine
+Abfall
+Kontrastspreizung HSV
+Trennlinie
+Bump-Map …
+Cartoon …
+Faltungsmatrix …
+Belichtung …
+Gaußscher Weichzeichner …
+Objektiv-Weichzeichnen …
+Maze …
+Zirkulare Bewegungsunschärfe …
+Bewegungsunschärfe weichzeichnen …
+Zellrauschen …
+CIE lch Rauschen …
+Rekursive Transformation …
+Nahtlos schneiden …
+Wellenform …
+Wind …
+Farbverlauf-Segment gleichmäßig teilen
+Geteilen
+Farbverlauf als POV-Ray speichern
+Farbverläufe aktualisieren
+Info
+Leinwand an Auswahl anpassen
+Das Bild in 32-Bit Gleitkommazahl umwandeln
+Eine neue Ebenengruppe anlegen und zum Bild hinzufügen
+Ebene absenken
+Ebenen-Mittelungsraum : RGB ( Wahrnehmung )
+braun
+Den Alphakanal der Ebene aus der Auswahl subtrahieren
+Ebeneneigenschaften bearbeiten
+Den Speicherort der MyPaint-Pinseldatei in der Dateiverwaltung anzeigen
+Palette importieren …
+Paletten vereinen
+Es müssen mindestens zwei Paletten zum Zusammenführen ausgewählt sein .
+Neues Muster
+Muster aktualisieren
+Muster aktualisieren
+Muster bearbeiten
+Schwebend
+Schärfen
+Beim Ausblenden so tun , als ob ausgewählte Bereiche außerhalb des Bildes fortgesetzt werden .
+Randstil
+Textdatei öffnen …
+Werkzeug-Voreinstellungen bearbeiten
+Den Speicherort der Werkzeug-Voreinstellungsdatei in der Dateiverwaltung anzeigen
+Werkzeug-Voreinstellung bearbeiten …
+Beliebige Drehung …
+Seitenverhältnis des Werkzeugs : Minimieren
+Seitenverhältnis des Werkzeugs : Maximieren
+Seitenverhältnis des Werkzeugs : Relativ erhöhen
+Werkzeugabstand : Relativ erhöhen
+Pfad füllen …
+Am Pfad mit den zuletzt benutzten Werten entlang zeichnen
+Farbverwaltung
+Eine andere Ansicht für dieses Bild erzeugen
+Auf diese Ansicht angewendete Filter einstellen
+Tiefenkompensation für Softproofing verwenden
+An Hilfslinien einrasten
+Vergrößerungsstufe
+Um 15 ° im Uhrzeigersinn drehen
+Die Ansicht um 15 Grad nach rechts drehen
+Farbe des Auffüllung auf den eingestellten Standardwert zurücksetzen
+Nach rechts rollen
+Position der Reiter
+Links
+Umgang mit eingebetteten Farbprofilen beim Öffnen einer Datei .
+Legt den zu verwendenden Maus-Podcasts fest .
+Kontextabhängige Maus-Maler sind hilfreich . Sie werden standardmäßig aktiviert , erfordern jedoch Überschrift , dass Sie nichts tun wollen .
+Wenn diese Option ausgewählt ist , wird die ausgewählte Zeichendynamik für alle Werkzeuge verwendet .
+Wenn diese Option ausgewählt ist , wird der gewählte Farbverlauf für alle Werkzeuge verwendet .
+Standardmäßig XMP-Metadaten exportieren .
+Legt den voreingestellten Mischraum für den Dialog » Neue Ebene « fest .
+Legt den voreingestellten Verkleinerungsradius für den Dialog » Auswahl verkleinern « fest .
+Das Vorschaubild im » Öffnen « -Dialog wird automatisch aktualisiert , falls die zu betrachtete Datei kleiner ist als die hier gesetzte Größe .
+VG-Farbfüllung
+Pixel
+Rot
+Nachfragen , was zu tun ist
+Wahrnehmbar
+Alphakanäle sperren / entsperren
+Forelle
+Anpassen der Gruppenebenengröße unterbrechen
+Textebene
+Sehr groß
+Enorrektur
+Ebene eingefügt
+VG nach HG ( RGB )
+Nach Farbe auswählen
+Werkzeug-Voreinstellungen
+Radius der Ausweichung
+Ebenengruppe verschieben
+Ebenengruppe skalieren
+Ebenengruppe spiegeln
+Kanal entfernen
+Prüfen des ICC-Farbprofils fehlgeschlagen : Die Flags des parasite sind nicht ( PERSISTENT &#124; UNDOABLE )
+Farbpalette festlegen
+Farbtabelleneintrag ändern
+Farbe zur Farbpalette hinzufügen
+Datei im Netz
+Ebene umbenennen
+Maximale Anzahl der Pixel , die unter dem Liniengrafik angewachsen sind
+Linienbreite
+Strichversatz
+Gespeicherte Dynamiken anwenden
+Pixel sperren
+Nichts
+Histogramm
+Erweiterungen
+Den Exportdialog anzeigen
+Einstellungen der Ebenen
+Ist das , was Sie machen wollen ?
+Modulverwaltung
+Lineale anzeigen
+Maximaler Journal-Speicher :
+Farbverwaltung
+Farbverwaltung zurücksetzen
+Werkzeugeinstellungen jetzt auf Standardwerte setzen
+Letzte Einstellungen beibehalten :
+Größe überprüfen :
+Fensterverwaltung
+Hint für Docks und Werkzeugkasten :
+Das fokussierte Bild aktivieren
+Ordner für Muster auswählen
+Höhe :
+Änderungen verwerfen
+Pfade aus SVG importieren
+Horizontal
+Zusammengesetzt
+Ebenen ablegen
+Klicken und ziehen zum Entfernen des Schiebereglers
+Streifen hinzufügen
+Anker einfügen
+Segment löschen
+Entfernte Datei wird geöffnet
+RGB ( linear )
+Die Originalposition des Käfigs mit einer einfachen Farbe füllen
+Grauwert festlegen nach
+Die Pixel verschieben , optional umbrechen sie an den Rand
+Es sind keine Muster zur Verwendung mit diesem Werkzeug vorhanden .
+Belichtung
+Abstand der Verstreckung
+Tastatur-Kontrast
+Werte
+Auswahlkriterium
+Kontrastspreizung HSV
+Maze
+Rote Augen entfernen
+Semi-Flatten
+Verschieben
+Neue Plugins werden abgefragt
+Bewegungsunschärfe linear :
+Rekursive Transformation :
+Textebene skalieren
+Textebene spiegeln
+Klicken Sie , um diesen Pfad als erstes Objekt zu wählen
+Die Originalposition \ ndes Käfigs mit einer Farbe füllen
+Käfig-Koeffizienten werden berechnet
+Info-Fenster verwenden
+Deckkraft hervorheben
+Die aktive Ebenenposition ist gesperrt .
+Breite des Strichs
+Vordergrundpixel auswählen
+Drücken Sie die Eingabetaste zum Vorschau .
+Einen Vorgang aus der obigen Liste auswählen
+Mittelpunktpunkt
+Eingabe beschränken
+Leerzeichen für alle Kanäle automatisch anpassen
+Nach Höhe / 2
+Farbeinstellungen
+STRG + Klick zum Setzen einer Quelle für Klonen
+Radius des Kreisbogens in Pixel
+Nahtlos klonen
+Schriftgröße
+Zeilenabstand
+Box
+Legt fest , ob beim Drücken der Eingabetaste ein Text in eine neue Zeile umgewandelt oder in eine neue Zeile verschoben wird
+Schwellwert anwenden
+Abgleichvorschau
+Beschränkung der Transformation auf eine einzelne Achse
+Der aktive Pfad hat keine Pinselstriche .
+Die aktuelle Transformation ist ungültig
+Anzahl der Animationsbilder
+Feste Seitenverhältnis
+Pfad
+Pfad skalieren
+Pfad füllen
+B :
+Kleinere Vorschaubilder
+Ereignisse von dieser Steuerung ablegen
+DDE-Transaktion ist belegt
+Eine Freigabe trat auf .
+Kompressionsverhältnis des Kachel-Zwischenspeichers
+Dateigröße vertauschen
+Größe der Datenwarteschlange zum Schreiben in den Auslagerungsspeicher
+Kompressionsverhältnis des Auslagerungsspeichers
+Anzahl der aktiven Arbeiter-Threads
+Alle Bilder exportieren
+Füllfarbe
+Dateigröße :
+Plugin-Eingang
+Einstellungen verwalten
+Linienbreite :
+Die Größe des ausgewählten Texts ändern
+Die aktive Hintergrundfarbe . \ nAnklicken öffnet die Farbauswahldialog .
+Ziehen Sie zum Einlesen des Bildes in einen XDS-Manager-Manager .
+Zu Palette hinzufügen
+Status und Text
+Trotzdem speichern
+Wenn Sie es neu laden , könnten alle nicht gespeicherten Änderungen verloren gehen . Soll sie dennoch neu geladen werden ?
+Projektwechsler
+BTW , wissen Sie , dass Sie doppelt auf jeden Platzhalter klicken , um Widgets zu erstellen ?
+Ausgabe-Versionsinformationen und Programm
+© 20-2020 Juan Pablo Ugarte , et al . \ n © 2004-2018 Tristan Van Berkom , Juan Pablo Ugarte , et . \ n © 2001-2006 JoAquin Cuenca Abela , Pa.Borelli , et al . \ n © 2001-2006 Ximire , Inc .
+Den Benutzer auf Zeit fragen , wenn das Projekt \ nunbekannte Typen enthält
+Danke , dass Sie die Zeit benötigen , um die Umfrage abzuschließen . Wir wissen es zu schätzen !
+Es werden Informationen an https gesendet : / / / query y.gnome.org
+Firma
+Welche Version nutzen Sie normalerweise ?
+Debian
+Raspbian
+Solus
+ViolinOS
+Leopard
+Das Containerobjekt , das derzeit bearbeitet wird
+Widget-Eigenschaften zurücksetzen
+Klassenname :
+Letzte ausführen
+Name der Datei zur Vorschau
+Unbekannter Widget-Typ konnte nicht geschnitten werden
+Genauigkeit
+Benutzerdefinierten Text , um den Eigenschaftennamen zu überschreiben
+Titel
+Übersetzter Titel der Klasse , die in der Glade-UI verwendet wird
+Der interne Name des Widgets
+Elternelement
+Die Höhe des Widgets , wenn es im GladeDesignLayout oberste ist
+Klicken Sie auf einen Platzhalter , um diese Klasse zu erstellen \ n ( verwenden Sie den mittleren Knopf , um mehr als eine zu erzeugen )
+Tastenkombination
+Variante
+Hintergrundfarbe
+Eine Farbe wählen
+Expander
+Eine Liste von Klassennamen , die auf dieses Widget angewendet werden sollen
+Abwesend
+Animation
+Farbauswahl
+Optionsliste
+Radio-Knopf
+Bereich teilen
+Tabellenzelle
+Marquee
+Bettklammer
+Südsüdost
+An Eltern zentrieren
+Repertoire-Element
+Nur Symbole
+Passwort
+Hilfe
+Das Repertoire-Objekt für diesen Knopf
+Loslassen
+Objekte
+Ressourcenname
+Die Kopfzeilenhöhe dynamisch halten , wenn sich der Untertitel ändert .
+Eigener Titel
+Darüber nach oben bewegen
+Platzhalter
+Legt fest , ob dieses Listenfeld ein Platzhalter Widget hat , das in der Liste angezeigt wird , wenn keine sichtbaren Unterelemente angezeigt werden soll
+Knopf sperren
+Extern
+Falls überlagert , werden Bildlaufleisten nur als traditionelle Widgets hinzugefügt , wenn eine Maus angezeigt wird
+Dialog zur Anwendungsauswahl
+Initial abgeschlossen
+Aktionsgruppe
+Absteigend
+Teilverdichtet-verdichtet
+Spalte für Umbruchmodus
+Schlüsselspalte
+Ziffern
+Symbolsymbol
+Kindeintrag hinzufügen
+Knopfattribute
+Attribute der Symbolansicht
+Einfacher Klick aktivieren
+Objektbreite :
+Formatierung
+Attribute des Bildfensters
+Attribute des Stapelwechslers
+Textformatierung
+Untere Zeilen :
+Widget-Flags
+Titel :
+1 / 2
+1 / 2T
+1 \ \ / 4
+5 Aufzählungszeit
+8-Werte FFT Anzeige
+Nachfolgende Berührung
+Automatische Ausgabe
+BEAST Info
+Basisverstärkung ( Das Steuersignal addiert dies )
+Abbrechen
+Steuerungsautomatisierung
+DavChorus fügt mehr Tiefe zu Klänge hinzu
+Vorgabewerte für » Autor « -Felder
+Vorgabewerte für » Lizenz « Felder
+Part löschen
+GERÄT :
+Achte Note
+Fehlerglocke aktivieren
+Ereignisse
+Jede dritte und sechste Zeile
+Exponentielles FM
+HWrap
+Farbe der horizontalen Balken
+Drittel-Sekunde einfügen
+Parts verknüpfen oder verschieben ( Maustasten 1 und 2 )
+Synthesizernetz aus dem Instrumentenordner laden
+Max . Stimme
+Multiplikation
+Name der WAV-Datei zur Aufnahme der BSE-Klangausgabe
+Keine Daten verfügbar
+Kein Leerzeichen links auf Gerät
+Anzahl der Skalenstriche pro Viertelnote
+Signalüberwachung
+PCM-Eingabemodul
+Bitte drücken Sie die zu installierende Tastenkombination …
+Q : 1 \ \ / 1
+Audio-In rechts
+Rechts nach links
+Synthesizernetz im Instrumentenordner speichern
+Einstellfeld
+Sync
+Die zuletzt in diesem Nachrichtentyp angezeigte Programmversion
+Das Projekt wurde geändert .
+Diese Einstellung kann im Abschnitt » Nachrichten « im Einstellungsdialog geändert werden
+Dreifache Viertelnote
+Rückgängig
+Nicht gefiltert
+Version
+Vertikale Rasterfarbe
+Vertikale Skalierung ( logarithmisch )
+Waves
+Weiterleiten
+Beenden
+Kontril-25
+control-54
+Adresse im Adressbuch konnte nicht gefunden werden
+Unbekannter Fehler
+Angezeigter Name :
+Letzte Autocrypt-Nachricht
+markiert
+Einmal akzeptieren
+Unterschlüssel
+Ungültiger Zeitstempel
+Zeitüberschreitung beim Versuch » fcntl « -Sperren zu erhalten !
+&#91; 0 &#93; Sekunden
+akzeptiert
+Sonntag
+Dienstag
+August
+Verschickt :
+Art des Mail-Servers :
+Voreingestellte Identität
+Willkommen bei Balsa !
+Neue E-Mail-Benachrichtigung
+alternative Adressen für die gleiche Person
+Kein Pfad gefunden . Wollen Sie eines geben ?
+Passwort erforderlich
+In Ordner kopieren …
+Nachrichtenkopf
+Passt , wenn das Datum im Intervall ist :
+Das Niedrige Datum ist inkorrekt
+Einfache Treffer / Keine Treffer
+Aktualisierung
+Rechner :
+Browsen …
+\ nder Server unterstützt keine ACLs
+Dieser Ordner wird nicht in der Konfiguration gespeichert . Es ist mir noch nicht bekannt , wie er aus dem entfernten Server entfernt werden soll .
+Papierkorb leeren
+Balsa versendet nun eine E-Mail . \ nAbbruch Senden ?
+Postfachs
+Nachrichtennummer
+Breitbandanordnung
+E-Mail-Server werden ausgelesen
+Zitierter Text regulärer Ausdruck :
+Verschiedene
+Unten
+Kasachisch
+Öffnen …
+Nachricht gespeichert .
+Nachricht wurde verschoben .
+Ignorieren
+Adresse konnte nicht in dieses Adressbuch geschrieben werden .
+Antwort \ nan alle
+Verschicken
+Werkzeugleiste auf Standardknöpfe wiederherstellen
+Stil der Werkzeugleiste …
+Werkzeugleiste anzeigen
+Ausgewählte Kopfzeilen
+Nicht gelöscht
+Nachricht
+Zitat-Nachricht ( n )
+Löschen des Papierkorbs fehlgeschlagen
+Nur unerwünschte Nachrichten im Eingangsordner überprüfen
+Den Ordner eines anderen MAPI-Benutzers abonnieren …
+Ordner eines anderen Benutzers abonnieren …
+MAPI-Notizliste kann im Offline-Modus nicht erstellt werden
+Kontributor
+Own
+Benutzer hat den Vorgang abgebrochen
+verzögerten Klick aktivieren
+Kopfzeile zu groß
+Vorhandener Socket konnte nicht importiert werden :
+Nachricht befindet sich bereits in der Sitzungswarteschlange
+Der Server akzeptiert den WebSocket-Handshake nicht .
+Überwachung ; System ; Prozess ; CPU ; Speicher ; Netzwerk ; Chronik ; Leistung ; Aufgabe ;
+Auslagern
+Webseiten
+Webbrowser für GNOME
+Neues Fenster
+Legt fest , ob die letzte Sitzung automatisch wiederhergestellt wird
+Benutzerdefinierte Schriftart
+Benutzerdefinierte Monospace
+Adresse des Firefox Sync Token Servers
+Derzeit angemeldet im Sync-Benutzer
+Gerätenamen abgleichen
+Legt fest , ob Ephy-Zusammenstellungen mit Firefox Zusammenstellungen abgeglichen werden sollen .
+Anzuwendende Entscheidung , wenn für diesen Rechner Mikrofonzugriff angefordert wird
+Das Internet wird über die Automatibilität gesteuert .
+Mitteleuropäisch ( IBM-852 )
+Gujarati ( MacGujarati )
+Japanisch ( Shift-JIS )
+Türkisch ( Windows-1254 )
+Unicode ( UTF-8 )
+Speicherversion konnte nicht überprüft werden .
+Das Zertifikat wurde zurückgezogen
+Nachfragen
+Internet-Optionen
+Forelle
+Verknüpfung öffnen
+Verweis in neuem Fenster öffnen
+Cookies
+Alle Passwörter löschen ?
+Löschen
+Adresse
+Seiten zu Lesezeichen hinzufügen , um sie hier zu betrachten .
+Persönliche Daten durchsuchen
+Auslösen
+Tabulator
+Schriftstil
+Stil
+Maus-Gesten
+Zur Homepage gehen
+Seite als Web-Anwendung installieren
+Speichern
+Aktivieren
+optische CDs indizieren
+Ordner zum rekursiv indizieren
+Auf dem System installierte Anwendungen indizieren
+Nachrichtenquelle hinzufügen
+Indizierer , der mit » --forward « oder » --exit « verwendet werden soll ( Sie können Suffixe verwenden , z.B. Dateien oder Anwendungen )
+Indizierte Informationen über eine Datei löschen , rekursiv für Ordner arbeiten
+Die Anzahl der angezeigten Ergebnisse begrenzen
+Die Ergebnisse verschieben
+Volltextsuche ( FTS ) deaktivieren . Beeinflusst --disable-snippets
+Keine Statistiken verfügbar
+Es wurden keine Dateien markiert
+Passwort für HTTP-Proxy :
+Zertifikatbezeichnung nicht überprüfen
+Gesamte Betreffzeile genau überprüfen
+Ausführliche Fehlerprotokolle aktivieren ( könnten Passwörter ausgeben )
+Schlüssel des Datenkanals nach der angegebenen Anzahl an Sekunden neu aufnehmen . \ nconfig : reneg-sec
+Plugin-Intervall festlegen
+Zeitüberschreitung verbinden
+Den Namen der Ontologie in diesem Endpunkt angeben
+» --list « kann nur zusammen mit » --session « oder » --« verwendet werden
+D-Bus-Namen konnte nicht reserviert werden
+KLASS
+benannte Graphen konnten nicht aufgelistet werden
+SQL-Anfrage
+Eine Anwendung starten
+Signal- und Schnittstellenname
+Einhängepunkt existiert nicht
+Zieldatei existiert
+Keine symbolischen Verknüpfungen folgen
+Überwachen Sie eine Datei direkt , melden Sie jedoch keine Änderungen
+Einen TCRYPT-Systemlautstärke einhängen
+Ziele der Phönung in die generierte Abhängigkeitsdatei einschließen
+Restriktionen des Schlüsselnamens nicht erzwingen
+Zugriffsrechte auf symbolische Verknüpfungen können nicht gesetzt werden
+Die Datei wurde extern verändert
+Den Wert von SCHLÜSSEL auf WERT festlegen
+SCHLÜSSEL auf Änderungen überwachen . \ nFalls kein SCHEMA angegeben , werden alle Schlüssel in SCHEMA überwacht . \ nVerwenden Sie ^ C zum Überwachen der Überwachung . \ n
+SCHEMA Der Name des Schemas \ n PATH Der Pfad für verschiebbare Schemata \ n
+Verbindung wird durchgeführt
+Thu
+Jul
+Gültige Schlüsseldatei konnte in Schablone nicht gefunden werden
+Leere Entität » &amp; ; « als gültige Einheiten sind : &amp; amp ; &amp; lt ; &amp; gt ; &amp; gt ; &amp;
+Hilfeoptionen :
+Kursiv utf8
+Code-Überlauf
+Rekursive Anrufe können unbestimmte Zeit endlos wiederholt werden
+Vorübergebenes Untermuster konnte nicht gefunden werden
+Ziffern erwartet nach ( ? +
+Wiedergabe
+Bilder nach unten skalieren
+Synopsis
+E-Mail an » &lt; string / &gt; « senden .
+Thema
+Layout :
+Neues Spiel
+GNU Image Manipulation Program
+Die Erkennung von user-installierten Schriften in Windows
+Die Zwischenablage-Pinsel und Muster können nun dupliziert werden
+Neuen Fehlerdiagnose-Dialog zum Erzeugen von Spuren und anderen Fehlerdaten , um Fehler zu melden
+Verbesserungen für den Wavelet-Trenn-Filter
+GIMP
+PDB-Kompatibilitätsmodus ( ausgeschaltet &#124; auf &#124; warnen )
+Dialoge
+Ziehen
+MyPaint-Pinsel
+Ablage als neues Bild einfügen
+Farbmarkierung
+Orange
+Kanal-Farbmarkierung : Auf rot setzen
+Die Auswahl durch diesen Kanal ersetzen
+Diesen Kanal aus der Auswahl subtrahieren
+Aus Auswahl abziehen
+Vordergrund : Vorige Palettenfarbe verwenden
+Hintergrund : Farbe aus Palette festlegen
+Vordergrund Grün : Festlegen
+Vordergrund Blau : Um 10 % verringern
+Pinselradius ( Editor ) : Um 0,1 erhöhen
+Pinselhärte ( Editor ) : Festlegen
+Seitenverhältnis des Pinsels ( Editor ) : Auf Maximum setzen
+Rückverfolgung mit Protokoll einschließen
+Zeichendynamik
+Dialog zum Öffnen der Zeichendynamik
+Tastenkombinationen
+Bildauswahl anzeigen
+Das Leeren der Dokumentenchronik wird endgültig alle Bilder aus der Liste zuletzt geöffneten Dokumente entfernen .
+Horizontal spiegeln
+Zeichenfläche vertikal spiegeln
+Eine neue Zeichendynamik erstellen
+Speicherort der Zeichendynamik kopieren
+Editor für Zeichendynamik
+Einfügen als
+In Ablage einfügen …
+Den Inhalt einer benannten Ablage einfügen
+Mit FG-Farbe füllen
+Es gibt keine Bilddaten zum Einfügen in die Zwischenablage .
+Fehler
+Eine neue Vorlage aus diesem Bild anlegen
+Checkerboard …
+Kante …
+Mosaik …
+Zellrauschen …
+Rekursive Transformation …
+Halbtonschräg …
+Spirale …
+Kontrastspreizung …
+Farbe des linken Endpunktes …
+RGB
+Bitte geben Sie an , wie viele Parts in der Auswahl aufgeteilt werden sollen .
+Farbverlauf als POV-Ray speichern
+Das GIMP-Benutzerhandbuch öffnen
+Info
+Alle Ebenen in einer Ebene vereinigen und Transparenz entfernen
+Das Bild in 64 Bit Gleitkommazahl umwandeln
+RGB …
+Bildmenü
+Nichts
+Ebenen-Farbmarkierung : Auf grün setzen
+Ebenen-Farbmarkierung : Auf gelb setzen
+Ebenenmaske löschen
+Ebenendeckkraft : deckender machen
+Aktive Palette bearbeiten
+Neue Farbe aus VG
+Vergrößerungsstufe
+Diese Palette duplizieren
+Palette löschen
+Alle Plugins auf die Standardeinstellungen zurücksetzen
+Die Auswahl an deren Rand ersetzen
+Neue Vorlage …
+Textdatei öffnen ( UTF-8 )
+Forelle
+Von links nach rechts
+Werkzeugdeckkraft : Relativ verringern
+Werkzeuggröße : Um 1 erhöhen
+Pfad-Farbmarkierung : Auf violett setzen
+Die Vergrößerung so anpassen , dass das Bild vollständig sichtbar wird
+Punkt für Punkt
+Diese Ansicht zusammenführen
+Vergrößerungsstufe
+Sättigung
+Farbe der Lichtschreibprüfung
+Zum rechten Rand rollen
+Reiter unten anordnen
+Zum Verschieben des Werkzeugs wechseln
+Vorherigen lassen
+Standardmäßig in neuen Bildfenstern am Raster einrasten .
+Wenn diese Option ausgewählt ist , wird sich die Größe des Bildfensters automatisch anpassen , wenn sich die physische Bildgröße ändert . Diese Einstellung ist nur im Mehrfenstermodus wirksam .
+GIMP die zuletzt gespeicherte Sitzung bei jedem Start wiederherstellen lassen .
+Legt fest , ob die Prüfpunkte standardmäßig angezeigt werden soll . Dies kann auch mit Hilfe des Befehls » Ansicht- &gt; Prüfpunkte anzeigen « beeinflusst werden .
+Docks und andere Fenster verbergen , so dass nur Bildfenster übrig bleiben .
+Legt den voreingestellten Mischraum für den Dialog » Neue Ebene « fest .
+fataler Verarbeitungsfehler
+Aktiver Kanal
+Nachfragen , was zu tun ist
+Striche sortieren
+Global Matting
+Parasit anhängen
+Plugin-Eingang
+Metadaten ändern
+Farbmarkierung des Objekts
+Umwandlung der Gruppenebene beenden
+Farbverlaufschronik
+VG nach HG ( RGB )
+VG nach Transparent
+Rechteckauswahl
+Hintergrund
+Antialiasing
+Ebenengruppe ändern
+Objekte im Bereich
+Bild ändern
+Horizontale Hilfslinie hinzufügen
+Element drehen
+Ebene ändern
+Ebenenmaske verschiedener Abmessungen kann nicht als die angegebene Ebene hinzugefügt werden .
+Schwellenwert der Linienerkennung
+Chronikfarbe
+Pinseldynamik nachahmen
+Symmetrisches Malen aktivieren
+Pinseldrehung deaktivieren
+Profildetails
+Soll in Graustufen-Farbraum umgewandelt werden ?
+Lineares Licht
+Ebenen öffnen
+Vorlage :
+Das Bild auf die gewählte Größe skalieren , wird einige Ebenen vollständig verkleinern .
+&#91; 0 &#93; Ebenenmasken hinzufügen
+Alpha sperren
+Nur im Speicher
+Palettendatei auswählen
+Das Benutzerhandbuch ist nicht lokal installiert .
+Farbverwaltung zurücksetzen
+Anzeigemodus :
+Bild-Import und Export
+Voreingestellte Interpolation :
+Dialog zum Importieren von Farbprofilen
+Richtlinie des Farbprofils :
+Unbenutzte und doppelte Farben aus Farbpalette entfernen
+Vorgabeordner für den Export von Pfaden auswählen
+Vorgabeordner zum Importieren von Pfaden auswählen
+Hilfesystem
+Online-Version verwenden
+Fensterpositionen jetzt speichern
+Format des Bildtitels und der Statusleiste
+Ordner mit Dynamiken
+Farbverlaufsordner auswählen
+Skript-Fu-Ordner zurücksetzen
+Interpolation :
+Streifen
+GIMP-Tipp des Tages
+Alle Pfade aus diesem Bild exportieren
+Automatisch
+Zeilenanzahl
+Seitenverhältnis
+H
+Rotationswinkel auswählen
+Klicken und ziehen Sie , um die Begrenzung zu ändern
+Klicken und ziehen Sie zum Verschieben des Fokus
+Modus bearbeiten
+Streifen hinzufügen
+Klicken und ziehen Sie zum Verschieben des Ankers
+Klicken und ziehen Sie zum Verschieben des Pfades
+Klicken Sie hier ist nichts , versuchen Sie auf die Pfad-Elemente zu klicken .
+Nur Aufhellen ( veraltet )
+LCh-Farbe
+Ausschließen
+Nur Luma / Leuchtkraft aufhellen
+Der betroffene Kanal
+Niedrige Ausgabe
+Farbkurven korrigieren
+Wert
+Ausschalten
+Rate
+Größe
+Kraft
+Pinsel als Sie zeichnen
+Wiederholung
+Ausrichtung
+Registriert
+Ungültiger , leerer Pinselname
+HSV benachrichtigen
+Illusion
+Plasma-Rauschen
+Blau-Kanal
+Bereich zurücksetzen
+G
+Glanzlichter
+Ihr Text kann nicht dargestellt werden . Es ist wahrscheinlich zu groß . Bitte stellen Sie ihn kürzer oder verwenden Sie eine kleinere Schrift .
+Fixiertes
+Ausrichtung : Ebene und andere Objekte ausrichten oder anordnen
+ausrichten
+Maximaler Abstand ( in Pixel ) in Liniengrafik , der geschlossen werden kann
+Füllen-Füllwerkzeug : Auswahl mit einer Farbe oder einem Muster füllen
+Farbpipette : Farben aus Bildpixel setzen
+Eingabe :
+Typ :
+Umdrehen : Ebene , Auswahl oder Pfad horizontal oder vertikal umkehren
+Größe des zum Verfeinern verwendeten Pinsels
+Zauberstab
+Tinte : Kalligrammstil
+Schwarzpunkt für alle Kanäle wählen
+Vergrößerungswerkzeug : Verkleinern
+Einen Pfad auswählen
+Einfluss der Kontrollpunkte
+Versatz …
+Ebenenmaske verschieben
+Abstand auf die native Größe des Pinsels zurücksetzen
+Klicken Sie zum Zeichnen der Linie
+Runde Ecken der Auswahl
+Auswahl vollständig transparenter Bereiche erlauben
+Scherneigung : Ebene , Auswahl oder Pfad anzeigen
+Scherneigung X
+Text
+Deckkraft des Bildes
+Original-Seitenverhältnis beibehalten
+entlang der Z-Achse transformieren
+Richtung der Transformation
+Vereinheitlichte Transformation
+Effekthärte
+periodisch anwenden
+Formform :
+Y :
+Es kann nur eine aktive Maussteuerung geben . \ n \ nSie haben bereits eine Maussteuerung in Ihrer Liste der aktiven Steuerungen .
+Maus-Knöpfe
+Fehlerinformationen kopieren
+Fehlerdetails anzeigen
+Kachelversatz direkt auf der Platte
+Position und Größe sperren
+Pfadanzahl :
+Hintergrundfarbe ändern
+Den Dialog » MyPaint-Pinselauswahl « anzeigen
+Verschieben rückgängig machen
+Denken des Rechners anzeigen
+NUMMER
+Privilegien &#91; Summe &#93;
+Mediaserver ; Mediarenderer ; Freigabe ; Audio ; Video ; Bilder ;
+» Ping « -Aktion konnte nicht ausgeführt werden : Rechner ist leer
+» NSLookup « -Aktion kann nicht ausgeführt werden : Rechnername ist leer
+Wiedergabemodus wird nicht unterstützt
+Argument für ObjectID fehlt
+Klassik.Gimp.Org
+An der Kopie arbeiten
+Links
+Radius
+Grundlegende I …
+Schrägbreite
+Einzelbilder intermediieren
+Kreiz …
+Chrom-Balance
+Auswahl beibehalten
+Azimuth
+Höhe
+Bildordner
+Weichzeichnerradius
+Ein Bild mit einem Landmuster erzeugen
+Zufallsdatenquelle
+Y skalieren
+Zauberstab verkleinern …
+Schattengewicht ( % )
+Effektgröße ( Pixel * 3 )
+Alle Hilfslinien entfernen
+Eine Ebene mit Umbrüchen füllen , die aus der Mitte der FG-Farbe hervorholen
+Ein Logo im Stil eines Neon-Signals erzeugen
+Winkel
+Karte darstellen …
+Zu Muster …
+Spyrograph
+Einzelbild
+Startwinkel
+Sprühpistole
+Ein Logo mit einem Sternenexplosion erzeugen
+Sechs
+Dateien anlegen , öffnen und speichern
+Die GIMP-Webseite als Lesezeichen speichern
+Einen abgeschnittenen 3D-Effekt zur Auswahl oder Transparenz hinzufügen
+Schlagschattendeckkraft
+Grilo-Optionen anzeigen
+Caribou Einstellungen
+Allgemein
+Drei
+Maximieren rückgängig machen
+Das Fenster nicht als feste Position im Darstellungsbereich festlegen
+Stock
+Arbeitsfläche ändern
+maximieren
+Vollbildmodus ändern
+Vorhergehend machen
+hinten machen
+Reiter schließen
+Das Argument für diese Option innerhalb des Terminals ausführen
+Warten Sie , bis das Unterelement endet ( TODO )
+Helle Farben verwenden
+In Terminal suchen
+Es wurde keine gültige Informationen zur Datenquelle erstellt
+Beenden
+Info zu
+optional
+Eingeklappte Objektdatei
+Die erste Zeile ist eine absichtlich vorangestellte leere Zeile und kann nicht verändert werden
+Ungültiger SQL-Ausdruck
+Die Eindeutige Zeilenbedingung wurde bereits angegeben
+Zu komprimierende Funktionen
+Nicht verarbeitet GdaServerOperationType . Bitte melden Sie Fehler an http : / / gitlab.gnome.org / GNOME / libgda / issues
+Datenbank-Anbieter unterstützt keine Speicherpunkte
+Ungültiger Tabellenname
+Spaltenname konnte nicht erhalten werden
+Verbindung kann nicht über das GdaXaTransaction-Objekt registriert werden
+Sqlite boolesche Darstellung
+SQLite unterstützt die Angabe von Feldern zur Anwendung der DISTINCT nicht
+SELECT kann kein HAVING ohne GROITE BY enthalten
+WAHR , wenn die Form vertikal expandiert wird , ist sinnvoll
+Die zu definierten Werte
+Suchen :
+Jeder gültige SQL-Ausdruck
+Info-Zelle sichtbar
+Kein Titel
+Sie können es jetzt korrigieren oder die Änderungen verwerfen . \ n \ nWas wollen Sie tun ?
+Der DBNAME-Parameter ist in der Verbindungszeichenkette nicht definiert .
+Mit Fremdschlüssel
+Widerstand
+Abgeschnittene Folge , weil die LDAP-Server-Begrenzung festgestellt wurde
+Nie : Zertifikat nicht angefragt oder überprüft
+Kein Feld in Fremdschlüssel-Einschränkung angegeben
+Nach Spalte
+HP Westeuropäisch
+GBK Vereinfachtes Chinesisch
+ARMSCII-8 Armenisch
+DOS Mitteleuropäisch
+Prüfsumme
+Schlüssel nicht packen
+Befehlsgetrennte Werte ( CSV )
+Gestartet
+Clusiert , fault-tolerant , memory-basiert
+Dynamisch
+Japanisch EUC
+Darf Rollen erzeugen
+Kann zur Wahl der PostgreSQL-Benutzerkennung des neuen Benutzers verwendet werden
+Benutzer
+Ersetzen Sie sie bereits
+Maximal auf Verbindung warten , in Sekunden . Null bedeutet unbegrenzt , dass es nicht ratsam ist , eine Wartezeit von weniger als 2 Sekunden zu verwenden .
+&lt; b &gt; Vergrößerungsstufe &lt; / b &gt;
+Eigenschaften der virtuellen Verbindung
+Variablen :
+Mit anderen Daten verknüpfen
+Fehler beim Verarbeiten der XML-Spezifikationen
+Name des Fremdschlüssels :
+Reiter
+Platz
+Optionales Attribut : &#91; 0 &#93; Optionale Attribute :
+Einen Favorit ändern
+Tabelle konnte nicht gefunden werden . Wenn Sie glauben , ist dies ein Fehler . \ nBitte aktualisieren Sie die Metadaten aus der Datenbank \ n ( Menü Connection / Abrufen von Metadaten ) .
+Zwischen Gitter- und Formatierungen umschalten
+Trennzeichen für das CSV-Format
+Eine Informationen oder alle Informationen über die Verbindung anzeigen
+Umbenennen eines Datensatzes , nützlich , um den Datensatz umbenennen zu können , um ihn beizubehalten
+Mit Fehler stoppen
+Gda-Server-Liste
+Legt fest , ob gedit Übereinstimmungen hervorheben soll .
+Kopfzeilen drucken
+Gibt die Schrift an , die für Zeilennummern verwendet werden soll . Diese wird nur verwendet , wenn die » Zeilennummern drucken « -Option nicht -Null ist .
+Änderungen des Dokuments in der letzten Stunde werden dauerhaft verloren gehen .
+Dateien öffnen
+Suchen und Ersetzen
+Mac OS Classic
+Einstellungen
+Suchen …
+Vorherigen suchen
+Alle schließen
+Beschreibung
+Rechten Rand bei Spalte anzeigen :
+Schema deinstallieren
+Syntaxhervorhebung ausgeben
+Seitenkopf
+Suchen
+Groß- / Kleinschreibung treffen
+Zum vorherigen Dokument wechseln
+Windows und Panels
+Den ausgewählten Text in die Zwischenablage ausschneiden
+Gehe zu Zeile
+Zur nächsten Reitergruppe bewegen
+Befehl ausführen
+Sie müssen sich innerhalb eines Wortes befinden , um diesen Befehl auszuführen
+Dateiverwaltung
+Der neue Ordner ist aktuell ausgefiltert . Sie müssen die Filtereinstellungen so einstellen , dass der Ordner sichtbar ist
+Verborgene anzeigen
+Suchbegriffe …
+Ausgewählten Schnipsel löschen
+Schnipsel importieren
+Aktivierung
+Bezugsziele :
+EasyTAG
+Genre
+Ordner umbenennen
+Umbenennen
+Ordner
+Alle Zeilen abwählen
+Eine leere Zeile vor der gewählten Zeile einfügen
+Audio-Wiedergabe ausführen
+Datei wiederholen
+Absteigend nach Künstler
+Aufsteigend nach Album
+Aufsteigend nach Kommentar
+Veränderte Dateien in der Liste anzeigen mit :
+Legt fest , ob Künstlerfelder bei einem » - « -Trennzeichen in Ogg-Kommentaren aufgeteilt werden
+Legt fest , ob beim Lesen von ID3-Metainfos keine Zeichenkodierung verwendet wird
+Wählen Sie den Zeichensatz , der beim Schreiben von ID3v1-Metainfos verwendet wird soll
+Legt fest , ob die CRC-32-Dateien als Standardkommentar für Dateien mit ID3-Metainformationen verwendet werden sollen
+Legt fest , ob der Benutzer vor dem Löschen einer Datei um Bestätigung gefragt werden soll
+Komponistenfeld bearbeiten
+Legt fest , ob beim Verarbeiten von Metainformationsfeldern alle Zeichen des Tags groß geschrieben werden sollen
+Leerzeichen vor Großbuchstaben einfügen
+Groß- / Kleinschreibung beachten
+Album-Künstler :
+Diesen Kommentar in allen ausgewählten Dateien eintragen
+Diesen Nachrichteneditor in allen ausgewählten Dateien eintragen
+Länge des CD-Nummernfelds
+Metainfo-Felder , die beim Scanner verarbeitet werden sollen
+Relative Pfade beim Erstellen von Wiedergabelisten verwenden
+Legende des Scanners anzeigen
+Wollen Sie diese vor dem Beenden speichern ?
+Anfrage wird gesendet …
+Die Anzahl der CDDB-Ergebnisse entspricht nicht der Anzahl der ausgewählten Dateien
+Bereit zur Suche
+Vereinfachtes Chinesisch ( GB18030 )
+Kyrillisch ( ISO-IR-111 )
+Ungültige UTF-8
+Neumaske
+Die Masken » Datei umbenennen « werden geladen …
+Ersten Buchstaben groß schreiben jedes Wortes
+Das Bild kann nicht angezeigt werden
+Die Gruppe wurde bereits eingefügt .
+Sie müssen legitimiert sein , um eine Gruppe einzufügen .
+Schatten
+Verschieben nach oben
+Inhalt
+Entfernte Orte
+Datei
+Einen neuen Eintrag hinzufügen
+Zitatschlüssel ( n )
+Ihr Suchtext muss nur » nlatin-1 « enthalten
+Dieses Programm wurde unter der GNU GPL kopiert
+Lange Text
+Medline-Abfrage
+Von :
+An :
+Experten-Suche
+Aufruf : pybliocheck &lt; Datei &#124; Ordner &gt; …
+Client für virtuelle private Cisco AnyConnect SSL VPN
+Trotzdem verbinden
+Server ist weder ein GlobalProtect-Portal noch ein Gateway . \ n
+GET-Anfrage konnte nicht für neue Konfiguration gesendet werden \ n
+Heruntergeladene Konfigurationsdatei stimmt nicht mit dem zu erwartenden SHA1 überein \ n
+Fehler : Das Ausführen des » Cisco Secure Desktop « auf dieser Plattform ist noch nicht implementiert . \ n
+Keine MTU empfangen . Abbruch \ n
+Keine DTLS-Adresse \ n
+Zu lange Zeit in MTU , mit der Schleife erkannt wird , wobei die ausgehende MTU übernommen wurde . \ n
+Keepalive ist für ESP nicht implementiert \ n
+Erstellen der DTLS-Priorität-Zeichenkette schlug fehl \ n
+Client-Zertifikat ist abgelaufen auf
+Speicher für das Zertifikat konnte nicht reserviert werden \ n
+Signierer kein CA-Zertifikat
+Dies ist der letzte Versuch , bevor gesperrt wird !
+Gateway besagt , dass keine HIP-Rezension erforderlich ist . \ n
+Legitimierung des SSL-Zertifikats schlug fehl \ n
+Fehler beim Abrufen des HTTP-Antwort-Antworts \ n
+Auswahl der Legitimierungs-Anmeldekennung auswählen
+Tunnel-Steuerung
+Server hat den Soft-Token abgewiesen , es wird zur manuellen Eingabe gewechselt \ n
+Laden des privaten Schlüssels schlug fehl ( siehe obige Fehler ) \ n
+Nicht definierte Aktion
+UDP-Socket koppeln
+TAP-Gerät abgebrochen die Verbindung . Verbindungsabbruch . \ n
+Proxy
+Kompatibel zu Cisco AnyConnect SSL VPN .
+Weitere Stichproben sind erforderlich , um einen Anrufer anzuzeigen .
+Schreiben
+Speichern
+Warnung
+Speicher
+Anwendung starten
+Aufnahme von Akkustatistiken deaktivieren
+D-Bus-Name des Ziels , mit dem die Methode aufgerufen wird
+Südsüdwest
+kleines Eisregen
+Schauer des Eises
+Gefrierender Nebel
+Nieselregen
+Leichter Regen
+Snow
+Hail
+Calm
+Temperatureinheit
+Im GNOME-Internetradio-Finder von GNOME Internet-Radiosender hören .
+http : / / ure-to-page /
+Lesezeichen deaktiviert
+Schrift für Text mit fester Breite , z.B. Code-Beispiele .
+Neues Fenster
+Einen neuen Reiter öffnen
+Kennung der Datenbankverschlüsselung
+Verwalten Sie Ihr Tagebuch . Es kann nur eine Instanz des Programms zugleich geöffnet werden .
+Kalenderanfrage
+Info zu Almanah
+Einfügen
+Löschen
+Fehler beim Öffnen der Seahorse
+Enddatum :
+Schreiben Sie Schlagwort und drücken Sie Eingabe , um es zu speichern
+Legt fest , ob das Programm auf umgekehrte Verbindungen horcht
+Ordner
+Übergeordneter Ordner
+Fehler beim Erstellen des SSH-Tunnels
+Erfordert eine Aktualisierung des Bildschirms
+Strg-Alt-Del senden
+Objekt entfernen ?
+Legitimierung fehlgeschlagen
+Vinagre im Vollbildmodus öffnen
+Dateiname
+Trotzdem anmelden
+Keine Route zum Rechner
+Wählen Sie
+Anmeldung
+Titel
+Musik wird wiedergegeben
+Ergebnisse der Alben
+Werkzeugleiste
+VeröffentlichungsTage :
+Comic erhöhen
+Installieren Sie &lt; string / &gt;
+Kein href-Attribut für yelp : Dokument gefunden \ n
+Pakete installieren
+Computer
+Bildschirmfotos zurücksetzen
+Namen der Arbeitsfläche
+Brasilianisches Real
+Britisches Pfund Sterling
+Überlauf Fehler
+Die Arctanticon-Funktion ist nicht für Werte i und -i definiert
+Dauer
+Yard
+Fuß , Fuß , ft
+Zoll , Zoll , Zoll
+Mikrometer
+Meilen pro Stunde
+mm ³ , α L , uL
+Kibibit
+Pebibit
+Exabit , Exabit , Eb
+Exabyte
+Exbibit , Exbibit , Eib
+Zettabit
+Multiplikation &#91; * &#93;
+Dezimal
+Tastatureintrag
+Tastatur
+IPython-Konsole
+Letzten Ereigniseintrag hervorheben
+Alpha
+Bild
+Alle aktualisieren
+Unteres Panel
+Erweiterungen
+Ein interaktivem Python-Erkundungswerkzeug
+Ansicht
+ohne Anordnung
+Zusätzliche Einstellungsobjekte laden
+Die Kennung des Speicherers .
+Sie können diese Sicherheitsfunktion durch Bearbeitung der entsprechenden Plug-Datei deaktivieren .
+Objekte
+Beschnitt rechts
+Beschnitt oben
+Bezierlinie verwenden
+Eine kubische Bezierkurve als Linie verwenden
+Stil
+Umbruchbreite
+Theta-Beschreibung :
+Kategorien zwischen Beschriftungen
+Hauptskalenstriche
+Das zugewiesene Format für nicht-diskrete Achsenbeschriftungen ( XL Format )
+Achsenstartposition
+Verfeinern
+Größe der Hauptskalenstriche , in Punkt
+Grad
+Neu
+Speichert die Farbpalette auf dem lokalen Laufwerk .
+Bereich darstellen
+Y-Achse
+Pseudo-3D-Achse
+Achse
+Farbskalierung
+Richtung :
+Einfügen
+Legt fest , ob der Hintergrund mit dem Text gedreht werden soll
+Ausrichtung Flag
+Seite 3
+Objektgröße :
+Regressionskurve
+Niedrige Grenze :
+Ansicht
+Regressionskurve
+zentriert
+Serienname
+Werte als %
+Arabisch
+Griechisch
+Baltisch ( ISO-8859-13 )
+Vereinfachtes Chinesisch ( GB18030 )
+Farsi ( MacFarsi )
+Koreanisch ( JOHAB )
+Türkisch ( Windows-1254 )
+dunkelgrün
+Violett
+Fett-Kursiv
+Demi-verdichtet
+Hell
+Mittel
+Normal-Kursiv
+Halbfett-fett-kursiv
+Legt fest , ob die Farbe Teil der zu wählenden Schriftart ist
+Legt fest , ob tief / Hochschrift Teil der zu wählenden Schriftart ist
+Schriftfamilie auswählen
+Schriftschnitt auswählen
+Stil :
+Überzählen
+Brüche
+mol ( Mole )
+Kategorien :
+Wählen Sie automatisch ein geeignetes Format .
+Pazifik
+Tunesien ( arTN )
+Spanien / Kyuranisch ( astES )
+Dominikanische Republik ( esDO )
+Guatemala ( esGT )
+Nepal / Nepali ( neNP )
+Indien / Sindhi ( sdIN )
+Thailand ( thTH )
+Eritrea / Tigrinya ( tiER )
+Pakistan ( urPK )
+Bangladesh , Taka
+Weißrussland , Rubles
+Kuba , Peso
+Ghananischer Cedis
+Guatemala , Quetzale
+Honduras , Lempiras
+Lettland , Leti
+Marokko , Dirhams
+Mauretanien , OuDirecyas
+Seychellen , Rupie
+Syrien , Pfund
+Turkmenistan , Manat
+Rot
+Langer Strich
+Sehr lang gezogener Strich
+Strich-Strich des Strichs des Strichs
+Dünne horizontale Streifen
+Dünne diagonale Streifen
+Dünne diagonale Kronsshatch
+Formform :
+Bicolor-Farbverlauf
+Gleichungseditor
+Itex Markup-Zeichenkette
+Horizontale oder vertikale Linien
+Min
+Balkenleiste
+Unmarkierte Linien
+Prozentsatz-Flächengraph .
+Erweiterte horizontale Balken , gruppiert nach Haupt- und Unterkategorien .
+In vertikalen Spalten angeordnete Unterkategorien , gruppiert nach Hauptkategorien .
+Prozentsätze
+überspringen
+Abtrennung :
+Prozentsatz jedes einfließenden Wertes in einem halben Kreis .
+Diagrammdarstellung : Kreis / Ring
+hide-outliers
+Daten außerhalb der Grenzen der Farbachse verbergen
+Transponierte
+Legt fest , ob die Spaltenbegrenzung berücksichtigt werden soll
+XY Matrixdarstellungs-Engine
+XYcolor
+Positionen
+Stufenkurve , die den ersten y-Wert verwendet .
+Logarithmische Regression
+Logarithmische nichtlineare Regressionskurven
+Die voreingestellte Periode ist 10 * ( xmax - xmin ) / ( nWerte - 1 ) \ nFalls kein Wert oder ein negativer Wert angegeben wird ( oder null ) , wird die Voreinstellung verwendet
+Bevorzugtes Farbschema
+Christentum , et al .
+Stilschema
+Die verschiedenen Leerzeichen , die im Editor angezeigt werden sollen .
+Dokument wurde wiederhergestellt
+Änderungen des Entwurf wurden wiederhergestellt
+Chronik leeren
+Verwerfen
+Zeichenkodierung :
+Nach rechts bewegen
+Vor dem vorherigen Reiter neu anordnen
+Suchen / Ersetzen
+Bearbeiten
+BD
+Ordner für empfangene Dateien auswählen
+Echo Empfangene Daten
+Handbuch lesen
+Nur schreiben
+O
+Ihre Kurzpause ist beendet
+Überfällige Pause
+Bereit zum Weiterlaufen
+Das GNOME-Projekt
+Neues Fenster
+Seitenleiste
+Einstellungen
+Wörterbucheinstellungen
+Wörterbuchquellen
+Verfügbare Methoden
+Nächste Definition
+Als kopieren speichern
+Wörterbuchquelle hinzufügen
+Druck-Schriftart :
+Die zum Drucken der Definitionen verwendete Schrift festlegen
+Hinzufügen
+Port
+Ähnliche Wörter
+Benutzer-Token , falls gemerkt
+Fotokommentare anzeigen
+RAW-Entwickler-Voreinstellung
+Legt fest , ob das Flickr-Veröffentlichungs-Plugin aktiviert ist oder nicht
+Legt fest , ob der Schieberegler-Übergang für Diaschauen aktiviert ist oder nicht
+Foto
+Kartenübersicht
+Alle Fotos
+Dunkles Thema verwenden :
+Bibliothek
+Shotwell-Einstellungen
+Umbenennen …
+So lange jedes Foto im Schreibtischhintergrund angezeigt wird
+Legitimierung wird überprüft …
+API-Schlüssel :
+Ungültige Benutzer-E-Mail oder Passwort
+Besuchen Sie die Yandex.Fotki-Internetseite
+Blogs
+1280 × 853 Pixel
+Uhr
+Fotos bereits verbergen
+Fotos / Videos aus der Kamera werden entfernt
+Bewertungen verringern
+Ausgewählte Fotos werden abgeschnitten
+Video exportieren
+Fotos / Videos werden nicht importiert :
+Dupliziert ein vorhandenes Medienobjekt
+4 × 6 Zoll
+überspringen
+Export
+Fotos können nicht aus diesem Ordner importiert werden .
+Aktuelle Entwicklung :
+Normale Größe
+Externe Bearbeitungen zurücknehmen
+Abgelehnte Rate
+Veröffentlichen …
+Datum
+★ ★ ★ ★ ★ + Bewertung
+Vollständige Rechtschreibüberprüfung
+( korrekte Rechtschreibprüfung )
+Ändern
+MSCHAPv2
+Gateway :
+Optional
+Verweise für Adressen in Notizen anlegen
+Benutzerdefiniertes Schriftface
+Ordner für entfernten SSHFS-Abgleich
+Pfad zum Abgleichserver bei Verwendung der Abgleich-Erweiterung des Dateisystems .
+Backlinks
+Sehen Sie den Verweis auf Notizen an , der Sie gerade sehen .
+Bugzilla-Links
+Hinzufügen
+Datei » % 1 « konnte nicht gespeichert werden
+Beispiel : google-device : / / name.Surname @ gmail.com / Notizen
+Bitte registrieren Sie Ihr Konto in Online-Konten
+Aufgaben
+Spezielle Notizen anzeigen , die andernfalls verborgen sind
+Statistik anzeigen
+Aus Klebezetteln importieren
+Überschrift 1
+Keine D-Bus-Verbindung verfügbar , Shell-Suche und Fernbedienung wird nicht funktionieren .
+Name ist bereits vergeben
+Klein
+Sync-Intervall für automatisches Abgleichen ( Minuten )
+% 1 Einstellungen
+Alle Notizen
+Elternordner ist kein Gtk : : : Grid , bitte melden Sie den Fehler !
+Das Herunterladen von % 1-Notizen zum Hochladen von % 1 ist fehlgeschlagen
+Notizkonflict
+Anzahl der Computerspieler .
+4
+Wurm 4
+Unechte Boni deaktivieren
+Spiel vorbei !
+5
+Der von Ihnen ausgewählte Schlüssel ist bereits zugewiesen !
+Sonstige
+Start
+Diese Person überspringen ( wird am Ende Tests durchführen )
+Sprungwinkel
+Testtyp bearbeiten
+Animationslichter
+Begrenzt durch
+Zusatzzeichen
+Gravis
+Graphund Bericht
+Statistiken
+Impuls
+nach
+Berechnungen
+Wiederholungen speichern
+Wiedergabe
+Phase
+Max . Werte
+Schlagfolge anzeigen
+Position anzeigen
+Weitere Spalten anzeigen
+Ort
+Verschiedene Spezifikationen
+Tastenkombinationen
+Katalanisch
+Neues Gewicht des Springers
+Automatisch abmelden
+Vergrößerungsänderung
+Ausgewählten Test bearbeiten
+Beschreibung / \ nKommentare
+Aufstehen
+3
+Drehachse
+Durchschnittlicher Durchmesser ( cm ) der Kegel- oder Achse , wobei das Gelb bei jedem Ankerpunkt umgebrochen wird .
+Anzahl der Gewichtungen
+Diese Sequenz in der Zukunft speichern
+Übungen auswählen
+Hilfe :
+Feet
+Zeit
+Einträge aus CSV ( Arbeitsblatt ) hinzufügen
+Markieren , wenn die CSV-Datei die Kopfzeile hat oder nicht .
+Höhe der Person
+Ansicht
+Hintergrundfarbe :
+Startzeit beginnt bei der Ankunft beim ersten Gerät oder drücken Sie den Knopf drücken
+Aufnahmezeit
+Schriftgröße beim Erfassen
+Sätze mit Triggern in Wiederholungen ausschneiden
+Einheiten
+Glätten
+Erkennung
+Erweiterte Steuerungen anzeigen
+Sprache erzwingen
+Nicht-Lateinisch
+Die Möglichkeit , Geräte zu ändern
+Notizen
+Sekundäre Variable anzeigen
+Nach Phasen Rhythmus
+Test \ Falsch \ Glocke
+Neuen Lauftyp anlegen
+Intervall
+( m )
+Nichts
+Bitte aktualisieren Sie auf eine neue Version .
+Technisch
+( Watts )
+Wenn Sie Chronopic3 verwenden , haben Sie einen USB-serielle Port .
+Potenzielle Energie beim Fall und nach dem Sprung berechnen .
+Drehachsen-Encoder auf Trägheitsmaschine , wenn Person horizontal bewegt wird .
+Abgleich abgeschlossen .
+Gehe !
+mit Runden
+Anfängliche Geschwindigkeit
+Intervallzeiten
+Manuell hinzufügen
+Die zu diesem Satz verknüpften Wiederholungen werden ebenfalls gelöscht .
+Legt fest , ob eine der Metriken unter einem Schwellwert ( schwach ) gesetzt wird , verglichen mit den anderen beiden , Übungen verhindern , die dessen Entwicklung hervorheben .
+Allgemeine Richtlinien zur Verbesserung des Neuromuskulare Profils :
+Prozess wird gestartet
+Aufnahmeoption
+Steifigkeitsberechnung ist richtig , aber Steifigkeits-Konfigurationsfenster können nicht mit elastischen Bändern und der gesamten Steifigkeit übereinstimmen .
+Initialer Encoder
+Beinparameter der Person sind nicht korrekt .
+V0 ist nicht &gt; 0 .
+Fehler
+Gerät nicht gefunden
+Vorgabewert : 50 ms .
+Datenreihe
+Masse ist enthalten
+Zu &lt; i &gt; Erweiterte Optionen &lt; / i &gt; gehen .
+Mann
+Encoder-Sätze
+Das Drücken der Tastenkombination wird bei der Aufnahme vertikale Linien während der Analyse von Soforten darstellen .
+Wird ausgeführt
+Das Reaktionszeit des Chronojump erlaubt das Aufzeichnen von Reaktionszeit und Laufzeitumgebung .
+Bei RSA-Tests wird die Ruhezeit als » lap « angegeben .
+2 verschiedene Runden : ( » Ausführen « und » Rest « ) x 8 mal
+Diese Daten scheinen keine Sprint zu sein .
+Encoder-Daten konnten nicht hochgeladen werden .
+Kurzer Beschreibung
+INSTRUCTIONS UND DEMONSTRATION :
+Sie müssen in dieser Leiste so schnell wie möglich laufen , falls Sie den Boden so schnell wie möglich berühren , wenn Sie den Boden einfach fortsetzen .
+Änderungen
+Abstrakt :
+dreimal nach rechts drehen und dreimal nach rechts drehen
+Kenia
+Lesotho
+Malawi-Datei
+Mayotte
+Südkorea und die Sandwiebel-Inseln
+Brunei Daralam
+Andorra
+Tschechische Republik
+Slalom
+Belagerung
+Äquestrian
+F reaktiv
+Runner
+Die Breite festlegen
+Textschrift festlegen
+Die Benutzeraktion mit der WebView nicht aktivieren . Funktioniert nur , wenn die Option --html verwendet wird
+Den Text in das Ende automatisch skalieren . Nur wenn der Text aus der Standardeingabe aufgenommen wird
+Eine neue Liste im Formulardialog hinzufügen
+Allgemeine Optionen anzeigen
+Fehlereinstellungen anzeigen
+Benachrichtigungssymboleinstellungen anzeigen
+Skalierungseinstellungen anzeigen
+Einstellungen der Farbauswahl
+Optionen für Passwortdialog anzeigen
+Wert außerhalb des zulässigen Bereichs . \ n
+Goldmedaille !
+Office Runner läuft
+Karten anzeigen
+Legt fest , ob Adressenadressen anderer im Editor angezeigt werden sollen
+Legt fest , ob fehlerhafte Informationen im Editor angezeigt werden
+Anzahl der Einheiten zur Festlegung einer Erinnerung an Geburtstage oder Jahrestage
+Einheit der Erinnerung an Geburts- und Jahrestage
+Legt fest , ob beim Löschen eines Termins oder einer Aufgabe nachgefragt werden soll
+Die Stunde , zu der ein Arbeitstag endet , im 24-Stunden-Format ( SSMM ) von 0000 bis 2359 . » -1 « legt fest , dass die Uhrzeit zum Tagesanfang verwendet wird
+Werktag-Startzeit für Samstag
+Werktag-Endzeit für Sonntag
+UAwg-Feld im Termin- / Aufgaben- / Besprechungseditor anzeigen
+Legt fest , ob das Zeitzonenfeld im Termin- / Besprechungseditor angezeigt werden soll
+Anzahl der Einheiten zur Festlegung , wann Aufgaben verborgen werden sollen
+Zeit der letzten Erinnerung im Timer
+Zeitdivisionen
+Erinnerung an Geburts- und Jahrestage
+Montag ist ein Arbeitstag
+Direktes Bearbeiten der Ereigniszusammenfassung erlauben , wenn es in der Tages- , Arbeitswochen- , Wochen- oder Monatsansicht erscheint .
+Durch Kommata getrennte Namen des Editors , der im Nachrichteneditor bevorzugen soll
+Legt fest , mit welchem Modus der Komponist geöffnet wird
+Eine Liste der lokalisierten » AW « -Trennzeichen , die beim Antworten im Betreff verwendet werden soll . Zusätzlich zum üblichen » : « und den Unicode-Trenner .
+Auf » falsch « setzen , um automatische Anzeige von Anlagen mit Kontent-Disposition : inline zu blockieren .
+Ähnliche Ansichten der Nachrichtenliste für alle Ordner aktivieren
+Anlagenleiste unter dem Nachrichtenvorschaufeld anzeigen , wenn die Nachricht Anhänge enthält .
+Bei Tastenkombination nachfragen ( Strg + Eingabe )
+Legt fest , ob der Benutzer gewarnt werden soll , dass eine Nachricht nicht als E-Mail-Adresse eingegeben wird
+Nachfragen , ob ein Ordner durch Ziehen und Ablegen in den Ordnerbaum verschoben werden soll
+Neue Nachrichten in allen aktiven Konten überprüfen
+Legt fest , ob der Zeiger zu Beginn der Nachricht oder der unteren Ebene bei alternativer Antwort platziert wird .
+Pidgin-Kontakte automatisch abgleichen
+Letzte Abgleichzeit mit Pidgin
+Liste der Pfade für die Ordner , die für Offline-Benutzung abgeglichen werden sollen .
+Mit Fälligkeitsdatum
+LDAP-Server reagiert auf keine gültigen Schemainformationen .
+Wollen Sie die Änderungen speichern ?
+Mit Duplikaten hinzufügen
+Neuen Kontakt konnte nicht hinzugefügt werden
+Ein Kontakt kann nicht gespeichert werden , das Adressbuch wird immer noch geöffnet
+Internetadressen anzeigen
+Verschiedene anzeigen
+Privatadresse anzeigen
+Datei unter :
+Firma :
+privat
+X.509 hinzufügen
+Wiederholen
+I
+Kontaktlistenmitglieder
+Video-Chat
+Abgebrochen
+Ausgewählte Kontakte in die Zwischenablage kopieren
+Sind Sie sicher , dass Sie diese Kontaktlisten löschen wollen ?
+Vergrößerungsstufe
+E-Mail arbeiten
+ICQ
+Telefon
+Sind Sie sicher , dass Sie diesen Termin löschen wollen ?
+Wollen Sie die an dieser Besprechung vorgenommenen Änderungen speichern ?
+Verändern einer Aufgabe in der Aufgabenliste » { 0 } « ist fehlgeschlagen
+Einstufung
+September
+Eine Aufgabe verändern
+Notizen werden abgebrochen
+Endzeit :
+Symbolansicht
+Farbe der Notiz überschreiben . Falls nicht gesetzt , dann wird die Farbe der Notizliste verwendet .
+Weiteres Datum
+Dienstag
+Wiederkehrung
+Eigene
+Tag ( n )
+Tage
+Änderungen werden gespeichert …
+Die zweite Zeitzone anzeigen
+Benötigte Teilnehmer
+Anfangszeit :
+Ausgewählte Aufgaben in die Zwischenablage kopieren
+Diese Instanz löschen …
+Vorläufig angenommen
+Abgelehnt
+Sie müssen die Teilnehmer des Termins sein .
+Derzeitiger Zustand
+Vorherige Tage
+Einstufung
+Teilnehmer
+Afrika / Accra
+Amerika / Iqaiit
+Amerika / Mazatlan
+Amerika / Foenix
+Amerika / RannetInlet
+Antarktis / Mawson
+Antarktis / McMurdo
+Asien / Gothdad
+Asien / Tokyo
+Asien / RasMandu
+Asien / KualaLumius
+Asien / Muskalisch
+Atlantik / Faeroe
+Australien / Darwin
+Europa / Simferopol
+Pazifik / Einy
+Pazifik / Norfolal
+Pazifik / Sättigung
+Pazifik / Yap
+Diese Nachricht mit PGP verschlüsseln
+Möchten Sie ungeordnete Nachrichten wiederherstellen ?
+Wollen Sie die zuletzt gespeicherte Version der Nachricht wiederherstellen ?
+Audio-Wiedergabe
+Diese Nachricht ist nicht verschlüsselt . Der Inhalt kann im Internet in einer Übertragung betrachtet werden .
+Evolution-Kalenderobjekt
+Entpackte Dateien und das Originalarchiv speichern
+Unicode
+Notizliste
+schwarz
+limitiert
+Nichts
+Ungültiger Datum-Wert
+Ungültiger Zeitwert
+Gestern
+Bild einfügen
+Verknüpfung einfügen
+&lt; b &gt; Größe &lt; / b &gt;
+Papier
+Entwurf
+Alle ersetzen
+Auffüllung :
+Suche :
+Trennlinie bearbeiten
+Eine sichere Verbindung verwenden
+Eine Spalte hinzufügen
+Nach Box gruppieren
+Sammlung wird gelöscht …
+Datum fehlt .
+Jahre
+Vorhandene Ansicht ersetzen
+Nachrichten werden für Duplikate gescannt
+Weitergeleitete Nachricht
+Zurück gehen
+Wählen Sie einen Ordner , in dem Nachrichten abgelegt werden sollen .
+Realen Ordner für den Papierkorb verwenden :
+Auf neue Nachrichten prüfen alle
+Signaturzertifikat :
+Konto-Editor
+falsch
+Beachten Sie : Im Namen der Bezeichnung für Beschriftung wird \ nals mnemonischer Bezeichner im Menü verwendet .
+Im Rumpf der angezeigten Nachricht einen Text suchen
+Als Anlage weiterleiten
+Ein Fenster zum Verfassen einer Nachricht öffnen
+Nächste Nachricht
+Vorheriger Diskussionsfaden
+Einen Suchordner für dieses Betreff anlegen
+Als Folgenachricht markieren …
+Als ungelesen markieren
+Die gewählte Nachricht an jemanden weiterleiten
+Antwort
+$ { AbbrevWeekdayname } , $ { Script } - $ { Month } } - $ { Tag } am $ { 24Stunden } : $ { Minute } $ { timezone } } :
+Vorgabe
+Legt fest , ob eine der folgenden Bedingungen ermittelt wird
+Beschriftung
+Alle Ordner einklappen
+Ordner durchsuchen
+CC
+BCC
+hat Worte
+ist größer oder gleich
+enthält kein Absender
+Signalton
+Evolution-Elm-Importeur
+Nachrichten aus Elm importieren .
+Postfach wird importiert
+Eine Mailingliste an die Liste weiterleiten , um eine private Antwort an die Liste umzuleiten
+Zulassen für Seiten :
+Auf libravatar.org nach dem Foto des Absenders suchen
+Optionen für Unerwünscht-Test
+Nachrichten nicht als unerwünscht markieren , wenn der Absender im Adressbuch ist
+Fällig durch :
+Der folgende Empfänger konnte nicht als gültige E-Mail-Adresse erkannt werden : \ n { 0 }
+Wenn Sie beenden , werden diese Nachrichten nicht verschickt , solange Evolution nicht erneut gestartet wurde .
+Änderungen des Kontos können nicht gespeichert werden .
+Suchordner » { 0 } « konnte nicht bearbeitet werden , weil er nicht existiert .
+Jetzt entladen
+Möchten Sie die Ordner lokal abgleichen , die für den Offline-Modus markiert sind ?
+Läuft nie ab
+Sie haben nicht genug Berechtigung , um diese E-Mail zu löschen .
+Unterkonversation konnte im Ordner » { 0 } « nicht ignoriert werden
+Leere Unerwünscht-Ordner » { 0 } « fehlgeschlagen
+% a % l : % M % p
+UID
+Beliebige Kopfzeile
+Adressbuch
+Adressbuchkarte
+Kontakt weiterleiten
+Sichern von Evolution-Konten und Einstellungen
+Voreingestelltes Benutzeradressbuch
+Anonym
+Einheitsstufe
+Abzugleichende Kalender aktivieren
+Voreingestellter Benutzerkalender
+Datei :
+Dateierweiterung neuer Notizen :
+Wählen Sie eine Aufgabenliste
+Besprechung
+Kopieren …
+Vorhergehende Übereinstimmung mit der aktuellen Suchzeichenkette finden
+Besprechung delegieren …
+Diese Wiederholung löschen
+Als neu bearbeiten …
+Zusammenfassung enthält
+Notiz
+Die gewählte Notizliste löschen
+Aufgabe löschen
+Die gewählte Aufgabenliste umbenennen
+Vorschau auf die zu druckende Aufgabenliste anzeigen
+In SRAV-Datensätzen nachschlagen
+Endzeit :
+Zeit als frei anzeigen
+Teilnehmerstatus wurde aktualisiert
+Wählen Sie einen Maildir-Maildir-Mailordner
+Yahoo ! -Funktionen
+Nachrichten als gelesen markieren …
+Leere Unerwünschtheit
+Eigenschaften dieses Kontos bearbeiten
+Öffnet einen Dialog , um einen Ordner auszuwählen , in dem begonnen werden soll
+Abonnements verwalten
+Neuer Ordner …
+Lösche gelöschte Nachrichten eine Linie durch
+Alle Konten
+Derzeitige Ordner und Unterordner
+Derzeitige Ordner und Unterordner durchsuchen
+Ordner
+Sofort beim Ordnerverlassen
+Möchten Sie Evolution zu Ihrem Standard-E-Mail-Programm machen ?
+Evolution ist im Offline-Modus aufgrund einer Netzwerkauflistung .
+Klartext anzeigen , falls vorhanden , oder HTML-Quelle
+Willkommen bei Evolution . \ n \ nDie nächsten Bildschirme erlauben Evolution , sich mit Ihren E-Mail-Konten zu verbinden und Dateien aus anderen Anwendungen zu importieren .
+Ermöglicht Ihnen , wenn Sie eine Anlage zu einer Nachricht hinzufügen .
+Sicherheit :
+Persönlich
+Benutzerdefinierte Kopfzeilen zu ausgehenden E-Mails hinzufügen .
+Befehl zum Starten des Editors :
+Automatisch beim Bearbeiten einer neuen E-Mail starten
+Mailingliste
+Häufige Aktionen der Mailingliste durchführen ( abbestellen , abbestellen , … ) .
+Fehlerhafte Kopfzeile
+Die gewählte Aufgabenliste ist schreibgeschützt , deshalb kann dort keine neue Aufgabe erstellt werden . Bitte wählen Sie eine andere Aufgabenliste .
+Eine Notiz anlegen
+Kalender im Internet veröffentlichen .
+Adresse
+Enthält
+Im Offline-Modus wird vorbereitet …
+Verfügbare Kategorien verwalten
+Jetzt suchen
+Tastenkombinationen
+Netzwerkverfügbarkeit ignorieren
+Fehler beim Anfordern von Anmeldedaten für » { 0 } «
+Kein Dateiname angegeben
+Die Echtheit dieses Zertifikats vertrauen
+Legt fest , wann Passwörter angefordert werden sollen . Mögliche Werte sind » never « , » onwrite « und » always « .
+RSS-Nachrichtenquellen abspielen
+Evolution zeigt die Zusammenfassung des Artikels anstelle der Webseite des Artikels an . Die Zusammenfassung kann auch HTML sein .
+Minimale Schriftgröße
+So viele gleichzeitige Downloads .
+Link-Statussymbol
+Auf neue Artikel prüfen , jedes mal , wenn Evolution gestartet wird .
+RSS einrichten
+Alle auswählen
+Fehler beim Abrufen der Nachrichtenquelle .
+Ungültige Nachrichtenquelle
+Import läuft
+Importdatei auswählen
+Nachrichtenquelle voll und ganz anzeigen
+Liste der Kennungen der Desktop-Datei für bevorzugte Anwendungen
+Nur auf dem primären Bildschirm arbeiten
+Etwas ist schief gegangen
+Neustart ; Neustart ;
+Bildschirm sperren
+Ihre Verbindung zu dieser Hotspot-Anmeldung ist nicht sicher . Passwörter oder andere Informationen , die Sie auf dieser Seite eingeben , können von Personen in der Umgebung betrachtet werden .
+Keine Termine
+Weltuhren
+Sie haben gerade den Verschiebungsschlüssel für 8 Sekunden verworfen . Dies ist die Tastenkombination für das » Slow Keys « -Funktionsmerkmal .
+Sie haben gerade zwei Tasten auf einmal gedrückt oder die Umschalttaste 5 mal in einer Zeile gedrückt . Dies schaltet die Funktion » Klebriges Keys « aus , welche die Art auslöst , wie Ihre Tastatur funktioniert .
+Aus lassen
+Internetseite
+Anwendungen haben nun einen ungesicherten Zugriff
+Anwendung definiert
+Drücken Sie Esc zum Beenden
+Ziehen
+In Verwendung des Ortes
+Ort ist deaktiviert
+Standortzugriff erlauben
+Vollständig markiert
+Spiegel
+Nur Extern
+Erweiterungen können Leistungs- und Stabilitätsprobleme hervorrufen . Erweiterungen können deaktivieren , wenn Sie Probleme mit Ihrem System festgestellt haben .
+Aktualisierungen für Erweiterungen bereit
+Die für Übersetzungen zu verwendende Gettext-Domäne
+Indikator
+System-Sounds
+EteSync-Geheimnis nicht gefunden
+Legitimierungsanfrage des EteSync-Kontos
+Libreswan-basierten Client für IKEv1-basierte IPsec-virtuelle private Netzwerke
+IPsec-basiertes VPN
+IKE Verschlüsselungs- / Legitimierungsalgorithmus , der für die Verbindung verwendet wird ( Phase 1 aka ISAKMP SA ) . Das Format ist » cipher-hash ; modpgroup , cipher-hash ; modpgroup , … « . \ nconfig : ike &lt; Vorschläge &gt;
+Gtranslator
+Zeitspanne in Minuten zum automatischen Speichern von Dateien .
+Legt fest , ob die Rechtschreibprüfung übersetzter Nachrichten geprüft werden soll .
+Sprache
+Modul
+OK
+Nachrichtennummer eingeben :
+Suchen ( &lt; Strg &gt; &lt; f &gt; )
+Rückgängig
+Markieren / Markieren als unklar
+Konfiguration :
+Entfernen
+SSTP VPN-Client
+MSCHAP
+TLS 1.2 ( Vorgabe )
+BSD-Komprimierung erlauben / abschalten . \ nconfig : nobsdcomp ( wenn abgewählt )
+&lt; b &gt; Kompatibilität &lt; / b &gt;
+Prozesse anzeigen
+Endsignal senden
+Prozesseigenschaften anzeigen
+Meine Prozesse
+Dateien öffnen
+% a , % l : % M % p
+Getrocknete Schärfe
+Speichert den aktuell betrachteten Reiter
+Farbe des ausgehenden Netzwerkverkehrs
+Wenn WAHR , zeigt system-Monitor den Prozessor- , Speicher- und Netzwerkdiagramm als geglättete Diagramme an , ansonsten als Liniendiagramme .
+Spalte » Regent-Speicher « beim Start anzeigen
+Spalte » Start « beim Start anzeigen
+Spalte » Ordner « in der Geräteansicht beim Start anzeigen
+Spalte » Benutzt « in der Geräteansicht beim Start anzeigen
+X-Server-Speicher
+Kanal wird gewartet
+Abbrechen
+entgegen dem Uhrzeigersinn drehen
+Zwei Finger wischen nach rechts
+Tastenkombinationen
+Ein Flickr-Verwalter für GNOME \ n
+Hinzufügen
+Elemente
+Fehler : \ nInhalt für diese Gruppe nicht erlaubt
+Titel :
+Geoposition festlegen
+Ein Fehler ist beim Versuch aufgetreten , das Bild zu laden
+HTTP-Proxy aktivieren
+In externem Betrachter öffnen
+Anzahl früherer Zeilen , zu denen gehören soll :
+Verbindung mit dem aktuellen MUD trennen
+Einen Ordner auswählen
+Tastenkombinationen
+Liste der verfügbaren Profile
+Die voreingestellte Hintergrundfarbe des Hintergrundes als Farbangabe ( kann als Hexadezimalzahl oder als Schriftfarbe wie » red « angegeben werden ) .
+Legt fest , ob ein Proxy-Server zum Verbinden mit dem MUD genutzt wird .
+Der GNOME MUD Client
+Warnung
+Schließen
+Kontakte werden auch die Online-Adressbücher einbeziehen und Kontakte automatisch aus verschiedenen Online-Quellen verknüpfen .
+Freunde ; Adressbuch ;
+Entfernen
+Menü
+© 2011 Red Hat , Inc . \ n © 2011-2020 Die Kontakte Entwickler
+Gadu-Gadu
+Kontakte trennen
+Webdienst
+Signatur konnte nicht überprüft werden .
+Passphrase eingeben
+Schlüssel aus Datei importieren
+Verschlüsselungswerkzeug
+Lha ( .lzh )
+Mit bzip komprimiertes Tar ( .tar.bz )
+Alle Dateien
+Fensterbreite
+akzeptieren
+Nach Raumeinstellungen suchen
+Raumeinstellungen
+Prüfen Sie Ihre Netzwerkverbindung .
+Nachricht senden
+Quelle anzeigen
+Fertig
+Verbindung zur Kamera konnte nicht hergestellt werden
+Liste der angeschlossenen Geräte konnte nicht geladen werden .
+Zuletzt gesehen um % k : % M
+Benutzerbild erfolgreich entfernt
+Normaler Benutzer
+Als Favorit markieren
+Kompatibel zur automatischen Vervollständigung , semantische Hervorhebung und Fehlerdiagnose
+Der Quellcode-Editor
+Pfad zum ausführbaren Zertifikat
+Der Pfad zum auf dem System ausführbaren Zertifikat .
+Legt fest , ob der Editor die Zeile hervorheben soll , die die Eingabemarke enthält .
+Legt fest , ob der Editor relative Zeilennummern anzeigt .
+Gitterlinien anzeigen
+Legt fest , ob Builder eine Übersichtskarte der Quelldatei neben dem Editor anzeigt .
+Automatisches Speichern aktivieren oder deaktivieren .
+Die Anzahl der Pixel , die über und unter die Zeilen im Editor enthalten sind .
+Diese Einstellung ist veraltet und wird nicht mehr verwendet .
+Ausgewählte Konfiguration für Erstellung
+S
+a *
+HEX3
+Hervorhebungsmodus
+Panels
+Auslage-Leiste umschalten
+Zurücknehmen
+Bereit
+Herunterladen …
+Bootstrapping …
+Committing …
+Projekt klonen
+Ein Projekt öffnen
+Erfahren Sie mehr über GNOME Builder
+Zeileninformationen
+Abstand
+Leerzeichen vor Semikolonen bevorzugen
+Debugger
+Bearbeitung läuft
+Schönmacher-Plugin : Der Puffer ist nicht schreibbar
+Das Duplizieren der Konfiguration erlaubt das Bearbeiten von Änderungen , ohne diese Konfiguration zu verändern .
+Erstellungssystem
+Fehlendes
+Es gibt ein Problem mit der aktuellen Erstellungskonfiguration .
+Letzte Erstellung
+Rebuild
+Leerzeichen
+Die Einheit der RGB-Komponente und Zeichenketten .
+Farbekomponenten
+Farbton-Sättigungswert
+Copyright aktualisieren
+Projekt anlegen
+Bibliothek
+Suchleiste mit Strg + F aufdecken
+Verbinden
+Abhängigkeiten werden erstellt
+SDK-Laufzeitumgebung wird aktualisiert
+Unbenanntes Glade-Projekt
+UI-Designer
+UI-Designer
+Beenden
+Werkzeug hinzufügen
+Eine einfache GNOME3-Anwendung zum Zugriff auf entfernte oder virtuelle Systeme
+Spiele
+Container / Werkzeugkasten
+Dateien werden kopiert …
+Shell-Befehl
+Tastenkombination ändern
+Die Verwendung von Stylelint aktivieren , um zusätzliche Fehlerdiagnosen in Styllesheet-Dateien zu finden . Dies kann zur Ausführung des Codes in Ihrem Projekt führen .
+Terminal-Schrift Monospace
+Testausgabe leeren
+TODOs werden geladen …
+Datei ist beschädigt
+TIFF-Dokumente
+Seitengröße mittels Dokumentseitengröße auswählen
+Drucken
+Betreff :
+Enthält JavaScript :
+Hervorhebung hinzufügen
+Drehen <unk>
+Verkleinern
+Maßstab 1 : 1
+Zur Seitennummer bewegen
+Primärmenü umschalten
+Geteilter Ordner auf Ihrem System und in virtuellen Maschinen einrichten .
+Anwendungsmenü
+Tastenkombinationen
+Konfiguration
+Speichern
+Eine einfache GNOME3-Anwendung zum Zugriff auf virtuelle Systeme
+– Eine einfache Anwendung zum Zugriff auf virtuelle Maschinen
+Wird ausgeführt
+Die Flatpak-Version von GNOME Boxen unterstützt keine USB-Richtung .
+Das Bearbeiten Ihrer Box kann zu einem Betriebssystem Ihrer Box führen . Wollen Sie einen Schnappschuss erstellen , um aus Ihren Änderungen zu bestehen ?
+Ein Fehler trat während der Installation auf . Express-Installation ist deaktiviert .
+ohne Passwort
+Zur letzten Arbeitsfläche wechseln
+Neue Fenster in der Mitte platzieren
+Zum virtuellen Terminal 4 wechseln
+Zum virtuellen Terminal 8 wechseln
+Sichtschutz aktiviert
+Anwendung reagiert nicht .
+Verbindung zu Sitzungsverwaltung deaktivieren
+Als verschachtelten Compositor ausführen
+Erstellt
+Diesen Ort als Lesezeichen speichern
+Das GNOME-Projekt
+Legt fest , ob das Nachtmodus überwacht wird
+Die Breite des Hauptfensters in Pixel .
+» Zurück « und » Vorwärts « -Knopfereignisse verwenden
+Eine Liste von Lesezeichenketten
+Eine Bytezeichenkette des Typs » ay «
+Eine von 64-bit vorzeichenlose Ganzzahl . Siehe auch der Schlüssel » integer-64-sign« .
+Eine Aufzählung konnte nur einen Eintrag enthalten , doch das ist vermutlich ein Fehler . Dconf-Editor warnt Sie in diesem Fall .
+Es gibt einen leeren Tupel ( manchmal » triv « ) , der ein Tupel ohne Inhalt ist und nur » ( ) « als Wert verwenden kann .
+Ein üblicher booleschen Wert , definiert durch ein verschiebbares Schema .
+Kann nicht interpretiert werden : Leerzeichen im Argument . \ n
+Ein grafischer Betrachter und Editor für die internen Einstellungen der Anwendungen .
+Alles anwenden
+Startabfolge sind deaktiviert .
+Vorgabewert
+Lokale Suche umschalten
+Bearbeitung verwerfen
+Schlüssel löschen
+D-Bus-Handle-Typ
+Zusammenfassung
+Minimum
+Als Dezimalmarkierung und kein Tausender Trennzeichen verwenden . Sie können die X.Ye + Z -Notation verwenden .
+Kein Schema gefunden
+Keine Schlüssel in diesem Pfad
+Vorhergesagte Zeit
+Glättete Linie verwenden
+Eine andere Suche versuchen
+Sie können nach Markierung Ihre markierten Artikel sehen
+Sie sind bereits an diesem Nachrichtenquelle abonniert !
+Menü
+Ungültiger Versuch , eine Sammlung mittels eines nicht unterstützten Typs zu initialisieren . Nur GXmlGXml.Element wird unterstützt
+Fehler beim Entfernen des Attributs :
+Ungültiger Versuch , einen Element-Knoten zu verarbeiten , wenn der aktuelle gefundene Knoten nicht ist
+Interner Fehler : Kein TextWriter initialisiert
+Das GNOME-Projekt
+COMMUND
+Verwaltung der Fotobibliothek
+Farbtemperatur
+Bezeichnung 9
+…
+Bewertung 4
+Markierung festlegen
+Eine Digital-Foto-Anwendung . \ n \ nBuild-Optionen :
+SNILS
+RSA
+SHA1 mit RSA
+Elliptische Kurve
+GnuPG Schlüsselbund
+Abbrechen
+Öffentlicher Schlüssel konnte nicht erstellt werden
+Zugeordnetes Zertifikat
+Ausgelöst
+Algorithmus
+Importieren kann nicht importiert werden , weil es keine kompatiblen Importer gibt
+Diesen Schlüsselbund bei Abmelden sperren
+Aktualisierungs-Leiste
+Anwendungen anhand des vorgegebenen Zweigs für die Gegenstelle filtern
+Zeitstempel der letzten Aktualisierung
+Zugriff auf den Dialog » Softwarequellen « erlauben
+Chat zwischen Benutzern
+Enthält weder Geschlecht noch Nacktheit
+Gesellschaft
+Dateisystem
+Nach Anwendungen suchen
+Cache und Datenverwendung sind unbekannt
+Darf all Ihre Daten lesen / schreiben
+Erfordert eine Tastatur
+3D-Grafik
+Vektorgrafik
+Audio-Erstellung und Bearbeitung
+Empfohlen
+Künstler-Intelligenter
+Pfad
+Lokalisierung
+Zusammenführen läuft
+Lokalisierung
+Diese Software stellt keine Verweise auf eine Webseite , ein Repository oder ein Problem bereit .
+Maus-Unterstützung
+Unterstützt Mäuse und Zeigegeräte
+Touchscreen Unterstützung
+In Fortschritt
+Es gibt keine Rezensionen zum Mäßig
+System
+Schalten Sie neue Repositorys ein , wenn sie hinzugefügt werden .
+Was halten Sie für diese Anwendung ? Versuchen Sie , Ihre Ansichten Grund zu geben .
+Auf das Internet kann nicht zugegriffen werden
+Verwendet Sitzungsdienste
+Darf Daten aus Sitzungsdiensten anfordern
+Geräte wie Webcams oder Gaming-Controller können nicht zugegriffen werden
+Nach Apps suchen
+Es wurden keine Aktualisierungen auf diesem System installiert .
+Erfahren Sie über die neue Version
+Eine Hauptaktualisierung mit neuen Funktionen und hinzugefügten höhen .
+Befehlszeile verwenden
+Konsole
+Legt fest , ob die Hervorhebungsfarben aus dem Profil verwendet werden sollen .
+Legt fest , ob die Farben der ersten 8 Farbe fett werden auch in ihre hellen Varianten umgeschaltet .
+Zeilenanzahl in neu erstellten Terminalfenstern . Hat keine Auswirkung , wenn usecustomdefaultsize aktiviert ist .
+Steuert das Öffnen eines neuen Terminals von einem anderen , das über den Arbeitsordner des Öffnen-Terminals auf das neue gesetzt wird .
+Legt fest , ob der Terminalinhalt auf die Fenstergröße umgebrochen werden soll
+Tastenkombination zum Drucken des Inhalts des aktuellen Reiters zu Drucker oder Datei
+Tastenkombination zum Suchen nach dem nächsten Auftreten des Suchbegriffs
+Aktiviert
+Ursprünglichen Titel ersetzen
+Hintergrund
+Hervorhebungsfarbe :
+Farben
+Mehrfenster-Zeichen :
+Löschen …
+Mitteleuropäisch
+Unicode
+Suchen
+Groß- / Kleinschreibung treffen
+Als HTML kopieren
+Primäres Menü anzeigen
+Zurücksetzen
+2. 80 × 43
+Exportieren …
+Als Dateinamen einfügen
+Menü anzeigen
+Terminal
+Ein Terminal öffnen
+Das Argument für diese Option innerhalb des Terminals ausführen
+Erstellen
+Profile
+Datei öffnen
+Drucker
+Gerät entfernen
+Einstellungen
+Farbe für transparente Bereiche
+Das Bild um 90 ° nach rechts drehen
+Vollbildschirm
+In den Papierkorb verschieben
+Automatische Ausrichtung
+Bildsammlungsknöpfe anzeigen / verbergen .
+Das Hauptfenster schließen , ohne Änderungen zu speichern .
+Eigenschaften
+Wählen Sie die zu speichernden Bilder :
+Einen eingebauten Slave-Server starten
+Für weitere Informationen ausführen \ jhbuild &lt; Befehl &gt; --help \
+Alle Module dämpfen
+Serverfehler , Abbruch
+FEHLER : Falsche Anmeldedaten , bitte überprüfen Sie Benutzername / Passwort
+Terminal
+Shell beenden , um mit Erstellung fortzufahren
+Benötigt mindestens git-1.5.6 vom Juni / 08 zum arbeiten
+Untertitel ; Video ;
+Die Breite des Hauptfensters .
+Speichern unter
+Forelle
+Kursiv
+Legt den Beginn des Untertitels zur aktuellen Videoposition fest
+Zentral
+Ausgewählte Untertitel
+Zeiten abgleichen
+Info
+Die angegebene Datei ist ungültig .
+Die Datei konnte nicht abgespielt werden
+Dauer
+DN-Kennung
+Sichere Züge verwenden
+Der zum Verschieben nach West verwendete Schlüssel .
+Der Schlüssel zum Bewegen nach Osten .
+Robots2 leicht
+Robots mit sicherem Teleporter und übersichtlichen Zügen
+Teleport sicher
+Spieltyp :
+Bildthema :
+Eingangsvideo in eine umgekehrte Farbe umwandeln
+Klassische , weiße optische Animation
+Radioaktivität
+Sobel
+Kung-Fu
+Position des Fensters
+Fenster maximiert
+Anzahl der zu speichernden zuletzt besuchten Routen .
+Zwischenziel hinzufügen
+Suche
+Der Verifizierungscode stimmt nicht überein . Bitte versuchen Sie es erneut .
+Prüfen
+Abmelden
+Vergrößerungsstufe
+Telefon
+Caodaismus
+Unitärer Universalismus
+Yindidism
+Toiletten
+Notiz
+Koordinaten
+% e. % b
+Auf Vorgaben zurücksetzen
+GNOME Shell läuft nicht
+Ein Thema auswählen
+Bild
+Nichts
+Zusätzliche Einstellungen für Layout
+Indizierer
+Die Auswahl der Eingabequellen in der Einstellungs-Anwendung erhöhen .
+Links
+Datum
+Wacom
+Neustart
+Die Breite des Hauptfensters in Pixel .
+Die Höhe des Hauptfensters in Pixel .
+Interner Fehler des Proxys .
+Äthanol
+Wasser
+Name der Erweiterung , die als Anrufer verwendet werden soll
+Anrufe nicht möglich : Kein Modem oder ein VoIP-Konto verfügbar
+Hilfe
+Installation installieren
+Abhängigkeit
+Ausgewählte Pakete auf dem System installieren
+Paketrepositorys aktivieren oder deaktivieren
+Paketaktualisierung
+Es gibt keine Paket-Warteschlange , die installiert oder entfernt werden kann .
+In der Version 2 der GNU General Public License lizenziert
+Lokaler Dateikonflikt zwischen den Paketen
+Lokale Installation fehlgeschlagen
+Ungültige Paketdatei
+Virtueller Bereitstellungstyp wird nicht unterstützt
+» root installieren « ist ungültig
+Quellpakete sind normalerweise nicht installiert . \ nÜberprüfen Sie die Erweiterung der zu installierenden Datei .
+Auf diesem Gerät ist nicht genügend freier Speicherplatz . \ nFrei Frei lassen , um diesen Vorgang auszuführen .
+Ein Neustart wird erforderlich sein .
+Starten
+Informationen werden geholt
+Dateien wiederherstellen
+Laufwerke werden ausgeführt
+Veröffentlichung
+Pakete aktualisieren
+libEGL ist in dieser Sandbox nicht verfügbar
+Pause
+KPSpace
+Löschen
+AudioMute
+Audio-Stopp
+Audiowiedergabe
+Auswerfen
+Ruhezustand
+Keine GLX-Konfiguration mit den benötigten Eigenschaften gefunden
+GNU General Public License , nur Version 3
+Banner
+Verknüpfung
+Liste
+Zeilenkopf
+Ungültige
+Sehr dunkles Grün
+Hellgrau 4
+Anpassen
+mm
+Der Ordnerinhalt konnte nicht angezeigt werden
+Zahlen Groß- / Kleinschreibung
+Standard : LTR
+Startete Dateien
+Einen Ort manuell eingeben
+Anzeigen
+Nichts
+Adresse
+Bildrate
+Den Aktionszustand neu laden
+Akut
+Kontext-Auslagerungsspeicher
+Nenner
+Experten-Formen
+Links-links-Alternativen
+Benötigte Ligaturen
+Stilistisches Set 7
+Stilistisches Set 10
+Math Skript-Alternativen
+Traditionelle Namensformen
+Unicase
+B4
+RA3
+JB1
+Arch A
+Endlospapier Deutsch Legal
+Regierungs-Buchstabe
+US-Legal
+Persönlicher Umschlag
+ROC 16k
+In PS-Spielstufe 2 umwandeln
+Druckprofil
+Bilddaten nicht in den Zwischenspeicher einschließen
+Client für virtuelle private Cisco IPsec
+Neue Geheimnisse konnten nicht als interaktivem Modus verwendet werden .
+Zu verwendender D-Bus-Bus-Name
+nm-vpnc-service stellt NetworkManager ein integriertes Cisco Fehler-IPsec-VPN zur Verfügung .
+Vendor Ihres IPsec-Gateway \ nconfig : Vendor &lt; cisco / netscreen &gt;
+Keine OCR-Anwendungen verfügbar
+Aktuelle Konfiguration beibehalten
+Seiten
+Exportieren …
+Seite nach unten verschieben
+Nächste Seite auswählen
+Bild mit Unpaper verarbeiten
+Alle Seiten automatisch erkennen und erkennen
+Text als linke Ausrichtung festlegen
+OCR-Anwendung zur Erkennung dieses Bereichs :
+Datei öffnen
+Nichts
+Fenstergröße
+Erkannter Text
+Ränder des Inhaltsbereichs anpassen
+Name :
+Hohe Wertungen
+Erscheinungsbild
+Copyright © 2009 Tim Horton
+Alle Ereignisse kopieren
+Fehler beim Einhängen
+Die Verbindung ging unerwartet nach unten
+Ungültige Daten zur Dateisteuerung des Applets
+Der Benutzer hat diesen Rechner nicht vertrauenswürdig
+Protokoll-Dienst anfordern
+gudev Client konnte nicht angelegt werden
+Datei kann nicht eingehängt werden
+WebDAV-Freigabe
+Datei oder Ordner kann nicht überprüft werden .
+Fehler beim Abrufen der Geräteinformationen
+Fehler beim Erstellen des Ordners
+Einhängepunkt existiert nicht
+Anmeldung abbrechen
+Anmeldefenster abgebrochen
+Unbekannter Grund
+Der FTP-Server ist belegt . Bitte versuchen Sie es später erneut
+Fehler beim Durchsuchen im Datenstrom
+GVFS-Daemon
+Akku ( klein )
+Anzahl der anzuzeigenden Zeichen
+Benachrichtigungen für kritische Wetterberichte anzeigen
+Liste der Einträge , die Zeichenketten für die Makrobefehle enthalten .
+Aktualisierungsrate des Appletts in Millisekunden
+Die Breite der Graphen in Pixel für horizontale Panels . Für vertikale Panels ist dies die Höhe der Graphen .
+Graphfarbe für Loopback-Netzwerk-Benutzung
+Titel der Notiz
+Klickeffekt aktivieren .
+Wenn aktiviert , zeigt der Fenstertitel immer den Namen des maximierten Fensters an .
+Wenn diese Option ausgewählt ist , verwendet das Applet allen verfügbaren Platz im Panel .
+( zwei Bilder : eine für einen Ladezustand , eines für die Ladung )
+Verbleibende Zeit anzeigen
+Um einen Verlust Ihrer Arbeit zu vermeiden : \ n • schließen Sie Ihren Laptop an externe Leistung ein oder \ n • Öffnen Sie geöffnete Dokumente und schließen Sie Ihren Laptop aus .
+Akku-Ladeüberwachung
+Bearbeiten
+Einstellungen zur Prozessortaktüberwachung
+Laptop-Panel-Helligkeit einstellen
+Fahrenheit
+Benutzerdefinierte Adresse für die Radarkarte verwenden
+Farben
+Neues Makro hinzufügen
+system-Monitor starten
+Durchschnittsmittel laden
+hat keine ip
+Notizen verbergen
+Notizen löschen
+Timer starten
+Timer ist abgeschlossen !
+Schlagwörter
+Keine Objekte im Papierkorb
+Alle Objekte aus dem Papierkorb leeren ?
+Von :
+Maximieren
+Klickeffekt aktivieren
+&lt; b &gt; Interner &lt; / b &gt;
+LaTeX-Erweiterung
+Seiten
+Notiz
+Verschiedene
+Optionale Felder
+Typ :
+Grafiken einfügen
+Autor :
+Schriftfamilie
+2x
+Detaillierte Ausgabe anzeigen
+Aufgaben anzeigen / verbergen
+XDMCP : Adresse konnte nicht verarbeitet werden
+Die intelligente Karten-Legitimierung hat leider nicht geklappt . Bitte versuchen Sie es erneut .
+Anzeigen der Start-Knöpfe deaktivieren
+Ignoriert – zur Kompatibilität beibehalten
+Bildschirmfoto aufgenommen
+Version
+Lizenz
+Above-base Formen
+Above-base Sublayouts
+Nenner
+Zusammengelegte Formen
+Horizontale Kana-Alternativen
+Anfängliche Formen
+Diakritika-Positionierung
+Benötigte Ligaturen
+Alternative vertikale Metriken
+Legt fest , ob Sonderzeichen aus Dateinamen entfernt werden sollen
+Allgemein
+Hilfe zu Tastenkombinationen
+Titel
+Lesezeichen
+Europa
+Name ist zu lang
+Alle überspringen
+Funktion
+Opera
+Keine CD-ROM-Laufwerke gefunden
+Unbekannter Widget-Aufruf direkt geändert .
+Sofort extrahieren
+Toleranz der Gaußschen Distribution
+Gibt die Reste eines Mod n mit dem minimalen Wert zurück ( im Intervall -n / 2 nach n / 2 )
+Vektor mit bekannten Mersenne-Primzahlen
+Das Hauptprodukt zweier Vektoren ermitteln ( keine Konjugate )
+Spaltenvektor aus Matrix machen , indem Zeilen unterdrückt werden , um sich gegenseitig zu bewegen
+Überprüfen , ob eine Matrix normal ist
+Die Nultät einer Matrix ermitteln
+Den Rang einer Matrix ermitteln
+Darstellungsform für Matrizen mit quadratischen Ganzzahlen
+Versuchen , eine unendliche Summe für eine Funktion mit einem Parameter mit func ( arg , n ) zu berechnen
+Eine Funktion zurückgeben , welche die Fourier-Sinusreihe von f ist &#91; 0 , L &#93; bis zu N komprimiert
+Versuch , die Begrenzung von f ( Schrittweite ( i ) zu berechnen , als i von 1 nach N
+Skalenstrich-Kern der Ordnung n
+Möbiustransformation , die Doppelverhältnisse nutzt , um unendlich auf 1 und z3 , z4 auf 0 bzw. unendlich abzubilden
+Die Nullstelle einer Funktion mittels einer Sekans-Toleranz innerhalb der TOL-Toleranz innerhalb von bis zu N Iterationen ermitteln . f ( a ) und f ( b ) müssen unterschiedliche Vorzeichen haben .
+Symbolische Differentiation einer Funktion n mal versuchen
+Es können derzeit keine Polynome aus mehr als 3 vars ausgeben
+An Ort und Stelle aufzeichnen
+Extra Wörterbuch für NULL-Funktion
+Funktionen
+Berechnet die haut-Funktion
+Die Gamma-Funktion ( nur reelle Werte implementiert )
+Vorzeitiger gemeinsamer Multiplikator
+Überprüfen , ob eine Matrix oberhalb des Dreiecks ist
+Ermittelt die reduzierte Stufenform einer Matrix
+Überprüfen , ob ein Argument ein Null ist
+Zwei Polynome subtrahieren ( als Vektoren )
+Das Polynom um q teilen und den Rest in r zurückgeben
+Funktion aus einem Polynom erstellen ( als Vektor )
+Markierungen für eine Funktion festlegen , derzeit » PropagateMod « und » No@ lovis «
+Skript
+Laden und Ausführen …
+Maximale Ziffern der Ausgabe ( 0 bedeutet unbegrenzt )
+Limits
+Ausgabe von
+Mathematik ; Matrix ; Vector ; Linear Algebra ; Berechnung ; Graph ; Graphing ; Funktion ; Zeichenttheorie ;
+Parameter von :
+X von :
+Einen Punkt bei x , y. x zeichnen , y kann für mehr Punkte durch eine ( n , 2 ) -Matrix ersetzt werden .
+Oberflächengraph-Fenster ( Begrenzungen ) als 6-Vektor der Form &#91; x1 , x2 , y1 , y2 , y2 , z1 , z2 &#93;
+Zahlen zu groß , um Fakultät zu berechnen !
+Faktorisieren von komplexen Zahlen kann nicht erstellt werden
+Alle kopieren
+Normal
+Alphabet-Vorgabe
+Alles beim Anhalten kopieren
+Prozentsatz , um die Geschwindigkeit in den umgekehrten Modus abzusenken
+Alarmwiederholungszeit
+Beenden ohne zu speichern
+Pause
+Zeile , Spalte und Quadrat hervorheben , welche die ausgewählte Zelle enthalten
+Zurück
+Soll das Brett in den ursprünglichen Zustand zurückgesetzt werden ?
+Fensterhöhe
+Qualität der OGG-Dateien
+Um CDs zu lesen , müssen Sie die GStreamer-Basis-Plugins installieren
+Pause
+Fokus-Bilder :
+Ausgewählte Titel
+Auswerfen
+Falls gesetzt , so werden neue Reiter nach dem aktuellen Reiter eingefügt . Falls auf » end « gesetzt , werden neue Reiter an das Ende der Reiterliste angehängt .
+Legt fest , ob Kontextmenüelemente zur Erstellung von Verknüpfungen von kopierten oder ausgewählten Dateien angezeigt werden sollen
+Spaltenanordnung in Listenansicht
+Legt fest , ob das Navigationsfenster standardmäßig maximiert werden soll .
+Titel :
+Jahr :
+Einheit der Brennweite
+Copyright
+001 , 002 , 003
+Der detaillierte Dateityp .
+Eigentümer
+Zeigt an , ob die Datei gestartet wird .
+Binär
+überspringen
+Alle löschen
+23 Kopie )
+Das Ziel ist kein Ordner .
+Verschieben wiederholen
+Entpacken rückgängig machen
+Komprimieren wiederholen
+Originaldatei
+Ersetzen durch
+&#91; 0 &#93; Dateinamen
+Einstellungen
+Auf Ihre Dateien zugreifen und organisieren
+Nur Orte durchsuchen
+Entfernter Ort – nur nach dem aktuellen Ordner suchen
+Mit Standardanwendung öffnen
+Zum vorherigen Reiter bewegen
+Ansicht
+Automatische Zahlenanordnung
+Kleinere Archive , müssen aber unter Windows und Mac installiert werden .
+Einen neuen Namen für das Ziel wählen
+Neues Dokument
+Einfügen
+Komprimieren …
+Eine andere Suche versuchen
+In neuem Fenster öffnen
+Aushängen
+Details
+&apos; UTF-8 &apos; , &apos; ZURRENT &apos; , &apos; ISO-8859-15 &apos; , &apos; UTF-16 &apos; &#93;
+Client für Fortinet-SSLVPN
+Vorgabe
+Netzwerk ; Bildschirm ; Remote ;
+Bearbeiten
+Statistik zur Schnittstelle
+Geräte
+Netstat
+Traceroute Ausgabe
+Bitte geben Sie die Netzwerkadresse ein , die nach geöffneten Ports gesucht werden soll . Zum Beispiel : www.domain.de oder 192.168.2.1
+Domänenadresse :
+COMMUND
+IP-Adresse
+Postfachvertauschung
+Momentan angezeigtes Panel .
+Zurücksetzen
+15 min
+Sonnenaufgang
+Hinzufügen
+Versionsinformationen ausgeben und beenden
+Videos werden hinzugefügt , wie ein Untertitel-Downloader , die Fähigkeit zum Anheben oder Ablegen von Bildschirmfotos sowie die Unterstützung für die Aufnahme von DVDs .
+Voreingestellter Ort des » Bildschirmfoto aufnehmen « -Dialogs
+Farbabgleich
+60 Sekunden vorwärts gehen
+Nach oben navigieren
+Hinzufügen
+Die zu abgespielende Datei ist eine leere Datei .
+Vorheriger
+Mitteleuropäisch
+Griechisch
+MPRIS D-Bus-Schnittstelle
+Untertitel werden gesucht …
+Unbekannt
+rrefb2-Passwort
+Python-Konsole
+Dateien zuletzt genutzter
+Dies ist nicht möglich . Bitte erstellen Sie einen Fehlerbericht .
+Begrenzen auf
+Ausgewählt durch
+Dateiname :
+Beim Start :
+Horizontal :
+Vertikal :
+Folgendes Datum :
+Änderungsdatum der Datei
+Kommentare und Schlagwörter
+Bewertung
+Stil :
+Vorschaubilder
+Album :
+Konto :
+Das Album konnte nicht angelegt werden
+In Facebook exportieren
+Duplizieren
+Farbwerte
+Maximieren
+Originalgröße
+Eine Linie auf das Bild zeichnen , \ num die Ausrichtung festzulegen .
+Quadrat
+Zu Einstellungen hinzufügen
+Farbkurven
+Besondere Effekte
+Drehen
+Speichern
+Duplikate suchen …
+Suchen
+Duplizierte Dateien suchen .
+Dateiliste wird geholt
+Mäßiger Inhalt
+5 Minuten zurück gehen
+Bilder
+Nach unten gleiten
+Das eingebettete Farbprofil anwenden
+Benutzerdefiniertes Format
+Befehl einmal für jede Datei ausführen
+Basisname der Datei
+% N
+Befehl :
+Befehle
+Ziffern
+Die ursprüngliche Erweiterung
+Pixel
+Ausgewählte Dateien entfernen
+Ansichten
+Die Erweiterung konnte nicht deaktiviert werden
+Dateiinformationen werden ermittelt
+Liste der Vorschaubilder
+Sortierungsreihenfolge ändern
+Alles
+Ausführung läuft
+In neuem Fenster öffnen
+Legt fest , ob Warnungen über CA-Zertifikate in der Phase 2 der EAP-Legitimierung abgeschaltet werden .
+Eine mobile Breitbandverbindung einrichten
+Ihr Dienstanbieter :
+Herausgegeben von
+Automatisch
+Identität
+MSCHAP
+Tunneltes TLS
+Unbekannt
+Leap-Passwort fehlt
+Ungültiger wep-key : Passphrase muss nicht leer sein
+Unterstreichung verwenden
+Legt fest , ob eine Unterstreichung im Text das nächste Zeichen für die Kürzel-Tastenkombination verwendet werden soll
+Anzahl der Seiten
+Dekoration anzeigen
+Symbole sichtbar
+Das mit der Umbenennung verbundene Eingabe-Widget
+Ausrichtung
+Legt fest , ob mehr als einen Schnapppunkt gleichzeitig gewischt werden soll
+Standardseitensymbol
+Es ist ein Remis !
+Anatol-Trennlinie
+Mit einer Zeile vier verbinden , um zu gewinnt
+Sie :
+Rot gewinnt !
+Hilfe
+Die Höhe des Fensters
+Legt fest , wer beginnt
+Spielbare Kacheln markieren
+Erscheinungsbild
+Anfangsposition
+Vorgabe
+Farbe : Hell
+Weitere Optionen
+Die Anzahl der Bytes zwischen dem Beginn einer Zeile und dem Anfang der nächsten Zeile
+Oberdown-BMP-Bilder können nicht komprimiert werden
+Vorzeitige end-Datei gefunden
+Das ICA-Bild wurde verstümmelt oder ist unvollständig .
+Die transformierte JPEG hat eine Breite oder Höhe .
+Bilddaten konnten nicht gefunden werden .
+TIFF-Bild konnte nicht geladen werden
+XBM
+% a % R
+Tabellenkalkulation ;
+Data Interchange Format ( * .dif )
+Tebet
+Nisan
+Pkt
+Nicht implementiert
+Mathematikfunktionen
+Glpk-Datei wird geschrieben …
+GNOME Glossare PO-Dateiformat
+Nicht-Lineares Programmlöser
+Seiten
+PLN : Tabellenkalkulation ist passwortverschlüsselt
+Gnumeric Python-Konsole
+Ausführen in :
+Den ersten Buchstaben automatisch korrigieren
+Systemordner für Auto-Formate
+Dieser Wert legt im Druckeinstellungsdialog die Voreinstellung fest , ob nur Schwarz und weiß gedruckt werden soll . Bitte verwenden Sie den Druckeinstellungsdialog zum Bearbeiten dieses Werts .
+Anzahl der Rückgängig-Elemente
+Vorgegebene Anzahl der Blätter
+Bildschirmauflösung in horizontaler Richtung .
+Diese Variable legt fest , ob Zellen mit abgeschnittenen Inhalten markiert werden .
+Minihilfen für Funktionsnamen anzeigen
+Liste der Dateispeicherer mit deaktivierter Überprüfung der Erweiterung .
+Einfügen nicht möglich
+alle
+Diese Spalten sind nicht gruppiert , Sie können sie nicht aufheben
+Blattnamen müssen leer sein .
+Namensraum ändern
+Einzelbildbeschriftung festlegen
+Filter hinzufügen
+OLE2-Unterstützung .
+Plugin-System , Lokalisierung .
+Interpret
+Besondere Funktionen
+HTML , Troff , LaTeX-Exporter
+Thomas Canty
+Wir versuchen es zu tun !
+Die gewünschte Periode ist ungültig .
+Der Sampling-Dialog konnte nicht erzeugt werden .
+Y-Variablen :
+flach
+Nichts
+Kriterien
+Zellenwert ist Gegx .
+Der Zellenwert beginnt nicht mit der Zeichenkette x .
+Wenn der Zelleninhalt diese Zeichenkette nicht enthält , wird ein besonderer Stil genutzt .
+Wenn der Zelleninhalt nicht mit dieser Zeichenkette beginnt , wird ein besonderer Stil genutzt .
+Datum und Zeit
+Microsoft Excel :
+Die in » Durch Ändern der Zelle « angegebene Zelle darf keine Formel enthalten .
+Der im Wert » Bis Wert « angegebene Wert ist nicht gültig .
+Aktiv
+Benutzerdefiniertes Datumsformat
+Standardzeilenformat
+Diskrete
+F
+Alpha :
+Pareto
+Vorgegebene Zeilenhöhe festlegen
+Ergebniseintrag enthält keine gültigen Zellennamen .
+Verschickt
+Einfaches
+Rechts-nach-Links
+Alter
+Neuer Name
+Falls dieses Ankreuzfeld ausgewählt ist , wird die Spaltenbreite an den längsten Eintrag angepasst .
+Enden mit
+Kanten
+Anpassen
+Nichts
+Diagonale Kronschatch
+Aktion :
+STDill
+Befehl ( , )
+Zitat :
+An Zeile :
+Zwei aufeinanderfolgende Text-Indikatoren als eines anzeigen , das die Zelle nicht beendet .
+Typ :
+Maximale Änderung :
+Seite 6
+Als Feldfunktion eingeben
+Spalten :
+Populationsvarianzen sind :
+Unbekannt
+Populationen
+Die Quelle während des Einfügens vertikal spiegeln , so dass die erste Zeile zur letzten wird und umgekehrt
+Nur Vorhandene
+Groß- / Kleinschreibung ignorieren
+Die aktuellen Einstellungen als Voreinstellung speichern
+Text in den erwünschten Werten der Ausdrücke suchen
+Spalten-Hauptspalte
+Suchtext ist
+Zahl
+y-Verschiebung in Pixel :
+Dieser Name wird von einigen Erweiterungen verwendet , die eine Programmierbarkeit für dieses Objekt bieten . Die meisten Benutzer werden diesen Namen nicht angeben müssen .
+Zusammenfassung
+Ziel-Zelle festlegen :
+Algorithmus :
+Problemstatus :
+Seite :
+Koordinaten
+SUM errechnet die Summe aller in der Argumentliste referenzierten Werte und Zellen .
+Werte : eine Liste von Werten , die multipliziert werden sollen
+Beliebig
+27,%
+Dateityp :
+Verschieben
+Vorschau wird vorbereitet
+Auch verborgene Blätter drucken
+Demodulator bearbeiten
+Demodulator aktualisieren
+Feldreihenfolge des Datensatzes
+Folgenachricht
+Erste Datenreihe als freigegebenen Abszissa verwenden
+Bearbeiteter Knopf
+Ausgabe über die Zwischenablage
+Dateinamen mit Übereinstimmung drucken
+Nur ganze Wörter treffen
+Ergebnis
+Einige Daten passen nicht in das Blatt an und wurden abgebrochen .
+Das Trennzeichen für die Exponentiation korrigierte Schleife \ nGlätten erfordern mindestens 2 \ nAusgabespalten für jeden Datensatz .
+/ Gefährdet / Tode / Kalibrierung / Wahrscheinlichkeit
+Für die Lilliefors ( Kolmogorov-Smirnov ) Test \ ndie Stichprobengröße muss mindestens 5 sein .
+Möglicherweise normal
+/ Mittelwert / Standardfehler / Medianwert / Modus / Standardausweichung / Kurtosis / Summe / Summe / Minimal / Maximal / Summe / Summe
+/ Mittelwert / Varianz / Beobachtungen / Hypothetische Differenz / Beobachtete Mittelwertdifferenz / df / t Stat / P ( T &lt; = t ) one-jump / t Kritisches Ein- / P ( T &lt; = t ) two-Wert / t Kritischer F-Wert
+Unkorrelierte Zufallsvariablen
+Einen definierten Namen einfügen
+Abhängigkeiten
+Zur letzten Datenzelle bewegen
+Sortieren ( Absteigend )
+Seitenrichtung umschalten , left-to-right vs right-to-left
+Sicherstellen , dass Zeilen nur tall genug sind , um den Inhalt der Auswahl anzuzeigen
+Höhe der gewählten Zeilen ändern
+Standardhöhe
+Zielsuche …
+Verschiedene Frequenztabellen für numerische Daten
+Ränge und Perzentile …
+Test auf Unabhängigkeit …
+Den Text in die Auswahl in Daten einlesen
+Positionierungsbereiche , die eine Funktion verwenden
+Datenreihe …
+Eine Übersichtsgruppe hinzufügen
+Demodulator hinzufügen
+Aktualisieren
+Einen Ankreuzfeld anlegen
+Auswahl als Standard formatieren
+Auswahl als Datum formatieren
+Format der markierten Zellen festlegen , um einen Tausender-Trenner zu enthalten
+Festlegen , ob Rasterlinien angezeigt werden oder nicht
+Einfache Unterstreichung
+Obere ausrichten
+unten ausrichten
+Oben und unten
+Anschließen
+In aktuelle Zelle eingeben
+Änderung in mehreren Zellen annehmen
+( Nicht löschen … )
+Legt fest , ob die Beschriftung in der gewählten Schriftart dargestellt wird
+Ultrabalter
+Gravis
+Gnumeric XML ( * .gnumeric )
+Trendy
+Orange Vorlage
+Vorlage mit Vanille-Farbe
+Basis
+Nächste Überprüfung
+Native Host-Verbindung wird auf Ihrer Plattform nicht unterstützt .
+Verbleibende
+Die aktuelle Position der Eingabe
+Die ODF-Version , die dieses Objekt als Ganzzahl wie 100 ansieht
+Grad des Abwürgens
+Die aktuelle Position der Ausgabe
+Den Tastaturzeiger verschieben
+Schwierigkeitsgrad ändern
+Giggle
+Persönliche Details
+Projekt
+Revisionsdetails anzeigen
+Kurzer Log
+Änderungen einer Revisionsübersicht durchsuchen
+Zusammenfassung
+Kontributoren :
+Die vorgegebene Dateierweiterung für Bildschirmfotos .
+Name :
+Auswahl
+GNOME Taquin
+Das Objekt von Taquin ist es , Kacheln zu verschieben , damit sie ihren Ort erreicht werden , entweder mit Zahlen angegeben oder mit Teilen eines großen Bildes .
+Das GNOME-Projekt
+Das Nachtmodus für die GNOME-Nachtmodus verwenden .
+Aktionen
+Letzten Zug rückgängig machen
+Ausgewählte Kachel einrasten
+Generisch
+Menü zur Spielchronik
+Ton
+Hervorragend ! Sie haben das Spiel beendet !
+4 × 4 \ t5 Minuten
+Ein klassisches 15-puzzle Spiel
+Toyah ( Wikimedia )
+Nach links verschieben
+Verschieben nach unten
+Pausiert
+Anzahl der vorgefüllten Zeilen :
+Bildschirmlupe
+Die Farbe der vertikalen und waagerechten Linien des Fadenkreuzes .
+Änderung der vorgegebenen Helligkeit der Blau-Komponente . Null bewirkt keine Änderung , Werte kleiner als Null verringern , und Werte größer als Null vergrößern die Helligkeit .
+Zeit in Sekunden , bevor ein Klick ausgelöst wird .
+Name verändern
+Linke oder obere Farbe beim Zeichnen der Farbverläufe oder der einfarbigen Farbe .
+Liste der XKB-Optionen
+Barrierefreiheitsfunktionen des Werkzeugs aktivieren
+Menüleiste
+Tastenkombination zum Öffnen der Menüleisten .
+Benutzerwechsel deaktivieren
+Liste der » x-content / * « -Typen , die auf » Einen Ordner öffnen « gesetzt sind
+Links- und Rechts-Mausknöpfe für left-fsmice vertauschen .
+Tablettabbildung wird gezeichnet
+Legen Sie hier die für den Stylus gültige Druckkurve gültige Druckkurve x1 , y1 und x2 fest .
+Aktionstyp des Pads
+Der vom gedrückt zu druckenden Knopf auslöschende Aktionstyp .
+EDID-Informationen über die Ausgabe des Touchscreen werden abgebildet . Das Format ist &#91; Hersteller , Produkt , Seriennummer &#93; . &#91; \ , \ , \ , \ \ , \ \ \ &#93; führt zu einer automatischen Abbildung .
+Statistiken senden , wenn Anwendungen entfernt oder installiert werden
+Liste der Kennungen der Desktop-Datei , für welche der zugewiesene » defekt-windows « -Suchanbieter aktiviert werden soll
+Das für Ereignisklang zu verwendende XDG-Klangthema .
+Zur Arbeitsfläche 2 wechseln
+Zur letzten Arbeitsfläche wechseln
+Systemsteuerungen umschalten
+DEPRECATENT : Dieser Schlüssel ist veraltet und wird ignoriert .
+Eingabequelle wechseln
+Nicht benutzt ; ignorieren
+Der Rechnername , der als SOCKS-Proxy verwendet wird .
+Datei ; Verwaltung ; Ordner ; Laufwerk ; Laufwerk ; Dateisystem ;
+Legt die Zeilenhöhe im Dateifenster fest .
+Modus der linken Maustaste
+Befehlszeile anzeigen
+buttonbar anzeigen
+Diese Option legt die Breite der Datumsspalte fest .
+Suchtreffer am Anfang anpassen
+Die Einträge in dieser Liste stellen die vom Benutzer eingerichteten Geräte dar .
+Diese Option legt das Standardverhalten fest , wenn Objekte durch einen Befehlsbefehl überschrieben werden .
+Terminal geöffnet lassen
+Alternative Vordergrundfarbe im benutzerdefinierten Modus .
+Alternative Hintergrundfarbe im benutzerdefinierten Modus .
+Vordergrundfarbe für Auswahl
+LSCOLORS-Abbildung für roten Vordergrund
+LSCOLORS-Abbildung für grünen Vordergrund
+Suchmuster für Text
+Archiv erstellen
+Profile
+Datei anzeigen
+Windows-Freigabe
+Befehlszeilenchronik
+Ersten abfragen
+Anzeigen für
+Interner Betrachter verwenden
+Terminalfenster geöffnet lassen
+Alias :
+Layout
+Netzwerkprotokoll
+Beschleunigungsmodus
+Erstellt
+/ Dateiname ohne Erweiterung
+/ Zeit / HH
+&lt; unverändert &gt;
+Größe
+Datum
+Ungültiger Befehl
+Benötigt ein Terminal
+Eigenschaften …
+Filter aktivieren …
+Auswahl wiederherstellen
+Weiterleiten
+F3-Ansicht
+Verbindung öffnen
+Rechte Verbindung ändern
+Symbolischen Link erstellen
+Info zu GNOME Commander
+Auswahl invertieren
+Erweiterungen konfigurieren
+Ordner ändern
+Einen Ordner weiterleiten
+gksudo , xdg-su , gksu , gnomesu , kdesu oder beesu wurden nicht gefunden .
+Beim Öffnen der Startseite ist ein Fehler aufgetreten .
+Es gab ein Fehler beim Berichtsproblem .
+20 Zeichen / Zeile
+Albumverlauf
+Künstler des Titels .
+Bitrate in kbps .
+ISRC
+Abtastrate
+Jahr
+Verborgene Folienanzahl
+Schlüsselwörter
+Identifikator , der die Vorgabekalkulation des Systems darstellt .
+Anzahl der Notizen
+Objektzähler
+Art der Präsentation , wie z.B. » Bildschirmanzeigen « , » Schieberegleransicht « usw .
+Anzahl der Abschnitte im Präsentationsdokument .
+Titel des Dokuments .
+Bits pro Stichprobe
+Benutzerdefinierte Darstellung
+Das Datum und Zeit , zu dem die Originaldaten erstellt wurden . Für eine Digitalkamera wird das Datum und Zeit der Aufnahme aufgezeichnet .
+Digitale Vergrößerungsstufe
+Dokumentenname
+Die von einer FPXR-Datei unterstützte FlashPix-Formatversion .
+GPS Metainfo-Version
+Interoperabilitäts-IFD-Verweis
+Ein IPTC / NA-Datensatz .
+OECF
+Y-Abmessung
+Szenentyp
+Betreffbereich
+Audio-Verschlüsselung
+Allgemeiner eingebettetes Objekt .
+Medientyp .
+Liste der Musiker .
+Internet-Radiosender
+Originalalbum .
+Privat
+Veröffentlichender Veröffentlicher .
+Datum der Aufnahme .
+Abgeglichener lyrisch .
+Schlagzeit .
+Nicht abgeglichener lyrisch .
+offizieller Künstler .
+Die offizielle Website der Audioquelle .
+Brennweite des Objektivs in mm .
+Audio-Stichprobenrate
+Eine Textbeschreibung der Daten .
+Gesamtgröße der Objektdaten .
+Version des Dateiformats .
+Seitenbreite
+Nichts
+Das ISO-Abbild nach dem Schreiben jedes Gerätes lesen und überprüfen .
+USB-Blitz
+Ich unterstreichen
+Befehlszeileneinstellungen konnten nicht ausgewertet werden
+GNOME-Laven zum Kochen
+Rezept bearbeiten
+Die Benutzerkennung des aktuellen Benutzers .
+Die Einkaufsliste
+Fertig
+15 bis 30 Minuten
+Glutenfrei
+Beispiele : 1 kg , 2 1 / 2 Pfund , 25ml , 6
+Alles
+Was ist neu
+Suchen …
+Arbeitsfläche
+Bearbeiten
+Saison :
+Weihnachtszeit
+Unze
+Dezimal
+qt
+st
+Stein
+Bereit zum Zwischenspeicher !
+Rinderbrühe
+Paprika ( grün )
+Blindkopie
+Kacheln
+Knoblauch
+Gemahlener Fenchel
+Haselnüsse
+Kale
+Lemonsaft
+Stummpulver
+Paprika
+Shallot
+Shrimps
+Erdbeeren
+Unsalzierter Butter
+Pflanzenöl
+Vinegar
+Wasser
+Weißwein
+ohne Apfelessig
+ohne Akon
+ohne Bohnen
+ohne Paprika ( grün )
+ohne schwarzen Kardamom-Pfund
+ohne Kuchenmehl
+ohne Kirschtomaten , halbiert
+ohne Kakaopulver
+ohne fein gehackte echte Korianderblätter
+ohne Aufhellen
+ohne Lemonsaft
+ohne Nährhefe
+ohne Olivenöl
+ohne Salz und Pfeffer
+ohne Skallionen
+ohne Mandelsplitter , geröstet
+ohne Süßkartoffel
+Falls dieser Schlüssel wahr ist , dann wird GNOME Flashback benutzt , um den Audiogeräte-Auswahldialog zu erstellen .
+Dies ist der gleiche Legitimierungs-Agent , der vom PolicyKit-gnome geliefert wurde .
+Papierkorb anzeigen
+Einstellungen zurücksetzen
+Sie haben gerade eine leere HD-DVD eingelegt .
+Hybrid-Schläft
+Zielarchitektur
+Nur unerwünschte Nachrichten im INBOX-Ordner überprüfen
+Menü öffnen
+Mono
+Fenster eine Arbeitsfläche nach unten verschieben
+Zur Arbeitsfläche 2 wechseln
+rechts
+Keine maximierten Fenster erstellen , die maximiert sind und keine Dekoration besitzen
+Fenster wiederherstellen
+Auf Arbeitsfläche nach unten verschieben
+Verschieben
+Noch keine Ergebnisse
+Wertung
+Eigenschaften
+GStreamer-Fehlerdiagnose
+Pfad zur Zertifikatdatei
+Um RDP mit TLS-Sicherheit zu verwenden , müssen sowohl die private Schlüsseldatei als auch die Zertifikatdatei dem RDP-Server zur Verfügung gestellt werden .
+Methode zur Legitimierung von VNC-Verbindungen
+Smartcard verwenden
+Durchsuchen …
+Zusätzliche Prä-Legitimierung erforderlich
+Name des Anmeldedaten-Zwischenspeichers ist fehlerhaft
+Unbekannter Typ des Anmeldedaten-Zwischenspeichers
+Angeforderter Principal und Ticket stimmen nicht überein
+Programm unterstützt diesen Verschlüsselungstyp nicht
+Fehler im internen Anmeldedaten-Zwischenspeicher
+Falsche magische Zahl für krb5samenticge2
+Nicht mehr anzeigen
+( Keine Netzwerkverbindung )
+PKINIT-Vertrauensinstitutionen
+Benachrichtigung über das Ticket
+Karten
+Rechnername kann nicht aufgelöst werden
+Eindeutiger Name :
+Breite des Docks , wenn es vom Typ schwebt
+Dieses Dock schließen
+Dock-Master für dieses Dock-Objekt ist Grenze zu setzen
+Schwebende Oberebene
+X-Koordinate des Docks bei Gleitkommazahlen
+eog
+Die Farbe , die zum Füllen der Hintergrundfläche hinter dem Bild verwendet wird . Diese Option hat nur den Effekt , wenn use-custom aktiviert ist .
+Dunkles Thema deaktivieren
+Python-Konsole
+Das GNOME-Projekt
+Wartezeit
+Fehlerrate
+Leistungsfähigkeit des Lesekopfes
+Anzahl der nicht korrigierbaren Sektoren
+UDMA CRC-Fehlerrate
+SoftECC-Korrektur
+GMR-Kopf-Amplitude
+Verbleibende Verbleibende
+Zuletzt fehlgeschlagen ( elektrisch )
+Prä-Fär
+Das Ändern der Passphrase für dieses Gerät wird auch die in der Datei &lt; i &gt; / etc / crypttab &lt; / i &gt; referenzierte Passphrase aktualisieren
+Die Stärke des Passphrase
+DVD-Schlüssel werden abgerufen
+Laufwerksabbilddatei löschen
+Fehler beim Formatieren der Lautstärke
+5 Minuten
+Die Beschriftung entspricht der existierenden Bezeichnung
+Partie
+Fehler beim Größenänderung des Dateisystems
+Erfolgreich reparieren
+Fehler beim Einhängen des Dateisystems
+Ungültige komprimierte Daten
+Stichprobengröße ( MiB )
+TB
+Geben Sie die Passphrase zum Schützen der Daten ein
+Einschalten , um AAM beim Start und bei der Verbindung zu konfigurieren
+Wählen Sie ein Gerät zum Verwalten aus .
+Ausgewählte Auslagerungspartition aktivieren
+Die spezielle Gerätedatei – verwenden Sie symbolische Verknüpfungen in der Hierarchie / dev / disk , um den Geltungsbereich des Eintrags zu steuern
+Dies ist äquivalent zu Haupt-Bootaufzeichner &lt; i &gt; Boottablt; / i &gt; . Sie wird normalerweise nur für GPT Partitionen in MBR-Systemen verwendet .
+Von Firmware verbergen
+Neues Laufwerksabbild
+Unterschied
+Laufwerksabbild wiederherstellen
+Erweitert
+Wenn angegeben
+Falls dieser Schlüssel WAHR ist , haben Dateivergleiche die Quellkarten für verpasste Dateien .
+Dateistatusfilter
+Reiter nach rechts verschieben
+Vorheriger Konflikt
+Änderung von rechts nehmen
+Synchronisierungspunkt hinzufügen
+Zum nächsten Konflikt gehen
+Entfernen
+Vorherige Protokolle :
+Datei 3
+Leere Vergleiche
+Versionskontrolle
+Trimmen ändern
+Ordner haben keine Unterschiede
+Es können nicht weniger als 3 Dateien automatisch zusammengeführt werden
+&lt; unbenannt &gt;
+Einfacher Text
+Leeren
+A3
+Seite nach rechts drehen ( Uhrzeigersinn )
+Speichern
+Neues Dokument
+Verbindung zum Scanner konnte nicht hergestellt werden
+GNOME Hitori
+Fenstergröße
+5
+Befehl zum Ausführen eines Klicks
+Entfernen der Leiste bestätigen
+Verlauf des Dialogs » Anwendung ausführen «
+Die Interpretposition relativ zur unteren / rechten Kante
+Die gesamte Bildschirmbreite ausklappen
+X-Koordinate des Panels , beginnend von rechts des Bildschirms
+Verzögerung des Panel-Autodiscover-Dialogs
+Hintergrundfarbe :
+Fehler
+Möchten Sie das Applet aus Ihrer Konfiguration löschen ?
+Nicht löschen
+Alle lokalen und entfernten Medien und Ordner durchsuchen , die vom Rechner erreichbar sind
+Ausschalten
+Klicken Sie , um Ihre Termine und Aufgaben anzuzeigen
+Knoten
+Kontext :
+Benachrichtigungsfeld
+Ein Trennzeichen zum Organisieren der Panel-Objekte
+Klicken Sie hier , um alle Fenster zu verbergen und den Bildschirm anzuzeigen .
+Minimierte Fenster werden wiederhergestellt
+Das Backend unterstützt keine Massenumwandlung
+Kontaktkennung existiert bereits
+Keine solche Quelle
+Eindeutige Kennung
+Weitere Adressbeschreibung
+Telefon 2 , geschäftlich
+Telefon , privat
+Jabber-Privatkennung 2
+Angezeigter Yahoo ! -Geschäftsname 1
+Gadu-Gadu-Privatkennung 2
+Die Telefonnummer meldete einen noch unbekannten Fehlercode .
+3.
+4.
+und Samstag
+am letzten Freitag
+an dessen 21. Tag
+Kalenderobjekte können nicht gesendet werden :
+DIGEST-MD5
+OAuth2 ( Outlook )
+CMS-Daten konnten nicht beigelegt werden
+Immer nach neuen Nachrichten in diesem Ordner suchen
+Entfernte Nachrichten lokal in allen Ordnern abgleichen
+Gespeicherte Objekte
+Gesendete Nachrichten
+Bulk-Mail
+POP-Zusammenfassung wird abgerufen
+Syntaxfehler in Parameter oder Argumenten
+Dienst bereit
+Angeforderte Aktion abgebrochen : Fehler beim Verarbeiten
+Programme , die von Erinnerungen ausgeführt werden dürfen
+Legt fest , ob der Erinnerungsdialog immer im Vordergrund angezeigt werden soll . Beachten Sie , dass dies nur als Hinweis für den Fenstermanager verwendet wird , der ihn annehmen kann oder nicht .
+Die zuletzt verwendete Alarmwiederholungszeit in Minuten
+Unterstreichung
+XML-Daten haben keinen Wurzelknoten
+Dauerhaft annehmen
+Grund :
+Das Zertifikat ist abgelaufen .
+Ungültige Adresse
+Unbearbeitetes Fehler
+Sammlung / GNOME Online-Konten
+Sitzung entfernen
+Ein Problem ist aufgetreten und das System kann nicht wiederhergestellt werden . Alle Erweiterungen wurden als Vorhersage deaktiviert .
+Neue Client-Verbindung wird wiederhergestellt , weil die Sitzung gerade heruntergefahren wird \ n
+Vorhandene Ankerpunkte ignorieren
+Sitzungsnamen dürfen nicht mit einem » . « beginnen
+Die zuletzt gespeicherte Höhe des Anwendungsfensters .
+Beim Öffnen einer Anlage nachfragen
+Alle anderen
+TLS
+Mit dem verborgenen Hauptfenster beginnen ( veraltet )
+Ordnernormalisierung protokollieren
+Konto-Aktualisierung
+Kontoproblem
+Verwerfen
+Drucken …
+&#91; 0 &#93; Konversation in Papierkorb verschieben
+Vorlagen &#124; Vorlage E-Mail &#124; Vorlagen-E-Mail &#124; Vorlagenmeldung &#124;
+E-Mail-Zusammenführungsvorlage
+Legt den Desktop-Mail-Klang fest , wenn eine E-Mail verschickt wird
+Jetzt
+TB
+MB
+Favorit
+Archiv &#124; Archive
+Ein Bild einfügen
+Verwerfen und schließen
+Entfernte Bilder immer laden
+Der Link scheint zu gehen in :
+Vorschau auf Text im Text .
+Gesendet durch :
+Neue Konversation
+Tastenkombinationen anzeigen
+Nächste / Vorherige Konversation auswählen
+Neue mobile Breitbandverbindung …
+Unbekannt
+Neuen PIN-Code zurückgeben :
+Überwachungsfrequenz
+ARP-Ziele
+Zugewiesene Verbindungen
+STP-Weiterleitungsverzögerung in Sekunden
+Werbung
+Geben Sie die Kennung der Priorität-Gruppe für jede Benutzer-Priorität ein .
+Aufwecken auf LAN
+Nein
+Gerätename
+Entfernte IP-Adresse
+IPv4-Adressierung zur Fertigstellung dieser Verbindung erforderlich
+Wert ist eine positive Zahl in Millisekunden . Legt ein Intervall fest zwischen Bursts der Benachrichtig-peer-Pakete .
+LACP-Laufwerksoptionen
+LACP-Datei
+Name des Runners , der verwendet werden soll .
+mW
+Legt fest , ob die Routen des AllowedI-Bereichs der Gegenstellen automatisch hinzugefügt werden sollen
+HW-Adresse
+Ungültige Hardware-Adresse
+Datei-Neu aktualisieren
+Folgende Dateien werden nicht für eine Zertifikat-Legitimierung verwendet . Wollen Sie die Beschriftungen anpassen ?
+Die vlan-Benutzeroberfläche konnte nicht geladen werden .
+Eröffnetes Öffnen
+Die Wi-Fi Benutzeroberfläche konnte nicht geladen werden .
+HSUPA
+Roaming-Netzwerk
+Leichter Dokument-Navigation mit Lesezeichen
+Zeichenkarte
+Sonderzeichen einfach einfügen , indem Sie auf sie klicken .
+Farbe auswählen
+Scheinbar sind die gleichen Kennungen in verschiedenen Ordnern vorhanden \ n
+Eingebettetes Terminal
+Verwendetes Sprachpaar
+Interaktive Vervollständigung
+Minimale Wortlänge :
+Benutzername
+Systemverwalter-Name
+Benutzerbild
+Unternehmensanmeldung
+Gehen Sie online , um die Unternehmensanmeldung zu einrichten .
+Dies ist ein schwaches Passwort . Versuchen Sie , mehr Kleinbuchstaben zu verwenden .
+Die Zeitzone wird automatisch festgelegt , falls Ihr Ort gefunden werden kann . Sie können auch nach einer Stadt suchen , um sie selbst festzulegen .
+Keine Dateien archiviert
+Kontaktliste konnte nicht gespeichert werden , die nur auf EWS-Server 2010 oder neuer unterstützt wird
+Ungültige Wiederholungskennung
+Eigentümer
+Vorgabe
+Suchen …
+Office365 OAuth2-Einstellungen überschreiben
+EWS-Einstellungen
+Abwesenheitsantworten nicht verschicken
+Einen Absender außerhalb der Organisation antworten
+Für den Zugriff auf Microsoft 365-Server
+OAuth2 ( Microsoft 365 )
+Uhr-Drehung
+Jede Stunde dreht sich um 90 Grad .
+Jedes Spiel ist ein Unabhängiges Ereignis mit 2 möglichen Ergebnissen . Die Gesamtanzahl an Möglichkeiten ist 2 hoch in der Leistung &#91; spielen &#93; .
+&#91; optionprefix &#93; Sein Vater
+&#91; optionprefix &#93; Seine Cousin
+gbrainy
+Das Wort » Taxidermist « wird verwendet , um eine Person festzulegen ?
+Eine Auto-Engine , die fehlerhaft entpackt und fehlen kann , ist ?
+Fisch
+Apfel
+Welches der folgenden Wörter kommt dem Wort » hedonismus « am nächsten ?
+Angenommen
+Amphora
+Macadamia
+Satire
+Zeitspanne
+Welches der folgenden Wörter kommt dem Wort » intringrapher « am nächsten ?
+Groß- / Kleinschreibung
+Süßschrift
+Insects
+Konzert
+Kunst
+Fisch / Untersegel &#124; Vogel
+Titel &#124; Straße &#124; Rassen &#124;
+Thermometer / Temperatur &#124; Uhr
+Zeit
+--version \ t \ tAbhängigkeiten anzeigen .
+&lt; b &gt; Spieltypen &lt; / b &gt;
+Spiel unterbrechen
+Hilfe
+Copyright :
+Alle auswählen
+Aus Datei installieren …
+C
+D
+Durchschnittliche Berechnung . Arithmetische Operationen , die Ihre mentalen Berechnungen testen .
+Kreise in einem Quadrat
+Es gibt 5 von insgesamt 6 Möglichkeiten .
+Zwei ungespeicherte Würfel werden gleichzeitig geworfen . Wie groß ist die Wahrscheinlichkeit , zwei » 6 « zu erhalten ? Antworten Sie mit einem Bruch ( z.B. 1 / 2 ) .
+Wie viele vierseitige Bilder zählen Sie im Bild unten ?
+Die Zahlen im Gitter unten folgen einem Muster . Welche Zahl soll das Fragezeichen ersetzen ?
+Es ist eine einfache Übung , wenn Sie die Zeilen systematisch zählen .
+Denken Sie daran , welche Elemente in den angegebenen Bildern enthalten sind .
+Sie brechen an , wenn Sie nicht glücklich sind
+Einige Bilder sind nicht wirklich gut
+Wie viel Prozent der von » Shiny Cars « verwendeten Autos ?
+Hand
+Telefon
+Internetadressen sind für diesen Kontakt schreibgeschützt .
+Personen können nicht ohne primären Speicherplatz hinzugefügt werden .
+Öffnen
+Mehr Software suchen
+Wählen Sie den Bildschirm , der mit der anfragenden Anwendung geteilt werden soll
+Entire Bildschirm
+Effekte
+Aufgabenverwaltung für GNOME
+Nichts mehr tun , um hier zu tun
+Möchten Sie heute Wasser trinken ?
+Beim Aktualisieren einer Aufgabe ist ein Fehler aufgetreten
+Erledigte Aufgaben löschen …
+Es konnte keine Kommunikation mit Todoist aufgebaut werden . Bitte überprüfen Sie Ihre Internetverbindung .
+In der Todo.txt-Datei
+Spitzname
+Raum unterlassen
+Wird benachrichtigt , falls der Benutzer online erscheint .
+An :
+Partitionsnamen auf % 1 festlegen
+Weitere Informationen finden Sie % 1 .
+Legende
+Es ist kein Dateisystem verfügbar ( formatiert )
+Inhalt dieses Dateisystems konnte nicht gelesen werden !
+Partition löschen
+% 1-Dateisystem löschen
+Partition von % 1 auf % 2 vergrößern
+Libparted Information
+% 1 von % 2 auf % 3 vergrößern
+Erweitert
+Ansicht
+Die Partition aus der Zwischenablage einfügen
+Einhängen
+Sind Sie sicher , dass Sie % 1 löschen wollen ?
+% 1 konnte nicht ausgehängt werden
+Aktive Partitionen sind die zu verwendenden Partitionen , z.B. ein eingehängtes Dateisystem oder aktivierter Auslagerungsspeicher .
+Wollen Sie fortfahren ?
+Dateisysteme werden auf % 1 gesucht
+Deaktivieren
+Da GParted ein mächtiges Werkzeug ist , um Partitionstabellen und großen Datenanteil zu zerstört , könnten nur die Systemverwalter es ausführen .
+Nächsten Zug anzeigen
+Spiel unter einem anderen Namen speichern
+Schwer
+Fünf Minuten
+Aktueller Spieler
+Einfach
+Das Spiel entsperren
+Alle Dateien
+Eingebaute Zugriffsrechte
+Keine Ergebnisse gefunden
+Verknüpfungen
+Foto hinzufügen …
+ICC-Profildatei auswählen
+Die Farbe Ihrer Geräte wie Anzeigegeräte , Kameras oder Drucker kalibrieren
+Datum und Zeit
+Diagnostik
+Langhantel
+Manueller Schalter
+Berechnung läuft …
+Virtualisierung
+Umbenennen
+Mikrofon stumm / Stummschaltung
+Suche
+Abmelden
+Entfernen
+Eingabequellen
+Keine Tastenkombination gefunden
+2 Minuten
+5 Minuten
+Primärer Knopf
+Dynamische Arbeitsflächen
+Arbeitsflächen aller Anzeigegeräte
+Nicht eingerichtet
+Stabisch
+Nichts
+Identität
+Legen Sie fest , wie mit dem Internet verbunden wird
+Netzwerk ; Funknetzwerk ; Funknetzwerk ; Funknetzwerk ; Funknetzwerk ; Funknetzwerk ; Funknetzwerk ;
+HTTPS Proxy
+Verbindungsdienst konnte nicht gestartet werden
+Linie belegt
+TLS
+wep-key fehlt
+Nachrichteninhalt in Popup anzeigen
+Online-Konten
+Vollständig geladen
+Hauptspiel
+Automatische Verschiebung
+20 Minuten
+Drucker ; Warteschlange ; Drucken ; Papier ; Ink ; Toner ;
+Keine aktiven Aufträge
+Spielstufe
+Wählen Sie Ihre Anzeigesprache und -formate
+Sprache ; Layout ; Tastatur ; Eingabe ;
+Ordner , die von Systemanwendungen durchsucht werden , wie Dateien , Fotos und Videos .
+Entfernten Desktop-Verbindungen zu diesem Rechner aktivieren oder deaktivieren .
+Legitimierungsfehler
+Verbunden und legitimiert
+Thunderbolt-Sicherheitsstufe konnte nicht ermittelt werden .
+Geschwindigkeit
+Kurzer Rand
+Schlüsselgeschwindigkeit wiederholen
+Großer Text
+Visuelle Zeichen
+Lupe
+Kontrast :
+Farbe
+Dateichronik
+Anmeldedaten eines Fingerabdrucks
+Ermöglicht dem Benutzer das Ändern ihres Passworts bei der nächsten Anmeldung
+Jetzt ein Passwort festlegen
+Ungültiges Passwort , bitte versuchen Sie es erneut
+Ausgewählte Benutzerkonto löschen
+Versuchen Sie einige der im Passwort enthaltenen Wörter zu vermeiden .
+Absolute Positionierung für den Stift verwenden
+Airbrush-Stylus mit Druck- , Kipp- und integrierter Schieberegler
+Registriert
+Modem-Details
+Firmware-Version
+2G ( bevorzugt ) , 4G
+2G ( bevorzugt ) , 3G
+PIN zum Entsperren Ihrer SIM-Karte eingeben
+Netzwerk wählen
+Die Einstellungen ist die primäre Schnittstelle zum Einrichten Ihres Systems .
+WARNUNG : Entwicklerversion
+Panels
+Der Bezeichner des zuletzt zu öffnenden Einstellungs-Panels . Unerkannte Werte werden ignoriert und das erste Panel in der gewählten Liste .
+Hex :
+Es gibt keine Zeichenkette , nach der gesucht werden soll !
+Es gibt kein aktives Dokument , das Daten ersetzt !
+Beenden
+Ersetzen
+Neues Dokument
+Schriften
+Box-Größe
+GHex Website
+Spielfeld aus der letzten gespeicherten Sitzung .
+Fensterbreite in Pixel
+Copyright © 2013 – 2014 Michael Catanzaro
+Sie können es nicht verschieben !
+icn
+Zeichnen
+Formular
+pgbar
+Per
+Französisches Französisch Grad 1
+Ungarisch Grad 1
+Leerzeichen
+Kommata
+Weiches Trennstrich
+Makran
+hoch 2
+hoch 3
+Ordinal
+a Akut
+THORN
+e Zirkumflex
+Einfaches Anführungszeichen
+Marke
+hoch 4
+hoch n
+Die Stimmhöhe verringern
+Zum Zeilenanfang bewegen
+Zum vorherigen Knopf bewegen
+Zum vorherigen Ankreuzfeld bewegen
+Eine Liste von Formularfeldern anzeigen
+Eine Liste von Orientierungspunkten anzeigen
+Kacheln
+Cyanisch
+Dunkles Olivgrün
+Liter grün
+Mitternacht Nachtblau
+Papaaa-Umbruch
+Violett
+Kolistle
+In Klammer markieren
+Profilname :
+Anwendung
+Nichts
+Listeneintrag
+Zelle vorlesen
+Alt-Taste
+Hilfe
+Ring
+Verschieben
+Pfeil nach rechts von Querstrich
+Rechtschreibzeilen-Weichzeichner
+AW
+nicht als Teilnehmer enthalten
+weder ungefähr noch wirklich gleich zu
+beinahe gleich zu
+weder größer noch kleiner als
+nachfolgend oder äquivalent
+Multiset
+weder noch
+gleich oder kleiner als
+linke Skalarke
+Vereinigung mit Punkt
+Lesezeichen eingegeben
+Rechtschreibfehler
+Aufruf :
+Ein anderer Bildschirmleser wird bereits für diese Sitzung ausgeführt . \ nErsetzen Sie » VERALTET « , um diesen Prozess durch einen neuen zu ersetzen .
+Benutzereinstellungen einrichten ( GUI-Version )
+Auswahl in Zwischenablage ausschneiden .
+Dokument aus der Cursorposition markiert
+Die Übersicht wird gespeichert .
+Wort
+einen diagonale Durchstrich nach unten
+Navigation wird verlassen .
+Danksagung wird verlassen .
+Seitenliste wird verlassen .
+Gleiche Seite
+Dieselbe Seite
+Maus über Objekt nicht gefunden .
+Fehler : Liste der Objekte konnte nicht erzeugt werden .
+Weißer Speicherplatz
+Schlagwort
+Hauptinhalt
+Groß- / Kleinschreibung treffen
+Lautstärke :
+Sprache aktivieren
+Blockziffern während der Navigation ankündigen
+Satzzeichen aktivieren
+Textattribute
+Unterstreichung
+rtl
+links
+ohne Ausrichtung

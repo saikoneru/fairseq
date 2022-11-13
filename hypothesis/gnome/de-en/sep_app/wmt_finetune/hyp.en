@@ -1,0 +1,4283 @@
+Fotomoze
+Video
+Serial Memo
+Switch to previous page of the effects
+Effect
+Switch to next page of the effects
+Settings
+Help
+Photo Resolution
+Brightness
+Saturation
+Image
+Disconnect
+Delay between photos (seconds)
+fullscreen
+About Cheese
+Save As …
+Move to Trash
+Cheese
+A program to record images and videos with a webcam and add fun graphic effects
+Webcam-Automat
+Photo; Video; Webcam; camera; Selfie;
+The duration of the countdown before a photo was taken in seconds
+Dismiss Flash before recording
+Set to true to get a flash when a image is taken into the image
+Cursor string to label camera damage
+Last selected effect
+Photo width
+Photo height
+The height of the image recorded by the camera in pixels
+The width of the video recorded by the camera in pixels
+Video height
+Adjust the contrast of the image coming from the camera
+Adjust the color tone of the image to the camera
+Video Path
+Delay between photos in series memo
+Overview
+Move to Trash
+Connection device
+Device functions are not supported
+Start in wide mode
+Device to use as a camera
+Start in fullscreen mode
+[0] If you delete an item, it will be permanently lost. msgstr [1] if you delete items, it will be permanently lost.
+Skip All
+Save
+Record multiple photos
+No effect found
+An error occurred while playing the Webcam-video signal
+Record multiple photos with webcam
+Take a video
+Record multiple photos
+X coordinate
+Y coordinate
+Player Y coordinate
+Width
+Size
+The size of the player
+Fixed X
+Fixed Y
+Fixed position set
+Require for the player to be forced to minimum width
+Natural width
+Request for the actor ’ s natural width
+Minimum width set
+Whether to use the “min-width ” property
+Whether to use the 'min-height' property
+Natural width set
+Whether to use the 'natural value' property
+Assumption
+The player ’ s request
+Require Mode
+The player ’ s request mode
+The position of the player on the cell axis
+When the player should be filtered into a single image
+Visible
+Whether the player is rendered
+Realized
+The visible range of this player
+Name
+Player Name
+Rotate Point
+Z-rotation point
+C component of the rotation point
+Scale factor for the X axis
+Y scale
+Z-scale
+Scale Attachment Force
+Scale Center
+Red angle X
+The rotation angle on the Y axis
+Red angle Z
+The red angle on the cell axis
+The rotation center on the X axis
+Rotation center Y
+The rotation center on the Z axis
+Rotation center around the Z axis
+Anchor X
+The anchor point as ClutterGravity
+Transform
+Transform matrix
+Transform set
+Whether the transform property is set
+Subbasic transformation matrix
+child transformation set
+Overorder display
+Whether to show the player on overorder
+Owner owner
+Action
+Adds an action to the player
+Effect
+Add an effect to be applied to the player
+Y extension
+The player ’ s orientation on the X axis within its mapping
+Orientation of the player on the Y axis within its mapping
+Additional distance top
+Left distance
+Right spacing
+Background Color palette
+Background Color
+The last child of the player
+Content
+The distributor object to render the player ’ s contents
+Activity content of actor
+The player ’ s content limit
+The filter to use to decrease the content size
+Zoom filter
+The filter to use to enlarge the content size
+actor
+The player attached to the meta
+Whether the meta is enabled
+Source
+Alignment axis
+The axis to focus the position on
+The mapping factor (between 0.0 and 1.0)
+Unable to initialize Clutter-backend: no driver available.
+The binding source
+The coordinates to binding
+Offset
+The unique name of the binary pool
+Horizontal orientation
+Horizontally alignment of the player within the layout manager
+The player ’ s vertical orientation within the layout manager
+Default vertical orientation of the player within the layout manager
+Horizontal fill
+Vertical fill
+Whether the child is preferred when the container is free on the vertical axis
+Horizontally alignment of the player within the cell
+Vertical orientation of the player within the cell
+Vertical
+The layout orientation
+Pack at the start
+Whether to pack items at the start of the box
+Spacing
+Whether to animate layout changes
+Easing Mode
+The brightness change to use
+Scale factor specified
+Scale factor
+The scale factor for the canvas
+The player entered by this data
+Remaining
+Focus Point
+Whether the clickable item should have an anchor
+Long pressure duration
+The minimum duration of a long pressure to detect the gesture
+Threshold for long pressure
+The maximum threshold before a long pressure is canceled
+Vertical tiles
+Background material
+The damage factor
+Backend
+Vertical Drag threshold
+Drag axis
+Drag range set
+Whether the target region has been set
+Whether each object should have the same statement
+column spacing
+Line spacing
+Minimum width of the column
+Maximum width of the column
+The maximum width of each column
+Minimum row height of each row
+Maximum row height
+Number of contact points
+Threshold trigger edge
+Vertical spacing of threshold trigger
+The trigger ’ s vertical distance used by the action
+Top attachment
+The line number to which the top page of a child widget is attached
+column spacing
+If TRUE is, rows all same height
+Equal column
+If true, all columns will have the same height
+ID
+Device Type
+The device type
+Device Mode
+The device mode
+Whether the device is enabled
+Number of axis
+The number of axis of the device
+Manufacturer ID
+Product ID
+Initial value
+Initial value of the interval
+Final value
+Interval Final Value
+Manager
+The manager who created this data
+default: LTR
+Default Image Frequency
+Make all warnings fatal
+Direction of the text
+Use unsharp
+Show Clutter-Options
+Whether the output of interpolated events is enabled.
+Abbreviation
+The offset along the path, between -1.0 and 2.0
+Filename Set
+Whether the: filenameproperty is set
+The path to the currently read file
+Translation
+The domain used for translation
+Image Range Mode
+The time necessary to detect a multiple click between two clicks
+Double click interval
+Drag threshold
+Font Name
+Whether to use Hinting (1 enabled, 0 disabled and -1 used default)
+Font Hint style
+The style of the Hint (hintnone, hintslight, hintmedium, hintfull)
+Subpix layout of the font
+The minimum duration to detect a long pressure for a gesture
+The scale factor to use on the window
+Fontconfig-timestamp
+Timestamp of the current Fontconfig configuration
+Password Hint Time
+For a long time the last specified character will be displayed in hidden entries
+Shader Type
+The used Shader Type
+The source of the limit
+From Edge
+Toggle
+The offset in pixels to apply the constraint to
+Whether the major is a fullscreen
+Whether the mouse pointer should be visible in the main zoom
+Color
+Perspective project parameters
+Title
+Use fog
+Whether to enable depth order
+Use alpha
+Whether the scene should empty its contents
+Accept Focus
+Whether the scene should take focus on display
+Text
+The contents of the buffer
+Text length
+Maximum length
+Maximum number of characters for this entry. Zero if there is no maximum
+Buffer
+The text buffer
+The font of the text
+The color of the text
+Editable
+Whether the text can be edited
+Markable
+Enable
+Whether the input bar triggers a send of the active signal
+Pointer Color
+Whether the cursor color is set
+Pointer position
+The pointer position
+Selection limit
+Selection color
+Selection color set
+Whether the selection color is set
+Use syntax highlighting
+Whether the Pango markup text contains
+Line wrapping
+If set, break lines when the text is too long
+How to wrap rows
+Operations
+The preferred location for outgoing points in the string
+Line orientation
+Whether the text is aligned
+Password characters
+Maximum length
+Maximum text length within the player
+Line Mode
+Whether to show the text in a row
+Set the selection text color
+Whether the selection text color is set
+Delay before start
+Duration
+Time of line in milliseconds
+Direction
+Whether the direction should be automatically reversed when the end is reached
+Progress Mode
+How the line line should calculate progress
+Interval
+Unclose the fade when finished
+Limit the zoom to an axis
+Timeline
+Alpha value, as calculated by alpha
+Progress Mode
+Object
+Object for which animation is valid
+Animation duration in milliseconds
+Whether the animation is repeated indefinitely
+The timeline used by animation
+Alpha
+The alpha value used by the animation
+The duration of animation
+The animation timeline
+Alpha object to reset behavior
+Start depth
+Final depth to use
+Start angle
+Final angle
+Initial angle of x-axis
+Initial angle of the y axis
+Z-axis's zero angle
+Ellipse incursion at the z-axis
+Ellipse center
+Rotation orientation
+Start opacity
+Final opacity level
+The ClutterPath-object representing the path to animate along its path
+Axis
+Center Y
+Initial scale on the X axis
+Final scale on the X axis
+Start calibration in Y-direction
+The box background color
+The width of the cubic canvas
+Character height
+The height of the cairo canvas
+ADBESE
+Whether the player is playing
+Playback current progress
+Subtitle font name
+Volume
+Whether the current stream is scannable
+The duration of the stream in seconds
+The rectangle color
+Framework color
+Framework width
+Has border
+Fragmental Source
+Fragmental Shader Source
+Compilized
+Whether the Shader is compiled and inverted
+Whether the Shader is enabled
+Vertical Shader
+Fragmental Shader
+Default blend time
+column number
+The row the widget is in
+The number of columns to show the widget
+Line Burn
+Expand Horizontally
+Assign extra space in the horizontal axis for the child
+Assign extra space in the vertical axis for the child
+Spacing between columns
+Distance between rows
+Redo Horizontally
+Realizing content in a horizontal, rather than scaling
+Redo Vertical
+Repeat content vertically, rather than scaling
+The code pixel format to use
+Code texture
+The bottom handle of the col texture used to draw this player
+Code material
+Load data asynchronously
+Shape a player with alpha channel at selection
+Could not load image data
+The bottom Wayland area
+Surface height
+X display to use
+Synchronize X calls
+Disable XInput-Support
+Pixmap width
+The width of the pixmap attached to this texture
+Pixmap height
+The height of the pixmap attached to this texture
+Pixmap depth
+The X11-binding X11window
+Automatic window rendering
+Window mapped
+Whether the window is mapped
+Destroy
+window X
+Window X position on screen according to X11
+Window Y
+Insert special characters in documents
+Font; Font; Unicode; Character; Character
+× ories-r map
+GPL-3.0 +
+User Documentation
+Hanja in training
+Hanja for Persons Name
+Font Variation of
+Creation form at the beginning of the word
+Presentation form in the word center of
+Solid rendering form from
+Higher shape of
+Lower shape of
+Mean compatibility character
+square CJK variation of
+Summary shape for mixed fractions
+Unspecified compatibility character
+Compatibility Clone:
+Classic decomposition:
+Unicode had been included:
+Unicode category:
+UTF-16:
+decimal XML entity:
+Comments and links
+Aliasname:
+See also:
+Cantonese Dialog:
+Japanese On-Debate:
+Japanese art discussion:
+Tang-Debate:
+Paint Cell
+Character Details
+Characters found.
+By font system
+By Unicode block
+Only show luminance from this font
+Search
+Help
+Close window
+File
+View
+Search forward
+Search backward
+Go to
+Previous Characters
+Unknown
+Forward
+Search term:
+Take full words only
+Find in Character Details
+< Height replace, no private use >
+< Layer 16, Home Use >
+Other, formatting
+Other private use
+Letter, Other
+Large letter at the start of the word
+Large letter
+Additional Characters, Rendered
+Additional Characters, Composite
+Number, decimal digits
+Interpoint, binding
+Interpoint, binding
+Interpoint, open quotation character
+Icon, Currency
+separator, paragraph
+separator, space character
+You also want to have a copy of Unicode copyright together with Gucharmap. You can always see it on the Unicode website: https: / / www.unicode.org / copyright.html
+on the basis of the Unicode pointer database 140.0
+Previous font system
+Next Block
+Previous Block
+Text to copy:
+Page Options
+Print
+[FILE...]
+Group type of row cell
+This is the group type of characters in the character canvas. The characters can be grouped either by “script ” or“ block ”.
+Set the number of columns to multiple times of 2
+Last selected character
+0x43
+Latin, complement (Latin-1)
+Latin, extension A
+Latin, extension B
+IPA plugins
+Cyrillic
+Thaana
+Mandatory
+Arabic, Extension A
+Gurmukhi
+Malaysia
+Laotic
+Georgish
+Cherokee
+Ogam
+Khmer
+Tai Clock
+Khmer icons
+Lana (Tai Tham)
+Balinese
+Sundanesian
+Georgish, Extension
+Vedic plugins
+High- and deep characters
+Currency icons
+Letter like icons
+Arrows
+Mathematical Otemperature
+Various technical characters
+Optical Character ID
+Scattered alphanumeric characters
+Framework Label
+Geometric shapes
+Various icons
+Dingbats
+arrows, addition A
+Various mathematic icons B
+Latin, extension C
+Tifinagh
+Ethiopia, extension
+Cyrillic, extension A
+CJK Radial, Extension
+Ideographic label character
+CJK icons and interpoint
+Hard Jamo, Compatibility
+Channel
+Bopomofo, extension
+CJK strokes
+Yi-silk character
+Lisu
+Modified audio character
+Latin, extension D
+saurashtra
+Devanagari, Extension
+Rejang
+Hard Jamo, Extension A
+Birthday, extension B
+Cham
+Cherokee, Completion
+Master Mayek
+Hard Jamo, Extension B
+Higher replacement coder
+Lower replacement coder
+Home Use Area
+Arabic presentation form A
+Vertical shapes
+Combine half diacrictic characters
+Semi-width and complete shapes
+Special character
+Antique icons
+Caric
+Coptic Paint Characters
+Gotic
+Horizaritical
+Albanian
+Linear Header A
+Cypric sillow
+Aramaic
+Nabataic
+Hatran
+Phoenizic
+Kharoshthi
+Manic
+Input Pahlavi
+Psalter-Pahlavi
+Alttstork
+Altodle
+Face digits
+AltsogIndian
+Altuyghuri
+Choresmic
+Elyma
+Kaithi
+Sorang-Sompeng
+Singhalese old payment character
+Khojki
+Multanic
+Siddham
+Modi
+Mongolical, Completion
+Takry
+Ahom
+Kaang Kshiti
+NNordic agari
+Dsanabadata square
+Sojombo
+Pau Cin Hau
+Bhaiksuki
+Marches
+Masaram gono
+Macassar
+Drop Font
+Spring and asspan font
+Cypro-Minoic
+Egypt ’ s hierarchy type control character
+Anatolic hierarchy types
+Pahawh Hmong
+Medefactor
+Small Kitan font
+Kana, Extension B
+Kana, Completion
+Small Kana, extension
+Women ’ s font (Nushu)
+Duployal short font
+Shortcut control character
+Byzantine memo character
+Maya Number Character
+Tai-Xuan icons
+Count Number
+Mathematical alphanumeric icons
+#
+Adercise
+Game cards
+Scattered alphanumeric character, addition
+emojis
+Transport and map icons
+Initial icons and togram
+Unified CJK ideogram, extension B
+Unified CJK ideogram, extension C
+Unified CJK ideogram, extension E
+Unified CJK ideogram, extension G
+Labels
+Home usage area, complement A
+Home usage range, addition B
+Brailla
+Channel indexed silvery
+General
+Cypric
+Greek
+HGeorgia
+Linear Header B
+PhagIP
+Yi
+Web is often called with its encoder “Epiphany ”.
+The GNOME project
+browse to the Internet
+Network; Browser; Web;
+Open new Incognito-window
+browse on the Internet with Caret browser
+Home page
+Name of the search engine used by default.
+Enable Google search proposals
+Whether to show Google search proposals in the selection list below the address pane.
+Open new window as a new tab
+When enabled, tabs will not be immediately loaded when rebuilding session, but only when the user switches into one of this tab.
+List of advertising block filtering “adblock ”
+List of content filtering addresses in the JSON format for the advertiser.
+Prompt default setting
+When enabled, the browser always asks whether to set it as default if it is not already the case.
+Start incognito-mode
+Default data to delete.
+Expand the width of the tabs and take all available space.
+When enabled, the tabs will take all available space in the tab. This setting is ignored in the panel desktop.
+Unopen window when the last tab is closed
+The article font style in the booklet.
+Gradient Color scheme.
+Smaller font size
+Use GNOME standard font
+Custom serial font
+Custom serial font
+A value to use to overwrite the serial workspace font when use-gnome-fonts are set.
+Custom monospace font
+A value to use to overwrite the workspace font when use-gnome-fonts are set.
+Use custom JS
+Check any text entered in editable areas.
+Default character encoding. Accepted values are those accepted by WebKitGTK.
+Preferred languages. Array of locale-encoder or “system ” to use the current locale.
+User Agent
+Enable advertising blocker
+Whether to lookup embedded advertising within web pages.
+Enable page specific quirks
+Quirks enable the activation to function better. For debug purposes, it may be necessary to disable this setting.
+Enable secure browser
+Whether to enable safe browsing. For this, the Google Safe Browser API v4 is used.
+Whether to activate smart tracking.
+Enable automatic search
+Whether to be plugged in. Expanded are based on the behaviour in Opera and are enabled by the middle mouse button + gesture.
+Last Uploadfolder
+Remember the last Uploadfolder
+Whether to automatically switch to a new open tab.
+Whether WebExtensions should be enabled. WebExtensions are a web browser cross system for plugins.
+Indicates which WebExtensions are “active ” set.
+Additional addresses for web application
+List of addresses to open by web application
+The position to use for a new window if this is not restored from a previous session.
+The size to use for a new window if it is not restored from a previous session.
+Is maximized
+Firefox Sync host URL
+Address to a custom Firefox Sync token server.
+The email address associated with the Firefox account used for data synchronization with the Mozilla server.
+Last sync timestamp
+Sync Device ID
+Sync device ID of the current device.
+Sync device name
+Synchronize data with Firefox
+Whether to synchronize Ephysical collections with Firefox collections.
+Enable bookmarks synchronization
+The timestamp of the recently executed bookmark synchronization.
+Whether the bookmarks collection must be synchronized for the first time.
+Enable password sync
+Whether the password extract should be synchronized.
+Enable history cropping
+Whether history needs to be synchronized first.
+Whether the open tabs should be synchronized.
+Sync timestamp for open tab
+The timestamp of the last performed synchronization of the last opened tab.
+Decision to use when this computer is requested to access the notification system
+Decision to use when this computer is requested to store passwords
+Decision to use when calling for camera access for this computer
+Memory usage
+Epiphany-technology preview
+A simple, clear, beautiful view to the web
+Applications
+Incognito-mode disables your activity only for people using this computer.
+Download requested
+Where do you want to save this file?
+ESC
+F11
+Web is controlled by auto.
+New Tab
+Arabic (ISO-8859-6)
+Arabic (Windows 1256)
+Baltic (Windows-1256)
+Armenia (ARMSCII -8)
+Central European (IBM 852)
+Central European (MacCE)
+Central European (Windows 1250)
+Chinese, simplified (GB18030)
+Chinese, simplified (ISO-2022 CN)
+Chinese, traditional (Big5)
+Chinese, traditional (Big5 HKSCS)
+Cyrillic (ISO-IR-111)
+Cyrillic (MacCyrilus)
+Cyrillic / Russian (IBM-866)
+Greek (MacGreek)
+Gurmukhi (MacGurmukhi)
+Hebrew (ISO-8859-8-I)
+Japanese (EUC-JP)
+Japanese (Shift-JIS)
+Korean (ISO-2022 KR)
+Korean (UHC)
+Keltic (ISO-8859-14)
+Island (Macisodic)
+Indian (ISO-8859-10)
+Persian (MacFarsi)
+Croatia (Macrank)
+South European (ISO-8859-3)
+Thai (TIS-620)
+Turkish (IBM)
+Turkish (MacTurkish)
+Turkish (Windows 1254)
+Vietnamese (TCVN)
+Vietnam (VISCII)
+Vietnamese (Windows 1258)
+west (Windows 1252)
+Unicode (UTF-16 LE)
+Type to search …
+Search the previous match for this string
+Save Never
+Note: This form is not safe. If you enter your password here, it will not be kept secret.
+The web process has crashed
+The web process has been terminated because the memory limit is exceeded
+The web process has been quit on API request
+Wait
+Decrease
+Allow
+The identification of this website is too old. Check the date on your computer.
+Could not parse this website. You may be corrupt.
+The identification of this website has been revoked by the exiting, trusted organization.
+Can't get identification of this website because it uses an unsufficient encryption.
+The identification of this website is only valid for data in the future. Check the date on your computer.
+Cannot display this website
+Reload
+R
+Back
+B
+P
+Insecure website detected!
+OK
+Not specified
+Today% I '% M% p
+Yesterday% I write% M% p
+% a% H:% M
+% -d.% b% I:% M% p
+Your Firefox account password appears to have been changed.
+Please open Firefox Sync and log in with the new password to continue the synchronization process.
+Sync credentials for the current sync user are invalid.
+Could not transfer client record.
+Could not transfer meta / global record.
+Could not verify memory version.
+Certificate issuer is not known
+The certificate contains errors
+The certificate uses a weak signature algorithm
+Certificate activation time is in the future
+The identity of this website has been confirmed.
+The identity of this website has not been confirmed.
+Clear All
+Threshold or deleted
+Starting …
+Open
+All Files
+Empty
+Paste and More
+Create bookmarks for this page
+This website has not properly saved your connection.
+Permissions
+Password Encoding
+Location access
+Microfondness Access
+Camera access
+Automatic media player
+no Sound
+Mobile
+Reload current page
+Should browser history be cleared?
+Empty browser history will ensure that all links in history are permanently deleted.
+Open a new window instead of a new tab
+Load the given session status file
+FILE
+Start private session in web application mode
+Start WebDriver private session
+Custom profile directory for private sessions
+Address …
+Open a new tab
+Do you really want to remove this extension?
+Author
+Remove selected web extension
+Repeat
+Mark All
+Update
+Before
+Open link in new window
+Open link in new tab
+Copy Disc URL
+Copy email address
+Save Image As …
+Save Video As …
+Open Audio in New Tab
+Page Source Text
+Open link
+Open link in new tab
+Open link in Incognito-window
+Download Operation
+Show open tabs
+No
+Save Media As
+Web applications offline memory
+WebSQL databases
+Extensions Data
+URI should not contain the search term multiple times
+Search engines shortcuts cannot contain spaces.
+A name is required
+Delete all passwords?
+Clear
+Copy Password
+Copy User Name
+Password
+Remove Password
+Dark
+Add Language
+Web application icon
+Run only the none migration step
+Specifies the required version of the mixer
+Web profiler
+Create bookmarks for this page
+Switch to Home Page
+Show open pages
+Bookmark
+Keywords
+Add keyword …
+Add
+Place bookmarks of some web pages to see them here.
+Delete all selected personal data
+Search for personal data
+Sending personal data here
+You cannot undo this step. Data you choose to delete will be permanently deleted.
+Search
+No results found
+Try another search
+Charting Encoding
+Use the encoding specified by the document
+Recently used encodings
+Firefox Sync
+Report to your Firefox account to synchronize data with GNOME Web and Firefox to other computers. GNOME Web is not Firefox and is not developed or supported by Mozilla.
+Login
+Subscribe
+Sync Options
+Synchronize passwords
+Synchronize Now
+Change
+History
+Chronics is empty
+List visited pages here
+Reload
+Refresh all tabs
+Attach tabs
+Close Left Tab
+Close
+Shrink
+Restore zoom level
+Search …
+New Window
+Open new Incognito-window
+Reopen the selected tabs
+Import & Export
+Install page as web application …
+Open Application Manager
+Overwrite encoding …
+Settings
+Keyboard Shortcuts
+Help
+Tab
+No passwords available
+Copy username
+Appearance Image
+fonts
+Serious font
+Serial font
+monospacefont
+Bookings
+Color scheme
+Style
+Use custom JavaScript
+General
+Web application
+Manage additional addresses
+Web Content
+Lock Bottom Window
+User defined
+Prompt for download
+Download Folders
+Search engines
+Session
+Restore Tab on startup
+Browser
+Spell check
+Choose a language:
+Privacy Policy
+Web Tracking
+Web site saver
+Enable search proposals in the address pane.
+Google search proposals
+You can delete saved personal data.
+Name
+Address
+Keyboard shortcut
+Remove search engine
+General
+New Window
+Open File
+Save Page As
+Print Page
+Quit
+Help
+Open Menu
+Show Download List
+navigation
+Switch to Home Page
+Reload current page
+Back to previous page
+Close the current tab
+Move current tab to the left
+History
+Create bookmarks for this page
+Import bookmarks
+Export bookmarks
+Enable / disable caret mode
+Install page as web application
+Open Web Application Manager
+View
+Zoom
+View page source text
+Edit
+Cut
+Paste
+Undo
+Mark All
+An address starting with an additional address will be opened by this web application. If you leave the address schema, the address scheme will be used from the currently loaded address.
+Address
+Extensions
+Add …
+Chrome
+Select File
+Import
+Bookmark successfully imported!
+Bookmark successfully exported!
+Website
+Start
+Cancel
+Replace
+An application with this name already exists. The overwrite will lose its contents.
+Save
+MHTML
+Enable
+Rygel
+UPnP / DLN services
+Ryb Preferences
+Add a folder to the list of shared folders
+Add Free Folder
+Remove Free Folder
+Add a network interface
+Remove a network interface
+Select Folder
+Bad test type
+Do not allow convert
+Do not allow deleting
+Comma separated list of 'Domains: Level' (domain: level) pairs. More information in rygel (1).
+Disable extension
+Set Extension Options
+Use configuration file instead of user configuration
+Quit remote Ryb reference
+Replace the currently executed instance of Rygel
+Expand remote Ryb instance\ n
+Playspeed not supported
+transition not available
+Search mode not supported
+Invalid channel
+Cannot search subobjects
+Not applicable
+No such file transfer
+Bad value of the new tag.
+Attempting to change a writable property.
+Number of parameters does not match.
+Unknown error.
+Search mode not supported
+Speed not supported
+Could not create playlist
+MediaEngineering .init is not called. Forting is not possible.
+Missing 'Alignment ID' argument
+Missing filter
+Missing element argument.
+&id must be empty in a CreateObject call
+Bitflags that cannot be set have been found in “dlna Managed ”
+Invalid 'upnp: class' given in\ CreateObject '
+The item is missing the attribute ''
+Cannot create a limited object
+Missing 'Alignment ID' argument.
+No subtitles available
+Previews are not supported
+No preview available
+Playspeed not supported
+Could not create forwarding
+Can only read file based media objects (media FileItems)
+Free media
+Receiving invalid command is ignored
+Artist
+Files and Folders
+Media of @ REALNAME '
+System appearance
+Overwrite this application settings. You will be reset when the inspector is closed.
+High Contrast
+Unnamed Page
+Settings
+Search
+Christian Herert, et al.
+A GNOME Text Editor
+Automatic Save Delay
+Use the light or dark variation of the GTK theme and / or GTKSourceView-Style schema.
+Undo style
+Automatic Input
+Automatically resize new rows to the previous indent.
+The number of spaces in a table.
+Inline width
+Sets to how many spaces should be mounted. A “-1 ” represents a table width.
+Show line numbers
+Whether to show a border on the right side of the editor.
+Whether to show an overview of the file next to the editor.
+Highlight the current row
+Text wrapping
+Whether to wrap text.
+Custom font
+A custom font to use in the editor.
+Style template
+Automatic spell checking
+Restore session
+Restore the previous session when the text editor is started.
+Color Window
+The last used location in a “Save ” or“ Save as ” dialog.
+The various types of spaces to mark in the editor.
+Enable the use of snippets registered in the GtkSourceView editor.
+Line height
+The line height for the selected font.
+Open given files in a new window
+ILCreateFromPath () failed
+Discard and reload changes
+File was changed on volume
+The file was changed by another program.
+Save As …
+Unsaved document has been restored.
+Save …
+Discard …
+Restore changes to the draft
+Unsaved changes to the document have been restored.
+Document Type
+No recently opened documents
+Draft
+Document portal
+Failed to save the document
+Save As
+Cancel
+Go to line
+navigate
+Invert
+Automatic Input
+Tabulators
+Space character
+8
+Z
+Highlight the current row
+Behavior
+Restore the previous session when the text editor is started
+Choose font type
+Page% N of% Q
+Properties
+File
+Location
+Rows
+Characters, no spaces
+Save Changes?
+Open documents contain unsaved changes. These will be permanently lost.
+Save
+Replace
+Go to the previous match (Ctrl + Shift + G)
+Go to the next match (Ctrl + G)
+Replace
+Languages
+Check spell spelling
+Follow system style
+Dark style
+Yesterday
+About a year ago
+Unix / Linux (LF)
+Windows (CR + LF)
+Automatically detected
+Character Encoding:
+Saving changes will replace the previously saved version.
+Discard
+Open File
+All Files
+Open
+Open the last open document (Ctrl + K)
+Start or open a document
+Document Settings
+Binding
+Help
+About Text Editor
+2
+4
+6
+Text wrapping
+Move to left
+Skip to New Window
+Close
+Editor keyboard shortcuts
+Window
+Move document to a new window
+Move to the next tab
+Move to the previous tab
+Move before the previous tab
+Restore before closed tab
+Size
+Shrink
+Documents
+New Document
+Find a Document
+Find a document based on the name
+Copy and Paste
+Copy selected text to clipboard
+Clip selected text to clipboard
+Paste text from clipboard
+Undo and redo
+Redo last command
+Paste emoji into the document
+Search and replace within the document
+Decrease number below cursor
+Toggle overwrite
+Toggle cursor visibility
+Selection
+Skip to the end of the document
+Go to line
+Delete from the cursor to the start of the word
+Delete from cursor to end of the word
+Delete the current row
+OK
+Cancel
+You must specify a dialog. See “zenity --help ” for more details.\ n
+No
+Could not understand message\ n
+Unknown hint. skipping.\ n
+Unknown Hint name. skipping.\ n
+Could not understand standard input command\ n
+TITEL
+Set the window icon
+SYMBOLPATH
+Set the width
+BREITE
+Set the height
+TRUE
+Sets the label of the OKS button
+Set the decryption button label
+Set the model hint
+Set the parent window to mount
+Show calendar dialog
+Set the calendar tag
+TAG
+MONAT
+Set the calendar year
+JAHR
+Set the format for the returned date
+Hide the input text
+Show error dialog
+Set the icon to the dialog
+Do not enable Pango markup
+Enable omissions in the dialog. This will correct the window size for long texts.
+Show info dialog
+Show file selection dialog
+Set the filename
+Enable memory mode
+Set the output separator
+TRENNING
+Confirm file selection if a filename already exists
+SPALTE
+Print a specific column (default is “ALL ” can be used to print all columns)
+Hide a specific column.
+Change the default search function for lists to search for text in the center, not at the start
+Heal on the default input by missing
+Set the notification ID
+PROZENT
+Quit parent process when the canvas button is clicked
+Hide Canvas Button
+Default focus on the canvas button
+Show text information dialog
+Set text font
+Enable HTML Support
+Sets an address instead of a file. Only works with the --html option.
+Address
+Automatically jump to the text. Only if the text is inserted by default input
+Show Warn dialog
+Show slider dialog
+Set the minimum value
+Show clipboard values
+Feather the value
+Show form pane
+Add a new entry in the form catalog
+Field Name
+Add new password entry field in the form list
+Calendar field name
+Add a new list in the form catalog
+Column Value List
+Field name of the selection field
+Show column title
+Print version
+General Settings
+Show General Settings
+Calendar Settings
+Text Input Preferences
+File chooser Preferences
+List Settings
+Show list options
+Notification Icon Settings
+Progress Settings
+Show progress options
+Query Settings
+Show Query Settings
+Warn Settings
+Show slider settings
+Text Information Options
+Show text information options
+Color selector Preferences
+Show color selection preferences
+Show form list options
+This option is not available. Please use --help for all application options.\ n
+Enter your password
+User name:
+Value out of range.\ n
+No column title specified for list dialog\ n
+Adjust slider value
+Text View
+Choose a date
+Add a new entry
+Error
+An error occurred.
+Formula Catalog
+Information
+All updates were completed.
+Do you want to continue?
+Select items from the list
+Enable favorite application 4
+Enable favorite application 7
+Enable favorite application 9
+Screen photos
+Take a screenshot
+Take a screenshot of a window
+System
+Align to active notifications
+GNOME Shell
+Manage window and start applications
+Enable internal developer and tester tools with Alt + F2
+Allows internal debug and monitoring tools to access.
+UUID of the extensions to be immediately disabled
+Whether to disable the revision compatibility check for the extension
+List of desktop file identifiers and their preferred applications
+Whether the default Bluetooth-adapter is assigned devices
+Keyboard shortcut to open the applications view
+Keyboard shortcut to switch the visibility of the notification list
+Keyboard shortcut to switch the visibility of the notification list.
+Keyboard shortcut to focus on the active notifications
+Keyboard shortcut to focus on the active notifications.
+Switch to Application 1
+Switch to Application 3
+Switch to Application 5
+Switch to Application 7
+The application icons mode.
+Whether windows of the current workspace are listed in the window window. Otherwise, all windows are included.
+The locations to display from world clocks
+Automatic Location
+Connect module dialog to parent window
+This key oversets the key in org.gnome.mutter when GNOME shell is running.
+Enable size adjustment when a window is moved to the screen channel
+Manage workspaces dynamically
+Workspaces only on the primary screen
+Delay focus change in mouse mode until the pointer is no longer moving
+Network Message
+Sorry, but there is a problem: this extension ’ s preferences cannot be displayed. We suggest that you report this error to the authors of the extension.
+Visit the extension website
+Choose session
+Username
+Login failed
+(or use the finger at the reader)
+Restart
+Lock Screen
+Subscribe
+unsubscribe; exit
+readiness; sleep
+Unlock screen rotation
+Lock Screen rotation
+Even now
+% H '% M
+% l '% M% p
+Hotspot login
+Provides access
+New Window
+Show Details
+Select Audio Device
+Sound Settings
+Change Background...
+Display Settings
+Settings
+06
+D
+% OB
+% OB% Y
+Previous month
+Next month
+Week% V
+No notifications
+Wait
+External drive disconnected
+Connection
+Key
+Service
+Required login
+Wireless 802.1X login
+DSL login
+PIN code required
+A PIN code is required for mobile broadband device
+VPN Password
+Show applications
+Dash
+% e% B
+Today
+Tomorrow
+No events
+Add World clocks …
+World clocks
+Loading …
+Go online to get weather information
+Weather
+Select Weather Location …
+Turn off
+Restart
+restart and install
+Install Extension
+Available extensions updates
+An application wants to lock keyboard shortcuts
+Undo
+Allow
+Keyboard delay enabled
+Keyboard delay disabled
+Leave Toggled
+Enable
+Regional & Language Settings
+Show errors
+Deprecated
+Error
+Show Source
+Undo
+Login as privileged user
+The operation of a session as a privileged user should be subdued for security reasons. If possible, please log in as a normal user.
+Screen lock disabled
+System Information
+Unknown artist
+Applications
+New Keyboard shortcut...
+Application set
+Show Screen Help
+Switch screen
+Assign Keyboard shortcut
+Invalid
+Edit …
+No
+Press Esc to cancel
+Press any key to quit
+System
+Top panel
+Press Esc to close
+New startup not available on Wayland
+New Start …
+GNOME must lock the screen
+Take the screen
+Window
+Screen photo / screenshot
+Screen Photos
+Screen content recorded
+Click here to view the video.
+Screen photo taken
+You can insert the image from the clipboard.
+Screen photo taken
+Search
+Hide text
+Windows system volume
+PIMP number
+Remember password
+Unlock
+PIM must be a number or empty.
+accessibility
+Screen bar
+Visual Warnings
+Keyboard Out
+Large font
+Brightness
+Single click
+Context click
+Missing click
+Keyboard
+Show keyboard layout
+Turn off
+Privacy Options
+Used Location
+Location off
+Allow location access
+Location access can be changed at any time in privacy settings.
+< Unknown >
+Mobile Broadband Connection Settings
+Airplane mode is turned on
+Wireless network is disabled when your device is in airplane mode.
+Wireless network is turned off
+Wireless network must be turned on to create a network connection.
+Wireless Networks
+Choose a Network
+No Networks
+Use the secret switch to disable
+Wireless Network Settings
+Required login
+VPN
+Connection failed
+Network connection activation failed
+Night mode disabled
+Forget
+Disable until Tomorrow
+Energy Settings
+Don't paste
+Assessment...
+Stop Screen Record
+Airplane mode is turned on
+Lock
+Subscribe / Subscribe
+readiness
+Expand...
+Subscribe
+Unknown thunderbolt device
+A new device has been detected in the mean time. Please disconnect the device and close it again to use it.
+Thunderbolt authentication error
+Volume
+Flip
+Merge Screen
+% A,% d% B
+Unlock by mouse click or key press
+No Thank you
+Keep this display settings?
+Reset
+Keep
+Hide
+Move
+Change size
+Always foreground
+Move a workspace to the left
+Move a workspace to the right
+Move to the screen up
+Move to the right monitor
+The mode used by GDM in the login window
+Unknown
+Passwords do not match.
+A password must be specified
+The GNOME project
+GNOME plugins are used to update plugins, configure the preset of plugins and remove or disable any desired plugins.
+Setup GNOME Shell extensions
+No match
+The extension can be updated
+Website
+Remove...
+Manual installed
+No installed plugins
+Login …
+Description
+UUUID is a unique identifier of your extension.\ nYou should have the format of an email address (clickfocus &maxmustermann.illa)\ n
+Template
+The unique ID of the new extension
+NAME
+The visible name of the new extension
+INCLUDING
+VORLAGE
+Enter information about the extension interactive
+Disable an extension
+Enable an extension
+Overwrite an existing extension
+ERROR
+Install an extension package
+No extension package specified
+More than one extension package specified
+Show plugins installed by the user
+Show enabled plugins
+Show plugins with Preferences
+Show extensions with updates
+Print Extension Details
+The directory in which the translations are included
+DOMAIN
+The directory to create the pack in
+QUUT DNER
+Create an extension package
+More than one source directory specified
+Opens the extension settings
+Uninstall an extension
+Path
+Address
+Version
+Status
+“version ” does not accept any arguments
+Enable extension
+Disable extension
+Uninstall Extension
+List plugins
+Show extension information
+Open Extension Options
+Create Extension
+Package extension
+System Clings
+Compatible with Libreswan- and Cisco IPsec-VPN servers.
+Group password:
+IPsec-based VPN
+Unhandled, pending authentication.
+Do not quit when the VPN connection is canceled
+Enable the actual debug log (can contain passwords)
+D-Bus name to use for this instance
+This service provides an integrated IP VPN for NetworkManager.
+IKEv1 (XAUTH)
+Authentication
+Secret:
+Certificate name:
+Expanded...
+Identification
+domain:
+(NT-) domain name for authentication\ nconfig: domain < domain >
+Phase1 algorithms:
+Phase2 algorithms:
+Sets the algorithm that is offered or accepted for a Phase2 negotiation. The format is “cipher-hash; modpgroup, cipher hash; modpgroup, … ”.\ nconfig: < suggestions >
+Phase1 lifetime:
+Phase2 lifetime:
+Whether a connection should not be retracked when it is running.\ nconfig: rekey < no / yes >
+Connesitivity
+Private subnetwork behind the peer, expressed in the form of network / network mask.\ nconfig: rightsubnet < network >
+IKEv2 negotiation may allow the creation of an IPsect connection with bandwidth traffic selectors. This option is ignored for IKEv1.\ nconfig: dentirowing < yes / no >
+Enable MOBIKE
+GNOME System Monitor
+Monitor; system; process; CPU; memory; network; history; load;
+The system monitoring is a process viewer with an interesting and easy to use user interface.
+CPU list view
+Resource Overview
+File system view
+The GNOME project
+Delete process
+Requires permission to manage other users ’ processes
+Requires permissions to change the priority of processes
+Show help
+Open Menu
+Keyboard Shortcuts
+Show processes
+Show file systems
+Update
+Processes
+Open Files
+Send received signal
+Send envelope signal
+Show CPU Properties
+CPU
+Swap
+Memory & Swap
+Filter files by name
+Search for open files
+Settings
+Keyboard Shortcuts
+Update
+Active processes
+Custom processes
+Properties
+Memory Image
+Open Files
+Normal
+Very low
+User defined
+Set Affinity
+Open Files
+Enable a low refinement
+Warn before exit or splitting processes
+Show memory in IEC
+Process information displayed in the list:
+graphs
+Character Points
+Show diagrams as smoother graphs
+Set network total traffic unit separately
+Show network traffic in bits
+Show all file systems
+Cancel
+Change Priority
+Nice-Value:
+Open the file system tab
+Show the version of the application
+Today% H:% M
+Yesterday% H:% M
+% d% d% Y
+percentage
+Select Color
+The selected color
+Invalid color data received\ n
+Click to set the colors of the graphs
+VM Start
+VM offset
+Home - modified
+Join - unchanged
+Join together - modified
+Memory Image
+File
+IPv6 network connection
+Unknown type
+FD
+Solaris mode for the CPU percentage display
+Time in milliseconds between process list updates
+Time in milliseconds between graphs
+Whether to show information about all file systems
+Time in milliseconds between device list updates
+Specifies which processes should be displayed.
+Sets the currently displayed tab
+CPU colors
+Swap swap graph color preset
+Set all network traffic unit separately
+Show memory and swap memory in IEC
+Process list sort column
+CPU list column sorting
+Show CPU name column on startup
+Width of the user column
+Show user column on startup
+Width of 'state' column
+Show status column on startup
+Width of the 'unswap' column
+Show 'unswap' column on startup
+Show desktop memory column on startup
+Width of the “Geteilter Memory ” column
+Show “Geteilter Memory ” column on startup
+Width of the 'X server memory column
+Show X server memory column on startup
+Width of CPU time column
+Show the 'gesture' column at startup
+Width of 'Nice-value' column
+Show “Nice-Value ” column on startup
+Width of 'ID' column
+Show 'ID' column on startup
+Width of the command line column
+Show process command line column on startup
+Width of the user column
+Show memory column on startup
+Width of the CPU column 'Control Group'
+Show CPU 'Control Group' on startup
+Show unit column on startup
+Width of the “session ” column
+Width of the CPU column 'Location'
+Show CPU 'Location' at startup
+Show device events in the process at startup
+Show device writings column across the process at startup
+Show the 'Device device events' column on startup
+Width of process' device writings' column
+Process priority column width
+Show the “priority ” column on startup
+Device view sort column
+Device view sort order
+Show folder column in the device view on startup
+Show type column in the device view on startup
+Show the “whole ” column in the device view on startup
+Width of the “Frei ” column in the device view
+Show “Frei ” column in the device view at startup
+Width of the “Available ” column in the device view
+Show the 'benchmark' column in the device view at startup
+Sort column of memory image
+Sort order of memory image
+Sort column of open files
+Sort order of open files
+Icon
+By sending a process, data can be destroyed, the current session will be interrupted or a security risk. Only processes that will stop.
+Keep the process received by [0] process
+Note:
+Nice-value of a process determines its priority, where a small Nice-value is a high priority.
+N / V
+CPU name
+Status
+X server memory
+CPU Time
+Paint
+Priority
+ID
+Security Context
+Waiting Channel
+Unit
+Session
+User
+Device events across the device
+Device events
+Device Writing
+Apply
+Valid
+Shrink
+Very high priority
+High priority
+Adwaita dark
+High Contrast
+Simplification simple
+Select an operating system. Boxes will be downloaded and installed in a virtual machine.
+Download a free available operating system.
+Set the resources (memory and memory) to show virtual machines on your computer.
+3D acceleration for some of the supported operating systems.
+Use the clipboard with your system and virtual machine together.
+Share files with virtual machines by dragging them from the file manager to the “boxes ” window.
+The GNOME project
+Run and manage virtual machines
+Screen photos interval
+Window position
+Window position (x and y)
+maximized window
+Window maximization state
+First execution
+Free directory
+Variable field from the name of the folded folders and their paths
+Welcome to Boxing
+Click on the < b > + < / b > button to create your first virtual machine.
+Unknown medium
+Search for an operating system or enter a download link …
+Boxes could not identify the operating system in the image file.
+Creating a new virtual machine and installing an operating system on it. First select the source for the operating system.
+Create a virtual machine from a file
+Download an operating system
+Preparation is running …
+Check and create
+Virtual extensions are not available on your system. Please check your BIOS settings and enable them.
+Username
+Password
+Expression Installation
+New
+Table view
+Synchronization to the file start
+You will find your file in the download directory.
+Action
+Keyboard Shortcuts
+fullscreen
+Open main menu
+Keyboard Shortcuts
+Close / Quit boxes
+Box build and properties
+Box Display
+Toggle keyboard
+Back to overview
+Toggle fullscreen mode
+Keyboard Shortcuts
+Help
+About Boxes
+No CD ROM / DVD image
+Remove
+USB devices
+Resources
+Name
+IP address
+CPU
+3D acceleration
+Allow operation in the background
+Setup
+Debug logs
+Edit Settings
+Local Folder
+Decrease to snapshot
+Delete snapshot
+Quick Selection
+Select the extract installation to preset the box with optimal settings.
+Product key
+Boxes allows simple installation and running virtual machines.
+On extract installation, boxes set the settings when creating a new virtual machine for you. Just start the installation - all of this will be removed.
+Drag and drop
+Box actions
+Include the screenshot
+Force shutdown
+Restart
+A simple GNOME 3 application to access virtual machines
+Show version number
+Open in fullscreen mode
+Open Box with UUID
+Search text
+Address, system mediator or installation medium to display
+Too many command line arguments given.\ n
+Cancel
+Open
+Choose a device or an ISO file
+Open
+Previous
+Live
+x86-system (32 bit)
+x86-system (64 bit)
+Downloading media
+Install
+System
+Ctrl + Alt + Delay
+Ctrl + Alt + Del
+Ctrl + Alt + F1
+Ctrl + Alt + F2
+Ctrl + Alt + F7
+Forward keyboard shortcuts
+Stop
+Deprecated
+machine is currently created
+Save …
+Debug Log
+Boxes want to run a VM in the background
+The GNOME Boxes Flatp-version does not support any USB derivative.
+Do you want to open the settings to manage application permissions?
+Change the configuration of your box may lead to errors in its operating system. Would you like to create a snapshot to undo the changes?
+Use the button below to create your first snapshot.
+Not enough space on your system to increase the maximum disk size.
+Data memory drive
+Unknown
+An error occurred during the installation process. Expression installation is disabled.
+Downloading device driver …
+Is SELinux installed?
+The “gnome-boxes ” memory pooling information could not be retrieved from libvirt. Make sure that“ virsh -c qemu: / / / session pool-cluxml gnome-boxes ” is running.
+Insufficient host system
+Energy statistics can show running data and current battery information, as well as programs that require power and increase the computer.
+Whether to show data points in the gradient art
+The default type of the graph to display the gradient
+The maximum time to show history
+Whether to show data points for statistics in the statistics window.
+The default type of graph to display in the statistics window.
+The page number index to show as default
+The identifier of the last device to use to reset the focus to the correct device.
+battery; use; charge;
+Load
+Time until fully loaded
+3 hours
+8 hours
+1 week
+Layer Profile
+Deprecated Profile
+Difficulty
+[0] Laptop-battery battery
+[0] Monitor [monitor monitor
+[0] Mean [1] mice
+[0] Keyboard [1] keyboard
+[0] PDAmsgstr [1] PDAs
+Mobile Phone Phone [1] Mobile Phone Phone
+Lithium-Ion (Li-Ion)
+Lithium Polymer (LiPo)
+Leave battery (Pb)
+Empty
+Yellow
+Waiting for loading
+Attributes
+Value
+Yes
+No
+Device
+Type
+vendor
+Model
+Delivery
+Refresh
+State
+Energy
+Energy when unloading
+Energy (Design)
+tension
+Percentage percentage
+Capacity
+technology
+Online
+Device history
+Precalculated Time
+Precision
+Details
+Graph:
+Data length:
+No display data exists.
+Use odd line
+Show data points
+Statistics
+Cannot read from an empty clipboard.
+No EGL configuration available
+No EGL configuration found with the required properties
+No perfect EGL configuration found
+Could not create EGL display
+No compatible formats to transfer content.
+EGL implementation does not support the allowed APIs
+Input
+break
+roles
+S-Abf
+Esc
+Pos1
+Left
+Runter
+Image From
+Pos1
+Pos1 (Nmblck)
+Image to (Nmblck)
+unf (nmblck)
+unf
+Increase monitor brightness
+Decrease monitor brightness
+Increase keyboard brightness
+Toggle mute
+Next Title
+Previous Title
+Start recording
+Audio Media
+Discard
+File Manager
+Tab Calculator
+Search
+Tools
+battery
+Back
+readiness
+Break state
+WebCam
+Display
+Toggle touchpad
+Invert
+Scaling in readiness
+Writing a closed stream
+GlobalReAlloc () failed:
+Cannot convert a single handle
+GlobalAlloc () failed:
+The clipboard manager could not save the selection.
+GLX is not supported
+Not enough space at destination
+Invalid byte sequence in conversion input
+Invalid formats in associated text conversion.
+Turns the switch around
+Enables the color
+Match the color to
+Enable the plotting
+Enables the entry
+Enable primary icon
+Enables the primary icon of the entry
+Enable secondary icon
+Show password entry's contents
+Clear
+Application
+License
+GNU General Public License, version 2 or later
+GNU General Public License, version 3 or later
+GNU Lesser General Public License, version 2.1 or later
+GNU Lesser General Public License, Version 3 or later
+BSD 2 Clause License
+Artistic License 2.0
+GNU Affero General Public License, only version 3
+BSD 3 clone license
+Apache License Version 2.0
+Mozilla Public License 2.0
+Website
+Created by
+Documentation of
+Translation from
+Design of
+Shift
+Ctrl
+Alt
+Super
+Hyper
+NB
+space bar
+Warning
+Warning dialog
+Banner
+Button
+Checkbox
+Selection Field
+Command
+merged
+form
+Group
+Heading
+Label
+Legend
+Link
+Primary
+Mathematics
+Menu Bar
+Menu entry
+Menu entry checkbox
+navigation
+no
+Options
+Selection Button
+Selection Button Group
+Area
+Area
+Line
+Row Header
+Image Track Bar
+Search Field
+Section
+Track Header
+Select
+separator
+Columns
+Tab
+Table
+Text Field
+Toolbar
+Minihelp
+Tree Table
+Other Application …
+Select Application
+GNOME Software Started failed
+Standard application
+Related Applications
+Other applications
+No reason given
+calendar: MY
+% Y
+Deprecated
+Invalid
+New Keyboard shortcut...
+Very dark blue
+Light Green
+Very bright Yellow
+Dark Orange
+Helles Red
+Red
+Very dark red
+Light Violet
+Dark bren
+Very dark brew
+White
+Dark gray 1
+Dark gray 2
+Dark gray 3
+Dark gray 4
+User defined
+Fit
+Close
+Manage custom sizes
+inch
+Width:
+Canvas:
+Left:
+Right:
+Paper drafts
+Insert emoticon
+A file cannot be called “. ”
+A directory cannot be named “.. ”
+Filename may not contain “/ ”
+Filename should not end with a space character
+Folder names starting with “. ” are hidden
+A directory of same name already exists
+A file of same name already exists
+Open
+Try to use a shorter name.
+Invalid filename
+The file cannot be moved to the trash
+Clear
+Could not select file
+Open with File Manager
+Show hidden files
+Show type column
+Show directories before files
+Search
+Last change
+% H:% M
+% -e.% b
+% -e.% b% Y
+Font
+Graphics
+Document
+presentation
+Table Document
+Unknown
+You do not have access to the given directory.
+Choose a font
+No
+Width
+Optical Size
+Standard
+Ligors
+Case case
+Number Wrap
+Number distance
+Number format
+Characters Variation
+OpenGL-context creation failed
+Cut
+Copy
+Paste
+Open Link
+Invalid URL
+Unable to unlock the dialog.\ nClick to avoid changing\ n
+Dialog is locked.\ nClick for\ nChanges
+default: LTR
+Connection
+Connect Anonymous
+Inverted
+Forget password immediately
+Terminal Pager
+Top command
+Bourne-× Shell
+Tab List
+Tab
+No valid page setup file
+Manage custom sizes …
+Any printer
+For portable documents
+Show text
+fixed key is enabled
+Show text
+Last used
+Recently used files
+Other locations
+Open in new window
+Add bookmarks
+Mount
+Discard
+Start
+Connect Drive
+Disconnect Drive
+Stop multimedia drive
+Host
+No network value found
+Unable to access location
+Connection
+AppleTalk
+Network File System
+SSH File Transfer Protocol
+sftp: / / / or ssh: / /
+dav: / / / or davs: / /
+Connection
+Cannot get remote server location
+Networks
+Separate
+Keep Password
+Select Filename
+Unavailable
+Preparing printing
+Sending data
+Wait
+Lock because of problem
+Print
+Completed with error
+Application
+No paper more
+packaged
+Custom size
+Invalid argument for CreateDC
+Start Doc error
+Unknown error
+Print
+Left to right, bottom to top
+Top to bottom, left to right
+Top to bottom, right to left
+L
+Second dust
+Rotate clockwise
+Scroll to left
+Scroll to right
+Search Results
+Repeat
+mute
+Do not show this message anymore
+minimize window
+maximize window
+Close
+Restore
+Object Path
+Enable
+ParameterType
+Position the mouse here to load
+locally
+Primary
+No
+Blase
+Destination
+You can enter any of GTK recognized CSS-rules here.
+Disable this own CSS
+Style Classes
+Deactivated
+GTK version
+Pango font statement
+Media backend
+Input Method
+Resource Path
+GL-vendor
+volcano API version
+volcano driver version
+Unnamed Section
+Destination
+Build ID
+Query mode
+Base Line
+Image clock
+Marker return
+Framerated
+Top layer
+Visible Subelement
+Attribute:
+column:
+Standard
+Theme
+XSettings
+Unknown
+defined at
+Record Frames
+Save selected node
+Copy to clipboard
+property
+Size
+Name:
+Type:
+None
+Horizontally
+Vertical
+Mode
+GLib must be configured with --Dbuildtype = debug
+Cumulative 1
+Cumulative 2
+Self
+Implemented
+GL-representation disabled
+Dark variation
+Pointer theme
+Icon theme
+Text Expression
+Right to left
+Animations
+Show graphics updates
+Show basename
+Show layout borders
+CSS-padding
+CSSborder
+Widget overlay
+Show focus
+Choose an object
+Show Details
+Show all items
+Show all resources
+Calculate statistics
+Update Action Status
+Next Track
+CSSnode
+Adjust group size
+Action
+accessibility
+Global
+Resources
+Access all alternatives
+Requirements above the base line
+Alternate Broken
+Active
+Diakritic positioning below the base line
+Requirements below the base line
+Size / lowercase dependent shapes
+Composition / Decrease of Glyphs
+Connected shapes
+Context conditional Ligors
+Capitalization of capital letters
+Context conditional onion-book
+Cursive Positioning
+Cells of capital letters
+denominator
+Expert shapes
+Broken
+Full width
+Half shapes
+Historical Ligors
+Hangul
+Initial shapes
+Isolidated shapes
+Italic
+JIS78-shapes
+JIS83 shapes
+Default Ligors
+Leading Jamo shapes
+Local shapes
+Medial shapes
+Diakrics to diakrics positioning
+Diakritic positioning by replacement
+Annotation alternative shapes
+Nukta-shapes
+Count
+Mediadecimal Numbers
+Folder character
+Small capital
+Proportional-rate
+Requirements before base line
+Shapes by base line
+Requirements by the base line
+Quarter width
+Required concentric alternatives
+Reph-shapes
+Right boundary
+Saved right to right left alternatives
+Ruby-note shapes
+Optical Size
+Caps
+Sticky Set 3
+Sticky Set 4
+Sticky Set 5
+Sticky Set 6
+Sticky Set 7
+Sticky Set 9
+Sticky Set 13
+Sticky Set 18
+Sticky Set 19
+Sticky Set 20
+Alternate for Mathematical Scripts
+Icon decomposition of Glyphs
+Loading
+Cut letter
+Finishing Jamo shapes
+Traditional namespace shapes
+Vatto-variants
+Alternate vertical semitrics
+Vertical channel alternatives
+Vertical kernel
+Proportional alternative vertical metrics
+Vertical alternatives with rotation
+Vertical rotation alternatives
+A0
+A2
+A2 × 3
+A3
+A3 × 6
+A3 × 7
+A4
+A4 Tab
+A4 × 3
+A4 × 4
+A4 × 5
+A4 × 7
+A4 × 8
+A8
+B1
+B3
+B4
+Shape Extra
+Redo / CC
+B7
+B8
+C2
+Cycling
+REAST
+DO / COM
+C9
+RA2
+RA4
+SRA0
+SRA2
+SRA3
+SRA4
+JB1
+JB3
+JB7
+JB8
+ChouTurkey 2 envelope
+ChouTurkey 3-Border
+ChouTurkey 4 envelope
+ChouTurkey 40th Border
+kahu wrapping
+Tile Border
+kev8 envelope
+oufuku (response postcard)
+you4 Border
+10 × 11
+10 × 13
+10 × 15
+11 × 12
+5 × 7
+6x9-Border
+9x11-Wrap
+9x12-Wrap
+Arch C
+b-plus
+c5 wrapping
+European edp
+f
+End loop European
+End lospaped American
+End lospaped German legal
+Administrative Right
+Administrative Letter
+Index 3x5
+Index 4x6 (postcard)
+Arrangement
+Tabloid
+USB Letter Extra
+Oficio
+Quarto
+Super B
+White format
+Invalid offset
+Italian blending
+Large photo
+Central Photos
+pa-kai
+Postfix offset
+Broadband Photo
+prc1 wrapping
+prc2 wrapping
+prc4 wrapping
+prc6 envelope
+prc7 envelope
+prc8 wrapping
+ROC 16k
+Settings
+Services
+Show All
+Invalid pages
+Cross format
+Header High Format
+Header cross format
+Unsupported video codec
+User name:
+Extracting jobs
+;
+Paper type
+Paper Input
+Output eight
+Resolution
+GhostScript-filtering
+Unique
+Short border (rotate)
+Expanded
+Unique
+Long border (default)
+Top Bin
+Middle Bin
+Page Bin
+Middle Bin
+Bottom Bottom
+Hose
+Resources
+Priority
+Calculation info
+Confidence
+secret
+Standard
+Unclassic
+Pages per sheet
+Print around
+Print at clock
+PDF
+Pages per sheet:
+Print in this folder instead of cwd
+Create debug output
+NOTE [URI …] — start an OUT
+Start an application specified by its desktop file\ nand optionally passed one or more URIs as arguments.
+Don't check for index.theme to exist
+Do not insert image data to cache
+Insert image data to cache
+Print C-Header File
+Cisco-IPsec virtual private networks client
+Compatible with Cisco-VPN concentrators configured to use IPsec.
+NetworkManager developer
+Group password:
+Authenticate VPN
+Group password:
+Cisco-compatible VPN client (vpnc)
+Secure (default)
+Shuffle (use with caution)
+No (completely unsafe)
+Cisco (default)
+Netscreen
+SER-T when available (default)
+Always SER-T
+Cisco-UDP
+DH-Group 2 (default)
+DH-Group 5
+vpnc does not support interactive requests
+Could not use the new security key because the interactive mode is disabled.
+Due to invalid VPN connection settings, the request could not be processed.
+nm-vpnc-service integrated Cisco Legacy IPsec-VPN functionality in NetworkManager.
+General
+Show passwords
+Group password\ nconfig: IPSec &< group password >
+Group name\ nconfig: IPSec ID < group name >
+User password
+Username
+Use hybrid authentication
+Allow hybrid authentication to use certificate in addition to password.\ nconfig: IKE Authmode hybrid
+Expanded...
+Identification
+(NT-) domain name for authentication\ nconfig: domain < domain >
+vendor
+Version
+Local port
+IKE DH-Group
+SER-Traverse
+Local ISACP port to use (0 for random port; 500 is the default port of vpnc)\ nconfig: Local port < 0-6535 >
+For PFS Diffie-Hellman group\ nconfig: Perfect Forward Secrecy < noops / &1 / &2 / &5 / server >
+Name of the IKE DH-Group\ nconfig: IKE DH Group < &1 / &2 / &5 >
+Percentage Traversal Method\ nconfig: None Traverse Mode < natt / none / force-natt / cisco-udp >
+Encryption method\ nconfig: nothing for safe, “Enable Single DES ” for white,“ Enable no encryption ” for no
+Encryption method
+Video
+Play videos
+Video contains additional features such as downloading subtitles, replay speed, creation of screenshots, and support for recording DVDs.
+Video; film; clip; series; player; player; DVD; TV; CD; Totem;
+The video contrast
+The video saturation
+Whether to disable the deinterlacing for existing videos from semitones
+Audio output output type to use
+Size of the cache to use for network streams before the stream is restored (in seconds)
+Subtitle character encoding.
+Default Open … Open location
+Default location of the Open … dialog, default is the current directory.
+Default location of the screen photo … 'dialog
+Whether subtitles should be automatically loaded when loading a filter
+List of active plugins
+A list of plugins currently active (loaded and running).
+Folder to display
+Stereo
+4 channel
+Load subtitles when a video is loaded
+Select subtitle font
+Extensions
+Extensions...
+General
+Color Equal
+Contrast:
+Saturation:
+Hue:
+Audio Output type:
+Properties
+Quit
+Increase volume
+Toggle mute / unmute mute
+View
+Disable fullscreen
+Rotate
+Play / Pause
+Jump
+Go forward 60 seconds
+Step back to the previous frame
+Step before next frame
+Go back 5 seconds
+Go back 3 minutes
+Jump to …
+Up
+Bottom
+To left
+Right
+Binding
+Help
+Add local video …
+View ratio
+Automatic
+16: 9 (broadband image)
+2.11: 1 (DVB)
+Switch view angle
+Discard
+Subtitle
+Select text subtitle …
+Track Menu
+Camera Name
+Play speed
+Please enter the address of the file to open:
+A password is requested for the RTSPs server
+The source appears encrypted and cannot be read. Try to play a encrypted DVD without libdvdcss?
+Could not find the given film.
+missing SSL / TLS support. Please check your installation.
+Could not read the film.
+The file you wanted to play is empty.
+This stream cannot be played. It may be blocked by a firewall.
+Missing some required plugins. Make sure the program is installed correctly.
+-- --
+Video preview
+Filename
+Duration
+Browse Error
+Search error
+Please make sure the totem is installed correctly.
+Click objects to select them
+Back
+Search
+Sound track
+Subtitle
+Auto
+No
+Playback
+Next Title / Film
+Could not start Totem.
+Play / Pause
+Previous
+Toggle
+Toggle fullscreen
+Quit
+Queue to
+Queue and reset is not possible at the same time
+Close
+Clear
+Arabic
+Baltic
+Chinese (simplified)
+Chinese (traditional)
+Croatia
+Cyrillic / Russian
+Greek
+Hindi
+IsDutch
+Japanese
+Persian
+South European
+Thai
+Turkish
+Vietnamese
+Subtitle Files
+Select Subtitle
+Sets the sofortness-message state to “Out ” when a video is played
+MPRIS D-Bus Interface
+Send notifications about currently saved videos and allow remote control with MPRIS.
+Open Folder
+Subtitle Downloader
+Search for subtitles for the current film
+Searching subtitles …
+Downloading subtitles …
+Cannot connect to OpenSubtitles read website
+Could not connect to the OpenSubtitles read website.
+No search results.
+Format
+Subtitle language:
+Fill Properties
+Add Fill Properties Menu
+Title:
+Album:
+Comment:
+container:
+dimensions:
+Bitrate:
+Channel:
+Unknown
+Unknown
+Unknown
+Unknown
+k.A.
+k.A.
+k.A.
+k.A.
+0 Hz
+risco b2 password
+Python Console
+Totem Python Console
+Recently used files
+rotation extension
+Allows videos to rotate if they are misaligned
+Save a copy of the currently saved filter
+Files is not available.
+Film
+Disables the screen saver on film player
+Play a video
+Width of the screenshot (in pixels):
+Calculate the number of screenshots
+Number of screenshots:
+Provides the jump to the 'spin to' dialog
+Secondary 91; 0] Secondary gstr [1] seconds
+Jump to
+Jump to …
+Normal
+1.25-case
+1.5 x
+1.75-x
+Variable playspeed
+Provides a menu for variable playback speed
+Sets the user agent for the Vimeo-page
+Color space
+With Alpha
+Number of bit per color share
+Width
+Rowstride
+Pointer to pixel data of a pixbuf
+Pixel-byte
+Not enough memory to save image to Callback
+Error writing to image stream
+Whether the animation should be repeated after exit
+Image default unusable
+Not enough memory to load animation
+Bad chunk in animation
+Initial size of the BMP image is not supported
+Can't compress topdown images
+File end occurred too early
+The image is too wide for the BMP format.
+JPEG
+TIFF
+Could not load metadfile
+Unsupported image format for GDI +
+Could not save
+WMF
+Not enough memory to load GIF-image
+File doesn ’ t seem to be a GIF file
+Data incomplete in the GIF file (maybe it was some hidden?)
+The GIF image has been mute or is incomplete.
+MacOS X icon
+Compressed icons not supported
+Unsupported icon type
+The ICO-image has been mute or is incomplete.
+Pointer Hotspot outside image
+Height or width of the transformed JPEG is zero.
+The bit number per channel of the PNG image is invalid.
+Bits per channel of transform PNG are not 8.
+Transformed PNG is not RGB or RGBA.
+heavy errors while reading a PNG image file
+PNM file has an invalid width
+PNM file has an invalid height
+PNM file image height is 0
+raw PNM image type is invalid
+PNM image loader does not support this PNM subformat
+raw PNM formats require exactly one space before color split data
+Input file descriptor is NULL.
+Could not read QTIF-Header
+Could not create GdkPixbufLoader-object.
+Could not allocate color table
+Could not create new pixbuf
+The wrong color image does not contain a color attribute
+Could not allocate TGA-default memory
+Could not allocate memory for TGA-context structure
+Targa
+Could not get image width (invalid TIFF file)
+Could not get image height (invalid TIFF file)
+TIFF image width or height is zero
+TIFF image dimensions too large
+Not enough memory to open TIFF file
+Could not open TIFF image
+Could not load TIFF image
+Could not save TIFF image
+TIFF compression does not refer to a valid codec.
+Could not save TIFF data
+XBM
+No XP cursor display found
+Invalid XML file header
+Width of the XML image file < = 0
+Height of the XML image file < = 0
+Could not allocate memory used to load an XML image
+Could not read XML color table
+Mines
+Minesweeper; Mine; game; puzzle;
+Small game field
+Large game field
+The title of the game history to use.
+If set to true, you will be allowed to mark square as unknown.
+Whether check should be marked automatically as a decrease when enough box is revealed
+Whether to disable theme based transition animations
+Number of rows of custom game field
+The number of miners in a custom game
+Window & Game
+Start a new game
+Restart the game with the current settings
+Show help
+Open Menu
+Show shortcuts
+Quit
+Game size selection
+Game size: means
+In game
+Uncover Field
+Toggle the field's path state
+Width
+Cancel
+break
+Change difficulty
+packaged
+Print version number and quit
+Central game
+Large game
+Appearance Image
+Help
+About Mines
+Minor Field:
+Keep the current game
+Start from new
+Forget
+Play again
+Clear explosive miners from field
+Select Theme
+Only take the current window instead of the whole workspace. This key is deprecated and will no longer be used.
+Directory where screen photos are placed by default.
+Last screenshot directory
+Directory where the last screenshot was inserted.
+Include ICC profile
+Include ICC profile with the screenshot
+Default File Extension
+Default file extension for screenshots.
+Include the screenshot of the current window
+GNOME Screen Photo
+Cancel
+Save
+Directory:
+Include the screenshot
+Recording Area
+Screen
+Selection
+0
+About Screen Photos
+Could not get screenshot
+An error occurred while creating the file. Please choose another folder and try again.
+Error creating file
+Unexpected screenshot
+Include only one range instead of the entire screen
+Remove the window boundary from the screenshot. This option is considered deprecated and window limits are always included
+Screen focus only after given time [in seconds]
+Interactive Set Options
+Filename
+Show version information and exit
+Screen Photo .png
+Error loading help
+Connect
+Disconnect
+Connection disconnected
+BEKANNT
+More …
+property
+Properties
+Name
+Property Name
+Property Value
+About
+Events
+Event timestamp
+Asks
+Query type
+Type type request:
+Position
+Data size
+Object Path
+Size buffer
+Send Data
+Message type
+Message Timestamp
+Object
+Level
+Function
+Message
+Log level:
+Set threshold threshold
+Category
+(press “Update ” button)
+Unsupported Type:
+Edit
+Preferences...
+Server
+About …
+Log messages
+Bus messages
+Clear
+Copyright (C) 2015 Marcin Kolny < marcin.kolny &gmail.com >
+Row Columns:
+IP address:
+GNOME Remote Desktop
+Status [--show-credentials] - Show current state\ n\ noptions:\ n --help - show this help text\ n
+If true, the RDP backend will be initialized.
+Screen share type on RDP connections
+Certificate file path
+To use RDP with TLS security, both private key file and certificate file must be provided to the RDP server.
+private key file path
+Remote connections only allow the screen content to be visible
+Whether or not the VNC backend is enabled
+Method used to authenticate VNC connections
+clockspeed rotation
+There are overall [people] people. [brothers have brothers, [sisters] have sisters and [both] and many people have neither brothers nor sisters?
+Password
+Every place has 10 options. The total number of options is 10 high [digits].
+Tennis game
+Interest interest rates are calculated on the base capital plus all the interest generated.
+What number plus [numera] is equal to [numerb]?
+It is the result of the operation [numerb] - [numera].
+What number minus [numera] is equal to [numerb]?
+Which number multiplied with [numera] is equal to [numerb]?
+It is the result of the operation [numerb] / [numera].
+Which number is split by [numera] is equal [numerb]?
+It is the result of the operation [numera] * [numerb].
+Behavior
+Chess
+Palinthmic years
+Dark
+Only three of the four numbers in the plot will be used to add 120 points.
+Hebel
+Take the archimede set to be written: 'Gib me a point on which I can stand, and I will raise the world from the flag.
+A lever is in balance when placed objects in distance are inversely proportional to their weights.
+Multiple Number
+[optional prefix] [optional] and [optionc]
+[optional prefix] [optional] and [optionb]
+[optional prefix] [optional] and [optionc]
+[optional prefix] [optionc] and [optional]
+[optional] and [optionb]
+[optional prefix] s > p
+[optional prefix] p < r
+[optional prefix] p > r
+[optional prefix] q = s
+[optional prefix] for < q
+[optional prefix] x * y
+[optional prefix] x * y * 2
+[optional prefix] (x - y) * 2
+The heavy load weighted [] and the lighter [lighter].
+Family Relationships
+[optional prefix] its parent
+Its parent
+The chunk of the Mutter Broken is also? Do not accept that the crop has not been referred to. [optional]
+son of his parent
+The average of three numbers is [three]. The average of two of these numbers is [two]. What is the third number? [optional]
+It is the result of the operation: [three] * 3 - ([two] * 2).
+Birthday
+[optional prefix] No
+It was resigned on the 31st of December and says it on the 1st of January.
+Direction
+I go to the south in the evening at sunshine. Which side of me is the shadow? [optional indication]
+[optional prefix] Hinter me
+When I go south, the east is left of me and the shadow is east.
+Two men
+Under the set of Pythagoras, the solution 2 is the square root of ([dista] ^ 2 + [distb] ^ 2).
+Play your logical, hidden and copy skills, and your reminder
+Classic
+Memo Book
+Remember what is used in the various games.
+Tennis
+Radar
+It is the only game without ball.
+Huff / Papagei
+Pony / Horde
+Hand / Cats
+Dogs and Horses are types while Terrier and Ponys are races.
+The 'Taxidermist' word is used to describe a person that is...
+with toten Animals
+Estimates of a skin
+simpel
+Which of the following words is the word “damn ” next?
+Missing
+Hide
+Ignore
+beans
+misunderstand
+Which of the following sets defined best “Ostrakispo ”?
+person named by the Company
+Conspired
+Which of the following words is friction of people?
+Violine
+Oboe
+Sport
+Cursor
+It is the only one that has nothing to do with architecture.
+kilometers
+hectogram
+Gallone
+Wine gradient
+It is the only one that is not a fruits.
+Shift
+Crocodil
+It is the only one that is not a reptile and does not have a tail.
+Tiger
+wolf
+It is the only one that is not a butcher.
+Which of the following words is the word “hedonism ” next?
+Darken
+Abstinence
+Which of the following words is the next word “ascending ”?
+Which of the following words is next to the '&ymoron' word?
+Synonym
+Related
+Lines
+onion
+Lithuanian
+Olive
+Carbon
+Natural
+Zink
+Cardiology
+Hatology
+psychiatry
+Seamless
+Highly
+Debug is not enough to take care of something that would be expected.
+Regular
+Yellow
+Extra Extra
+Selects
+Other words have the meaning that something is rarely happening.
+Interest
+Which of the following words will be the word “bad ” next?
+Unpleasant
+Integer
+Unexpected
+Highlights
+Attached
+Other words have a notable meaning.
+Special
+Teller
+Body
+Amphore
+Walnut
+Cilanie
+Notification
+Wrap
+Which of the following words is the word ‘ Knumber ’ next?
+Jammer
+quiet
+sley
+Invert word
+Epigram
+It is the only one that has nothing to do with literary.
+Curve
+Hyacity use
+Laterne
+lamp
+Shift
+armor
+It is the only one not used to protect.
+Monlith
+Karotte
+Raise
+Angel
+piano
+Draw Synchronization
+It is the only music instrument that has no keys.
+Kuh
+Leopard
+Hand
+Triangle
+fifth
+Which of the following words will be the 'intrall' word next?
+Inharent
+Extra
+Previous
+Multiple
+Rectangle
+square
+RHombus
+Auto / Car | Airplane
+Airplane
+Buner
+Circle / Semi-circle | diameter
+Cent
+Angle
+Radius of a circle is half diameter.
+Speak / write | not like
+Difficultion
+Revelation
+Pattern
+Write / Stift |
+Gabel
+Menu
+Wine cellar
+A sticky is used to write and a coil to food.
+Island
+Coconut
+An haven is a vegetarian, in the Desert, and an Island is a beveled land, fully surrounded by water.
+Wrap
+Printer
+A turtle is in a panel and a letter is in a wrap.
+Wine / Wine Trash | Rum
+Corn
+Build / Plane | bird
+Insects
+Thanks / incompatibility | Despotism
+Ogarchie
+Untitled
+Money
+Decagon
+Enneagram
+deciimal
+Sunset
+Aimut
+Merge All
+sport all
+Junters / Writer | photographer
+Photography
+Bad / broken | Airball
+Spaces
+roles
+Draft / idea | Equity
+The connection between the two words is synonyms.
+ship
+Cage
+Tower / Chess | Solver
+Border
+Writer
+Peace
+enemy
+Corrupt
+ptives / optimistic | suspicious
+Unexpected
+Thermal / temperature | Compass
+Area
+The first word is the device and the second word it takes.
+Metall
+hunglow / food | tired
+/ open | Banane
+Lock / Shrink | Axt
+hack
+Scroll
+feet / two | Drag
+ten | 10
+Fish / Aquome | Oil
+Flow
+fish / U-boot | Vogel
+inertial / eyes | Shear
+Game / Play | Tool
+Edit | works
+Error / correct | damage
+Colormap
+hands / attack | teeth
+Bold
+eye space / eye | snap
+Lippe | Upper | Word
+Ice / slice | Cloning
+sticky
+whirl / water | Tornado
+Wind | Air
+Nest
+Wild | bissig
+Tance
+Scroll / Cell |
+Nase
+Ellbows / Knie | Handling
+Composer | Musical | Lyricist
+Track | Floating | Years | Track |
+ATM | currency | money
+Thermal / temperature | clock
+Time
+Letter / Word | Page
+second
+Tiger / Carnivoren | Kuh
+Configure / Star | Archive
+Show and exit --help\ t\ tThis help.
+Show --gamelist\ t\ t\ tList of available games.
+--customgame [play1, playN]\ tLegt a list of games for a own game.
+MENSA-Work
+With this program you should also have a copy of the GNU General Public License. If not, see < http: / / www.gnu.org / licenses / >.
+A game to have fun and trailing the brains
+Selected
+All Files
+A problem occurred while creating PDF file. The file was not created.
+The lower diagram shows the progress of the player ’ s results.
+Clear
+Start
+Choose nothing
+Save
+< b > General Settings < / b >
+Skip games using colors
+< b > Game cards < / b >
+logic
+Connected
+Resources
+Sent
+< b > Number of Play < / b >
+Pages per sheet:
+Display:
+Settings
+Skip games where colors are used (provided for color blinds user)
+Time in seconds to remember the task:
+Show a countdown message
+Minimum number of completed tasks to save the game session:
+Delete game history of the player
+Write the given reply to the input box and press the OK button after it.
+break
+Game
+New Game
+All games and exercises (logic, copy, reminder, and hidden)
+Create Custom Game …
+Pause / Continue game
+View
+Show
+Horizontally
+Reply:
+The following plugins will be installed:
+< big > < b > extension management < / b > < / big >
+The following plugins are currently installed:
+Disable
+Version
+Author:
+< b > Select the plugins to install and click on “Before ” < / b >
+Show only updates
+Extension Installation
+Name
+All registered sources
+Get online source
+Select the location of the source you want to register:
+Get local source
+Select …
+Path:
+Installed
+Update
+Source:
+Install From File …
+No selection
+No extensions were found
+Update
+Extension packages
+Install Extension Package
+All sources
+Manage Sources …
+Extension Source Manager
+Open Location
+Stop
+Play all games
+All
+Play your final folders and thoughts
+exercises that require your short time legacy
+Play your merge to ask for
+Stop or continue game
+Quit
+yellow
+white
+A
+C
+D
+E
+F
+bad results
+Compose with all problems, even the difficult one. exercise makes the master.
+Play on a daily basis and you will soon notice a progress.
+You can set the level of the game ’ s difficulty in the settings.
+Split items in categories is a common technique to remember things.
+Create acronyms using the first letter of any fact you want to remember.
+The fun at a puzzle is proportional at the time you are doing it.
+Try to disable any problem in simple partial problems.
+Take a look at the time of the verse when you answer hidden analogies.
+When you buy, you can try to calculate amounts without a calculator.
+Reset the items shown below in the default time
+Remaining time
+Details of how gbrainy results are calculated, can be found in the help.
+Next Games hints
+Time
+Connect to the group. Forget your composer.
+Arithmetic Operations
+Average
+The average of a list of numbers is their total split by the number of numbers in the list.
+Number of successive numbers
+Broken
+What is the result of the given operation? You can either provide a fraction or a number as a reply.
+Larger Size
+Possible split
+Otemperature
+Size ratio
+Number ratio
+A ratio gives the proportions between two numbers. A ratio of a: b means that one has parts for each “a ” parts“ b ”.
+Two numbers
+A cubic is a regular, fixed item with six converted square areas.
+How many triangles are needed in the right part of the last image when only triangular is used to keep balance?
+Each circle is equivalent to two triangles and each square is three triangles.
+Each circle is equivalent to two triangles.
+Circles in a square
+clocks
+The clocks do not follow timeout.
+How many circles can you count?
+The exercise is easy when you count the circles on a regular basis.
+Counts
+How many branch numbers come, where the first paragraph is smaller than the second (for example: 12 and 13)?
+Note that 99 has twice the “9 ” paragraph.
+How much percent of the image belongs to the shaded area?
+There are 2 of 6 total.
+There are 5 of a total of 6 options.
+Two common sec scrolls are thrown at the same time. How large is the chance to get two even numbers? Reply with a break (e.g. 1 / 2).
+How many areas will the last circle be split when all points are connected?
+Equation
+All circles up to one share a shared property.
+Images and Text
+Image Pattern
+Overlay the first and second image, remove the common lines and rotate the resulting image 45 degrees.
+Images
+Quarter
+How many four pages can you count in the image below?
+One of the numbers in the grid must be crept. Which?
+All entered numbers have an arithmetic property together.
+From the figure on top of the top, the figure is rotated 90 degrees against the clockwise.
+The fourth column is calculated by multiplicating the first two columns and the second one.
+Try to introduce a state where you arrive a low number of people.
+The less the arc is curved, the greater the circle is.
+How many line segments in total are found in the lower images. As a line segment, a line is between two points without a crosshairs.
+The exercise is easy when you count the lines in a regular way.
+Move Image
+Move the circle from the first row to the second and each one of the fourth row to the second, and from the fourth to the fifth row.
+Next Image
+Which number is to replace the question character?
+Between numbers there is an arithmetic connection.
+Numerical episode
+Next episode is logic. Which number should replace the question character?
+Each number of results is the result of the initial number of Addition from 1 to the previous number and multiplication of 3.
+Each number of results is the result of the subtraction of 2 of the previous number and multiplication of -2.
+The criterion for deciding whether the group equation belongs to is not arithmetic.
+People on a table
+5.
+19.
+4.
+12.
+Some people of the city of the city are painters
+All people of the city of the city are painters
+No people of the city in the city of the city are a paver
+No other options
+Some painters are not an artist
+All artists are lucky
+You have no card at all
+All people have a card
+Scroll when you are lucky
+You are only lucky when you are picking
+Honesty is sometimes the best principal
+Honesty is not always the best principal
+Some of the best values are inalid
+All other options
+Some bad images are not first attempts
+All bad images are first attempts
+No one would like to feel better than a walk
+Default logic
+Quarter
+It is the only character whose lines are all equal.
+The number in the middle of each row is half the sum of the other numbers in this row.
+The letters to the square follow a pattern. Which letter is to replace the queue at the last square?
+There are 9 single squares, 4 squares of 4 and 1 square composed of 9 individual.
+What is the minimum number of quadratic paper sheets of any size to create the image? Lines show between different sheets.
+The sheets overlap.
+How late it is
+clock
+The distance formula is “distance = speed x time ”.
+You can calculate the response by multiply the speed of the first step with the given time and division of the result by the difference in speed.
+Triangle
+How many triangles of any size are you in the bottom image?
+Triple with numbers
+Which number is to replace the query character below?
+All triangles share one property and are independent of the other.
+Color images
+Color Text
+Points count
+Remember faces
+In which cell is the other face like the bottom. Enter the cell number.
+Remember factual
+In what year Shiny Cars created the last time the production was created?
+Which percentage of all Shiny Cars produced by the world ’ s Shiny Cars is being sworn in Europe?
+How much percent of the Shiny Cars are running with 'Shiny Cars
+List of previously displayed images
+Go down
+Remember the details
+How many numbers were in the previous image. Reply with numbers.
+Collapse words
+llbows
+Brust
+Cable jau
+Lachs
+Cartoffle
+Ppepper
+Vinegar
+Pumbis
+Brake
+Lenmbod
+drum
+Speaker
+Tact
+Cloud
+Hase
+Mouse
+wolf
+[0] To how much degrees the miner of a clock in two hours and [nat] minute? msgstr [1] how much the miner of a clock is rotating in two hours and &#93minutes?
+Location screen reader
+??
+alrt
+anim
+arw
+cnv
+cptn
+United States
+icn
+rmn
+dlg
+dip
+html
+Output
+flr
+font
+gpn
+hdng
+lbl
+mnu
+mnuitm
+optnpn
+plugged
+tblend
+pwd
+popmnu
+Jump
+rdmnuitm
+scbr
+scpn
+sctn
+sldr
+spin
+statbr
+tbl
+cll
+tomnuitm
+term
+tglbtn
+tip
+vwprt
+Copy
+app
+edtbr
+emb
+Channel French degrees 2
+Francs French degrees 2
+Norwegian degrees 2
+Arabic degrees 1
+Witalic degree 2
+German base font
+German Shortcut
+Hungarian 8 point computer
+Hungarian degrees 1
+Belgium, Dutch degrees 1
+New line
+Sign Characters
+Number
+Dollars
+Apostroph
+Star
+Plus
+Comma
+Point
+smaller than
+Equal
+Ask Characters
+at
+Inverse slash
+Initial bracket to
+Input Sign Character
+Copyright
+Initial French quotation character
+Logical Nversion
+Macron
+degrees
+high two
+high three
+Active
+Descending Characters
+Center
+high 1
+Final French quotation character
+Three quarter
+Input Query
+A Gravis
+A Active
+A Circumflex
+A Christide
+A Outline
+A Circular Circular
+C Zediilla
+E Gravis
+E Circumflex
+E Outline
+I Gravis
+I Active
+I Circumflex
+ETH
+O Circumflex
+O Isade
+O Shift
+O Shuffle
+U Active
+U Circumflex
+U Outline
+THORN
+Escet
+a Gravis
+a Circumflex
+a Shift
+i acut
+i Circumflex
+eth
+n Christide
+o Active
+o Circumflex
+by
+smon
+y acut
+Y UMLAUT
+Right simple quotation character
+Cross
+Number arrow
+Promilk
+second
+Triple
+Number strings
+Trailer
+bold printed header
+X list character
+high 0
+high 4
+high 9
+High Minor character
+High level character
+High round bracket on
+high level bracket to
+high n
+low 1
+low 3
+low 7
+low 8
+Low Minor Characters
+low level bracket on
+low level bracket to
+Object Characters
+Preview the whole window in the overview
+Performs the simple bookmarks function
+Performs the detailed bookmarks function
+Preview status line
+Open the search dialog
+Search for the next occurrence of a string
+Search for the previous occurrence of a string
+Check and leave the overview
+Move the overview to the last position
+Move the overview to the start of the next row
+Read the current entry or the current word in the overview
+Book the current entry or the current word in the overview
+Book the current entry or the current word in the phonetic overview
+Move the overview to the next entry or word
+Move the summary to the word that is above the current one
+Preview the current item in the overview
+Move the summary to the word below the current one
+Move the overview to the previous character
+Preparing the current character in the overview
+Preview the Unicode value of the current character in the overview
+Copy the content of the overview to the clipboard
+Append the overview contents to the clipboard
+Read the attributes of the current text save
+Set the bracket display to the right
+Return to object the focus of the keyboard
+Run cursor routing
+Set the start of the marker
+Starts the learn mode. Press the Escape key to leave the learn mode
+Decrease the layer height
+Decrease the language volume
+Toggle language output
+Quit the screen reader
+Switch to the next setup profile
+Switch to the next case style
+Switch to the next level of keyboard search
+Save the current position as bookmarks
+Move to the previous bookmark location
+Move to the next bookmark location
+Add bookmarks
+Save bookmarks
+Toggle mouse localization
+Print current time
+Print the current date
+Forward next command to the current program
+Preparing a previous chat message and print to Brailla
+Right Line
+Lines Line
+Invalid links
+Curve position
+6 Point Brailla
+Curve Routing
+Preparing last notification
+Shows the list of notifications
+Move to the next word
+Move to the previous word
+Move to next line
+Move to previous line
+Move to start the file
+Move to the end of the file
+Move to the beginning of the line
+Move to end of line
+Move to the previous object
+Advanced dynamic areas height settings
+Disable the default height settings for dynamic areas
+Monitor dynamic areas
+Delete the assigned row headers
+Preparing the content of the input line
+Toggle navigation bar
+Move to the next quote
+Move to the next button
+Move to the next checkbox
+Show a list of crosshairs
+Move to the previous click item
+Move to the next click item
+Move to the previous combined selection field
+Move to the end of the container
+Move to the next input field
+Show a list of entries
+Move to the next header
+Move to the previous orientation point
+Show a list of orientation points
+Move to the previous larger object
+Move to the previous link
+Move to previous list
+Move to the next list
+Move to the previous list entry
+Move to the next list entry
+Move to the next dynamic range
+Move to the previous paragraph
+Move to the next paragraph
+Move to the previous selection button
+Move to the next selection button
+Move to previous separator
+Move to the next table
+Move to first cell in a table
+Move a cell to the left
+Move a cell to the right
+Toggle layout mode
+Switch between stop mode and focus mode
+Move to the next visited link
+Show a list of visited links
+Escape Colors
+Aquamarinblue
+Mandelwhite
+Blue
+Blue Violet
+Break
+Yellow brown
+Tile blue
+Light Green
+Choice
+Coral
+Dark Blue
+Dark Golden Boundary Color
+Dark khaki
+Dark magenta
+dark canvas color
+Dark Sheet
+Dark Violet
+Low frost
+Persenningblue
+Backstein
+Float white
+Foreground Green
+Face them
+Gold
+Golden Printer
+Green
+Indexed red
+dust colors
+Float Green
+Light Blue
+light coral red
+Light cyan
+light Golden Wrap
+Helles Busy
+Hal Sea Green
+light slidesblue
+Heavy Years
+DF
+Cilanie
+Middle Blue
+middle orchidee
+Middle Sea green
+Middle Spring Green
+Middle Violet
+midnight blue
+Altrosa
+Mokassin
+Qajowhite
+Marbles blue
+Orange
+bubble crashes
+Peru
+Path
+Violet
+rosi-bren
+saturated blue
+statehbron
+lax colors
+Pattern
+Silver
+snow white
+Distel
+Tomate
+Turks
+Veil
+Blur
+White
+Noise Colors
+Yellow
+Point 7
+Points 7 and 8
+Jump to
+OK
+Sound
+No
+Letter
+Preview messages
+Preview Chat Name
+Double click
+Standard synthesizer
+Replace Expression
+Search Options
+Preparing matching during search
+Unassociated
+Changes
+Desktop
+Preview
+Save profile as a conflict
+Load User Profile
+Delete User Profile
+All
+Some
+Most
+Button
+Label
+Checkbox
+Combine Selection Field
+Description
+Label
+Layer
+Link
+List
+List entry
+Address
+quotation character
+buttons
+Entries
+Formula Field
+Images
+Not visited links
+Visit links
+Page navigation
+Standard
+System
+Speech Dispatcher
+Spell check
+Display debug contex
+Skip empty cells
+Preparing cell
+Preview Cell Coordinates
+Attributes name
+Use structured navigation
+Short
+Shift
+Ctrl
+Shift left
+Left Alt
+Control on left
+Alt right
+Metaste right
+Number block
+Setup bar
+Setup bar
+Image race
+Image on
+Image From
+Tab left
+Enter
+high
+rbelow
+Right tag
+Alt Gr
+Help
+Mode Switch Key
+Paste
+Pos1
+End
+minus
+Paste
+AltL
+Ctrl
+Shift
+Boundary arrow down
+Arrow to Northeast
+Arrow to Southeast
+Dicker arrow up
+Dicker arrow right
+Cursor arrow to left and right
+Dicker arrow to Southeast
+Minus
+Circumflex
+Hatschek
+Point
+Double vertical line
+for all
+Completion
+partial differentiation
+There is one
+Empty amount
+Nabla
+Item From
+no element
+small element
+Minus or Plus
+plus with dot
+Once
+square root
+Cubic root
+infinity
+Angle
+measured angle
+Room Angle
+split
+does not split
+parallel
+logical or
+Outline plot
+Surface
+Volume Angle
+As a result
+because
+Exzess
+geometric Proportion
+Inverse Christide
+asymptotic equal to
+not asymptotic equal to
+About equal to
+fast but not really equal to
+not nearly equal to
+almost equal or equal to
+Triple ticks
+Threshold
+geometric same to
+About equal or image from
+Equal character with the following double point
+Circle in Equal Character
+Circle over Equity Characters
+matches
+Unique
+measured by
+identical to
+strictly equivalent to
+smaller or equal to
+smaller or equal to
+greater or equal to
+greater than, but not equal
+much smaller than
+much greater than
+not equivalent
+greater or equal to
+Either greater or equal
+less or larger than
+larger or less than
+no less than or greater than
+not greater or less than
+Previous
+Forward or equal to
+after or equal to
+Forward or equivalent
+not forward
+subset of
+is upper set of
+no Upper set of
+subset of or equal to
+Upper set or equal to
+Either part of or equal to
+Inhibit upper set
+fourth image
+fourth original
+fourth image or equal to
+fourth original or equal to
+to top opened quarter
+Created Places
+Created divisions dot
+Created Sternoperator
+Created Viewer
+Stacked point operator
+vertical of
+Model
+Force
+Triple vertical panel with rectangular rotation
+Double vertical panel with double right rotation
+not true
+not force
+nested double vertical panel with double right rotation
+Forward in Relation
+Follow in Relation
+normal subgroup
+Image
+Multiple Address
+hermitesh conjugated matrix
+Enable
+Extra or
+non-and
+Notifier operator
+Point Operator
+Length Normal factor half direct product
+Left-direct product
+Inverse Christide equal
+white logical or
+Double subset
+Double average
+real average
+Equal and parallel
+less than at point
+greater than at point
+greater than, equal or less than
+smaller or equal to
+Equal or Forward
+Either forward or equal
+Either after or equal to
+no fourth image or equal to
+small but not equal to
+below, but not equivalent
+not included as normal subgroup
+no normal subgroup or equal to
+Vertical Ellipse
+Canned horizontal ellipse
+Diagonal Ellipse, bottom left to top right
+element with long horizontal dash
+Vertical dash element at the end of the horizontal bar
+small element with overhead
+2 horizontal stroke element
+Inverse element character character with long horizontal dash
+Inverse element character character with vertical dash at the end of the horizontal bar
+Inverse element character character with overhead
+small inverse element character character with overhead
+z notation column
+left upright class
+Right ascending class
+Left Undo Clone
+Right Sheet Scale
+White circle
+Black circle
+empty
+Insert bookmarks
+Cannot save bookmarks
+Sound icon
+no
+navigation control is performed by the screen reader.
+Force the option to use
+OPTION
+Optional arguments
+The following are not allowed:
+Print known programs
+Load Profile
+NAME
+Replace an already running instance of the screen reader
+Show and exit this message
+Save debug at debug-JJJJ-MM-TT-HH: MM: SS.out
+Save debug information in the given file
+FILE
+Configure User Settings (Text Version)
+Configure User Settings (Graphic Version)
+Report program error to orca-list @ gnome.org.
+Selection was cut to clipboard.
+Clip
+Copying selection to clipboard.
+copied
+inserted
+Prompt when our contacts are entered.
+Don't preview chat name.
+Preparing the chat name.
+Don't allocate chat events.
+Start deletion
+Insert Start
+Insert End
+Start highlighting
+Highlight End
+Suggestion
+End of container.
+Not in a container.
+all elements selected
+the whole document is selected
+Document selected to cursor position
+Document to cursor position not selected
+Deleted alpha header.
+Deleted alpha header.
+empty
+No files found.
+Content was mounted to clipboard.
+Content was copied to clipboard.
+The overview is not used.
+The overview will be omitted.
+Open List Field
+Open Tree
+Image Map Link
+Enter new keyboard shortcut
+Key
+Echo set to key.
+Echo disabled.
+Key and Word
+Echo set to key and word.
+set
+Echo set to set.
+Word
+Echo set to word.
+Echo set to word and set.
+a current icon
+a long divisions character
+a vertical stroke
+a diagram stroke up
+a northeast arrow
+a line on the left
+by
+Cubic root
+root
+root start
+low
+Threshold
+High-upset
+Writing about
+nested table end
+Activated
+Learn mode. Press the Escape key to leave.
+Extra content will be omitted.
+Expending information.
+Moving main content will be left.
+Removing navigation.
+Expand range.
+Unable to leave table.
+Expand section.
+Expending end font.
+Expect to leave.
+Expect to leave.
+Subscribe to end node.
+Expect Epigplot.
+Examples will be omitted.
+exit index.
+Expand page list.
+Sending part will be left.
+Expending prolog.
+Unable to leave suggestion.
+Mark line up to cursor position
+Don't mark line to the cursor position
+Expand learn mode.
+Mark line from start to previous cursor position
+Mark line from the previous cursor position to the end
+Link
+The same page
+The same website
+Use a high arrow to navigate to the list. Press Escape to leave.
+Disable all dynamic areas
+Setting dynamic range to the obscure
+Dynamic range set to politely
+Unexpected dynamic range
+Dynamics areas monitoring is turned off
+No dynamic messages saved
+Dynamics Areas Support is disabled
+from
+on
+miswritten
+Permanent queue mode.
+Layout Mode.
+Object Mode.
+No Space Over object found.
+Mouse localization is enabled.
+No focus
+No more buttons.
+No more check fields.
+No more combined selection fields.
+No more input fields.
+No more images.
+No more links.
+No more paragraphs.
+No more selection buttons.
+No more tables.
+No more unvisited links.
+Not in a link.
+Lower
+Burning message listing mode.
+Top
+Press help.\ n
+No notifications
+digits
+on
+Loading. Please wait.
+Load completed.
+Mark page from cursor position
+Mark page to cursor position
+Mark Section above cursor position
+Unmarked Section from cursor position
+An instance of the location property dialog is already open.\ nPlease close this dialog before opening a new one.
+All
+Attach the special character to all.
+No specification of the special character.
+Attach the special character to some.
+Search completed.
+Restore selection.
+faster.
+slower.
+higher.
+lower.
+loud.
+Percentage: Scatching
+Screen reader.
+Language output is not available.
+Not found
+Turn on navigation bar.
+Preparing cell
+Preview line
+Not Unified
+Columns regrouped
+Top border of the column.
+Root deleted.
+Delete last row.
+selected
+not selected
+% H hours,% M minutes and% S seconds
+Undo
+0 Objects
+Image
+Thank you
+Attachment
+Final font
+Final
+Track Page
+Thank you
+Thank you
+Epiggraph
+Errata
+Example
+Default word
+Glossary
+Introduction
+Part
+Asks and Replies
+Content Directory
+Vertical scrollbar
+Switch
+Icon Bar
+navigation
+Area
+Menu Button
+Descending
+Vertical
+selected
+not selected
+on
+partially selected
+not selected
+selected
+not selected
+not selected
+Visit
+not visited
+gracked
+Only readable
+Multiple Selection
+invalid
+bad spell spelling
+spell spelling
+bad gramme
+Search
+Close
+Search
+Search for:
+Start at:
+Search backward
+Search direction:
+Case case sensitive
+Options:
+System
+Window
+Screen Read Preferences
+Apply
+Start profile:
+Load
+Show tooltip
+Preview item on mouse
+Mouse
+Time format:
+Brailla updates
+Frequency (seconds):
+Gilt for:
+Enable fast redo and default spades in\ Preview All
+Cancel quotations in All Preread
+Cancel list in All Preread
+Cancel tables in All Preread
+Cancel shapes in All Preread
+Read All
+General
+Volume:
+Speed:
+person:
+Language:
+Language system:
+Voting Type:
+Large smooth style:
+Language output type
+Preparing merged words separately
+Enable language
+Execution
+Cancel quotations during navigation
+Cancel tables during navigation
+Cancel orientation points during navigation
+Preview Description
+Preview whole row in table sheets
+Shortcut table:
+Display Settings
+Enable message popup
+Message is detailed
+Message Feather Send Settings
+Brailla
+Enable Keyboard Right
+Enable alpha keys
+Enable interpoint keys
+Enable space bar
+Enable navigation keys
+Echo
+Keyboard Shortcuts
+Language dictionary
+Debate
+Read All
+Nothing to preview
+Reset
+Text Attributes
+Move to bottom
+Adjust selected attribute
+Background Color
+Background for the whole height
+Displayed background
+Text Expression
+editable
+Displayed foreground
+Error
+invisible
+Orientation
+Language
+Pixels above rows
+Pixels within wrapping
+Right border
+Delete
+Style
+Text Versing
+Text shade
+Bottom
+Large letter style
+Wrap mode
+Write Mode
+wrong
+none
+engraved
+uppercase
+Line above
+blinking
+black
+Signals
+Word
+Word character
+Left
+No orientation
+block offset
+very strong Condensed
+strong Condensed
+normal
+half extended
+Small uppercase
+beveled
+Italic
+Default
+Text Body
+Heading
+Base Line
+Updated
+top
+center
+bottom
+Text bottom
+left left right above
+Right left above
+top left left
+Left right
+Right left
+top bottom
+Massiv
+To control items, either use the arrow keys or enter a search term.
+Turn the switch button together with Left key to shopping.
+Embedded the space bar to activate.
+Select high and down arrow keys to select the value, or enter the numeric value.
+Use link and right arrow keys to navigate. To move through the menu points, use up and down keys.

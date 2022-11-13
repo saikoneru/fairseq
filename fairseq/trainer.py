@@ -564,9 +564,29 @@ class Trainer(object):
                         layer._prune_fc_layer(remove_index=remove_index)
                     logger.info(self.model)
 
+                if (
+                    safe_hasattr(self.model, "args")
+                    and safe_hasattr(self.model.args, "extend_emb")
+                    and self.model.args.extend_emb
+                ):
+                    logger.info(
+                            "Extending Embedding layer of the model"
+                    )
+                    
+                    weights_to_change = ["decoder.output_projection.weight", "encoder.embed_tokens.weight", "decoder.embed_tokens.weight"]
+                    for weight in weights_to_change:
+                        new_dict_size = self.model.state_dict()[weight].size()[0]
+                        old_dict_size = state["model"][weight].size()[0]
+                        embed_dim = state["model"][weight].size()[1]
+                        
+                        assert new_dict_size > old_dict_size
+                        new_params = torch.rand(new_dict_size - old_dict_size, embed_dim)
+                        with torch.no_grad():
+                            state["model"][weight] = torch.cat((state["model"][weight],new_params),0)
+                
                 self.model.load_state_dict(
-                    state["model"], strict=True, model_cfg=self.cfg.model
-                )
+                    state["model"], strict=True, model_cfg=self.cfg.model)
+                
                 # save memory for later steps
                 del state["model"]
                 if utils.has_parameters(self.get_criterion()):

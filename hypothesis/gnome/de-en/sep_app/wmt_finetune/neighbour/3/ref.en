@@ -1,0 +1,4283 @@
+ Photo mode
+ Video
+ Photo burst mode
+ Navigate to the previous page of effects
+ Effects
+ Navigate to the next page of effects
+ Preferences
+ Help
+ Photo resolution
+ Brightness
+ Saturation
+ Image
+ Shutter
+ Delay between photos (seconds)
+ Fullscreen
+ About Cheese
+ Save As…
+ Move to Trash
+ Cheese
+ Take photos and videos with your webcam, with fun graphical effects
+ Webcam Booth
+ photo;video;webcam;camera;selfie;
+ The duration of the countdown before taking a photo, in seconds
+ Fire flash before taking a photo
+ Set to true to fire a flash before taking a photo
+ Camera device string indicator
+ Last selected effect
+ Photo width
+ Photo height
+ The height of the image captured from the camera, in pixels
+ The width of the video captured from the camera, in pixels
+ Video height
+ Adjusts the contrast of the image coming from the camera
+ Adjusts the hue (color tint) of the image coming from the camera
+ Video path
+ Time between photos in burst mode
+ Overview
+ Move to Trash
+ Shutter sound
+ Device capabilities not supported
+ Start in wide mode
+ Device to use as a camera
+ Start in fullscreen mode
+ If you delete an item, it will be permanently lostmsgidplural If you delete the items, they will be permanently lost
+ Skip all
+ Save
+ Take multiple photos
+ No effects found
+ There was an error playing video from the webcam
+ Take multiple photos using a webcam
+ Record a Video
+ Take Multiple Photos
+ X coordinate
+ Y coordinate
+ Y coordinate of the actor
+ Width
+ Size
+ The size of the actor
+ Fixed X
+ Fixed Y
+ Fixed position set
+ Forced minimum width request for the actor
+ Natural Width
+ Forced natural width request for the actor
+ Minimum width set
+ Whether to use the min-width property
+ Whether to use the min-height property
+ Natural width set
+ Whether to use the natural-height property
+ Allocation
+ The actor’s allocation
+ Request Mode
+ The actor’s request mode
+ The actor’s position on the Z axis
+ Flags controlling when to flatten the actor into a single image
+ Visible
+ Whether the actor will be painted
+ Realized
+ The visible region of the actor
+ Name
+ Name of the actor
+ Pivot Point
+ Pivot Point Z
+ Z component of the pivot point
+ Scale factor on the X axis
+ Scale Y
+ Scale Z
+ Scale Gravity
+ The center of scaling
+ Rotation Angle X
+ The rotation angle on the Y axis
+ Rotation Angle Z
+ The rotation angle on the Z axis
+ The rotation center on the X axis
+ Rotation Center Y
+ The rotation center on the Z axis
+ Center point for rotation around the Z axis
+ Anchor X
+ The anchor point as a ClutterGravity
+ Transform
+ Transformation matrix
+ Transform Set
+ Whether the transform property is set
+ Children transformation matrix
+ Child Transform Set
+ Show on set parent
+ Whether the actor is shown when parented
+ Has Pointer
+ Actions
+ Adds an action to the actor
+ Effect
+ Add an effect to be applied on the actor
+ Y Expand
+ The alignment of the actor on the X axis within its allocation
+ The alignment of the actor on the Y axis within its allocation
+ Extra space at the top
+ Margin Left
+ Margin Right
+ Background Color Set
+ Background color
+ The actor’s last child
+ Content
+ Delegate object for painting the actor’s content
+ Alignment of the actor’s content
+ The bounding box of the actor’s content
+ The filter used when reducing the size of the content
+ Magnification Filter
+ The filter used when increasing the size of the content
+ Actor
+ The actor attached to the meta
+ Whether the meta is enabled
+ Source
+ Align Axis
+ The axis to align the position to
+ The alignment factor, between 0.0 and 1.0
+ Unable to initialize the Clutter backend: no available drivers found.
+ The source of the binding
+ The coordinate to bind
+ Offset
+ The unique name of the binding pool
+ Horizontal Alignment
+ Horizontal alignment for the actor inside the layout manager
+ Vertical alignment for the actor inside the layout manager
+ Default vertical alignment for the actors inside the layout manager
+ Horizontal Fill
+ Vertical Fill
+ Whether the child should receive priority when the container is allocating spare space on the vertical axis
+ Horizontal alignment of the actor within the cell
+ Vertical alignment of the actor within the cell
+ Vertical
+ The orientation of the layout
+ Pack Start
+ Whether to pack items at the start of the box
+ Spacing
+ Whether layout changes should be animated
+ Easing Mode
+ The brightness change to apply
+ Scale Factor Set
+ Scale Factor
+ The scaling factor for the surface
+ The actor wrapped by this data
+ Pressed
+ Held
+ Whether the clickable has a grab
+ Long Press Duration
+ The minimum duration of a long press to recognize the gesture
+ Long Press Threshold
+ The maximum threshold before a long press is cancelled
+ Vertical Tiles
+ Back Material
+ The desaturation factor
+ Backend
+ Vertical Drag Threshold
+ Drag Axis
+ Drag Area Set
+ Whether the drag area is set
+ Whether each item should receive the same allocation
+ Column Spacing
+ Row Spacing
+ Minimum Column Width
+ Maximum Column Width
+ Maximum width for each column
+ Minimum height for each row
+ Maximum Row Height
+ Number of touch points
+ Threshold Trigger Edge
+ Threshold Trigger Vertical Distance
+ The vertical trigger distance used by the action
+ Top attachment
+ The row number to attach the top side of a child widget to
+ Column spacing
+ If TRUE, the rows are all the same height
+ Column Homogeneous
+ If TRUE, the columns are all the same width
+ Id
+ Device Type
+ The type of the device
+ Device Mode
+ The mode of the device
+ Whether the device is enabled
+ Number of Axes
+ The number of axes on the device
+ Vendor ID
+ Product ID
+ Initial Value
+ Initial value of the interval
+ Final Value
+ Final value of the interval
+ Manager
+ The manager that created this data
+ default:LTR
+ Default frame rate
+ Make all warnings fatal
+ Direction for the text
+ Use “fuzzy” picking
+ Show Clutter Options
+ Whether interpolated events emission is enabled.
+ Deceleration
+ The offset along the path, between -1.0 and 2.0
+ Filename Set
+ Whether the :filename property is set
+ The path of the currently parsed file
+ Translation Domain
+ The translation domain used to localize string
+ Scroll Mode
+ The time between clicks necessary to detect a multiple click
+ Double Click Distance
+ Drag Threshold
+ Font Name
+ Whether to use hinting (1 to enable, 0 to disable and -1 to use the default)
+ Font Hint Style
+ The style of hinting (hintnone, hintslight, hintmedium, hintfull)
+ Font Subpixel Order
+ The minimum duration for a long press gesture to be recognized
+ The scaling factor to be applied to windows
+ Fontconfig configuration timestamp
+ Timestamp of the current fontconfig configuration
+ Password Hint Time
+ How long to show the last input character in hidden entries
+ Shader Type
+ The type of shader used
+ The source of the constraint
+ From Edge
+ To Edge
+ The offset in pixels to apply to the constraint
+ Whether the main stage is fullscreen
+ Whether the mouse pointer is visible on the main stage
+ Color
+ Perspective projection parameters
+ Title
+ Use Fog
+ Whether to enable depth cueing
+ Use Alpha
+ Whether the stage should clear its contents
+ Accept Focus
+ Whether the stage should accept focus on show
+ Text
+ The contents of the buffer
+ Text length
+ Maximum length
+ Maximum number of characters for this entry. Zero if no maximum
+ Buffer
+ The buffer for the text
+ The font to be used by the text
+ Color of the font used by the text
+ Editable
+ Whether the text is editable
+ Selectable
+ Activatable
+ Whether pressing return causes the activate signal to be emitted
+ Cursor Color
+ Whether the cursor color has been set
+ Cursor Position
+ The cursor position
+ Selection-bound
+ Selection Color
+ Selection Color Set
+ Whether the selection color has been set
+ Use markup
+ Whether or not the text includes Pango markup
+ Line wrap
+ If set, wrap the lines if the text becomes too wide
+ Control how line-wrapping is done
+ Ellipsize
+ The preferred place to ellipsize the string
+ Line Alignment
+ Whether the text should be justified
+ Password Character
+ Max Length
+ Maximum length of the text inside the actor
+ Single Line Mode
+ Whether the text should be a single line
+ Selected Text Color Set
+ Whether the selected text color has been set
+ Delay before start
+ Duration
+ Duration of the timeline in milliseconds
+ Direction
+ Whether the direction should be reversed when reaching the end
+ Progress Mode
+ How the timeline should compute the progress
+ Interval
+ Detach the transition when completed
+ Constraints the zoom to an axis
+ Timeline
+ Alpha value as computed by the alpha
+ Progress mode
+ Object
+ Object to which the animation applies
+ Duration of the animation, in milliseconds
+ Whether the animation should loop
+ The timeline used by the animation
+ Alpha
+ The alpha used by the animation
+ The duration of the animation
+ The timeline of the animation
+ Alpha Object to drive the behaviour
+ Start Depth
+ Final depth to apply
+ Start Angle
+ Final angle
+ Angle x tilt
+ Angle y tilt
+ Angle z tilt
+ Tilt of the ellipse around z axis
+ Center of ellipse
+ Direction of rotation
+ Opacity Start
+ Final opacity level
+ The ClutterPath object representing the path to animate along
+ Axis
+ Center Z
+ Initial scale on the X axis
+ Final scale on the X axis
+ Y Start Scale
+ The background color of the box
+ The width of the Cairo surface
+ Surface Height
+ The height of the Cairo surface
+ URI
+ Whether the actor is playing
+ Current progress of the playback
+ Subtitle Font Name
+ Audio Volume
+ Whether the current stream is seekable
+ The duration of the stream, in seconds
+ The color of the rectangle
+ Border Color
+ Border Width
+ Has Border
+ Fragment Source
+ Source of fragment shader
+ Compiled
+ Whether the shader is compiled and linked
+ Whether the shader is enabled
+ Vertex shader
+ Fragment shader
+ Default transition duration
+ Column Number
+ The row the widget resides in
+ The number of columns the widget should span
+ Row Span
+ Horizontal Expand
+ Allocate extra space for the child in horizontal axis
+ Allocate extra space for the child in vertical axis
+ Spacing between columns
+ Spacing between rows
+ Horizontal repeat
+ Repeat the contents rather than scaling them horizontally
+ Vertical repeat
+ Repeat the contents rather than scaling them vertically
+ The Cogl pixel format to use
+ Cogl Texture
+ The underlying Cogl texture handle used to draw this actor
+ Cogl Material
+ Load data asynchronously
+ Shape actor with alpha channel when picking
+ Failed to load the image data
+ The underlying wayland surface
+ Surface height
+ X display to use
+ Make X calls synchronous
+ Disable XInput support
+ Pixmap width
+ The width of the pixmap bound to this texture
+ Pixmap height
+ The height of the pixmap bound to this texture
+ Pixmap Depth
+ The X11 Window to be bound
+ Window Redirect Automatic
+ Window Mapped
+ If window is mapped
+ Destroyed
+ Window X
+ X position of window on screen according to X11
+ Window Y
+ Insert special characters into documents
+ font;unicode;
+ accessories-character-map
+ GPL-3.0+
+ UserDocs
+ Korean Education Hanja
+ Korean Hanja for Use in Personal Names
+ Font variant of
+ Initial presentation form of
+ Medial presentation form of
+ Isolated presentation form of
+ Superscript form of
+ Subscript form of
+ Narrow compatibility character of
+ CJK squared font variant of
+ Vulgar fraction form of
+ Unspecified compatibility character of
+ Compatibility decomposition:
+ Canonical decomposition:
+ In Unicode since:
+ Unicode category:
+ UTF-16:
+ XML decimal entity:
+ Annotations and Cross References
+ Alias names:
+ See also:
+ Cantonese Pronunciation:
+ Japanese On Pronunciation:
+ Japanese Kun Pronunciation:
+ Tang Pronunciation:
+ Character Table
+ Character Details
+ Character found.
+ By Script
+ By Unicode Block
+ Show only glyphs from this font
+ Find
+ Help
+ Close Window
+ File
+ View
+ Find Next
+ Find Previous
+ Go
+ Previous Character
+ Unknown
+ Next
+ Search:
+ Match whole word
+ Search in character details
+ <Non Private Use High Surrogate>
+ <Plane 16 Private Use>
+ Other, Format
+ Other, Private Use
+ Letter, Other
+ Letter, Titlecase
+ Letter, Uppercase
+ Mark, Enclosing
+ Mark, Non-Spacing
+ Number, Decimal Digit
+ Punctuation, Connector
+ Punctuation, Dash
+ Punctuation, Initial Quote
+ Symbol, Currency
+ Separator, Paragraph
+ Separator, Space
+ Also you should have received a copy of the Unicode Copyright along with Gucharmap; you can always find it at Unicode's website: https://www.unicode.org/copyright.html
+ Based on the Unicode Character Database 14.0.0
+ Previous Script
+ Next Block
+ Previous Block
+ Text to copy:
+ Page Setup
+ Print
+ [STRING…]
+ Character map grouping method
+ This is how the characters in the character map are grouped. The characters can either be grouped by 'script' or 'block'.
+ Snap number of columns to a power of two
+ Last selected character
+ 0x41
+ Latin-1 Supplement
+ Latin Extended-A
+ Latin Extended-B
+ IPA Extensions
+ Cyrillic
+ Thaana
+ Mandaic
+ Arabic Extended-A
+ Gurmukhi
+ Malayalam
+ Lao
+ Georgian
+ Cherokee
+ Ogham
+ Khmer
+ Tai Le
+ Khmer Symbols
+ Tai Tham
+ Balinese
+ Sundanese
+ Georgian Extended
+ Vedic Extensions
+ Superscripts and Subscripts
+ Currency Symbols
+ Letterlike Symbols
+ Arrows
+ Mathematical Operators
+ Miscellaneous Technical
+ Optical Character Recognition
+ Enclosed Alphanumerics
+ Box Drawing
+ Geometric Shapes
+ Miscellaneous Symbols
+ Dingbats
+ Supplemental Arrows-A
+ Miscellaneous Mathematical Symbols-B
+ Latin Extended-C
+ Tifinagh
+ Ethiopic Extended
+ Cyrillic Extended-A
+ CJK Radicals Supplement
+ Ideographic Description Characters
+ CJK Symbols and Punctuation
+ Hangul Compatibility Jamo
+ Kanbun
+ Bopomofo Extended
+ CJK Strokes
+ Yi Syllables
+ Lisu
+ Modifier Tone Letters
+ Latin Extended-D
+ Saurashtra
+ Devanagari Extended
+ Rejang
+ Hangul Jamo Extended-A
+ Myanmar Extended-B
+ Cham
+ Cherokee Supplement
+ Meetei Mayek
+ Hangul Jamo Extended-B
+ High Surrogates
+ Low Surrogates
+ Private Use Area
+ Arabic Presentation Forms-A
+ Vertical Forms
+ Combining Half Marks
+ Halfwidth and Fullwidth Forms
+ Specials
+ Ancient Symbols
+ Carian
+ Coptic Epact Numbers
+ Gothic
+ Ugaritic
+ Elbasan
+ Linear A
+ Cypriot Syllabary
+ Imperial Aramaic
+ Nabataean
+ Hatran
+ Phoenician
+ Kharoshthi
+ Manichaean
+ Inscriptional Pahlavi
+ Psalter Pahlavi
+ Old Turkic
+ Old Hungarian
+ Rumi Numeral Symbols
+ Old Sogdian
+ Old Uyghur
+ Chorasmian
+ Elymaic
+ Kaithi
+ Sora Sompeng
+ Sinhala Archaic Numbers
+ Khojki
+ Multani
+ Siddham
+ Modi
+ Mongolian Supplement
+ Takri
+ Ahom
+ Warang Citi
+ Nandinagari
+ Zanabazar Square
+ Soyombo
+ Pau Cin Hau
+ Bhaiksuki
+ Marchen
+ Masaram Gondi
+ Makasar
+ Cuneiform
+ Early Dynastic Cuneiform
+ Cypro-Minoan
+ Egyptian Hieroglyph Format Controls
+ Anatolian Hieroglyphs
+ Pahawh Hmong
+ Medefaidrin
+ Khitan Small Script
+ Kana Extended-B
+ Kana Supplement
+ Small Kana Extension
+ Nushu
+ Duployan
+ Shorthand Format Controls
+ Byzantine Musical Symbols
+ Mayan Numerals
+ Tai Xuan Jing Symbols
+ Counting Rod Numerals
+ Mathematical Alphanumeric Symbols
+ Wancho
+ Adlam
+ Playing Cards
+ Enclosed Alphanumeric Supplement
+ Emoticons
+ Transport and Map Symbols
+ Supplemental Symbols and Pictographs
+ CJK Unified Ideographs Extension B
+ CJK Unified Ideographs Extension C
+ CJK Unified Ideographs Extension E
+ CJK Unified Ideographs Extension G
+ Tags
+ Supplementary Private Use Area-A
+ Supplementary Private Use Area-B
+ Braille
+ Canadian Aboriginal
+ Common
+ Cypriot
+ Greek
+ Hangul
+ Linear B
+ Phags Pa
+ Yi
+ Web is often referred to by its code name, Epiphany.
+ The GNOME Project
+ Browse the web
+ web;browser;internet;
+ New Incognito Window
+ Browse with caret
+ Home page
+ Name of the search engine selected by default.
+ Enable Google Search Suggestions
+ Whether to show Google Search Suggestion in url entry popdown.
+ Force new windows to be opened in tabs
+ When this option is set to true, tabs will not start loading until the user switches to them, upon session restore.
+ List of adblock filters
+ List of URLs with content filtering rules in JSON format to be used by the ad blocker.
+ Whether to ask for setting browser as default
+ When this option is set to true, browser will ask for being default if it is not already set.
+ Start in incognito mode
+ Active clear data items.
+ Expand tabs size to fill the available space on the tabs bar.
+ If enabled the tabs will expand to use the entire available space in the tabs bar. This setting is ignored in Pantheon desktop.
+ Keep window open when closing last tab
+ Reader mode article font style.
+ Reader mode color scheme.
+ Minimum font size
+ Use GNOME fonts
+ Custom sans-serif font
+ Custom serif font
+ A value to be used to override serif desktop font when use-gnome-fonts is set.
+ Custom monospace font
+ A value to be used to override monospace desktop font when use-gnome-fonts is set.
+ Use a custom JS
+ Spell check any text typed in editable areas.
+ Default encoding. Accepted values are the ones WebKitGTK can understand.
+ Preferred languages. Array of locale codes or “system” to use current locale.
+ User agent
+ Enable adblock
+ Whether to block the embedded advertisements that web pages might want to show.
+ Enable site-specific quirks
+ Enable quirks to make specific websites work better. You might want to disable this setting if debugging a specific issue.
+ Enable safe browsing
+ Whether to enable safe browsing. Safe browsing operates via Google Safe Browsing API v4.
+ Whether to enable Intelligent Tracking Prevention.
+ Enable autosearch
+ Whether to enable mouse gestures. Mouse gestures are based on Opera’s behaviour and are activated using the middle mouse button + gesture.
+ Last upload directory
+ Keep track of last upload directory
+ Whether to automatically switch to a new open tab.
+ Whether to enable WebExtensions. WebExtensions is a cross-browser system for extensions.
+ Indicates which WebExtensions are set to active.
+ Web application additional URLs
+ The list of URLs that should be opened by the web application
+ The position to use for a new window that is not restored from a previous session.
+ The size to use for a new window that is not restored from a previous session.
+ Is maximized
+ Firefox Sync Token Server URL
+ URL to a custom Firefox Sync token server.
+ The email linked to the Firefox Account used to sync data with Mozilla’s servers.
+ Last sync timestamp
+ Sync device ID
+ The sync device ID of the current device.
+ Sync device name
+ Sync data with Firefox
+ TRUE if Ephy collections should be synced with Firefox collections, FALSE otherwise.
+ Enable bookmarks sync
+ The timestamp at which last bookmarks sync was made.
+ TRUE if bookmarks collection needs to be synced for the first time, FALSE otherwise.
+ Enable passwords sync
+ TRUE if passwords collection should be synced, FALSE otherwise.
+ Enable history sync
+ TRUE if history collection needs to be synced for the first time, FALSE otherwise.
+ TRUE if open tabs collection should be synced, FALSE otherwise.
+ Open tabs sync timestamp
+ The timestamp at which last open tabs sync was made.
+ Decision to apply when notification permission is requested for this host
+ Decision to apply when save password permission is requested for this host
+ Decision to apply when webcam permission is requested for this host
+ Memory usage
+ Epiphany Technology Preview
+ A simple, clean, beautiful view of the web
+ Applications
+ Incognito mode hides your activity only from people using this computer.
+ Download requested
+ Where do you want to save the file?
+ ESC
+ F11
+ Web is being controlled by automation.
+ New Tab
+ Arabic (ISO-8859-6)
+ Arabic (Windows-1256)
+ Baltic (Windows-1257)
+ Armenian (ARMSCII-8)
+ Central European (IBM-852)
+ Central European (MacCE)
+ Central European (Windows-1250)
+ Chinese Simplified (GB18030)
+ Chinese Simplified (ISO-2022-CN)
+ Chinese Traditional (Big5)
+ Chinese Traditional (Big5-HKSCS)
+ Cyrillic (ISO-IR-111)
+ Cyrillic (MacCyrillic)
+ Cyrillic/Russian (IBM-866)
+ Greek (MacGreek)
+ Gurmukhi (MacGurmukhi)
+ Hebrew (ISO-8859-8-I)
+ Japanese (EUC-JP)
+ Japanese (Shift-JIS)
+ Korean (ISO-2022-KR)
+ Korean (UHC)
+ Celtic (ISO-8859-14)
+ Icelandic (MacIcelandic)
+ Nordic (ISO-8859-10)
+ Persian (MacFarsi)
+ Croatian (MacCroatian)
+ South European (ISO-8859-3)
+ Thai (TIS-620)
+ Turkish (IBM-857)
+ Turkish (MacTurkish)
+ Turkish (Windows-1254)
+ Vietnamese (TCVN)
+ Vietnamese (VISCII)
+ Vietnamese (Windows-1258)
+ Western (Windows-1252)
+ Unicode (UTF-16 LE)
+ Type to search…
+ Find previous occurrence of the search string
+ Never Save
+ Heads-up: this form is not secure. If you type your password, it will not be kept private.
+ Web process crashed
+ Web process terminated due to exceeding memory limit
+ Web process terminated by API request
+ Wait
+ Kill
+ Allow
+ This website’s identification is too old to trust. Check the date on your computer’s calendar.
+ This website’s identification could not be processed. It may be corrupted.
+ This website’s identification has been revoked by the trusted organization that issued it.
+ This website’s identification cannot be trusted because it uses very weak encryption.
+ This website’s identification is only valid for future dates. Check the date on your computer’s calendar.
+ Unable to display this website
+ Reload
+ R
+ Go Back
+ B
+ P
+ Unsafe website detected!
+ OK
+ Unspecified
+ Today %I∶%M %p
+ Yesterday %I∶%M %p
+ %a %H∶%M
+ %b %d %I∶%M %p
+ The password of your Firefox account seems to have been changed.
+ Please visit Firefox Sync and sign in with the new password to continue syncing.
+ The sync secrets for the current sync user are invalid.
+ Failed to upload client record.
+ Failed to upload meta/global record.
+ Failed to verify storage version.
+ The signing certificate authority is not known
+ The certificate contains errors
+ The certificate is signed using a weak signature algorithm
+ The certificate activation time is still in the future
+ The identity of this website has been verified.
+ The identity of this website has not been verified.
+ Clear All
+ Moved or deleted
+ Starting…
+ Open
+ All files
+ Clear
+ Paste and Go
+ Bookmark this page
+ This web site did not properly secure your connection.
+ Permissions
+ Password saving
+ Location access
+ Microphone access
+ Webcam access
+ Media autoplay
+ Without Sound
+ Mobile
+ Reload the current page
+ Clear browsing history?
+ Clearing the browsing history will cause all history links to be permanently deleted.
+ Open a new browser window instead of a new tab
+ Load the given session state file
+ FILE
+ Start a private instance in web application mode
+ Start a private instance for WebDriver control
+ Custom profile directory for private instance
+ URL …
+ Open a new tab
+ Do you really want to remove this extension?
+ Author
+ Remove selected WebExtension
+ Redo
+ Select All
+ Reload
+ Forward
+ Open Link in New Window
+ Open Link in New Tab
+ Copy Link Address
+ Copy E-mail Address
+ Save Image As…
+ Save Video As…
+ Open Audio in New Tab
+ Page Source
+ Open Link
+ Open Link In New Tab
+ Open Link In Incognito Window
+ Download operation
+ View open tabs
+ No
+ Save Media As
+ Offline web application cache
+ WebSQL databases
+ Plugins data
+ Address should not contain the search term several times
+ Search shortcuts must not contain any space.
+ A name is required
+ Delete All Passwords?
+ Delete
+ Copy password
+ Copy username
+ Password
+ Remove Password
+ Dark
+ Add Language
+ Web Application Icon
+ Executes only the n-th migration step
+ Specifies the required version for the migrator
+ Web profile migrator
+ Bookmark page
+ Go to your homepage
+ View open pages
+ Bookmark
+ Tags
+ Add Tag…
+ Add
+ Bookmark some webpages to view them here.
+ Remove selected personal data
+ Search personal data
+ Personal data will be listed here
+ You cannot undo this action. The data you are choosing to clear will be removed forever.
+ Search
+ No Results Found
+ Try a different search
+ Text Encoding
+ Use the encoding specified by the document
+ Recent encodings
+ Firefox Sync
+ Sign in with your Firefox account to sync your data with GNOME Web and Firefox on other computers. GNOME Web is not Firefox and is not produced or endorsed by Mozilla.
+ Logged in
+ Sign out
+ Sync Options
+ Sync Passwords
+ Sync now
+ Change
+ History
+ The History is Empty
+ Visited pages will be listed here
+ Reload
+ Reload All Tabs
+ Pin Tab
+ Close Tabs to the Left
+ Close
+ Zoom Out
+ Restore Zoom
+ Find…
+ New Window
+ New Incognito Window
+ Reopen Closed Tab
+ Import and Export
+ Install Site as Web Application…
+ Open Application Manager
+ Override Text Encoding…
+ Preferences
+ Keyboard Shortcuts
+ Help
+ Tabs
+ There are no Passwords
+ Copy Username
+ Appearance
+ Fonts
+ Sans serif font
+ Serif font
+ Monospace font
+ Reader Mode
+ Color Scheme
+ Style
+ Use Custom JavaScript
+ General
+ Web Application
+ Manage Additional URLs
+ Web Content
+ Block Popup Windows
+ Custom
+ Ask on Download
+ Download Folder
+ Search Engines
+ Session
+ Restore Tabs on Startup
+ Browsing
+ Spell Checking
+ Choose a language:
+ Privacy
+ Web Tracking
+ Website Data Storage
+ Enable search suggestions in the URL entry.
+ Google Search Suggestions
+ You can clear stored personal data.
+ Name
+ Address
+ Shortcut
+ Remove Search Engine
+ General
+ New window
+ Open file
+ Save page
+ Print page
+ Quit
+ Help
+ Open menu
+ Show downloads list
+ Navigation
+ Go to homepage
+ Reload current page
+ Go back to the previous page
+ Close current tab
+ Move current tab to the left
+ History
+ Bookmark current page
+ Import bookmarks
+ Export bookmarks
+ Toggle caret browsing
+ Install site as web application
+ Open web application manager
+ View
+ Zoom in
+ View page source
+ Editing
+ Cut
+ Paste
+ Undo
+ Select all
+ A URL that starts with any of the additional URLs will be opened by the web application. If you omit the URL scheme, the one from the currently loaded URL will be used.
+ URL
+ Extensions
+ Add…
+ Chrome
+ Choose File
+ Import
+ Bookmarks successfully imported!
+ Bookmarks successfully exported!
+ Website
+ Launch
+ Cancel
+ Replace
+ An application with the same name already exists. Replacing it will overwrite it.
+ Save
+ MHTML
+ Enable
+ Rygel
+ UPnP/DLNA Services
+ Rygel Preferences
+ Add a directory to the list of shared directories
+ Add shared directory
+ Remove shared directory
+ Add network interface
+ Remove network interface
+ Select folders
+ Wrong Test Type
+ Disable transcoding
+ Disallow deletion
+ Comma-separated list of domain:level pairs. See rygel(1) for details
+ Disable plugin
+ Set plugin options
+ Use configuration file instead of user configuration
+ Shut down remote Rygel reference
+ Replace currently running instance of Rygel
+ Shutting down remote Rygel instance\n
+ Play speed not supported
+ Transition not available
+ Seek mode not supported
+ Invalid Channel
+ Cannot browse children on item
+ Not Applicable
+ No such file transfer
+ Bad new tag value.
+ Tried to change read-only property.
+ Parameter count mismatch.
+ Unknown error.
+ Seeking not supported
+ Speed not supported
+ Failed to generate playlist
+ MediaEngine.init was not called. Cannot continue.
+ ObjectID argument missing
+ Missing filter
+ “Elements” argument missing.
+ @id must be set to \\ in CreateObject call
+ Flags that must not be set were found in “dlnaManaged”
+ Invalid upnp:class given in CreateObject
+ Object is missing the @restricted attribute
+ Cannot create restricted item
+ “ObjectID” argument missing.
+ No subtitle available
+ Thumbnailing not supported
+ No thumbnail available
+ Playspeed not supported
+ Failed to create pipeline
+ Can only process file-based MediaObjects (MediaFileItems)
+ Shared media
+ Invalid command received, ignoring
+ Artist
+ Files & Folders
+ @REALNAME@’s media
+ System Appearance
+ Override settings for this application. They will be reset upon closing the inspector.
+ High Contrast
+ Untitled page
+ Preferences
+ Search
+ Christian Hergert, et al.
+ A Text Editor for GNOME
+ Auto Save Delay
+ Use the light or dark variant of the GTK theme and/or GtkSourceView style scheme.
+ Indentation Style
+ Auto Indent
+ Automatically indent new lines copying the previous line's indentation.
+ The number of spaces represented by a tab.
+ Indent Width
+ The number of spaces to indent or -1 to use tab-width.
+ Show Line Numbers
+ If a margin line should be displayed on the right of the editor.
+ If enabled, an overview map of the file will be displayed to the side of the editor.
+ Highlight current line
+ Text Wrapping
+ If text should be wrapped.
+ Custom Font
+ A custom font to use in the editor.
+ Style Scheme
+ Automatically check spelling
+ Restore session
+ When Text Editor is run, restore the previous session.
+ Recolor Window
+ The directory last used in a save or save-as dialog.
+ The various types of spaces to draw in the editor.
+ Enable the use of snippets registered with GtkSourceView from within the editor.
+ Line Height
+ The line height to use for the selected font.
+ Open provided files in a new window
+ ILCreateFromPath() failed
+ Discard Changes and Reload
+ File Has Changed on Disk
+ The file has been changed by another program.
+ Save As…
+ Unsaved document has been restored.
+ Save…
+ Discard…
+ Draft Changes Restored
+ Unsaved changes to the document have been restored.
+ Document Type
+ No Recent Documents
+ Draft
+ Document Portal
+ Failed to save document
+ Save As
+ Cancel
+ Go to Line
+ Go
+ Indentation
+ Automatic Indentation
+ Tabs
+ Spaces
+ 8
+ Ln
+ Highlight Current Line
+ Behavior
+ Return to your previous session when Text Editor is started
+ Select Font
+ Page %N of %Q
+ Properties
+ File
+ Location
+ Lines
+ Characters, No Spaces
+ Save Changes?
+ Open documents contain unsaved changes. Changes which are not saved will be permanently lost.
+ Save
+ Replace
+ Move to previous match (Ctrl+Shift+G)
+ Move to next match (Ctrl+G)
+ Replace
+ Languages
+ Check Spelling
+ Follow system style
+ Dark style
+ Yesterday
+ About a year ago
+ Unix/Linux (LF)
+ Windows (CR+LF)
+ Automatically Detected
+ Character Encoding:
+ Saving changes will replace the previously saved version.
+ Discard
+ Open File
+ All Files
+ Open
+ Open recent document (Ctrl+K)
+ Start or Open a Document
+ Document Properties
+ Keyboard Shortcuts
+ Help
+ About Text Editor
+ 2
+ 4
+ 6
+ Text Wrapping
+ Move Left
+ Move to New Window
+ Close
+ Editor Shortcuts
+ Windows
+ Move document to new window
+ Move to next tab
+ Move to previous tab
+ Reorder before previous tab
+ Restore previously closed tab
+ Zoom
+ Zoom Out
+ Documents
+ New document
+ Browse to open document
+ Find document by name
+ Copy and Paste
+ Copy selected text to clipboard
+ Cut selected text to clipboard
+ Paste text from clipboard
+ Undo and Redo
+ Redo previous command
+ Insert emoji into document
+ Search and replace within the document
+ Decrement number at cursor
+ Toggle overwrite
+ Toggle visibility of insertion caret
+ Selections
+ Move to end of document
+ Go to line
+ Delete from cursor to word start
+ Delete from cursor to word end
+ Delete the current line
+ OK
+ Cancel
+ You must specify a dialog type. See 'zenity --help' for details\n
+ No
+ Could not parse message\n
+ Unsupported hint. Skipping.\n
+ Unknown hint name. Skipping.\n
+ Could not parse command from stdin\n
+ TITLE
+ Set the window icon
+ ICONPATH
+ Set the width
+ WIDTH
+ Set the height
+ TIMEOUT
+ Set the label of the OK button
+ Set the label of the Cancel button
+ Set the modal hint
+ Set the parent window to attach to
+ Display calendar dialog
+ Set the calendar day
+ DAY
+ MONTH
+ Set the calendar year
+ YEAR
+ Set the format for the returned date
+ Hide the entry text
+ Display error dialog
+ Set the dialog icon
+ Do not enable Pango markup
+ Enable ellipsizing in the dialog text. This fixes the high window size with long texts
+ Display info dialog
+ Display file selection dialog
+ Set the filename
+ Activate save mode
+ Set output separator character
+ SEPARATOR
+ Confirm file selection if filename already exists
+ COLUMN
+ Print a specific column (Default is 1. 'ALL' can be used to print all columns)
+ Hide a specific column
+ Change list default search function searching for text in the middle, not on the beginning
+ Listen for commands on stdin
+ Set the notification hints
+ PERCENTAGE
+ Kill parent process if Cancel button is pressed
+ Hide Cancel button
+ Give Cancel button focus by default
+ Display text information dialog
+ Set the text font
+ Enable HTML support
+ Set an URL instead of a file. Only works if you use --html option
+ URL
+ Auto scroll the text to the end. Only when text is captured from stdin
+ Display warning dialog
+ Display scale dialog
+ Set minimum value
+ Print partial values
+ Hide value
+ Display forms dialog
+ Add a new Entry in forms dialog
+ Field name
+ Add a new Password Entry in forms dialog
+ Calendar field name
+ Add a new List in forms dialog
+ List of values for columns
+ Combo box field name
+ Show the columns header
+ Print version
+ General options
+ Show general options
+ Calendar options
+ Text entry options
+ File selection options
+ List options
+ Show list options
+ Notification icon options
+ Progress options
+ Show progress options
+ Question options
+ Show question options
+ Warning options
+ Show scale options
+ Text information options
+ Show text information options
+ Color selection options
+ Show color selection options
+ Show forms dialog options
+ This option is not available. Please see --help for all possible usages.\n
+ Type your password
+ Username:
+ Value out of range.\n
+ No column titles specified for List dialog.\n
+ Adjust the scale value
+ Text View
+ Calendar selection
+ Add a new entry
+ Error
+ An error has occurred.
+ Forms dialog
+ Information
+ All updates are complete.
+ Are you sure you want to proceed?
+ Select items from the list
+ Activate favorite application 4
+ Activate favorite application 7
+ Activate favorite application 9
+ Screenshots
+ Take a screenshot
+ Take a screenshot of a window
+ System
+ Focus the active notification
+ GNOME Shell
+ Window management and application launching
+ Enable internal tools useful for developers and testers from Alt-F2
+ Allows access to internal debugging and monitoring tools using the Alt-F2 dialog.
+ UUIDs of extensions to force disabling
+ Disables the validation of extension version compatibility
+ List of desktop file IDs for favorite applications
+ Whether the default Bluetooth adapter had set up devices associated to it
+ Keybinding to open the “Show Applications” view
+ Keybinding to toggle the visibility of the notification list
+ Keybinding to toggle the visibility of the notification list.
+ Keybinding to focus the active notification
+ Keybinding to focus the active notification.
+ Switch to application 1
+ Switch to application 3
+ Switch to application 5
+ Switch to application 7
+ The application icon mode.
+ If true, only windows from the current workspace are shown in the switcher. Otherwise, all windows are included.
+ The locations to show in world clocks
+ Automatic location
+ Attach modal dialog to the parent window
+ This key overrides the key in org.gnome.mutter when running GNOME Shell.
+ Enable edge tiling when dropping windows on screen edges
+ Workspaces are managed dynamically
+ Workspaces only on primary monitor
+ Delay focus changes in mouse mode until the pointer stops moving
+ Network Login
+ We’re very sorry, but there’s been a problem: the settings for this extension can’t be displayed. We recommend that you report the issue to the extension authors.
+ Visit extension homepage
+ Choose Session
+ Username
+ Authentication error
+ (or swipe finger across reader)
+ Restart
+ lock screen
+ Log Out
+ logout;log out;sign off
+ suspend;sleep
+ Unlock Screen Rotation
+ Lock Screen Rotation
+ Just now
+ %H∶%M
+ %l∶%M %p
+ Hotspot Login
+ Grant Access
+ New Window
+ Show Details
+ Select Audio Device
+ Sound Settings
+ Change Background…
+ Display Settings
+ Settings
+ 06
+ T
+ %OB
+ %OB %Y
+ Previous month
+ Next month
+ Week %V
+ No Notifications
+ Wait
+ External drive disconnected
+ Connect
+ Key
+ Service
+ Authentication required
+ Wired 802.1X authentication
+ DSL authentication
+ PIN code required
+ PIN code is needed for the mobile broadband device
+ VPN password
+ Show Applications
+ Dash
+ %B %-d
+ Today
+ Tomorrow
+ No Events
+ Add world clocks…
+ World Clocks
+ Loading…
+ Go online for weather information
+ Weather
+ Select weather location…
+ Power Off
+ Restart
+ Restart &amp; Install
+ Install Extension
+ Extension Updates Available
+ An application wants to inhibit shortcuts
+ Deny
+ Allow
+ Slow Keys Turned On
+ Slow Keys Turned Off
+ Leave On
+ Turn On
+ Region & Language Settings
+ Show Errors
+ Disabled
+ Error
+ View Source
+ Undo
+ Logged in as a privileged user
+ Running a session as a privileged user should be avoided for security reasons. If possible, you should log in as a normal user.
+ Screen Lock disabled
+ System Information
+ Unknown artist
+ Applications
+ New shortcut…
+ Application defined
+ Show on-screen help
+ Switch monitor
+ Assign keystroke
+ Done
+ Edit…
+ None
+ Press Esc to exit
+ Press any key to exit
+ System
+ Top Bar
+ Press ESC to close
+ Restart is not available on Wayland
+ Restarting…
+ GNOME needs to lock the screen
+ Screen Selection
+ Window
+ Screenshot / Screencast
+ Screenshot
+ Screencast recorded
+ Click here to view the video.
+ Screenshot captured
+ You can paste the image from the clipboard.
+ Screenshot taken
+ Search
+ Hide Text
+ Windows System Volume
+ PIM Number
+ Remember Password
+ Unlock
+ The PIM must be a number or empty.
+ Accessibility
+ Screen Keyboard
+ Visual Alerts
+ Mouse Keys
+ Large Text
+ Brightness
+ Single Click
+ Secondary Click
+ Dwell Click
+ Keyboard
+ Show Keyboard Layout
+ Disable
+ Privacy Settings
+ Location In Use
+ Location Disabled
+ Allow location access
+ Location access can be changed at any time from the privacy settings.
+ <unknown>
+ Mobile Broadband Settings
+ Airplane Mode is On
+ Wi-Fi is disabled when airplane mode is on.
+ Wi-Fi is Off
+ Wi-Fi needs to be turned on in order to connect to a network.
+ Wi-Fi Networks
+ Select a network
+ No Networks
+ Use hardware switch to turn off
+ Wi-Fi Settings
+ authentication required
+ VPN
+ Connection failed
+ Activation of network connection failed
+ Night Light Disabled
+ Resume
+ Disable Until Tomorrow
+ Power Settings
+ Not Charging
+ Estimating…
+ Stop Screencast
+ Airplane Mode On
+ Lock
+ Power Off / Log Out
+ Suspend
+ Power Off…
+ Log Out
+ Unknown Thunderbolt device
+ New device has been detected while you were away. Please disconnect and reconnect the device to start using it.
+ Thunderbolt authorization error
+ Volume
+ Mirror
+ Join Displays
+ %A %B %-d
+ Click or press a key to unlock
+ No Thanks
+ Keep these display settings?
+ Revert Settings
+ Keep Changes
+ Hide
+ Move
+ Resize
+ Always on Top
+ Move to Workspace Left
+ Move to Workspace Right
+ Move to Monitor Up
+ Move to Monitor Right
+ Mode used by GDM for login screen
+ Unknown
+ Passwords do not match.
+ Password cannot be blank
+ The GNOME Project
+ GNOME Extensions handles updating extensions, configuring extension preferences and removing or disabling unwanted extensions.
+ Configure GNOME Shell Extensions
+ No Matches
+ The extension can be updated
+ Website
+ Remove…
+ Manually Installed
+ No Installed Extensions
+ Log Out…
+ Description
+ UUID is a globally-unique identifier for your extension.\nThis should be in the format of an email address (clicktofocus@janedoe.example.com)\n
+ Template
+ The unique identifier of the new extension
+ NAME
+ The user-visible name of the new extension
+ DESCRIPTION
+ TEMPLATE
+ Enter extension information interactively
+ Disable an extension
+ Enable an extension
+ Overwrite an existing extension
+ EXTENSIONBUNDLE
+ Install an extension bundle
+ No extension bundle specified
+ More than one extension bundle specified
+ Show user-installed extensions
+ Show enabled extensions
+ Show extensions with preferences
+ Show extensions with updates
+ Print extension details
+ The directory where translations are found
+ DOMAIN
+ The directory where the pack should be created
+ SOURCEDIRECTORY
+ Create an extension bundle
+ More than one source directory specified
+ Opens extension preferences
+ Uninstall an extension
+ Path
+ URL
+ Version
+ State
+ “version” takes no arguments
+ Enable extension
+ Disable extension
+ Uninstall extension
+ List extensions
+ Show extension info
+ Open extension preferences
+ Create extension
+ Package extension
+ System Sounds
+ Compatible with Libreswan and Cisco IPsec VPN servers.
+ Group Password:
+ IPsec based VPN
+ Unhandled pending authentication.
+ Don’t quit when VPN connection terminates
+ Enable verbose debug logging (may expose passwords)
+ D-Bus name to use for this instance
+ This service provides integrated IPsec VPN capability to NetworkManager.
+ IKEv1 (XAUTH)
+ Authentication
+ Secret:
+ Certificate name:
+ Advanced…
+ Identification
+ Domain:
+ (NT-)Domain name for authentication.\nconfig: Domain <domain>
+ Phase1 Algorithms:
+ Phase2 Algorithms:
+ Specifies the algorithms that will be offered/accepted for a phase2 negotiation. The format is “cipher-hash;modpgroup, cipher-hash;modpgroup, …”.\nconfig: esp <proposals>
+ Phase1 Lifetime:
+ Phase2 Lifetime:
+ Whether a connection should not be renegotiated when it is about to expire.\nconfig: rekey <no/yes>
+ Connectivity
+ Private subnet behind the remote participant, expressed as network/netmask.\nconfig: rightsubnet <net>
+ IKEv2 negotiation may allow establishing an IPsec connection with narrowed down traffic selectors. This option is ignored for IKEv1.\nconfig: narrowing <yes/no>
+ Enable MOBIKE
+ GNOME System Monitor
+ Monitor;System;Process;CPU;Memory;Network;History;Usage;
+ System Monitor is a process viewer and system monitor with an attractive, easy-to-use interface.
+ Process list view
+ Resources overview
+ File Systems view
+ The GNOME Project
+ Kill process
+ Privileges are required to control other users’ processes
+ Privileges are required to change the priority of processes
+ Show help
+ Open menu
+ Keyboard shortcuts
+ Show Processes
+ Show File Systems
+ Refresh
+ Processes
+ Open files
+ Send stop signal
+ Send End signal
+ Show process properties
+ CPU
+ Swap
+ Memory and Swap
+ Filter files by name
+ Search for Open Files
+ Preferences
+ Keyboard Shortcuts
+ Refresh
+ Active Processes
+ My Processes
+ Properties
+ Memory Maps
+ Open Files
+ Normal
+ Very Low
+ Custom
+ Set Affinity
+ Open Files
+ Enable Smooth Refresh
+ Alert Before Ending or Killing Processes
+ Show Memory in IEC
+ Process information shown in list:
+ Graphs
+ Chart Data Points
+ Draw Charts as Smooth Graphs
+ Set Network Totals Unit Separately
+ Show Network Totals in Bits
+ Show All File Systems
+ Cancel
+ Change Priority
+ Nice value:
+ Show the File Systems tab
+ Show the application’s version
+ Today %l∶%M %p
+ Yesterday %l∶%M %p
+ %b %d %Y
+ Fraction
+ Pick a Color
+ The selected color
+ Received invalid color data\n
+ Click to set graph colors
+ VM Start
+ VM Offset
+ Private dirty
+ Shared clean
+ Shared dirty
+ Memory Maps
+ file
+ IPv6 network connection
+ unknown type
+ FD
+ Solaris mode for CPU percentage
+ Time in milliseconds between updates of the process view
+ Time in milliseconds between updates of the graphs
+ Whether information about all file systems should be displayed
+ Time in milliseconds between updates of the devices list
+ Determines which processes to show.
+ Saves the currently viewed tab
+ CPU colors
+ Default graph swap color
+ Set network totals unit separately
+ Show memory and swap in IEC
+ Process view sort column
+ Process view columns order
+ Show process “Name” column on startup
+ Width of process “User” column
+ Show process “User” column on startup
+ Width of process “Status” column
+ Show process “Status” column on startup
+ Width of process “Resident Memory” column
+ Show process “Resident Memory” column on startup
+ Show process “Writable Memory” column on startup
+ Width of process “Shared Memory” column
+ Show process “Shared Memory” column on startup
+ Width of process “X Server Memory” column
+ Show process “X Server Memory” column on startup
+ Width of process “CPU Time” column
+ Show process “Started” column on startup
+ Width of process “Nice” column
+ Show process “Nice” column on startup
+ Width of process “ID” column
+ Show process “ID” column on startup
+ Width of process “Command Line” column
+ Show process “Command Line” column on startup
+ Width of process “Memory” column
+ Show process “Memory” column on startup
+ Width of process “Control Group” column
+ Show process “Control Group” column on startup
+ Show process “Unit” column on startup
+ Width of process “Session” column
+ Width of process “Seat” column
+ Show process “Seat” column on startup
+ Show process “Total disk read” column on startup
+ Show process “Total disk write” column on startup
+ Show process “Disk read” column on startup
+ Width of process “Disk write” column
+ Width of process “Priority” column
+ Show process “Priority” column on startup
+ Disk view sort column
+ Disk view sort order
+ Show disk view “Directory” column on startup
+ Show disk view “Type” column on startup
+ Show disk view “Total” column on startup
+ Width of disk view “Free” column
+ Show disk view “Free” column on startup
+ Width of disk view “Available” column
+ Show disk view “Used” column on startup
+ Memory map sort column
+ Memory map sort order
+ Open files sort column
+ Open files sort order
+ Icon
+ Ending a process may destroy data, break the session or introduce a security risk. Only unresponsive processes should be ended.
+ Stop Processmsgidplural Stop Processes
+ Note:
+ The priority of a process is given by its nice value. A lower nice value corresponds to a higher priority.
+ N/A
+ Process Name
+ Status
+ X Server Memory
+ CPU Time
+ Started
+ Priority
+ ID
+ Security Context
+ Waiting Channel
+ Unit
+ Session
+ Owner
+ Disk read total
+ Disk read
+ Disk write
+ Apply
+ Running
+ Sleeping
+ Very High Priority
+ High Priority
+ Adwaita-dark
+ High Contrast
+ Virtualization made simple
+ Select an operating system and let Boxes download and install it for you in a virtual machine.
+ Download freely available operating systems.
+ Limit the resources (memory and storage) your virtual machines consume from your system.
+ 3D acceleration for some of the supported operating systems.
+ Share clipboard between your system and virtual machines.
+ Share files to virtual machines by dropping them from your file manager into the Boxes window.
+ The GNOME Project
+ Virtual machine viewer/manager
+ Screenshot interval
+ Window position
+ Window position (x and y)
+ Window maximized
+ Window maximized state
+ First run
+ Shared folders
+ Variant array of shared folders’ names and path mapping
+ Welcome to Boxes
+ Use the <b>+</b> button to create your first virtual machine.
+ Unknown media
+ Search for an OS or enter a download link…
+ Boxes was unable to identify the operating system on the image file.
+ A new virtual machine will be created and an operating system installed into it. Select an operating system source to begin.
+ Create virtual machine from file
+ Download an operating system
+ Preparing…
+ Review and Create
+ Virtualization extensions are unavailable on your system.\nCheck your BIOS settings to enable them.
+ Username
+ Password
+ Express Installation
+ New
+ Grid view
+ Ready to Receive File
+ You will find your file in the Downloads directory.
+ Actions
+ Keyboard shortcuts
+ Fullscreen
+ Open main menu
+ Keyboard shortcuts
+ Close Window/Quit Boxes
+ Box Creation and Properties
+ Box Display
+ Grab/Ungrab keyboard
+ Back to overview
+ Fullscreen/Restore from fullscreen
+ Keyboard Shortcuts
+ Help
+ About Boxes
+ No CDROM/DVD image
+ Remove
+ USB Devices
+ Resources
+ Name
+ IP Address
+ CPUs
+ 3D acceleration
+ Allow running in background
+ Configuration
+ Troubleshooting Logs
+ Edit Configuration
+ Local Folder
+ Revert to snapshot
+ Delete snapshot
+ Snapshots
+ Choose express install to automatically preconfigure the box with optimal settings.
+ Product Key
+ Boxes makes it easy to install and run virtual machines.
+ With express installation, Boxes will set the install options for a new virtual machine. Just start the installation and everything will be taken care of for you.
+ Drag and Drop
+ Box actions
+ Take Screenshot
+ Force Shutdown
+ Restart
+ A simple GNOME 3 application to access virtual systems
+ Display version number
+ Open in full screen
+ Open box with UUID
+ Search term
+ URL to display, broker or installer media
+ Too many command line arguments specified.\n
+ Cancel
+ Open
+ Select a device or ISO file
+ Open
+ Previous
+ Live
+ 32-bit x86 system
+ 64-bit x86 system
+ Downloading media
+ Install
+ System
+ Ctrl + Alt + Backspace
+ Ctrl + Alt + Del
+ Ctrl + Alt + F1
+ Ctrl + Alt + F2
+ Ctrl + Alt + F7
+ Send key combinations
+ Paused
+ Powered Off
+ Machine is under construction
+ Saving…
+ Troubleshooting Log
+ Boxes wants to run VM in background
+ The Flatpak version of GNOME Boxes does not support USB redirection.
+ Do you want to open Settings to manage application permissions?
+ Editing your box configuration can cause issues to the operating system of your box. Would you like to create a snapshot to recover from your changes?
+ Use the button below to create your first snapshot.
+ There is not enough space on your machine to increase the maximum disk size.
+ Storage disk
+ Unknown
+ An error occurred during installation preparation. Express Install disabled.
+ Downloading device drivers…
+ SELinux not installed?
+ Could not get “gnome-boxes” storage pool information from libvirt. Make sure “virsh -c qemu:///session pool-dumpxml gnome-boxes” is working.
+ Incapable host system
+ Power Statistics can show historical and current battery information and programs waking up that use power.
+ Whether we should show the history data points
+ The default graph type to show for history
+ The maximum time displayed for history
+ Whether we should show the stats data points in the statistics window.
+ The default graph type to show in the stats window.
+ The index of the page number to show by default
+ The identifier of the last device which is used to return focus to the correct device.
+ battery;consumption;charge;
+ Charge
+ Time to full
+ 3 hours
+ 8 hours
+ 1 week
+ Charge profile
+ Discharge profile
+ Charge accuracy
+ Laptop batterymsgidplural Laptop batteries
+ Monitormsgidplural Monitors
+ Mousemsgidplural Mice
+ Keyboardmsgidplural Keyboards
+ PDAmsgidplural PDAs
+ Cell phonemsgidplural Cell phones
+ Lithium Ion
+ Lithium Polymer
+ Lead acid
+ Empty
+ Charged
+ Waiting to charge
+ Attribute
+ Value
+ Yes
+ No
+ Device
+ Type
+ Vendor
+ Model
+ Supply
+ Refreshed
+ State
+ Energy
+ Energy when empty
+ Energy (design)
+ Voltage
+ Percentage
+ Capacity
+ Technology
+ Online
+ Device History
+ Predicted time
+ Prediction accuracy
+ Details
+ Graph type:
+ Data length:
+ There is no data to display.
+ Use smoothed line
+ Show data points
+ Statistics
+ Cannot read from empty clipboard.
+ No EGL configuration available
+ No EGL configuration with required features found
+ No perfect EGL configuration found
+ Failed to create EGL display
+ No compatible formats to transfer contents.
+ The EGL implementation does not support any allowed APIs
+ Return
+ Pause
+ ScrollLock
+ SysReq
+ Escape
+ Home
+ Left
+ Down
+ PageDown
+ Begin
+ KPHome
+ KPPageUp
+ KPDelete
+ Delete
+ MonBrightnessUp
+ MonBrightnessDown
+ KbdBrightnessUp
+ AudioMute
+ AudioNext
+ AudioPrev
+ AudioRecord
+ AudioMedia
+ Eject
+ Explorer
+ Calculator
+ Search
+ Tools
+ Battery
+ Back
+ Sleep
+ Hibernate
+ WebCam
+ Display
+ TouchpadToggle
+ WakeUp
+ Suspend
+ writing a closed stream
+ GlobalReAlloc() failed: 
+ Can’t transmute a single handle
+ GlobalAlloc() failed: 
+ Clipboard manager could not store selection.
+ GLX is not supported
+ Not enough space in destination
+ Invalid byte sequence in conversion input
+ Invalid formats in compound text conversion.
+ Toggles the switch
+ Activates the color
+ Customizes the color
+ Activates the expander
+ Activates the entry
+ Activate primary icon
+ Activates the primary icon of the entry
+ Activate secondary icon
+ Shows the contents of the password entry
+ Clear
+ application
+ License
+ GNU General Public License, version 2 or later
+ GNU General Public License, version 3 or later
+ GNU Lesser General Public License, version 2.1 or later
+ GNU Lesser General Public License, version 3 or later
+ BSD 2-Clause License
+ Artistic License 2.0
+ GNU Affero General Public License, version 3 only
+ BSD 3-Clause License
+ Apache License, Version 2.0
+ Mozilla Public License 2.0
+ Website
+ Created by
+ Documented by
+ Translated by
+ Design by
+ Shift
+ Ctrl
+ Alt
+ Super
+ Hyper
+ KP
+ Space
+ alert
+ alert dialog
+ banner
+ button
+ checkbox
+ combo box
+ command
+ composite
+ form
+ group
+ heading
+ label
+ legend
+ link
+ main
+ math
+ menu bar
+ menu item
+ menu item checkbox
+ navigation
+ none
+ option
+ radio
+ radio group
+ range
+ region
+ row
+ row header
+ scroll bar
+ search box
+ section
+ section head
+ select
+ separator
+ switch
+ tab
+ table
+ text box
+ tool bar
+ tool tip
+ tree grid
+ Other application…
+ Select Application
+ Failed to start GNOME Software
+ Default Application
+ Related Applications
+ Other Applications
+ Reason not specified
+ calendar:MY
+ %Y
+ Disabled
+ Invalid
+ New accelerator…
+ Very Dark Blue
+ Light Green
+ Very Light Yellow
+ Dark Orange
+ Light Red
+ Red
+ Very Dark Red
+ Light Purple
+ Dark Brown
+ Very Dark Brown
+ White
+ Dark Gray 1
+ Dark Gray 2
+ Dark Gray 3
+ Dark Gray 4
+ Custom
+ Customize
+ Close
+ Manage Custom Sizes
+ inch
+ Width:
+ Top:
+ Left:
+ Right:
+ Paper Margins
+ Insert Emoji
+ A file cannot be called “.”
+ A folder cannot be called “..”
+ File names cannot contain “/”
+ File names should not end with a space
+ Folder names starting with a “.” are hidden
+ A folder with that name already exists
+ A file with that name already exists
+ Open
+ Try using a shorter name.
+ Invalid file name
+ The file could not be moved to the Trash
+ Delete
+ Could not select file
+ Open With File Manager
+ Show Hidden Files
+ Show Type Column
+ Sort Folders Before Files
+ Searching
+ Modified
+ %H:%M
+ %-e %b
+ %-e %b %Y
+ Font
+ Image
+ Document
+ Presentation
+ Spreadsheet
+ Unknown
+ You do not have access to the specified folder.
+ Pick a Font
+ None
+ Width
+ Optical Size
+ Default
+ Ligatures
+ Letter Case
+ Number Case
+ Number Spacing
+ Number Formatting
+ Character Variants
+ OpenGL context creation failed
+ Cut
+ Copy
+ Paste
+ Open Link
+ Invalid URI
+ Dialog is unlocked.\nClick to prevent further changes
+ Dialog is locked.\nClick to make changes
+ default:LTR
+ Connect
+ Anonymous
+ Hidden
+ Forget password immediately
+ Terminal Pager
+ Top Command
+ Bourne Again Shell
+ Tab list
+ Tab
+ Not a valid page setup file
+ Manage Custom Sizes…
+ Any Printer
+ For portable documents
+ Show Text
+ Caps Lock is on
+ Show Text
+ Recent
+ Recent files
+ Other Locations
+ Open in New Window
+ Add Bookmark
+ Mount
+ Eject
+ Start
+ Connect Drive
+ Disconnect Drive
+ Stop Multi-disk Device
+ Computer
+ No network locations found
+ Unable to access location
+ Connect
+ AppleTalk
+ Network File System
+ SSH File Transfer Protocol
+ sftp:// or ssh://
+ dav:// or davs://
+ Connect
+ Unable to get remote server location
+ Networks
+ Disconnect
+ Remember password
+ Select a filename
+ Not available
+ Preparing to print
+ Sending data
+ Waiting
+ Blocking on issue
+ Printing
+ Finished with error
+ Application
+ Out of paper
+ Paused
+ Custom size
+ Invalid argument to CreateDC
+ Error from StartDoc
+ Unspecified error
+ Print
+ Left to right, bottom to top
+ Top to bottom, left to right
+ Top to bottom, right to left
+ L
+ Two finger pinch
+ Rotate clockwise
+ Swipe left
+ Swipe right
+ Search Results
+ Redo
+ Muted
+ Don’t show this message again
+ Minimize the window
+ Maximize the window
+ Close
+ Restore
+ Object path
+ Activate
+ Parameter Type
+ Hover to load
+ local
+ Primary
+ None
+ Bubble
+ Target
+ You can type here any CSS rule recognized by GTK.
+ Disable this custom CSS
+ Style Classes
+ Disabled
+ GTK Version
+ Pango Fontmap
+ Media Backend
+ Input Method
+ Resource Path
+ GL Vendor
+ Vulkan API version
+ Vulkan driver version
+ Unnamed section
+ Target
+ Buildable ID
+ Request Mode
+ Baseline
+ Frame Clock
+ Tick Callback
+ Mapped
+ Is Toplevel
+ Child Visible
+ Attribute:
+ Column:
+ Default
+ Theme
+ XSettings
+ Unknown
+ Defined At
+ Record frames
+ Save selected node
+ Copy to clipboard
+ Property
+ Size
+ Name:
+ Type:
+ None
+ Horizontal
+ Vertical
+ Mode
+ GLib must be configured with -Dbuildtype=debug
+ Cumulative 1
+ Cumulative 2
+ Self
+ Implements
+ GL rendering is disabled
+ Dark Variant
+ Cursor Theme
+ Icon Theme
+ Text Direction
+ Right-to-Left
+ Animations
+ Show Graphic Updates
+ Show Baselines
+ Show Layout Borders
+ CSS Padding
+ CSS Border
+ Widget Margin
+ Show Focus
+ Select an Object
+ Show Details
+ Show all Objects
+ Show all Resources
+ Collect Statistics
+ Refresh action state
+ Next sibling
+ CSS Nodes
+ Size Groups
+ Actions
+ Accessibility
+ Global
+ Resources
+ Access All Alternates
+ Above-base Substitutions
+ Alternative Fractions
+ Akhands
+ Below-base Mark Positioning
+ Below-base Substitutions
+ Case-Sensitive Forms
+ Glyph Composition / Decomposition
+ Conjunct Forms
+ Contextual Ligatures
+ Capital Spacing
+ Contextual Swash
+ Cursive Positioning
+ Small Capitals From Capitals
+ Denominators
+ Expert Forms
+ Fractions
+ Full Widths
+ Halant Forms
+ Historical Ligatures
+ Hangul
+ Initial Forms
+ Isolated Forms
+ Italics
+ JIS78 Forms
+ JIS83 Forms
+ Standard Ligatures
+ Leading Jamo Forms
+ Localized Forms
+ Medial Forms
+ Mark to Mark Positioning
+ Mark Positioning via Substitution
+ Alternate Annotation Forms
+ Nukta Forms
+ Numerators
+ Oldstyle Figures
+ Ordinals
+ Petite Capitals
+ Proportional Figures
+ Pre-base Substitutions
+ Post-base Forms
+ Post-base Substitutions
+ Quarter Widths
+ Required Contextual Alternates
+ Reph Forms
+ Right Bounds
+ Right-to-left mirrored forms
+ Ruby Notation Forms
+ Optical size
+ Small Capitals
+ Stylistic Set 3
+ Stylistic Set 4
+ Stylistic Set 5
+ Stylistic Set 6
+ Stylistic Set 7
+ Stylistic Set 9
+ Stylistic Set 13
+ Stylistic Set 18
+ Stylistic Set 19
+ Stylistic Set 20
+ Math script style alternates
+ Stretching Glyph Decomposition
+ Subscript
+ Swash
+ Trailing Jamo Forms
+ Traditional Name Forms
+ Vattu Variants
+ Alternate Vertical Half Metrics
+ Vertical Kana Alternates
+ Vertical Kerning
+ Proportional Alternate Vertical Metrics
+ Vertical Alternates and Rotation
+ Vertical Alternates for Rotation
+ A0
+ A2
+ A2×3
+ A3
+ A3×6
+ A3×7
+ A4
+ A4 Tab
+ A4×3
+ A4×4
+ A4×5
+ A4×7
+ A4×8
+ A8
+ B1
+ B3
+ B4
+ B5 Extra
+ B6/C4
+ B7
+ B8
+ C2
+ C4
+ C5
+ C6/C5
+ C9
+ RA2
+ RA4
+ SRA0
+ SRA2
+ SRA3
+ SRA4
+ JB1
+ JB3
+ JB7
+ JB8
+ Choukei 2 Envelope
+ Choukei 3 Envelope
+ Choukei 4 Envelope
+ Choukei 40 Envelope
+ kahu Envelope
+ kaku7 Envelope
+ kaku8 Envelope
+ oufuku (reply postcard)
+ you4 Envelope
+ 10×11
+ 10×13
+ 10×15
+ 11×12
+ 5×7
+ 6×9 Envelope
+ 9×11 Envelope
+ 9×12 Envelope
+ Arch C
+ b-plus
+ c5 Envelope
+ European edp
+ f
+ Fan-Fold European
+ Fan-Fold US
+ Fan-Fold German Legal
+ Government Legal
+ Government Letter
+ Index 3×5
+ Index 4×6 (postcard)
+ Invoice
+ Tabloid
+ US Letter Extra
+ Oficio
+ Quarto
+ Super A
+ Wide Format
+ Invite Envelope
+ Italian Envelope
+ Large Photo
+ Medium Photo
+ pa-kai
+ Postfix Envelope
+ Wide Photo
+ prc1 Envelope
+ prc2 Envelope
+ prc4 Envelope
+ prc6 Envelope
+ prc7 Envelope
+ prc8 Envelope
+ ROC 16k
+ Preferences
+ Services
+ Show All
+ Odd sheets
+ Landscape
+ Reverse portrait
+ Reverse landscape
+ Unsupported video codec
+ Username:
+ Rejecting Jobs
+ ; 
+ Paper Type
+ Paper Source
+ Output Tray
+ Resolution
+ GhostScript pre-filtering
+ One Sided
+ Short Edge (Flip)
+ Miscellaneous
+ One Sided
+ Long Edge (Standard)
+ Top Bin
+ Middle Bin
+ Side Bin
+ Center Bin
+ Face Down Bin
+ High
+ Medium
+ Job Priority
+ Billing Info
+ Confidential
+ Secret
+ Standard
+ Unclassified
+ Pages per Sheet
+ Print at
+ Print at time
+ PDF
+ Pages per sheet:
+ Output to this directory instead of cwd
+ Generate debug output
+ APPLICATION [URI…] — launch an APPLICATION
+ Launch an application (specified by its desktop file name),\noptionally passing one or more URIs as arguments.
+ Don’t check for the existence of index.theme
+ Don’t include image data in the cache
+ Include image data in the cache
+ Output a C header file
+ Client for Cisco IPsec virtual private networks
+ Compatible with Cisco VPN concentrators configured to use IPsec.
+ The NetworkManager Developers
+ Group Password:
+ Authenticate VPN
+ Group Password:
+ Cisco Compatible VPN (vpnc)
+ Secure (default)
+ Weak (use with caution)
+ None (completely insecure)
+ Cisco (default)
+ Netscreen
+ NAT-T when available (default)
+ NAT-T always
+ Cisco UDP
+ DH Group 2 (default)
+ DH Group 5
+ vpnc does not support interactive requests
+ Could not use new secrets as interactive mode is disabled.
+ Could not process the request because the VPN connection settings were invalid.
+ nm-vpnc-service provides integrated Cisco Legacy IPsec VPN capability to NetworkManager.
+ General
+ Show passwords
+ Group password\nconfig: IPSec secret <grouppassword>
+ Group name\nconfig: IPSec ID <groupname>
+ User password
+ User name
+ Use hybrid authentication
+ Enable hybrid authentication, i.e. use certificate in addition to password.\nconfig: IKE Authmode hybrid
+ Advanced…
+ Identification
+ (NT-)Domain name for authentication\nconfig: Domain <domain>
+ Vendor
+ Version
+ Local port
+ IKE DH Group
+ NAT traversal
+ Local ISAKMP port to use (0 means random port; 500 is vpnc’s default)\nconfig: Local Port <0-65535>
+ Diffie-Hellman group to use for PFS\nconfig: Perfect Forward Secrecy <nopfs/dh1/dh2/dh5/server>
+ Name of the IKE DH group\nconfig: IKE DH Group <dh1/dh2/dh5>
+ NAT traversal method to use\nconfig: NAT Traversal Mode <natt/none/force-natt/cisco-udp>
+ Encryption method\nconfig: nothing for Secure, “Enable Single DES” for Weak, “Enable no encryption” for None
+ Encryption method
+ Videos
+ Play movies
+ Videos comes with added functionality such as a subtitle downloader, the ability to speed up or down playback, create screenshot galleries, and support for recording DVDs.
+ Video;Movie;Film;Clip;Series;Player;DVD;TV;Disc;Totem;
+ The contrast of the video
+ The saturation of the video
+ Whether to disable deinterlacing for interlaced movies
+ Type of audio output to use
+ Amount of data to buffer for network streams before starting to display the stream (in seconds).
+ Encoding character set for subtitle.
+ Default location for the “Open…” dialogs
+ Default location for the “Open…” dialogs. Default is the current directory.
+ Default location for the “Take Screenshot” dialogs
+ Whether to autoload text subtitle files when a movie is loaded
+ Active plugins list
+ A list of the names of the plugins which are currently active (loaded and running).
+ Directories to show
+ Stereo
+ 4-channel
+ Load subtitle files when movie is loaded
+ Select Subtitle Font
+ Plugins
+ Plugins…
+ General
+ Color Balance
+ Contrast:
+ Saturation:
+ Hue:
+ Audio output type:
+ Properties
+ Quit
+ Increase volume
+ Mute/unmute
+ View
+ Exit fullscreen
+ Rotate ↷
+ Play/Pause
+ Skip
+ Go forward 60 seconds
+ Step back one frame
+ Step forward one frame
+ Go back 5 seconds
+ Go back 3 minutes
+ Skip to…
+ Navigate up
+ Navigate down
+ Navigate left
+ Navigate right
+ Keyboard Shortcuts
+ Help
+ Add Local Video…
+ Aspect Ratio
+ Auto
+ 16∶9 (Widescreen)
+ 2.11∶1 (DVB)
+ Switch Angles
+ Eject
+ Subtitles
+ Select Text Subtitles…
+ Title Menu
+ Angle Menu
+ Speed
+ Enter the address of the file you would like to open:
+ Password requested for RTSP server
+ The source seems encrypted and can’t be read. Are you trying to play an encrypted DVD without libdvdcss?
+ The specified movie could not be found.
+ SSL/TLS support is missing. Check your installation.
+ The movie could not be read.
+ The file you tried to play is an empty file.
+ This stream cannot be played. It’s possible that a firewall is blocking it.
+ Some necessary plug-ins are missing. Make sure that the program is correctly installed.
+ --:--
+ Videos Preview
+ Filename
+ Duration
+ Browse Error
+ Search Error
+ Make sure that Totem is properly installed.
+ Click on items to select them
+ Back
+ Search
+ Audio Track
+ Subtitle
+ Auto
+ None
+ Play
+ Next Chapter/Movie
+ Totem could not startup.
+ Play/Pause
+ Previous
+ Mute sound
+ Toggle Fullscreen
+ Quit
+ Enqueue
+ Can’t enqueue and replace at the same time
+ Close
+ Delete
+ Arabic
+ Baltic
+ Chinese Simplified
+ Chinese Traditional
+ Croatian
+ Cyrillic/Russian
+ Greek
+ Hindi
+ Icelandic
+ Japanese
+ Persian
+ South European
+ Thai
+ Turkish
+ Vietnamese
+ Subtitle files
+ Select Text Subtitles
+ Set your Instant Messenger status to away when a movie is playing
+ MPRIS D-Bus Interface
+ Send notifications of currently-playing videos and allow remote control using MPRIS.
+ Open directory
+ Subtitle Downloader
+ Look for subtitles for the currently playing movie
+ Searching for subtitles…
+ Downloading the subtitles…
+ Could not contact the OpenSubtitles website
+ Could not contact the OpenSubtitles website.
+ No results found.
+ Format
+ Subtitle language:
+ Movie Properties
+ Adds movie properties menu item
+ Title:
+ Album:
+ Comment:
+ Container:
+ Dimensions:
+ Bitrate:
+ Channels:
+ Unknown
+ Unknown
+ Unknown
+ Unknown
+ N/A
+ N/A
+ N/A
+ N/A
+ 0 Hz
+ rpdb2 password
+ Python Console
+ Totem Python Console
+ Recent files
+ Rotation Plugin
+ Allows videos to be rotated if they are in the wrong orientation
+ Save a copy of the currently playing movie
+ “Files” is not available.
+ Movie
+ Deactivates the screen saver when a movie is playing
+ Playing a movie
+ Screenshot width (in pixels):
+ Calculate the number of screenshots
+ Number of screenshots:
+ Provides the “Skip to” dialog
+ secondmsgidplural seconds
+ Skip To
+ Skip To…
+ Normal
+ × 1.25
+ × 1.5
+ × 1.75
+ Variable Rate
+ Provides the variable rate menu item
+ Sets the user agent for the Vimeo site
+ Colorspace
+ Has Alpha
+ The number of bits per sample
+ Width
+ Rowstride
+ A pointer to the pixel data of the pixbuf
+ Pixel Bytes
+ Insufficient memory to save image to callback
+ Error writing to image stream
+ Whether the animation should loop when it reaches the end
+ Image header corrupt
+ Not enough memory to load animation
+ Malformed chunk in animation
+ BMP image has unsupported header size
+ Topdown BMP images cannot be compressed
+ Premature end-of-file encountered
+ Image is too wide for BMP format.
+ JPEG
+ TIFF
+ Couldn’t load metafile
+ Unsupported image format for GDI+
+ Couldn’t save
+ WMF
+ Not enough memory to load GIF file
+ File does not appear to be a GIF file
+ GIF file was missing some data (perhaps it was truncated somehow?)
+ GIF image was truncated or incomplete.
+ MacOS X icon
+ Compressed icons are not supported
+ Unsupported icon type
+ ICO image was truncated or incomplete.
+ Cursor hotspot outside image
+ Transformed JPEG has zero width or height.
+ Bits per channel of PNG image is invalid.
+ Bits per channel of transformed PNG is not 8.
+ Transformed PNG not RGB or RGBA.
+ Fatal error reading PNG image file
+ PNM file has an invalid width
+ PNM file has an invalid height
+ PNM file has an image height of 0
+ Raw PNM image type is invalid
+ PNM image loader does not support this PNM subformat
+ Raw PNM formats require exactly one whitespace before sample data
+ Input file descriptor is NULL.
+ Failed to read QTIF header
+ Failed to create GdkPixbufLoader object.
+ Cannot allocate colormap
+ Cannot allocate new pixbuf
+ Pseudocolor image does not contain a colormap
+ Cannot allocate TGA header memory
+ Cannot allocate memory for TGA context struct
+ Targa
+ Could not get image width (bad TIFF file)
+ Could not get image height (bad TIFF file)
+ Width or height of TIFF image is zero
+ Dimensions of TIFF image too large
+ Insufficient memory to open TIFF file
+ Failed to open TIFF image
+ Failed to load TIFF image
+ Failed to save TIFF image
+ TIFF compression doesn’t refer to a valid codec.
+ Failed to write TIFF data
+ XBM
+ No XPM header found
+ Invalid XPM header
+ XPM file has image width <= 0
+ XPM file has image height <= 0
+ Cannot allocate memory for loading XPM image
+ Cannot read XPM colormap
+ Mines
+ minesweeper;
+ Small board
+ Big board
+ The title of the tile theme to use.
+ Set to true to be able to mark squares as unknown.
+ Set to true to automatically flag squares as mined when enough squares are revealed
+ Set to false to disable theme-defined transition animations
+ Number of rows in a custom game
+ The number of mines in a custom game
+ Window and game
+ Start a new game
+ Restart game with current settings
+ Show Help
+ Open Menu
+ Show Keyboard Shortcuts
+ Quit
+ Game size selection
+ Game size: medium
+ In-game
+ Reveal field
+ Toggle field flag state
+ Width
+ Cancel
+ Pause
+ Change Difficulty
+ Paused
+ Print release version and exit
+ Medium game
+ Big game
+ Appearance
+ Help
+ About Mines
+ Minefield:
+ Keep Current Game
+ Start Over
+ Resume
+ Play Again
+ Clear explosive mines off the board
+ Select Theme
+ Grab just the current window, rather than the whole desktop. This key has been deprecated and it is no longer in use.
+ The directory where the screenshots will be saved by default.
+ Last save directory
+ The last directory a screenshot was saved in interactive mode.
+ Include ICC Profile
+ Include the ICC profile of the target in the screenshot file
+ Default file type extension
+ The default file type extension for screenshots.
+ Take a Screenshot of the Current Window
+ GNOME Screenshot
+ Cancel
+ Save
+ Folder:
+ Take Screenshot
+ Capture Area
+ Screen
+ Selection
+ 0
+ About Screenshot
+ Unable to capture a screenshot
+ Error creating file. Please choose another location and retry.
+ Error creating file
+ Screenshot taken
+ Grab an area of the screen instead of the entire screen
+ Remove the window border from the screenshot. This option is deprecated and window border is always included
+ Take screenshot after specified delay [in seconds]
+ Interactively set options
+ filename
+ Print version information and exit
+ Screenshot.png
+ Error loading the help page
+ Connected
+ Disconnect
+ Disconnected
+ UNKNOWN
+ more...
+ Property
+ Properties
+ Name
+ Property Name
+ Property Value
+ Info
+ Events
+ event timestamp
+ Queries
+ query type
+ Query of type: 
+ Offset
+ Data Size
+ Object path
+ Buffer of size 
+ Send data
+ message type
+ message timestamp
+ object
+ Level
+ Function
+ Message
+ Log level: 
+ Set threshold
+ Category
+ (press 'refresh' button)
+ unsupported type: 
+ Edit
+ Preferences...
+ Server
+ About...
+ Log messages
+ Bus messages
+ Clear
+ Copyright (C) 2015 Marcin Kolny <marcin.kolny@gmail.com>
+ Columns in row: 
+ IP Address:
+ GNOME Remote Desktop
+ status [--show-credentials] - Show current status\n\nOptions:\n --help - Print this help text\n
+ If set to 'true' the RDP backend will be initialized.
+ Screenshare mode of RDP connections
+ Path to the certificate file
+ In order to be able to use RDP with TLS Security, both the private key file and the certificate file need to be provided to the RDP server.
+ Path to the private key file
+ Only allow remote connections to view the screen content
+ Whether the VNC backend is enabled or not
+ Method used to authenticate VNC connections
+ Clock rotation
+ Out of [people] people, [brothers] have brothers, [sisters] have sisters and [both] have both. How many people have neither brothers nor sisters?
+ Password
+ Every digit has 10 possibilities. The total number of possibilities is 10 at the power of [digits].
+ Tennis game
+ Compound interest is paid on the principal plus any past interest accumulated.
+ What number plus [numa] equals [numb]?
+ It is the result of the operation [numb] - [numa].
+ What number minus [numa] equals [numb]?
+ What number multiplied by [numa] equals [numb]?
+ It is the result of the operation [numb] / [numa].
+ What number divided by [numa] equals [numb]?
+ It is the result of the operation [numa] * [numb].
+ Container
+ Box
+ Palindromic years
+ Dartboard
+ Only 3 of the 4 numbers in the dartboard are used to add 120 points.
+ Lever
+ Consider the sentence attributed to Archimedes: 'Give me a lever long enough and a place to stand and I can move the Earth'.
+ A lever is in equilibrium when the objects placed on it are at a distances reciprocally proportional to their weights.
+ Multiple number
+ [optionprefix] [optiona] and [optionc]
+ [optionprefix] [optiona] and [optionb]
+ [optionprefix] [optionb] and [optionc]
+ [optionprefix] [optionc] and [optiond]
+ [optiona] and [optionb]
+ [optionprefix] s > p
+ [optionprefix] p < r
+ [optionprefix] p > r
+ [optionprefix] q = s
+ [optionprefix] r < q
+ [optionprefix] x * y
+ [optionprefix] x * y * 2
+ [optionprefix] (x - y) * 2
+ The heavier truck weights [heavier] and the lighter [lighter].
+ Family relations
+ [optionprefix] His mother
+ His mother
+ John's mother's brother's brother-in-law is also? Do not assume that John has any relative that has not been mentioned. [optionanswers]
+ His father
+ The average of three numbers is [three]. The average of two of these numbers is [two]. What is the third number? [optionanswers]
+ It is the result of the operation: ([three] * 3) - ([two] * 2).
+ Birthday
+ [optionprefix] No
+ She was born 31st of December and she said this on 1st of January.
+ Direction
+ I go south on an evening when the sun shines. To which side of me will my shadow fall? [optionanswers]
+ [optionprefix] Behind me
+ If I go south then east is to my left and in the evening the shadow falls east.
+ Two men
+ Using the Pythagorean theorem, the solution is 2 by the square root of ([dista]^2 + [distb]^2).
+ Play games that challenge your logic, verbal, calculation and memory abilities
+ Classic
+ Notebook
+ Think of the items used in the game.
+ Tennis
+ Cycling
+ It is the only one that does not use a ball in the game.
+ Chicken / Parrot
+ Pony / Horse
+ Dog / Cat
+ Dog and horse are species and terrier and pony are breeds.
+ The word 'taxidermist' is used to define a person that?
+ Works with dead animals
+ Suffers a skin disease
+ Simplistic
+ Which of the following words is the closest in meaning to 'censure'?
+ Condemn
+ Hide
+ Ignore
+ Bohemian
+ Misunderstood
+ Which of the following sentences defines better an 'ostracized' person?
+ Person expelled from society
+ Conspirator
+ Which of the following words means fear of people?
+ Violin
+ Oboe
+ Sport
+ Column
+ It is the only one that is not related to architecture.
+ Kilometer
+ Hectogram
+ Gallon
+ Grape
+ It is the only one that is not a fruit.
+ Turtle
+ Crocodile
+ It is the only one that is not a reptile and also does not have a tail.
+ Tiger
+ Wolf
+ It is the only one that is not a carnivore.
+ Which of the following words is closest to the meaning of 'hedonism'?
+ Pain
+ Abstinence
+ Which of the following words is closest to the meaning of 'asceticism'?
+ Which of the following words is closest to the meaning of 'oxymoron'?
+ Synonym
+ Related
+ Lentils
+ Onion
+ Lychee
+ Olive
+ Carbon
+ Sodium
+ Zinc
+ Cardiology
+ Hematology
+ Psychiatry
+ Careless
+ Polite
+ It is the failure to take such care as may be rightfully or reasonably expected.
+ Regular
+ Occasional
+ Exceptional
+ Rare
+ The other words have the connotation of not occurring frequently.
+ Interesting
+ Which of the following words is closest to the meaning of 'unhappy'?
+ Unpleasant
+ Tears
+ Incredible
+ Famous
+ Celebrated
+ The other words have the meaning of distinguished.
+ Particular
+ Plate
+ Bottle
+ Amphora
+ Walnut
+ Chestnut
+ Commendation
+ Conjure
+ Which of the following words is closest to the meaning of 'grief'?
+ Lament
+ Calm
+ Clever
+ Proverb
+ Epigram
+ It is the only one that is not related to literature.
+ Curve
+ Hypotenuse
+ Lantern
+ Lamp
+ Shield
+ Armor
+ It is the only one that is not used for protection.
+ Monolith
+ Carrot
+ Radish
+ Organ
+ Piano
+ Accordion
+ It is the only instrument that does not have keys.
+ Cow
+ Leopard
+ Dog
+ Triangle
+ Pentagon
+ Which of the following words is the closest in meaning to 'intrinsic'?
+ Inherent
+ External
+ Precursory
+ Ambiguous
+ Rectangle
+ Square
+ Rhombus
+ car / garage | plane
+ Aircraft
+ Bunker
+ circle / semicircle | diameter
+ Tangent
+ Angle
+ The radius of a circle is half the diameter.
+ talk / yell | dislike
+ Repugnance
+ Offensive
+ Ostentation
+ write / pen | eat
+ Fork
+ Restaurant
+ Winery
+ A pen is used to write and a fork is used to eat.
+ Island
+ Coast
+ An oasis is an isolated area of vegetation in a desert and an island is a piece of isolated land that is surrounded by water.
+ Envelope
+ Printer
+ A turtle is inside a shell and a letter is inside an envelope.
+ wine / grape | rum
+ Grain
+ horticulture / plants | ornithology
+ Insects
+ thankful / ingratitude | despotism
+ Oligarchy
+ Homeless
+ Money
+ Decagon
+ Enneagram
+ Decimal
+ Solstice
+ Azimuth
+ Concert hall
+ Gym
+ hunter / rifle | photographer
+ Photography
+ dish / break | balloon
+ Burst
+ Roll
+ concept / idea | obsession
+ The relation between the two words is that they are synonymous.
+ Ship
+ Cage
+ rook / chess | soldier
+ Battle
+ Gun
+ Peace
+ Enemy
+ Cautious
+ pessimistic / optimistic | suspicious
+ Dubious
+ thermometer / temperature | compass
+ Area
+ The first word is the instrument and the second what it measures.
+ Metal
+ hungry / eat | tired
+ box / open | banana
+ shovel / dig | axe
+ chop
+ tear | rip
+ feet / two | toes
+ ten | 10
+ fish / aquarium | monkey
+ wings
+ fish / submarine | bird
+ tears / eyes | sweat
+ toy / play | tool
+ work
+ error / (to) correct | damage
+ vegetable
+ hands / grab | teeth
+ bite
+ eyebrow / eye | mustache
+ lip | upper lip | mouth
+ ice / slippery | glue
+ sticky
+ whirlpool / water | tornado
+ wind | air
+ nest
+ wild | savage
+ dance
+ slurp / tongue | snort
+ nose
+ elbow / knee | wrist
+ composer | songwriter | lyricist
+ track | railway | rails | railroad
+ coins | currency | money
+ thermometer / temperature | clock
+ time
+ letter / word | page
+ second
+ tiger / carnivore | cow
+ constellation / stars | archipelago
+ --help\t\t\tPrint this usage message.
+ --gamelist\t\t\tShows the list of available games.
+ --customgame [game1, gameN]\tSpecifies a list of games to play during a custom game.
+ MENSA works
+ You should have received a copy of the GNU General Public License along with this program; if not, see <http://www.gnu.org/licenses/>.
+ A brain teaser game for fun and to keep your brain trained.
+ Selected
+ All files
+ There was a problem generating the PDF file. The file has not been created.
+ The graph below shows the player's game score evolution.
+ Delete
+ Start
+ Unselect all
+ Save
+ <b>General Settings</b>
+ Skip games that use colors
+ <b>Game Types</b>
+ Logic
+ Verbal
+ Medium
+ Master
+ <b>Number of games</b>
+ Pages per side:
+ Show:
+ Preferences
+ Skip games that use colors (for colorblind users)
+ Time in seconds to memorize the challenge:
+ Show a countdown message
+ Minimum number of played games to store the game session:
+ Delete Player's Game Session History
+ Once you have an answer type it in the \Answer:\ entry box and press the \OK\ button.
+ Pause
+ Game
+ New Game
+ All Games (Logic, Mental Calculation, Memory and Verbal Analogies)
+ Custom Game Selection...
+ Pause Game
+ View
+ Show
+ Horizontal
+ Answer:
+ The following add-ins will be installed:
+ <big><b>Add-in Manager</b></big>
+ The following add-ins are currently installed:
+ Disable
+ Version
+ Author:
+ <b>Select the add-ins to install and click on Next</b>
+ Show updates only
+ Add-in Installation
+ Name
+ All registered repositories
+ Register an on-line repository
+ Select the location of the repository you want to register:
+ Register a local repository
+ Browse...
+ Path:
+ Installed
+ Updates
+ Repository:
+ Install from file...
+ No selection
+ No add-ins found
+ Refresh
+ Add-in packages
+ Install Add-in Package
+ All repositories
+ Manage Repositories...
+ Add-in Repository Management
+ Open Location
+ Paused
+ Play all the games
+ All
+ Play games that challenge your reasoning and thinking
+ Play games that challenge your short term memory
+ Play games that challenge your verbal aptitude
+ Pause or resume the game
+ End
+ yellow
+ white
+ A
+ C
+ D
+ E
+ F
+ Poor results
+ Do all the problems, even the difficult ones. Improvement comes from challenging yourself.
+ Play on a daily basis, you will notice progress soon.
+ Use the Settings to adjust the difficulty level of the game.
+ Grouping elements into categories is a common technique for remembering things.
+ Build acronyms using the first letter of each fact to be remembered.
+ The enjoyment obtained from a puzzle is proportional to the time spent on it.
+ Think of breaking down every problem into simpler components.
+ When answering verbal analogies pay attention to the verb tense.
+ When you go shopping, try to perform calculations without the use of a calculator.
+ Memorize the objects below in the given time
+ Time left
+ For details on how gbrainy's scoring works refer to the help.
+ Tips for your next games
+ Time
+ Verbal analogies. Challenge your verbal aptitude.
+ Arithmetical operations
+ Average
+ The average of a list of numbers is their sum divided by the number of numbers in the list.
+ Consecutive sum
+ Fractions
+ What is the result of the given operation? Answer using either a fraction or a number.
+ Greatest divisor
+ Possible divisors
+ Operators
+ Proportions
+ Ratio
+ A ratio specifies a proportion between two numbers. A ratio of a:b means that for every 'a' parts you have 'b' parts.
+ Two numbers
+ A cube is a regular solid object having six congruent square faces.
+ Using triangles only, how many triangles are needed in the right part of the last figure to keep it balanced?
+ Every circle is equivalent to two triangles and every square to three triangles.
+ Every circle is equivalent two triangles.
+ Circles in a square
+ Clocks
+ The clocks do not follow the time logic.
+ How many circles do you count?
+ It is an easy exercise if you systematically count the circles.
+ Counting
+ How many two digit numbers occur where the first digit is smaller than the second (e.g.: 12 and 13)?
+ Notice that 99 contains two numbers '9'.
+ What percentage of the figure is colored?
+ There are 2 of 6 possibilities.
+ There are 5 of 6 possibilities.
+ Two unmodified 6 sided dice are thrown simultaneously. What is the probability of getting two even numbers? Answer using a fraction (e.g.: 1/2).
+ In the last figure, in how many regions is the circle divided into when all dots are connected?
+ Equation
+ All circles share a common property except for one.
+ Figures and text
+ Figure pattern
+ Superpose the first and second figures and remove the lines that they have in common, then rotate the resulting figure 45 degrees.
+ Figures
+ Four sided
+ How many four sided figures do you count in the figure below?
+ One of the numbers in the grid must be circled. Which one?
+ All circled numbers share an arithmetical property.
+ From the top-left figure, the figure is rotated counterclockwise 90 degrees.
+ The fourth column is calculated by multiplying the first two columns and adding the third.
+ Try to imagine a situation in which you are meeting a small number of people.
+ Less curved is the arc, the larger the circle is.
+ How many line segments in total are in the figures below? A line segment is a line between two points with no crossing lines.
+ It is an easy exercise if you systematically count the lines.
+ Move figure
+ Move the circle from the first line to the second and move two circles from the fourth line to the second and the fifth lines.
+ Next figure
+ What number should replace the question mark?
+ The numbers are related arithmetically.
+ Numeric sequence
+ The next sequence follows a logic. What number should replace the question mark?
+ Every number in the sequence is the result of adding 1 to the previous number and multiplying it by 3.
+ Every number in the sequence is the result of subtracting 2 from the previous number and multiplying it by -2.
+ The criteria for deciding if an equation belongs to the group is not arithmetical.
+ People at a table
+ 5th
+ 19th
+ 4th
+ 12th
+ Some citizens of Barcelona are painters
+ All citizens of Barcelona are painters
+ No citizen of Barcelona is a painter
+ None of the other options
+ Some painters are not artists
+ All artists are happy
+ You do not have any map
+ All people have a map
+ You smile if you are happy
+ You are only happy if you whistle
+ Honesty is sometimes the best policy
+ Honesty is not always the best policy
+ Some of the best policies are dishonest
+ All the other options
+ Some bad pictures are not first attempts
+ All bad pictures are first attempts
+ No one feels better who does not go out for a walk
+ Predicate logic
+ Quadrilaterals
+ It is the only figure with all lines of equal length.
+ The number in the middle of every row is half of the sum of the other numbers in the row.
+ The letters around the squares follow a pattern. Which letter should replace the question mark in the last square?
+ There are 9 single squares, 4 squares made by 4 single squares and 1 square made by 9 single squares.
+ What is the minimum number of square sheets of paper of any size required to create the figure? Lines indicate frontiers between different sheets.
+ The sheets should overlap.
+ Time now
+ Sample clock
+ The distance formula is 'distance = rate x time'.
+ You can calculate the answer by multiplying the speed of the first train by the time and dividing it by the difference of speeds.
+ Triangles
+ How many triangles of any size do you count in the figure below?
+ Triangles with numbers
+ Which number should replace the question mark below?
+ All the triangles share a property and are independent of the rest.
+ Colored figures
+ Colored text
+ Counting dots
+ Memorize faces
+ In which cell is the other face like the one shown below? Answer the cell number.
+ Memorize facts
+ In what year did Shiny Cars last halt its production?
+ What percentage of all Shiny Cars produced worldwide are sold in Europe?
+ What percentage of Shiny Cars use diesel?
+ List of images shown before
+ Move down
+ Memorize indications
+ How many even numbers were in the previous image? Answer using numbers.
+ Memorize words
+ elbow
+ chest
+ cod
+ salmon
+ potato
+ pepper
+ garlic
+ pumpkin
+ brake
+ handlebar
+ drummer
+ speaker
+ beat
+ cloud
+ rabbit
+ mouse
+ wolf
+ How many degrees rotates the minute hand of a clock in 2 hours [num] minute?msgidplural How many degrees rotates the minute hand of a clock in 2 hours [num] minutes?
+ Orca Screen Reader
+ ???
+ alrt
+ anim
+ arw
+ cnv
+ cptn
+ dat
+ icn
+ frm
+ dlg
+ dip
+ html
+ draw
+ flr
+ fnt
+ gpn
+ hdng
+ lbl
+ mnu
+ mnuitm
+ optnpn
+ pgt
+ tblst
+ pwd
+ popmnu
+ btn
+ rdmnuitm
+ scbr
+ scpn
+ sctn
+ sldr
+ spin
+ statbr
+ tbl
+ cll
+ tomnuitm
+ term
+ tglbtn
+ tip
+ vwprt
+ hdr
+ app
+ edtbr
+ emb
+ Canada French Grade 2
+ France French Grade 2
+ Norwegian Grade 2
+ Arabic Grade 1
+ Welsh Grade 2
+ German Grade 0
+ German Grade 2
+ Hungarian 8 dot computer
+ Hungarian Grade 1
+ Belgium Dutch Grade 1
+ newline
+ exclaim
+ number
+ dollar
+ apostrophe
+ star
+ plus
+ comma
+ dot
+ less
+ equals
+ question
+ at
+ backslash
+ right bracket
+ inverted exclamation point
+ copyright
+ left double angle bracket
+ logical not
+ macron
+ degrees
+ superscript 2
+ superscript 3
+ acute
+ paragraph marker
+ middle dot
+ superscript 1
+ right double angle bracket
+ three fourths
+ inverted question mark
+ A GRAVE
+ A ACUTE
+ A CIRCUMFLEX
+ A TILDE
+ A UMLAUT
+ A RING
+ C CEDILLA
+ E GRAVE
+ E CIRCUMFLEX
+ E UMLAUT
+ I GRAVE
+ I ACUTE
+ I CIRCUMFLEX
+ ETH
+ O CIRCUMFLEX
+ O TILDE
+ O UMLAUT
+ O STROKE
+ U ACUTE
+ U CIRCUMFLEX
+ U UMLAUT
+ THORN
+ s sharp
+ a grave
+ a circumflex
+ a umlaut
+ i acute
+ i circumflex
+ eth
+ n tilde
+ o acute
+ o circumflex
+ divided by
+ thorn
+ y acute
+ Y UMLAUT
+ right single quote
+ dagger
+ triangular bullet
+ per mille
+ double prime
+ triple prime
+ hyphen bullet
+ trademark
+ heavy check mark
+ x-shaped bullet
+ superscript 0
+ superscript 4
+ superscript 9
+ superscript minus
+ superscript equals
+ superscript left paren
+ superscript right paren
+ superscript n
+ subscript 1
+ subscript 3
+ subscript 7
+ subscript 8
+ subscript minus
+ subscript left paren
+ subscript right paren
+ object replacement character
+ Speak entire window using flat review
+ Perform the basic Where Am I operation
+ Perform the detailed Where Am I operation
+ Speak the status bar
+ Open the Find dialog
+ Search for the next instance of a string
+ Search for the previous instance of a string
+ Enter and exit flat review mode
+ Move flat review to the end position
+ Move flat review to the beginning of the next line
+ Speak the current flat review item or word
+ Spell the current flat review item or word
+ Phonetically spell the current flat review item or word
+ Move flat review to the next item or word
+ Move flat review to the word above the current word
+ Speak the current flat review object
+ Move flat review to the word below the current word
+ Move flat review to the previous character
+ Speak the current flat review character
+ Speak unicode value of the current flat review character
+ Copy the contents under flat review to the clipboard
+ Append the contents under flat review to the clipboard
+ Read the attributes associated with the current text character
+ Pan the braille display to the right
+ Return to object with keyboard focus
+ Process a cursor routing key
+ Mark the beginning of a text selection
+ Enter learn mode. Press escape to exit learn mode
+ Decrease the speech pitch
+ Decrease the speech volume
+ Toggle the silencing of speech
+ Quit the screen reader
+ Cycle to the next settings profile
+ Cycle to the next capitalization style
+ Cycle to the next key echo level
+ Bookmark where am I with respect to current position
+ Go to previous bookmark location
+ Go to next bookmark location
+ Add bookmark
+ Save bookmarks
+ Toggle mouse review mode
+ Present current time
+ Present current date
+ Pass the next command on to the current application
+ Speak and braille a previous chat room message
+ Line Right
+ Line Up
+ Bottom Left
+ Cursor Position
+ Six Dots
+ Cursor Routing
+ Present last notification message
+ Present notification messages list
+ Go to next word
+ Go to previous word
+ Go to next line
+ Go to previous line
+ Go to the top of the file
+ Go to the bottom of the file
+ Go to the beginning of the line
+ Go to the end of the line
+ Go to the previous object
+ Advance live region politeness setting
+ Set default live region politeness level to off
+ Monitor live regions
+ Clear the dynamic row headers
+ Present the contents of the input line
+ Toggle structural navigation keys
+ Go to next blockquote
+ Go to next button
+ Go to next check box
+ Display a list of check boxes
+ Go to previous clickable
+ Go to next clickable
+ Go to previous combo box
+ Go to end of container
+ Go to next entry
+ Display a list of entries
+ Go to next heading
+ Go to previous landmark
+ Display a list of landmarks
+ Go to previous large object
+ Go to previous link
+ Go to previous list
+ Go to next list
+ Go to previous list item
+ Go to next list item
+ Go to next live region
+ Go to previous paragraph
+ Go to next paragraph
+ Go to previous radio button
+ Go to next radio button
+ Go to previous separator
+ Go to next table
+ Go to the first cell in a table
+ Go left one cell
+ Go right one cell
+ Toggle layout mode
+ Switch between browse mode and focus mode
+ Go to next visited link
+ Display a list of visited links
+ alice blue
+ aquamarine
+ blanched almond
+ blue
+ blue violet
+ brown
+ burlywood
+ cadet blue
+ chartreuse
+ chocolate
+ coral
+ dark blue
+ dark goldenrod
+ dark khaki
+ dark magenta
+ dark salmon
+ dark slate blue
+ dark violet
+ deep pink
+ dodger blue
+ fire brick
+ floral white
+ forest green
+ fuchsia
+ gold
+ goldenrod
+ green
+ indian red
+ khaki
+ lawn green
+ light blue
+ light coral
+ light cyan
+ light goldenrod yellow
+ light pink
+ light sea green
+ light slate gray
+ light yellow
+ linen
+ maroon
+ medium blue
+ medium orchid
+ medium sea green
+ medium spring green
+ medium violet red
+ midnight blue
+ misty rose
+ moccasin
+ navajo white
+ navy
+ orange
+ pale turquoise
+ peru
+ plum
+ purple
+ rosy brown
+ royal blue
+ saddle brown
+ salmon
+ seashell
+ silver
+ snow
+ thistle
+ tomato
+ turquoise
+ violet
+ wheat
+ white
+ white smoke
+ yellow
+ Dot 7
+ Dots 7 and 8
+ Jump to
+ OK
+ Icon
+ None
+ Spell
+ Speak messages from
+ Speak Chat Room name
+ double click
+ Default Synthesizer
+ Replacement String
+ Find Options
+ Speak results during find
+ Unbound
+ Modified
+ Desktop
+ Speak
+ Save Profile As Conflict
+ Load user profile
+ Remove user profile
+ All
+ Some
+ Most
+ Button
+ Caption
+ Check Box
+ Combo Box
+ Description
+ Label
+ Level
+ Link
+ List
+ List Item
+ URI
+ Blockquotes
+ Buttons
+ Entries
+ Form Fields
+ Images
+ Unvisited Links
+ Visited Links
+ Page Navigation
+ Default
+ System
+ Speech Dispatcher
+ Spell Check
+ Present context of error
+ Skip blank cells
+ Speak cell
+ Speak cell coordinates
+ Attribute Name
+ Enable structural navigation
+ Brief
+ Shift
+ Control
+ left shift
+ left alt
+ left control
+ right alt
+ right meta
+ num lock
+ caps lock
+ shift lock
+ scroll lock
+ page up
+ page down
+ left tab
+ return
+ up
+ down
+ right super
+ Alt Gr
+ help
+ mode switch
+ insert
+ home
+ end
+ minus
+ Insert
+ AltL
+ Ctrl
+ Shift
+ down arrow
+ north east arrow
+ south east arrow
+ up double arrow
+ right double arrow
+ left right double arrow
+ south east double arrow
+ minus
+ circumflex
+ háček
+ dot
+ double vertical line
+ for all
+ complement
+ partial differential
+ there exists
+ empty set
+ nabla
+ element of
+ not an element of
+ small element of
+ minus or plus
+ dot plus
+ asterisk operator
+ square root
+ cube root
+ infinity
+ angle
+ measured angle
+ spherical angle
+ divides
+ does not divide
+ parallel to
+ logical or
+ contour integral
+ surface integral
+ volume integral
+ therefore
+ because
+ excess
+ geometric proportion
+ reversed tilde
+ asymptotically equal to
+ not asymptotically equal to
+ approximately equal to
+ approximately but not actually equal to
+ not almost equal to
+ almost equal or equal to
+ triple tilde
+ approaches the limit
+ geometrically equal to
+ approximately equal to or the image of
+ equals colon
+ ring in equal to
+ ring equal to
+ corresponds to
+ equiangular to
+ measured by
+ identical to
+ strictly equivalent to
+ less than or equal to
+ less than over equal to
+ greater than over equal to
+ greater than but not equal to
+ much less than
+ much greater than
+ not equivalent to
+ greater than or equivalent to
+ neither greater than nor equivalent to
+ less than or greater than
+ greater than or less than
+ neither less than nor greater than
+ neither greater than nor less than
+ precedes
+ precedes or equal to
+ succeeds or equal to
+ precedes or equivalent to
+ does not precede
+ subset of
+ superset of
+ not a superset of
+ subset of or equal to
+ superset of or equal to
+ neither a subset of nor equal to
+ superset of with not equal to
+ square image of
+ square original of
+ square image of or equal to
+ square original of or equal to
+ square cup
+ circled plus
+ circled division slash
+ circled asterisk operator
+ circled dash
+ squared dot operator
+ down tack
+ models
+ forces
+ triple vertical bar right turnstile
+ double vertical bar double right turnstile
+ not true
+ does not force
+ negated double vertical bar double right turnstile
+ precedes under relation
+ succeeds under relation
+ normal subgroup of
+ image of
+ multimap
+ hermitian conjugate matrix
+ intercalate
+ xor
+ nand
+ diamond operator
+ dot operator
+ left normal factor semidirect product
+ left semidirect product
+ reversed tilde equals
+ curly logical or
+ double subset
+ double intersection
+ pitchfork
+ equal and parallel to
+ less than with dot
+ greater than with dot
+ greater than equal to or less than
+ equal to or less than
+ equal to or precedes
+ does not precede or equal
+ does not succeed or equal
+ not square image of or equal to
+ less than but not equivalent to
+ succeeds but not equivalent to
+ does not contain as normal subgroup
+ not normal subgroup of or equal to
+ vertical ellipsis
+ midline horizontal ellipsis
+ up right diagonal ellipsis
+ element of with long horizontal stroke
+ element of with vertical bar at end of horizontal stroke
+ small element of with overbar
+ element of with two horizontal strokes
+ contains with long horizontal stroke
+ contains with vertical bar at end of horizontal stroke
+ contains with overbar
+ small contains with overbar
+ z notation bag membership
+ left ceiling
+ right ceiling
+ right floor
+ right angle bracket
+ white circle
+ black circle
+ blank
+ bookmark entered
+ bookmarks could not be saved
+ icon
+ none
+ The screen reader is controlling the caret.
+ Force use of option
+ OPTION
+ Optional arguments
+ The following are not valid: 
+ Print the known running applications
+ Load profile
+ NAME
+ Replace a currently running instance of this screen reader
+ Show this help message and exit
+ Send debug output to debug-YYYY-MM-DD-HH:MM:SS.out
+ Send debug output to the specified file
+ FILE
+ Set up user preferences (text version)
+ Set up user preferences (GUI version)
+ Report bugs to orca-list@gnome.org.
+ Cut selection to clipboard.
+ cut
+ Copied selection to clipboard.
+ copied
+ pasted
+ announce when your buddies are typing.
+ Do not speak chat room name.
+ speak chat room name.
+ Do not provide chat room specific message histories.
+ deletion start
+ insertion start
+ insertion end
+ highlight start
+ highlight end
+ suggestion end
+ End of container.
+ Not in a container.
+ all items selected
+ entire document selected
+ document selected to cursor position
+ document unselected to cursor position
+ Dynamic column header cleared.
+ Dynamic row header cleared.
+ empty
+ No files found.
+ Appended contents to clipboard.
+ Copied contents to clipboard.
+ Not using flat review.
+ Leaving flat review.
+ opens listbox
+ opens tree
+ image map link
+ enter new key
+ key
+ Echo set to key.
+ Echo set to None.
+ key and word
+ Echo set to key and word.
+ sentence
+ Echo set to sentence.
+ word
+ Echo set to word.
+ Echo set to word and sentence.
+ an actuarial symbol
+ a long division sign
+ a vertical strike
+ an up diagonal strike
+ a northeast arrow
+ a line on the left
+ over
+ cube root of
+ root of
+ root start
+ subscript
+ pre-subscript
+ pre-superscript
+ overscript
+ nested table end
+ Enabled
+ Learn mode. Press escape to exit.
+ leaving complementary content.
+ leaving information.
+ leaving main content.
+ leaving navigation.
+ leaving region.
+ leaving table.
+ leaving chapter.
+ leaving colophon.
+ leaving credit.
+ leaving credits.
+ leaving endnotes.
+ leaving epigraph.
+ leaving example.
+ leaving index.
+ leaving page list.
+ leaving part.
+ leaving prologue.
+ leaving suggestion.
+ line selected up from cursor position
+ line unselected down from cursor position
+ Exiting learn mode.
+ line selected from start to previous cursor position
+ line selected to end from previous cursor position
+ link
+ same page
+ same site
+ Use Up and Down Arrow to navigate the list. Press Escape to exit.
+ All live regions set to off
+ setting live region to assertive
+ setting live region to polite
+ setting live region to rude
+ Live regions monitoring off
+ no live message saved
+ Live region support is off
+ off
+ on
+ misspelled
+ Browse mode is sticky.
+ Layout mode.
+ Object mode.
+ Mouse over object not found.
+ Mouse review enabled.
+ No focus
+ No more buttons.
+ No more check boxes.
+ No more combo boxes.
+ No more entries.
+ No more images.
+ No more links.
+ No more paragraphs.
+ No more radio buttons.
+ No more tables.
+ No more unvisited links.
+ Not on a link.
+ Bottom
+ Exiting list notification messages mode.
+ Top
+ Press h for help.\n
+ No notification messages
+ digits
+ on
+ Loading. Please wait.
+ Finished loading.
+ page selected from cursor position
+ page selected to cursor position
+ paragraph selected up from cursor position
+ paragraph unselected down from cursor position
+ You already have an instance of an Orca preferences dialog open.\nPlease close it before opening a new one.
+ All
+ Punctuation level set to all.
+ Punctuation level set to none.
+ Punctuation level set to some.
+ Search complete.
+ Selection restored.
+ faster.
+ slower.
+ higher.
+ lower.
+ louder.
+ Verbosity level: verbose
+ Screen reader on.
+ Speech is unavailable.
+ Not found
+ Structural navigation keys on.
+ Speak cell
+ Speak row
+ Non-uniform
+ Columns reordered
+ Top of column.
+ Row deleted.
+ Last row deleted.
+ selected
+ unselected
+ %H hours, %M minutes and %S seconds
+ undo
+ 0 items
+ figure
+ acknowledgments
+ appendix
+ colophon
+ conclusion
+ cover
+ credit
+ credits
+ epigraph
+ errata
+ example
+ foreword
+ glossary
+ introduction
+ part
+ QNA
+ table of contents
+ vertical scroll bar
+ switch
+ Icon panel
+ navigation
+ region
+ menu button
+ sorted descending
+ vertical
+ checked
+ not checked
+ on
+ partially checked
+ not selected
+ selected
+ not selected
+ not selected
+ visited
+ unvisited
+ grayed
+ rdonly
+ multi-select
+ invalid
+ invalid spelling
+ spelling
+ invalid grammar
+ Find
+ Close
+ Find
+ Search for:
+ Start from:
+ Search backwards
+ Search direction:
+ Match case
+ Options:
+ System
+ Window
+ Screen Reader Preferences
+ Apply
+ Start-up Profile:
+ Load
+ Present tooltips
+ Speak object under mouse
+ Mouse
+ Time format:
+ Braille updates
+ Frequency (secs):
+ Applies to:
+ Enable rewind and fast forward in Say All
+ Announce blockquotes in Say All
+ Announce lists in Say All
+ Announce tables in Say All
+ Announce forms in Say All
+ Say All
+ General
+ Volume:
+ Rate:
+ Person:
+ Language:
+ Speech system:
+ Voice type:
+ Capitalization style:
+ Voice Type Settings
+ Speak multicase strings as words
+ Enable speech
+ Verbosity
+ Announce blockquotes during navigation
+ Announce tables during navigation
+ Announce landmarks during navigation
+ Speak description
+ Speak full row in spreadsheets
+ Contraction Table:
+ Display Settings
+ Enable flash messages
+ Messages are detailed
+ Flash Message Settings
+ Braille
+ Enable key echo
+ Enable alphabetic keys
+ Enable punctuation keys
+ Enable space
+ Enable navigation keys
+ Echo
+ Key Bindings
+ Pronunciation Dictionary
+ Pronunciation
+ Speak all
+ Speak none
+ Reset
+ Text attributes
+ Move to bottom
+ Adjust selected attribute
+ background color
+ background full height
+ background stipple
+ direction
+ editable
+ foreground stipple
+ mistake
+ invisible
+ justification
+ language
+ pixels above lines
+ pixels inside wrap
+ right margin
+ strike through
+ style
+ text decoration
+ text shadow
+ underline
+ variant
+ wrap mode
+ writing mode
+ false
+ none
+ engrave
+ emboss
+ overline
+ blink
+ black
+ char
+ word
+ word char
+ left
+ no justification
+ fill
+ ultra condensed
+ extra condensed
+ normal
+ semi expanded
+ small caps
+ oblique
+ italic
+ Default
+ Text body
+ Heading
+ baseline
+ super
+ top
+ middle
+ bottom
+ text-bottom
+ lr-tb
+ rl-tb
+ bt-lr
+ lr
+ rl
+ tb
+ solid
+ To move to items, use either the arrow keys or type ahead searching.
+ To collapse, press shift plus left.
+ To activate press space.
+ Use up or down arrow to select value. Or type in the desired numerical value.
+ To navigate, press left or right arrow. To move through items press up or down arrow.
